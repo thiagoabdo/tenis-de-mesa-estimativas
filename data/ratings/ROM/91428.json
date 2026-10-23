@@ -1,0 +1,43 @@
+{
+  "associate_id": 91428,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91428&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T15:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 223,
+      "delta": -18,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE GOLFETTO"
+    },
+    {
+      "played_at": "2026-03-14T14:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 235,
+      "delta": -12,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THALES NUNES"
+    },
+    {
+      "played_at": "2026-03-14T11:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -15,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IGOR RODRIGUES ............."
+    }
+  ]
+}

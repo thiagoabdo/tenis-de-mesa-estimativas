@@ -1,0 +1,463 @@
+{
+  "associate_id": 87690,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87690&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T10:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 698,
+      "delta": -33,
+      "final": 665,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAPHAEL SOUZA"
+    },
+    {
+      "played_at": "2026-09-26T08:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 725,
+      "delta": -27,
+      "final": 698,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TIAGO LEMES"
+    },
+    {
+      "played_at": "2026-08-22T11:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 725,
+      "delta": 0,
+      "final": 725,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAMUEL SILVA"
+    },
+    {
+      "played_at": "2026-08-22T09:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 734,
+      "delta": -9,
+      "final": 725,
+      "score": [
+        0,
+        4
+      ],
+      "opponent": "LORENZO HORST"
+    },
+    {
+      "played_at": "2026-08-15T19:45:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 761,
+      "delta": -27,
+      "final": 734,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO SMANIOTTO"
+    },
+    {
+      "played_at": "2026-08-15T18:55:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 824,
+      "delta": -63,
+      "final": 761,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LEONARDO INOUE"
+    },
+    {
+      "played_at": "2026-08-15T11:00:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 824,
+      "delta": 0,
+      "final": 824,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EGON LOVATO"
+    },
+    {
+      "played_at": "2026-08-15T10:35:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 1022,
+      "delta": -198,
+      "final": 824,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALEXSANDER CAMPOS"
+    },
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 1046,
+      "delta": -24,
+      "final": 1022,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WALLACE MIRANDA"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 1073,
+      "delta": -27,
+      "final": 1046,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR ISHII"
+    },
+    {
+      "played_at": "2026-06-27T17:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 1109,
+      "delta": -36,
+      "final": 1073,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WALLACE MIRANDA"
+    },
+    {
+      "played_at": "2026-06-27T14:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 1088,
+      "delta": 21,
+      "final": 1109,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO MACHADO"
+    },
+    {
+      "played_at": "2026-06-27T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 1100,
+      "delta": -12,
+      "final": 1088,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUAN MONTEIRO"
+    },
+    {
+      "played_at": "2026-05-23T08:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1136,
+      "delta": -36,
+      "final": 1100,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PEDRO FERREIRA"
+    },
+    {
+      "played_at": "2026-05-22T17:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1136,
+      "delta": 0,
+      "final": 1136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS SOUZA"
+    },
+    {
+      "played_at": "2026-05-21T17:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1496,
+      "delta": -360,
+      "final": 1136,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS AZEVEDO"
+    },
+    {
+      "played_at": "2026-05-21T16:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 956,
+      "delta": 540,
+      "final": 1496,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIS RIBEIRO"
+    },
+    {
+      "played_at": "2026-05-21T15:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 884,
+      "delta": 72,
+      "final": 956,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PEDRO FERNANDES"
+    },
+    {
+      "played_at": "2026-05-21T14:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 344,
+      "delta": 540,
+      "final": 884,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR ARNDT"
+    },
+    {
+      "played_at": "2026-05-09T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 377,
+      "delta": -33,
+      "final": 344,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FAUSTO OCHIRO"
+    },
+    {
+      "played_at": "2026-04-18T18:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 386,
+      "delta": -9,
+      "final": 377,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANI JUNIOR"
+    },
+    {
+      "played_at": "2026-04-18T18:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 359,
+      "delta": 27,
+      "final": 386,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL GONÇALVES"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 338,
+      "delta": 21,
+      "final": 359,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR SCHÄFFER"
+    },
+    {
+      "played_at": "2026-04-18T08:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 314,
+      "delta": 24,
+      "final": 338,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIO RIVILI"
+    },
+    {
+      "played_at": "2025-12-14T10:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 354,
+      "delta": -40,
+      "final": 314,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EWILSON PEREIRA"
+    },
+    {
+      "played_at": "2025-12-13T19:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 304,
+      "delta": 50,
+      "final": 354,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIO MANSO"
+    },
+    {
+      "played_at": "2025-12-13T17:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 304,
+      "delta": 0,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VIGO CHRISTOPHERSEN"
+    },
+    {
+      "played_at": "2025-12-12T18:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 384,
+      "delta": -80,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RÔMULO SILVA"
+    },
+    {
+      "played_at": "2025-12-12T17:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 384,
+      "delta": 0,
+      "final": 384,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAIO COSTA"
+    },
+    {
+      "played_at": "2025-12-12T13:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 384,
+      "delta": 0,
+      "final": 384,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EFRAIM VIEIRA"
+    },
+    {
+      "played_at": "2025-12-11T19:32:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 504,
+      "delta": -120,
+      "final": 384,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS YU"
+    },
+    {
+      "played_at": "2025-12-11T05:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 434,
+      "delta": 70,
+      "final": 504,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CESAR MELO"
+    },
+    {
+      "played_at": "2025-12-11T04:59:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 314,
+      "delta": 120,
+      "final": 434,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CARLOS AZEVEDO"
+    },
+    {
+      "played_at": "2025-09-13T18:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 330,
+      "delta": -16,
+      "final": 314,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BENJAMIM REFUNDINI"
+    },
+    {
+      "played_at": "2025-09-13T16:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 306,
+      "delta": 24,
+      "final": 330,
+      "score": [
+        4,
+        1
+      ],
+      "opponent": "NATHAN SILVA"
+    },
+    {
+      "played_at": "2025-09-13T13:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 290,
+      "delta": 16,
+      "final": 306,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL VIGNOLA"
+    },
+    {
+      "played_at": "2025-09-13T10:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 278,
+      "delta": 12,
+      "final": 290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI MARCARINI"
+    },
+    {
+      "played_at": "2025-09-13T08:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 250,
+      "delta": 28,
+      "final": 278,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITOR SANTOS ............."
+    }
+  ]
+}

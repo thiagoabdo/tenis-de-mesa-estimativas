@@ -1,0 +1,4699 @@
+{
+  "associate_id": 89,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T15:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 426,
+      "delta": -66,
+      "final": 360,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BERNARDO LIONÇO"
+    },
+    {
+      "played_at": "2026-09-20T10:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 402,
+      "delta": 24,
+      "final": 426,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL ALMEIDA"
+    },
+    {
+      "played_at": "2026-09-20T08:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 486,
+      "delta": -84,
+      "final": 402,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS SCHMITT"
+    },
+    {
+      "played_at": "2026-09-19T18:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 444,
+      "delta": 42,
+      "final": 486,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2026-09-19T16:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 384,
+      "delta": 60,
+      "final": 444,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSMAR KNEBEL"
+    },
+    {
+      "played_at": "2026-09-19T15:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 384,
+      "delta": 0,
+      "final": 384,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2026-09-19T11:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 342,
+      "delta": 42,
+      "final": 384,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELSON CARDOSO"
+    },
+    {
+      "played_at": "2026-07-04T10:30:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Vale Real/RS - 2026",
+      "initial": 354,
+      "delta": -12,
+      "final": 342,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "CARLOS OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-01T15:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 354,
+      "delta": 0,
+      "final": 354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2026-03-01T13:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 324,
+      "delta": 30,
+      "final": 354,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NILSON AQUINO"
+    },
+    {
+      "played_at": "2026-03-01T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 330,
+      "delta": -6,
+      "final": 324,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 357,
+      "delta": -27,
+      "final": 330,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2025-12-12T11:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 357,
+      "delta": 0,
+      "final": 357,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO SILVA"
+    },
+    {
+      "played_at": "2025-12-12T10:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 407,
+      "delta": -50,
+      "final": 357,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KEIITI SUGUIMATI"
+    },
+    {
+      "played_at": "2025-10-19T17:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 411,
+      "delta": -4,
+      "final": 407,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2025-10-19T16:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 403,
+      "delta": 8,
+      "final": 411,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2025-10-19T14:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 383,
+      "delta": 20,
+      "final": 403,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2025-10-19T13:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 385,
+      "delta": -2,
+      "final": 383,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2025-09-28T17:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 389,
+      "delta": -4,
+      "final": 385,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2025-09-28T15:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 377,
+      "delta": 12,
+      "final": 389,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALCIONE SANTOS"
+    },
+    {
+      "played_at": "2025-09-28T13:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 383,
+      "delta": -6,
+      "final": 377,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2025-08-24T11:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 438,
+      "delta": -55,
+      "final": 383,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL AMORIM"
+    },
+    {
+      "played_at": "2025-08-24T09:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 493,
+      "delta": -55,
+      "final": 438,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2025-08-23T19:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 493,
+      "delta": 0,
+      "final": 493,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO SILVA"
+    },
+    {
+      "played_at": "2025-08-23T19:00:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 378,
+      "delta": 115,
+      "final": 493,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SILVIO MIZOGUCHI"
+    },
+    {
+      "played_at": "2025-08-23T16:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 378,
+      "delta": 0,
+      "final": 378,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO SILVA"
+    },
+    {
+      "played_at": "2025-08-23T15:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 278,
+      "delta": 100,
+      "final": 378,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELSON CARDOSO"
+    },
+    {
+      "played_at": "2025-07-27T15:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 260,
+      "delta": 18,
+      "final": 278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS SCHMIDT"
+    },
+    {
+      "played_at": "2025-07-27T14:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 262,
+      "delta": -2,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2025-07-27T13:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 284,
+      "delta": -22,
+      "final": 262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ENIO BARBOSA"
+    },
+    {
+      "played_at": "2025-07-27T13:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 284,
+      "delta": 0,
+      "final": 284,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2025-07-26T17:17:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Santa Maria/RS - 2025.",
+      "initial": 304,
+      "delta": -20,
+      "final": 284,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FRANCO MARQUES"
+    },
+    {
+      "played_at": "2025-07-26T16:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 332,
+      "delta": -28,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICHIELI VIDOR"
+    },
+    {
+      "played_at": "2025-07-26T15:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 352,
+      "delta": -20,
+      "final": 332,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIO BRUM"
+    },
+    {
+      "played_at": "2025-07-26T11:16:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Santa Maria/RS - 2025.",
+      "initial": 342,
+      "delta": 10,
+      "final": 352,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ CABRAL"
+    },
+    {
+      "played_at": "2025-03-23T13:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 348,
+      "delta": -6,
+      "final": 342,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2025-03-23T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 348,
+      "delta": 0,
+      "final": 348,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2024-12-13T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 378,
+      "delta": -30,
+      "final": 348,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2024-12-13T14:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 388,
+      "delta": -10,
+      "final": 378,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SERGIO KAIO"
+    },
+    {
+      "played_at": "2024-12-12T02:27:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Equipes de Clubes",
+      "initial": 388,
+      "delta": 0,
+      "final": 388,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2024-12-11T23:12:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Seleção Estadual",
+      "initial": 388,
+      "delta": 0,
+      "final": 388,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADEMIR ROSSI"
+    },
+    {
+      "played_at": "2024-12-11T05:36:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Seleção Estadual",
+      "initial": 438,
+      "delta": -50,
+      "final": 388,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GERALDO OLBERTZ"
+    },
+    {
+      "played_at": "2024-11-17T15:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 458,
+      "delta": -20,
+      "final": 438,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE DAMBROS"
+    },
+    {
+      "played_at": "2024-11-17T11:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 413,
+      "delta": 45,
+      "final": 458,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDO SILVA"
+    },
+    {
+      "played_at": "2024-11-17T10:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 448,
+      "delta": -35,
+      "final": 413,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LEONARDO MARTINS"
+    },
+    {
+      "played_at": "2024-11-16T17:00:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 488,
+      "delta": -40,
+      "final": 448,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2024-11-16T15:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 513,
+      "delta": -25,
+      "final": 488,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2024-11-16T13:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 488,
+      "delta": 25,
+      "final": 513,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SÉRGIO SHIRO"
+    },
+    {
+      "played_at": "2024-09-29T16:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 478,
+      "delta": 10,
+      "final": 488,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2024-09-29T15:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 484,
+      "delta": -6,
+      "final": 478,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2024-09-29T14:40:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 476,
+      "delta": 8,
+      "final": 484,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ CABRAL"
+    },
+    {
+      "played_at": "2024-09-29T13:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 494,
+      "delta": -18,
+      "final": 476,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2024-09-28T16:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 504,
+      "delta": -10,
+      "final": 494,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI SANTOS"
+    },
+    {
+      "played_at": "2024-09-28T15:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 512,
+      "delta": -8,
+      "final": 504,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2024-09-28T14:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2024.",
+      "initial": 516,
+      "delta": -4,
+      "final": 512,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO MARTINS"
+    },
+    {
+      "played_at": "2024-08-25T13:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": 538,
+      "delta": -22,
+      "final": 516,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2024-08-25T12:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": 560,
+      "delta": -22,
+      "final": 538,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2024-03-24T15:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2024.",
+      "initial": 544,
+      "delta": 16,
+      "final": 560,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2024-03-24T14:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2024.",
+      "initial": 568,
+      "delta": -24,
+      "final": 544,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2024-03-24T13:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2024.",
+      "initial": 560,
+      "delta": 8,
+      "final": 568,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSMAR KNEBEL"
+    },
+    {
+      "played_at": "2023-12-16T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 560,
+      "delta": 0,
+      "final": 560,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO SILVA"
+    },
+    {
+      "played_at": "2023-12-16T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 580,
+      "delta": -20,
+      "final": 560,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2023-12-16T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 350,
+      "delta": 230,
+      "final": 580,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2023-12-15T19:02:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Equipes de Clubes.",
+      "initial": 430,
+      "delta": -80,
+      "final": 350,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE NISHITANI"
+    },
+    {
+      "played_at": "2023-12-15T16:01:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Equipes de Clubes.",
+      "initial": 430,
+      "delta": 0,
+      "final": 430,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO SILVA"
+    },
+    {
+      "played_at": "2023-12-14T16:04:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Seleção Estadual.",
+      "initial": 440,
+      "delta": -10,
+      "final": 430,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO SILVA"
+    },
+    {
+      "played_at": "2023-12-14T13:02:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Seleção Estadual.",
+      "initial": 450,
+      "delta": -10,
+      "final": 440,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2023-11-04T19:00:00",
+      "event": "TMB Challenger Plus – 22ª Edição – Concórdia/SC – 2023",
+      "initial": 395,
+      "delta": 55,
+      "final": 450,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TAKASHI ANEGAWA"
+    },
+    {
+      "played_at": "2023-11-04T18:35:00",
+      "event": "TMB Challenger Plus – 22ª Edição – Concórdia/SC – 2023",
+      "initial": 280,
+      "delta": 115,
+      "final": 395,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2023-11-04T18:10:00",
+      "event": "TMB Challenger Plus – 22ª Edição – Concórdia/SC – 2023",
+      "initial": 280,
+      "delta": 0,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2023-11-04T17:45:00",
+      "event": "TMB Challenger Plus – 22ª Edição – Concórdia/SC – 2023",
+      "initial": 290,
+      "delta": -10,
+      "final": 280,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "IVO SOLANHO"
+    },
+    {
+      "played_at": "2023-10-21T17:00:00",
+      "event": "TMB Challenger Plus - 20ª Edição - Caxias do Sul/RS - 2023 - Olímpico",
+      "initial": 300,
+      "delta": -10,
+      "final": 290,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "IVO SOLANHO"
+    },
+    {
+      "played_at": "2023-10-21T15:30:00",
+      "event": "TMB Challenger Plus - 20ª Edição - Caxias do Sul/RS - 2023 - Olímpico",
+      "initial": 325,
+      "delta": -25,
+      "final": 300,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2023-10-21T14:00:00",
+      "event": "TMB Challenger Plus - 20ª Edição - Caxias do Sul/RS - 2023 - Olímpico",
+      "initial": 405,
+      "delta": -80,
+      "final": 325,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SÉRGIO SHIRO"
+    },
+    {
+      "played_at": "2023-10-01T19:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Vale Real/RS - 2023",
+      "initial": 391,
+      "delta": 14,
+      "final": 405,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2023-10-01T17:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Vale Real/RS - 2023",
+      "initial": 411,
+      "delta": -20,
+      "final": 391,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2023-10-01T14:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Vale Real/RS - 2023",
+      "initial": 413,
+      "delta": -2,
+      "final": 411,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2023-10-01T08:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Vale Real/RS - 2023",
+      "initial": 431,
+      "delta": -18,
+      "final": 413,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CRISTIAN FRIGOTTO"
+    },
+    {
+      "played_at": "2023-08-06T11:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 451,
+      "delta": -20,
+      "final": 431,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VINICIUS YANO"
+    },
+    {
+      "played_at": "2023-08-06T09:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 521,
+      "delta": -70,
+      "final": 451,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MATIAS SUAREZ"
+    },
+    {
+      "played_at": "2023-08-05T19:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 486,
+      "delta": 35,
+      "final": 521,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELSON CARDOSO"
+    },
+    {
+      "played_at": "2023-08-05T18:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 506,
+      "delta": -20,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2023-08-05T16:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 451,
+      "delta": 55,
+      "final": 506,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2023-08-05T13:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 466,
+      "delta": -15,
+      "final": 451,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2023-06-18T15:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 480,
+      "delta": -14,
+      "final": 466,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2023-06-18T12:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 474,
+      "delta": 6,
+      "final": 480,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAIR FILHO"
+    },
+    {
+      "played_at": "2023-06-18T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 478,
+      "delta": -4,
+      "final": 474,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2023-06-18T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 500,
+      "delta": -22,
+      "final": 478,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CRISTIAN FRIGOTTO"
+    },
+    {
+      "played_at": "2023-06-17T08:00:23",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Sapucaia do Sul/RS - 2023.",
+      "initial": 532,
+      "delta": -32,
+      "final": 500,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDSON NUNES"
+    },
+    {
+      "played_at": "2023-04-01T13:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 540,
+      "delta": -8,
+      "final": 532,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENNY NAKAGAWA"
+    },
+    {
+      "played_at": "2023-04-01T09:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 580,
+      "delta": -40,
+      "final": 540,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO PERDIGÃO"
+    },
+    {
+      "played_at": "2023-03-31T19:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 628,
+      "delta": -48,
+      "final": 580,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ.BEZERRA ARAÚJO.JÚNIOR"
+    },
+    {
+      "played_at": "2023-03-31T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 604,
+      "delta": 24,
+      "final": 628,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO STORINO"
+    },
+    {
+      "played_at": "2023-03-31T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 652,
+      "delta": -48,
+      "final": 604,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO HIRANO"
+    },
+    {
+      "played_at": "2022-12-10T15:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 762,
+      "delta": -110,
+      "final": 652,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÉRGIO UEDA"
+    },
+    {
+      "played_at": "2022-12-10T14:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 462,
+      "delta": 300,
+      "final": 762,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2022-12-10T13:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 402,
+      "delta": 60,
+      "final": 462,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FUMIO OISHI"
+    },
+    {
+      "played_at": "2022-12-09T17:00:02",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Equipes de Clubes",
+      "initial": 402,
+      "delta": 0,
+      "final": 402,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2022-12-09T14:00:02",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Equipes de Clubes",
+      "initial": 422,
+      "delta": -20,
+      "final": 402,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2022-12-08T16:00:18",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022 - Seleções Estaduais",
+      "initial": 472,
+      "delta": -50,
+      "final": 422,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2022-10-09T13:30:00",
+      "event": "TMB Estadual 2022 - 5ª Etapa - Santa Maria/RS",
+      "initial": 480,
+      "delta": -8,
+      "final": 472,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JUAN ALVEZ"
+    },
+    {
+      "played_at": "2022-10-09T12:00:00",
+      "event": "TMB Estadual 2022 - 5ª Etapa - Santa Maria/RS",
+      "initial": 500,
+      "delta": -20,
+      "final": 480,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DOUGLAS LEAL"
+    },
+    {
+      "played_at": "2022-09-23T20:00:00",
+      "event": "TMB Platinum - Ciclo III - Uberlândia/MG - 2022",
+      "initial": 468,
+      "delta": 32,
+      "final": 500,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO STORINO"
+    },
+    {
+      "played_at": "2022-09-23T19:30:00",
+      "event": "TMB Platinum - Ciclo III - Uberlândia/MG - 2022",
+      "initial": 228,
+      "delta": 240,
+      "final": 468,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2022-09-23T18:30:00",
+      "event": "TMB Platinum - Ciclo III - Uberlândia/MG - 2022",
+      "initial": 340,
+      "delta": -112,
+      "final": 228,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EDMAR MENEZES"
+    },
+    {
+      "played_at": "2022-09-23T17:30:00",
+      "event": "TMB Platinum - Ciclo III - Uberlândia/MG - 2022",
+      "initial": 364,
+      "delta": -24,
+      "final": 340,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2022-08-28T15:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 404,
+      "delta": -40,
+      "final": 364,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRENO LEMOS"
+    },
+    {
+      "played_at": "2022-08-28T15:00:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 334,
+      "delta": 70,
+      "final": 404,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE LOPES"
+    },
+    {
+      "played_at": "2022-08-28T13:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 234,
+      "delta": 100,
+      "final": 334,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR DIAS"
+    },
+    {
+      "played_at": "2022-08-28T09:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 154,
+      "delta": 80,
+      "final": 234,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAURÍCIO ENRICONI"
+    },
+    {
+      "played_at": "2022-08-28T08:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 169,
+      "delta": -15,
+      "final": 154,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO LOPES"
+    },
+    {
+      "played_at": "2022-06-05T14:45:00",
+      "event": "TMB Challenger Plus - 8ª Edição - São José/SC - 2022",
+      "initial": 199,
+      "delta": -30,
+      "final": 169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO D´AVILA"
+    },
+    {
+      "played_at": "2022-06-05T14:20:00",
+      "event": "TMB Challenger Plus - 8ª Edição - São José/SC - 2022",
+      "initial": 214,
+      "delta": -15,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE PERGHER"
+    },
+    {
+      "played_at": "2022-06-05T13:55:00",
+      "event": "TMB Challenger Plus - 8ª Edição - São José/SC - 2022",
+      "initial": 229,
+      "delta": -15,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO CLETO"
+    },
+    {
+      "played_at": "2022-06-04T11:50:00",
+      "event": "TMB Challenger Plus - 8ª Edição - São José/SC - 2022",
+      "initial": 229,
+      "delta": 0,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2022-06-04T11:25:00",
+      "event": "TMB Challenger Plus - 8ª Edição - São José/SC - 2022",
+      "initial": 259,
+      "delta": -30,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS CARVALHO"
+    },
+    {
+      "played_at": "2022-05-28T15:00:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 259,
+      "delta": 0,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO KOTANI"
+    },
+    {
+      "played_at": "2022-05-28T11:30:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 289,
+      "delta": -30,
+      "final": 259,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCELO TOYAMA"
+    },
+    {
+      "played_at": "2022-05-28T09:30:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 319,
+      "delta": -30,
+      "final": 289,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAURICIO ZARDO"
+    },
+    {
+      "played_at": "2022-04-10T15:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 333,
+      "delta": -14,
+      "final": 319,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTIAN FRIGOTTO"
+    },
+    {
+      "played_at": "2022-04-10T12:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 333,
+      "delta": 0,
+      "final": 333,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLO LABBÉ"
+    },
+    {
+      "played_at": "2022-04-10T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 309,
+      "delta": 24,
+      "final": 333,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BERNARDO SCHIMITT"
+    },
+    {
+      "played_at": "2022-04-10T09:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 323,
+      "delta": -14,
+      "final": 309,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2022-04-01T12:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 323,
+      "delta": 0,
+      "final": 323,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2022-04-01T10:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 211,
+      "delta": 112,
+      "final": 323,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ BITTENCOURT"
+    },
+    {
+      "played_at": "2022-04-01T09:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 211,
+      "delta": 0,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2021-12-11T11:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 261,
+      "delta": -50,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2021-12-11T09:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 311,
+      "delta": -50,
+      "final": 261,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "IREALVO BRITO"
+    },
+    {
+      "played_at": "2021-12-10T16:15:02",
+      "event": "TMB Platinum - Campeonato Brasileiro - Equipes Clubes - Joinville/SC-2021",
+      "initial": 311,
+      "delta": 0,
+      "final": 311,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2021-10-24T16:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Sapucaia do Sul/RS - 2021",
+      "initial": 295,
+      "delta": 16,
+      "final": 311,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2021-10-24T14:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Sapucaia do Sul/RS - 2021",
+      "initial": 301,
+      "delta": -6,
+      "final": 295,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAURO LOCH"
+    },
+    {
+      "played_at": "2021-10-24T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Sapucaia do Sul/RS - 2021",
+      "initial": 307,
+      "delta": -6,
+      "final": 301,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2021-10-24T13:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Sapucaia do Sul/RS - 2021",
+      "initial": 311,
+      "delta": -4,
+      "final": 307,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO SANTOS"
+    },
+    {
+      "played_at": "2021-10-24T12:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Sapucaia do Sul/RS - 2021",
+      "initial": 335,
+      "delta": -24,
+      "final": 311,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ SILVEIRA"
+    },
+    {
+      "played_at": "2021-10-24T11:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Sapucaia do Sul/RS - 2021",
+      "initial": 339,
+      "delta": -4,
+      "final": 335,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO LIMA"
+    },
+    {
+      "played_at": "2021-10-03T08:56:00",
+      "event": "Tmb Regional - Open Master Brasil - Rio De Janeiro/RJ - 2021",
+      "initial": 339,
+      "delta": 0,
+      "final": 339,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2021-10-01T11:50:00",
+      "event": "Tmb Regional - Open Master Brasil - Rio De Janeiro/RJ - 2021",
+      "initial": 384,
+      "delta": -45,
+      "final": 339,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2021-10-01T09:20:00",
+      "event": "Tmb Regional - Open Master Brasil - Rio De Janeiro/RJ - 2021",
+      "initial": 354,
+      "delta": 30,
+      "final": 384,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELSON CARDOSO"
+    },
+    {
+      "played_at": "2021-09-05T10:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Porto Alegre/rs - 2021",
+      "initial": 399,
+      "delta": -45,
+      "final": 354,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THIAGO SANTOS"
+    },
+    {
+      "played_at": "2021-09-05T08:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Porto Alegre/rs - 2021",
+      "initial": 489,
+      "delta": -90,
+      "final": 399,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAURÍCIO WEINGARTNER"
+    },
+    {
+      "played_at": "2021-09-04T16:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Porto Alegre/rs - 2021",
+      "initial": 449,
+      "delta": 40,
+      "final": 489,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2021-09-04T12:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Porto Alegre/rs - 2021",
+      "initial": 334,
+      "delta": 115,
+      "final": 449,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2021-08-15T17:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Caxias do Sul/RS - 2021",
+      "initial": 348,
+      "delta": -14,
+      "final": 334,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2021-08-15T15:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Caxias do Sul/RS - 2021",
+      "initial": 332,
+      "delta": 16,
+      "final": 348,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO TANAKA"
+    },
+    {
+      "played_at": "2021-08-15T14:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Caxias do Sul/RS - 2021",
+      "initial": 334,
+      "delta": -2,
+      "final": 332,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO BANDEIRA"
+    },
+    {
+      "played_at": "2021-08-15T12:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Caxias do Sul/RS - 2021",
+      "initial": 316,
+      "delta": 18,
+      "final": 334,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WALLACE CRUZ"
+    },
+    {
+      "played_at": "2021-08-15T12:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Caxias do Sul/RS - 2021",
+      "initial": 284,
+      "delta": 32,
+      "final": 316,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2021-08-15T11:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Caxias do Sul/RS - 2021",
+      "initial": 260,
+      "delta": 24,
+      "final": 284,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WALLACE CRUZ"
+    },
+    {
+      "played_at": "2021-07-25T10:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 348,
+      "delta": -88,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PABLO BAHIA"
+    },
+    {
+      "played_at": "2021-07-24T19:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 284,
+      "delta": 64,
+      "final": 348,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAUÃ CEZÁRIO"
+    },
+    {
+      "played_at": "2021-07-24T17:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 412,
+      "delta": -128,
+      "final": 284,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO TARDIO"
+    },
+    {
+      "played_at": "2021-07-24T13:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 428,
+      "delta": -16,
+      "final": 412,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2021-07-24T11:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 316,
+      "delta": 112,
+      "final": 428,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ BITTENCOURT"
+    },
+    {
+      "played_at": "2021-07-24T10:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 244,
+      "delta": 72,
+      "final": 316,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIS DUTRA"
+    },
+    {
+      "played_at": "2021-07-24T09:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2021",
+      "initial": 116,
+      "delta": 128,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ MARANHÃO"
+    },
+    {
+      "played_at": "2021-05-16T15:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carazinho/RS - 2021",
+      "initial": 116,
+      "delta": 0,
+      "final": 116,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCO BANDEIRA"
+    },
+    {
+      "played_at": "2021-05-16T15:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Carazinho/RS - 2021",
+      "initial": 76,
+      "delta": 40,
+      "final": 116,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2021-05-16T14:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Carazinho/RS - 2021",
+      "initial": 82,
+      "delta": -6,
+      "final": 76,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2021-05-16T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carazinho/RS - 2021",
+      "initial": 92,
+      "delta": -10,
+      "final": 82,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2021-05-16T09:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carazinho/RS - 2021",
+      "initial": 102,
+      "delta": -10,
+      "final": 92,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FÁBIO BORCHARDT"
+    },
+    {
+      "played_at": "2020-12-12T15:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 102,
+      "delta": 0,
+      "final": 102,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2020-12-12T14:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 162,
+      "delta": -60,
+      "final": 102,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2020-12-11T16:15:02",
+      "event": "TMB Platinum Campeonato Brasileiro - Seleção Estadual - Rio de Janeiro/RJ - 2020",
+      "initial": 162,
+      "delta": 0,
+      "final": 162,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCILIO LUZ"
+    },
+    {
+      "played_at": "2020-12-11T08:32:00",
+      "event": "TMB Platinum Campeonato Brasileiro - Equipes de Clubes - Rio de Janeiro/RJ - 2020",
+      "initial": 162,
+      "delta": 0,
+      "final": 162,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HELCIO PINGUELLI"
+    },
+    {
+      "played_at": "2020-12-11T08:30:00",
+      "event": "TMB Platinum Campeonato Brasileiro - Equipes de Clubes - Rio de Janeiro/RJ - 2020",
+      "initial": 202,
+      "delta": -40,
+      "final": 162,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCILIO LUZ"
+    },
+    {
+      "played_at": "2019-12-14T15:55:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Olímpico",
+      "initial": 211,
+      "delta": -9,
+      "final": 202,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PEDRO ARAÚJO"
+    },
+    {
+      "played_at": "2019-12-14T14:15:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Olímpico",
+      "initial": 211,
+      "delta": 0,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NARIAQUI CAVAGUTI"
+    },
+    {
+      "played_at": "2019-12-14T13:00:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Olímpico",
+      "initial": 247,
+      "delta": -36,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIO GAKIYA"
+    },
+    {
+      "played_at": "2019-12-12T14:00:00",
+      "event": "Campeonato Brasileiro Equipes De Clubes Olímpicas 2019",
+      "initial": 265,
+      "delta": -18,
+      "final": 247,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "IREALVO BRITO"
+    },
+    {
+      "played_at": "2019-12-12T10:00:00",
+      "event": "Campeonato Brasileiro Equipes De Clubes Olímpicas 2019",
+      "initial": 337,
+      "delta": -72,
+      "final": 265,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIO GAKIYA"
+    },
+    {
+      "played_at": "2019-12-11T14:00:04",
+      "event": "Campeonato Brasileiro Seleções Estaduais Olímpicas 2019",
+      "initial": 337,
+      "delta": 0,
+      "final": 337,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SUNAO ANRAKU"
+    },
+    {
+      "played_at": "2019-12-11T10:00:01",
+      "event": "Campeonato Brasileiro Seleções Estaduais Olímpicas 2019",
+      "initial": 337,
+      "delta": 0,
+      "final": 337,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2019-10-19T13:00:00",
+      "event": "Copa Das Federações - Etapa Rio De Janeiro - Olímpico 2019",
+      "initial": 337,
+      "delta": 0,
+      "final": 337,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2019-10-19T12:10:00",
+      "event": "Copa Das Federações - Etapa Rio De Janeiro - Olímpico 2019",
+      "initial": 297,
+      "delta": 40,
+      "final": 337,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RIVALDO PEDROSA"
+    },
+    {
+      "played_at": "2019-10-19T11:20:00",
+      "event": "Copa Das Federações - Etapa Rio De Janeiro - Olímpico 2019",
+      "initial": 277,
+      "delta": 20,
+      "final": 297,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ BITTENCOURT"
+    },
+    {
+      "played_at": "2019-09-01T15:10:00",
+      "event": "Copa Das Federações - Etapa São Leopoldo- Rs",
+      "initial": 289,
+      "delta": -12,
+      "final": 277,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO OTEIRO"
+    },
+    {
+      "played_at": "2019-09-01T14:30:00",
+      "event": "Copa Das Federações - Etapa São Leopoldo- Rs",
+      "initial": 311,
+      "delta": -22,
+      "final": 289,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THIAGO ROSA"
+    },
+    {
+      "played_at": "2019-09-01T09:40:00",
+      "event": "Copa Das Federações - Etapa São Leopoldo- Rs",
+      "initial": 311,
+      "delta": 0,
+      "final": 311,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOEL SANTOS"
+    },
+    {
+      "played_at": "2019-09-01T08:50:00",
+      "event": "Copa Das Federações - Etapa São Leopoldo- Rs",
+      "initial": 313,
+      "delta": -2,
+      "final": 311,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2019-04-28T22:52:00",
+      "event": "Torneio Estadual Fed-rs Taça Vale Real 2019",
+      "initial": 340,
+      "delta": -11,
+      "final": 329,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO TANAKA"
+    },
+    {
+      "played_at": "2019-04-28T12:40:00",
+      "event": "Torneio Estadual Fed-rs Taça Vale Real 2019",
+      "initial": 318,
+      "delta": -5,
+      "final": 313,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CARLOS OLIVEIRA"
+    },
+    {
+      "played_at": "2019-04-28T00:01:00",
+      "event": "Torneio Estadual Fed-rs Taça Vale Real 2019",
+      "initial": 329,
+      "delta": -11,
+      "final": 318,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2019-03-30T19:35:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 468,
+      "delta": -128,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GLAUCO MARCONDES"
+    },
+    {
+      "played_at": "2019-03-30T18:20:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 468,
+      "delta": 0,
+      "final": 468,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2019-03-30T16:40:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 524,
+      "delta": -56,
+      "final": 468,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO HIRANO"
+    },
+    {
+      "played_at": "2018-12-01T13:55:00",
+      "event": "52º Brasileiro De Tm 2018 - Ranking Olímpico",
+      "initial": 524,
+      "delta": 0,
+      "final": 524,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2018-12-01T11:45:00",
+      "event": "52º Brasileiro De Tm 2018 - Ranking Olímpico",
+      "initial": 476,
+      "delta": 48,
+      "final": 524,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDMAR MENEZES"
+    },
+    {
+      "played_at": "2018-12-01T10:55:00",
+      "event": "52º Brasileiro De Tm 2018 - Ranking Olímpico",
+      "initial": 572,
+      "delta": -96,
+      "final": 476,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FRANCISCO SOUSA"
+    },
+    {
+      "played_at": "2018-12-01T09:15:00",
+      "event": "52º Brasileiro De Tm 2018 - Ranking Olímpico",
+      "initial": 532,
+      "delta": 40,
+      "final": 572,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEDOVILIO BIASI"
+    },
+    {
+      "played_at": "2018-10-21T19:23:00",
+      "event": "44º Campeonatoo Estadual Do Rs 2018",
+      "initial": 544,
+      "delta": 5,
+      "final": 549,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2018-10-21T19:22:00",
+      "event": "44º Campeonatoo Estadual Do Rs 2018",
+      "initial": 553,
+      "delta": -3,
+      "final": 550,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2018-10-21T19:21:00",
+      "event": "44º Campeonatoo Estadual Do Rs 2018",
+      "initial": 549,
+      "delta": 7,
+      "final": 556,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS OLIVEIRA"
+    },
+    {
+      "played_at": "2018-10-21T03:18:00",
+      "event": "44º Campeonatoo Estadual Do Rs 2018",
+      "initial": 542,
+      "delta": -10,
+      "final": 532,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RUAN NECKER"
+    },
+    {
+      "played_at": "2018-10-21T01:59:00",
+      "event": "44º Campeonatoo Estadual Do Rs 2018",
+      "initial": 556,
+      "delta": -14,
+      "final": 542,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDILMAR GOMES"
+    },
+    {
+      "played_at": "2018-10-21T00:39:00",
+      "event": "44º Campeonatoo Estadual Do Rs 2018",
+      "initial": 550,
+      "delta": -6,
+      "final": 544,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2018-09-04T21:23:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 585,
+      "delta": 0,
+      "final": 585,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICARDO FILHO"
+    },
+    {
+      "played_at": "2018-09-04T11:50:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 591,
+      "delta": -6,
+      "final": 585,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2018-09-04T09:37:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 585,
+      "delta": -32,
+      "final": 553,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDILMAR GOMES"
+    },
+    {
+      "played_at": "2018-09-04T07:21:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 553,
+      "delta": 0,
+      "final": 553,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLO LABBÉ"
+    },
+    {
+      "played_at": "2018-09-02T05:16:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 599,
+      "delta": -8,
+      "final": 591,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2018-09-02T05:15:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 591,
+      "delta": 8,
+      "final": 599,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDMAR MENEZES"
+    },
+    {
+      "played_at": "2018-09-02T05:14:00",
+      "event": "Copa Das Federações De Tênis De Mesa - Etapa 14º São Leo Open - Rs",
+      "initial": 599,
+      "delta": -8,
+      "final": 591,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2018-08-04T11:45:00",
+      "event": "Copa Brasil Centro-norte-nordeste I - Cuiabá - Mt",
+      "initial": 695,
+      "delta": -96,
+      "final": 599,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVID YONEKUBO"
+    },
+    {
+      "played_at": "2018-08-04T10:05:00",
+      "event": "Copa Brasil Centro-norte-nordeste I - Cuiabá - Mt",
+      "initial": 695,
+      "delta": 0,
+      "final": 695,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "TIZIANO ZABARINO"
+    },
+    {
+      "played_at": "2018-08-04T08:50:00",
+      "event": "Copa Brasil Centro-norte-nordeste I - Cuiabá - Mt",
+      "initial": 701,
+      "delta": -6,
+      "final": 695,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2018-05-06T23:45:00",
+      "event": "2º Grand Slam–taça Sogipa - Rs",
+      "initial": 703,
+      "delta": 4,
+      "final": 707,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2018-05-06T14:26:00",
+      "event": "2º Grand Slam–taça Sogipa - Rs",
+      "initial": 700,
+      "delta": 3,
+      "final": 703,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCUS REMUS"
+    },
+    {
+      "played_at": "2018-05-06T07:49:00",
+      "event": "2º Grand Slam–taça Sogipa - Rs",
+      "initial": 707,
+      "delta": -6,
+      "final": 701,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2018-03-31T15:40:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 706,
+      "delta": -6,
+      "final": 700,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HELCIO PINGUELLI"
+    },
+    {
+      "played_at": "2018-03-31T14:25:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 682,
+      "delta": 24,
+      "final": 706,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2018-03-31T10:55:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 736,
+      "delta": -54,
+      "final": 682,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2018-03-31T09:40:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 706,
+      "delta": 30,
+      "final": 736,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO UTIME"
+    },
+    {
+      "played_at": "2017-10-07T16:05:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 706,
+      "delta": 0,
+      "final": 706,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2017-10-07T14:25:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 706,
+      "delta": 0,
+      "final": 706,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIO LUZ"
+    },
+    {
+      "played_at": "2017-10-07T12:10:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 670,
+      "delta": 36,
+      "final": 706,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2017-09-03T21:41:00",
+      "event": "13º São Leo Open - Interestadual - 2017",
+      "initial": 678,
+      "delta": -8,
+      "final": 670,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2017-09-03T21:40:00",
+      "event": "13º São Leo Open - Interestadual - 2017",
+      "initial": 682,
+      "delta": -4,
+      "final": 678,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HELCIO PINGUELLI"
+    },
+    {
+      "played_at": "2017-09-03T21:39:00",
+      "event": "13º São Leo Open - Interestadual - 2017",
+      "initial": 672,
+      "delta": 10,
+      "final": 682,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2017-08-19T15:05:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 692,
+      "delta": -20,
+      "final": 672,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2017-08-19T10:55:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 668,
+      "delta": 24,
+      "final": 692,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2017-08-19T09:40:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 740,
+      "delta": -72,
+      "final": 668,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IVO SOLANHO"
+    },
+    {
+      "played_at": "2017-06-24T15:55:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 748,
+      "delta": -8,
+      "final": 740,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HELCIO PINGUELLI"
+    },
+    {
+      "played_at": "2017-06-24T14:40:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 720,
+      "delta": 28,
+      "final": 748,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SÉRGIO UEDA"
+    },
+    {
+      "played_at": "2017-06-24T13:25:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 768,
+      "delta": -48,
+      "final": 720,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2017-06-24T10:05:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 760,
+      "delta": 8,
+      "final": 768,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YOSHINORI YASSUDA"
+    },
+    {
+      "played_at": "2017-04-22T15:30:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 796,
+      "delta": -36,
+      "final": 760,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO FILHO"
+    },
+    {
+      "played_at": "2017-04-22T14:40:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 876,
+      "delta": -80,
+      "final": 796,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JURANDIR GOMES"
+    },
+    {
+      "played_at": "2017-04-22T13:25:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 868,
+      "delta": 8,
+      "final": 876,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDMAR MENEZES"
+    },
+    {
+      "played_at": "2017-03-26T12:50:00",
+      "event": "I Etapa Do Ranking - Campeonato Estadual Do Rio De Janeiro 2017",
+      "initial": 873,
+      "delta": -5,
+      "final": 868,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERALDO FILHO"
+    },
+    {
+      "played_at": "2017-03-26T11:50:00",
+      "event": "I Etapa Do Ranking - Campeonato Estadual Do Rio De Janeiro 2017",
+      "initial": 876,
+      "delta": -3,
+      "final": 873,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIO LUZ"
+    },
+    {
+      "played_at": "2017-03-26T10:30:00",
+      "event": "I Etapa Do Ranking - Campeonato Estadual Do Rio De Janeiro 2017",
+      "initial": 873,
+      "delta": 3,
+      "final": 876,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSE MOTTA"
+    },
+    {
+      "played_at": "2017-03-26T10:10:00",
+      "event": "I Etapa Do Ranking - Campeonato Estadual Do Rio De Janeiro 2017",
+      "initial": 877,
+      "delta": -4,
+      "final": 873,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCILIO LUZ"
+    },
+    {
+      "played_at": "2017-03-26T09:50:00",
+      "event": "I Etapa Do Ranking - Campeonato Estadual Do Rio De Janeiro 2017",
+      "initial": 882,
+      "delta": -5,
+      "final": 877,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERALDO FILHO"
+    },
+    {
+      "played_at": "2017-03-19T18:33:00",
+      "event": "1º Grand Slam 2017 - Fedrs",
+      "initial": 898,
+      "delta": -16,
+      "final": 882,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2017-03-19T18:32:00",
+      "event": "1º Grand Slam 2017 - Fedrs",
+      "initial": 896,
+      "delta": 2,
+      "final": 898,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CESAR MULLER"
+    },
+    {
+      "played_at": "2017-03-19T18:31:00",
+      "event": "1º Grand Slam 2017 - Fedrs",
+      "initial": 892,
+      "delta": 4,
+      "final": 896,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FLÁVIO HASHIMOTO"
+    },
+    {
+      "played_at": "2017-03-19T18:30:00",
+      "event": "1º Grand Slam 2017 - Fedrs",
+      "initial": 890,
+      "delta": 2,
+      "final": 892,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAURO BERTOLLO"
+    },
+    {
+      "played_at": "2017-03-19T01:01:00",
+      "event": "1º Grand Slam 2017 - Fedrs",
+      "initial": 888,
+      "delta": 2,
+      "final": 890,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AURELIO FISCHERxxx"
+    },
+    {
+      "played_at": "2016-11-05T10:30:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 952,
+      "delta": -64,
+      "final": 888,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2016-11-04T15:30:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 864,
+      "delta": 88,
+      "final": 952,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2016-11-04T14:40:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 832,
+      "delta": 32,
+      "final": 864,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ CAMPOS"
+    },
+    {
+      "played_at": "2016-11-02T15:00:03",
+      "event": "50º Campeonato Brasileiro San-ei De Verão 2016 - Equipes Clubes Olimpico",
+      "initial": 712,
+      "delta": 160,
+      "final": 872,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2016-11-02T15:00:02",
+      "event": "50º Campeonato Brasileiro San-ei De Verão 2016 - Equipes Clubes Olimpico",
+      "initial": 872,
+      "delta": -40,
+      "final": 832,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GERALDO FILHO"
+    },
+    {
+      "played_at": "2016-11-02T13:00:18",
+      "event": "50º Campeonato Brasileiro San-ei De Verão 2016 - Equipes Clubes Olimpico",
+      "initial": 472,
+      "delta": 240,
+      "final": 712,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIO ARASHIRO"
+    },
+    {
+      "played_at": "2016-11-02T13:00:11",
+      "event": "50º Campeonato Brasileiro San-ei De Verão 2016 - Equipes Clubes Olimpico",
+      "initial": 416,
+      "delta": 56,
+      "final": 472,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FUMIO OISHI"
+    },
+    {
+      "played_at": "2016-04-16T16:20:00",
+      "event": "Copa Brasil Centro Norte Nordeste I - Distrito Federal - 2016 - Evento Olímpico",
+      "initial": 420,
+      "delta": -4,
+      "final": 416,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FRANCISCO FILHO"
+    },
+    {
+      "played_at": "2016-04-16T15:30:00",
+      "event": "Copa Brasil Centro Norte Nordeste I - Distrito Federal - 2016 - Evento Olímpico",
+      "initial": 392,
+      "delta": 28,
+      "final": 420,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDMAR MENEZES"
+    },
+    {
+      "played_at": "2016-04-16T14:15:00",
+      "event": "Copa Brasil Centro Norte Nordeste I - Distrito Federal - 2016 - Evento Olímpico",
+      "initial": 436,
+      "delta": -44,
+      "final": 392,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JURANDIR GOMES"
+    },
+    {
+      "played_at": "2016-03-13T14:20:00",
+      "event": "1º Grand Slam 2016 - Rio Grande Do Sul - Rs",
+      "initial": 440,
+      "delta": -4,
+      "final": 436,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2016-03-13T14:19:00",
+      "event": "1º Grand Slam 2016 - Rio Grande Do Sul - Rs",
+      "initial": 438,
+      "delta": -4,
+      "final": 434,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2016-03-13T07:58:00",
+      "event": "1º Grand Slam 2016 - Rio Grande Do Sul - Rs",
+      "initial": 434,
+      "delta": 6,
+      "final": 440,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2015-10-31T12:10:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 446,
+      "delta": -8,
+      "final": 438,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERALDO FILHO"
+    },
+    {
+      "played_at": "2015-10-31T10:30:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 486,
+      "delta": -40,
+      "final": 446,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2015-10-29T08:00:17",
+      "event": "48º Campeonato Brasileiro 2015 - Equipes Seleções Olimpicas",
+      "initial": 510,
+      "delta": -24,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERALDO FILHO"
+    },
+    {
+      "played_at": "2015-10-28T16:45:18",
+      "event": "48º Campeonato Brasileiro 2015 - Equipes Clubes Olimpico",
+      "initial": 558,
+      "delta": -48,
+      "final": 510,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HELCIO PINGUELLI"
+    },
+    {
+      "played_at": "2015-10-28T16:45:11",
+      "event": "48º Campeonato Brasileiro 2015 - Equipes Clubes Olimpico",
+      "initial": 606,
+      "delta": -48,
+      "final": 558,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GERALDO FILHO"
+    },
+    {
+      "played_at": "2015-09-26T15:30:00",
+      "event": "Copa Brasil Sul Sudeste Ii - Jundiaí - Sp - 2015 - Olímpico",
+      "initial": 606,
+      "delta": 0,
+      "final": 606,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2015-09-26T09:40:00",
+      "event": "Copa Brasil Sul Sudeste Ii - Jundiaí - Sp - 2015 - Olímpico",
+      "initial": 626,
+      "delta": -20,
+      "final": 606,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ BOAS"
+    },
+    {
+      "played_at": "2015-09-26T08:50:00",
+      "event": "Copa Brasil Sul Sudeste Ii - Jundiaí - Sp - 2015 - Olímpico",
+      "initial": 582,
+      "delta": 44,
+      "final": 626,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2015-05-30T09:40:00",
+      "event": "47º Campeonato Brasileiro De Individual 2015 - Ranking Olímpico",
+      "initial": 678,
+      "delta": -96,
+      "final": 582,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSE MOTTA"
+    },
+    {
+      "played_at": "2015-05-30T08:00:00",
+      "event": "47º Campeonato Brasileiro De Individual 2015 - Ranking Olímpico",
+      "initial": 744,
+      "delta": -66,
+      "final": 678,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2014-05-24T13:25:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 754,
+      "delta": -10,
+      "final": 744,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2014-05-23T09:40:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 724,
+      "delta": 30,
+      "final": 754,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2014-05-23T08:50:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 729,
+      "delta": -5,
+      "final": 724,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2014-05-22T10:30:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 754,
+      "delta": -25,
+      "final": 729,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOABY SOUZAXX"
+    },
+    {
+      "played_at": "2014-04-12T13:50:00",
+      "event": "Copa Brasil Sul-sudeste I - Jaraguá Do Sul - Sc - Ranking Olímpico",
+      "initial": 772,
+      "delta": -18,
+      "final": 754,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS SILVA"
+    },
+    {
+      "played_at": "2014-04-12T13:00:00",
+      "event": "Copa Brasil Sul-sudeste I - Jaraguá Do Sul - Sc - Ranking Olímpico",
+      "initial": 790,
+      "delta": -18,
+      "final": 772,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIO ARASHIRO"
+    },
+    {
+      "played_at": "2014-04-12T12:10:00",
+      "event": "Copa Brasil Sul-sudeste I - Jaraguá Do Sul - Sc - Ranking Olímpico",
+      "initial": 775,
+      "delta": 15,
+      "final": 790,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IVO SOLANHO"
+    },
+    {
+      "played_at": "2013-11-01T13:50:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 790,
+      "delta": -15,
+      "final": 775,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2013-11-01T10:00:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 795,
+      "delta": -5,
+      "final": 790,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2013-11-01T09:20:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 775,
+      "delta": 20,
+      "final": 795,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOAO YOKOTA"
+    },
+    {
+      "played_at": "2013-11-01T08:40:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 745,
+      "delta": 30,
+      "final": 775,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE PINTO"
+    },
+    {
+      "played_at": "2013-10-30T00:00:00",
+      "event": "44º Campeonato Brasileiro De Equipes Seleções Estaduais 2013",
+      "initial": 735,
+      "delta": -15,
+      "final": 720,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2013-10-30T00:00:00",
+      "event": "44º Campeonato Brasileiro De Equipes Seleções Estaduais 2013",
+      "initial": 720,
+      "delta": 30,
+      "final": 750,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IREALVO BRITO"
+    },
+    {
+      "played_at": "2013-10-30T00:00:00",
+      "event": "44º Campeonato Brasileiro De Equipes Seleções Estaduais 2013",
+      "initial": 750,
+      "delta": -5,
+      "final": 745,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2013-08-24T15:55:00",
+      "event": "Copa Brasil Vitória 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 744,
+      "delta": -9,
+      "final": 735,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2013-08-24T14:15:00",
+      "event": "Copa Brasil Vitória 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 729,
+      "delta": 15,
+      "final": 744,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2013-08-24T09:40:00",
+      "event": "Copa Brasil Vitória 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 729,
+      "delta": 0,
+      "final": 729,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2013-08-24T08:50:00",
+      "event": "Copa Brasil Vitória 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 717,
+      "delta": 12,
+      "final": 729,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TADASHI FUKUDA"
+    },
+    {
+      "played_at": "2013-05-04T15:30:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking, Ranking Especial E Rating",
+      "initial": 735,
+      "delta": -18,
+      "final": 717,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2013-05-04T10:05:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking, Ranking Especial E Rating",
+      "initial": 687,
+      "delta": 48,
+      "final": 735,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ CARVALHO"
+    },
+    {
+      "played_at": "2013-05-04T08:25:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking, Ranking Especial E Rating",
+      "initial": 672,
+      "delta": 15,
+      "final": 687,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RONALDO FERREIRA"
+    },
+    {
+      "played_at": "2013-03-09T15:30:00",
+      "event": "Copa Brasil Centro Norte Nordeste I - Brasília 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 672,
+      "delta": 0,
+      "final": 672,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2013-03-09T09:40:00",
+      "event": "Copa Brasil Centro Norte Nordeste I - Brasília 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 660,
+      "delta": 12,
+      "final": 672,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSCAR SOUSA"
+    },
+    {
+      "played_at": "2013-03-09T08:00:00",
+      "event": "Copa Brasil Centro Norte Nordeste I - Brasília 2013 - Ranking, Ranking Especial E Rating",
+      "initial": 726,
+      "delta": -66,
+      "final": 660,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2012-11-03T09:40:00",
+      "event": "43º Campeonato Brasileiro Ranking E Rating - Piracicaba - 2012",
+      "initial": 726,
+      "delta": 0,
+      "final": 726,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2012-11-02T15:30:00",
+      "event": "43º Campeonato Brasileiro Ranking E Rating - Piracicaba - 2012",
+      "initial": 751,
+      "delta": -25,
+      "final": 726,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR VILLAÇA"
+    },
+    {
+      "played_at": "2012-11-02T12:10:00",
+      "event": "43º Campeonato Brasileiro Ranking E Rating - Piracicaba - 2012",
+      "initial": 726,
+      "delta": 25,
+      "final": 751,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2012-08-18T13:50:00",
+      "event": "Copa Brasil Centro Norte Nordeste Iii - Natal - Ranking E Rating",
+      "initial": 747,
+      "delta": -21,
+      "final": 726,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ CARVALHO"
+    },
+    {
+      "played_at": "2012-08-18T09:40:00",
+      "event": "Copa Brasil Centro Norte Nordeste Iii - Natal - Ranking E Rating",
+      "initial": 738,
+      "delta": 9,
+      "final": 747,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2012-08-18T08:00:00",
+      "event": "Copa Brasil Centro Norte Nordeste Iii - Natal - Ranking E Rating",
+      "initial": 717,
+      "delta": 21,
+      "final": 738,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2012-08-04T15:05:00",
+      "event": "Copa Brasil Sul Sudeste Iii - Maringá - Rating E Ranking",
+      "initial": 753,
+      "delta": -36,
+      "final": 717,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NELSON KATAYOSE"
+    },
+    {
+      "played_at": "2012-08-04T13:25:00",
+      "event": "Copa Brasil Sul Sudeste Iii - Maringá - Rating E Ranking",
+      "initial": 735,
+      "delta": 18,
+      "final": 753,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EIKI KUBOTA"
+    },
+    {
+      "played_at": "2012-08-04T10:55:00",
+      "event": "Copa Brasil Sul Sudeste Iii - Maringá - Rating E Ranking",
+      "initial": 729,
+      "delta": 6,
+      "final": 735,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KOICHI TANAKA"
+    },
+    {
+      "played_at": "2012-05-19T11:00:00",
+      "event": "Copa Brasil Concórdia 2012 - Ranking E Rating",
+      "initial": 714,
+      "delta": 15,
+      "final": 729,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "IVO SOLANHO"
+    },
+    {
+      "played_at": "2012-05-19T10:00:00",
+      "event": "Copa Brasil Concórdia 2012 - Ranking E Rating",
+      "initial": 690,
+      "delta": 24,
+      "final": 714,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NELSON KATAYOSE"
+    },
+    {
+      "played_at": "2012-05-19T08:30:00",
+      "event": "Copa Brasil Concórdia 2012 - Ranking E Rating",
+      "initial": 681,
+      "delta": 9,
+      "final": 690,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2012-05-19T08:00:00",
+      "event": "Copa Brasil Concórdia 2012 - Ranking E Rating",
+      "initial": 639,
+      "delta": 42,
+      "final": 681,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EIKI KUBOTA"
+    },
+    {
+      "played_at": "2012-05-17T10:30:00",
+      "event": "Copa Brasil Concórdia 2012 - Ranking E Rating",
+      "initial": 654,
+      "delta": -15,
+      "final": 639,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALISSON LOURENÇO"
+    },
+    {
+      "played_at": "2012-05-17T09:30:00",
+      "event": "Copa Brasil Concórdia 2012 - Ranking E Rating",
+      "initial": 681,
+      "delta": -27,
+      "final": 654,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS GALO"
+    },
+    {
+      "played_at": "2012-05-06T00:00:00",
+      "event": "Ix Aberto De Maceió De Tênis De Mesa 2012 - Ranking E Rating",
+      "initial": 623,
+      "delta": 8,
+      "final": 631,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2012-05-06T00:00:00",
+      "event": "Ix Aberto De Maceió De Tênis De Mesa 2012 - Ranking E Rating",
+      "initial": 631,
+      "delta": 10,
+      "final": 641,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSE MACHADO"
+    },
+    {
+      "played_at": "2012-05-06T00:00:00",
+      "event": "Ix Aberto De Maceió De Tênis De Mesa 2012 - Ranking E Rating",
+      "initial": 641,
+      "delta": 8,
+      "final": 649,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MESSIAS ANDRADE"
+    },
+    {
+      "played_at": "2012-05-06T00:00:00",
+      "event": "Ix Aberto De Maceió De Tênis De Mesa 2012 - Ranking E Rating",
+      "initial": 649,
+      "delta": 32,
+      "final": 681,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2012-05-05T00:00:00",
+      "event": "Ix Aberto De Maceió De Tênis De Mesa 2012 - Ranking E Rating",
+      "initial": 649,
+      "delta": -12,
+      "final": 637,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTOR RANGEL"
+    },
+    {
+      "played_at": "2012-05-05T00:00:00",
+      "event": "Ix Aberto De Maceió De Tênis De Mesa 2012 - Ranking E Rating",
+      "initial": 637,
+      "delta": -14,
+      "final": 623,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ADELMO BASTOS"
+    },
+    {
+      "played_at": "2012-03-25T00:00:00",
+      "event": "1º Grang Slam - Copa Gusch - São Peopoldo - Rs",
+      "initial": 655,
+      "delta": 4,
+      "final": 659,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO TANAKA"
+    },
+    {
+      "played_at": "2012-03-25T00:00:00",
+      "event": "1º Grang Slam - Copa Gusch - São Peopoldo - Rs",
+      "initial": 659,
+      "delta": 4,
+      "final": 663,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2012-03-25T00:00:00",
+      "event": "1º Grang Slam - Copa Gusch - São Peopoldo - Rs",
+      "initial": 663,
+      "delta": -14,
+      "final": 649,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2011-10-31T14:30:00",
+      "event": "42º Campeonato Brasileiro Fortaleza - Ranking E Rating 2011",
+      "initial": 660,
+      "delta": -5,
+      "final": 655,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2011-10-31T09:30:00",
+      "event": "42º Campeonato Brasileiro Fortaleza - Ranking E Rating 2011",
+      "initial": 690,
+      "delta": -30,
+      "final": 660,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "REINALDO GAYLOR"
+    },
+    {
+      "played_at": "2011-10-29T16:30:00",
+      "event": "42º Campeonato Brasileiro Fortaleza - Ranking E Rating 2011",
+      "initial": 735,
+      "delta": -45,
+      "final": 690,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "REINALDO GAYLOR"
+    },
+    {
+      "played_at": "2011-10-29T14:00:00",
+      "event": "42º Campeonato Brasileiro Fortaleza - Ranking E Rating 2011",
+      "initial": 585,
+      "delta": 150,
+      "final": 735,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO HAYASHI"
+    },
+    {
+      "played_at": "2011-10-28T00:00:00",
+      "event": "42º Campeonato Brasileiro Fortaleza De Seleções Estaduais - 2011",
+      "initial": 615,
+      "delta": -30,
+      "final": 585,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO FILHO"
+    },
+    {
+      "played_at": "2010-10-11T09:15:00",
+      "event": "41º Campeonato Brasileiro De Tênis De Mesa - Individual",
+      "initial": 631,
+      "delta": -16,
+      "final": 615,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "IVO GALLINDO"
+    },
+    {
+      "played_at": "2010-10-11T08:00:00",
+      "event": "41º Campeonato Brasileiro De Tênis De Mesa - Individual",
+      "initial": 631,
+      "delta": 0,
+      "final": 631,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "UBIRACI COSTA"
+    },
+    {
+      "played_at": "2010-10-09T10:00:00",
+      "event": "41º Campeonato Brasileiro De Tênis De Mesa - Individual",
+      "initial": 655,
+      "delta": -24,
+      "final": 631,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WESLLEY SILVA"
+    },
+    {
+      "played_at": "2010-07-17T00:00:00",
+      "event": "COPA PORTO ALEGRE - INDIVIDUAL",
+      "initial": 668,
+      "delta": 6,
+      "final": 674,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE RIBEIROXXX"
+    },
+    {
+      "played_at": "2010-07-17T00:00:00",
+      "event": "COPA PORTO ALEGRE - INDIVIDUAL",
+      "initial": 674,
+      "delta": -3,
+      "final": 671,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRO SILVA"
+    },
+    {
+      "played_at": "2010-07-17T00:00:00",
+      "event": "COPA PORTO ALEGRE - INDIVIDUAL",
+      "initial": 671,
+      "delta": -3,
+      "final": 668,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AVELINO CUNHA"
+    },
+    {
+      "played_at": "2010-07-17T00:00:00",
+      "event": "COPA PORTO ALEGRE - INDIVIDUAL",
+      "initial": 668,
+      "delta": -16,
+      "final": 652,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO MERLOxxx"
+    },
+    {
+      "played_at": "2010-07-17T00:00:00",
+      "event": "COPA PORTO ALEGRE - INDIVIDUAL",
+      "initial": 652,
+      "delta": 5,
+      "final": 657,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME BRITOxxx"
+    },
+    {
+      "played_at": "2010-07-17T00:00:00",
+      "event": "COPA PORTO ALEGRE - INDIVIDUAL",
+      "initial": 657,
+      "delta": -2,
+      "final": 655,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRO SILVA"
+    },
+    {
+      "played_at": "2010-05-08T11:00:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 668,
+      "delta": 0,
+      "final": 668,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2010-05-08T10:30:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 608,
+      "delta": 60,
+      "final": 668,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2010-05-08T09:30:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 598,
+      "delta": 10,
+      "final": 608,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANTÔNIO CHAVES"
+    },
+    {
+      "played_at": "2010-05-08T08:30:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 598,
+      "delta": 0,
+      "final": 598,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLO BASTOS"
+    },
+    {
+      "played_at": "2010-05-06T15:30:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 616,
+      "delta": -18,
+      "final": 598,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LEONARDO LIMA"
+    },
+    {
+      "played_at": "2010-05-06T11:00:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 600,
+      "delta": 16,
+      "final": 616,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JACKSON MACÊDO"
+    },
+    {
+      "played_at": "2010-05-06T09:00:00",
+      "event": "EVENTOS - COPA BRASIL ARACAJÚ - (INDIVIDUAL) 2010",
+      "initial": 612,
+      "delta": -12,
+      "final": 600,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "UESLEI NERI"
+    },
+    {
+      "played_at": "2009-12-17T20:20:00",
+      "event": "CAMPEONATO BRASILEIRO 2009 - INDIVIDUAL - FLORIANÓPOLIS",
+      "initial": 612,
+      "delta": 0,
+      "final": 612,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2009-12-17T17:25:00",
+      "event": "CAMPEONATO BRASILEIRO 2009 - INDIVIDUAL - FLORIANÓPOLIS",
+      "initial": 668,
+      "delta": -56,
+      "final": 612,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2009-12-16T19:40:00",
+      "event": "CAMPEONATO BRASILEIRO 2009 - INDIVIDUAL - FLORIANÓPOLIS",
+      "initial": 684,
+      "delta": -16,
+      "final": 668,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDISON FILHO"
+    },
+    {
+      "played_at": "2009-12-16T16:20:00",
+      "event": "CAMPEONATO BRASILEIRO 2009 - INDIVIDUAL - FLORIANÓPOLIS",
+      "initial": 592,
+      "delta": 92,
+      "final": 684,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO KOTANI"
+    },
+    {
+      "played_at": "2009-12-16T10:05:00",
+      "event": "CAMPEONATO BRASILEIRO 2009 - INDIVIDUAL - FLORIANÓPOLIS",
+      "initial": 624,
+      "delta": -32,
+      "final": 592,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCIANO MOREIRAxxx"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 697,
+      "delta": 10,
+      "final": 707,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MESSIAS ANDRADE"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 707,
+      "delta": 8,
+      "final": 715,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JUAREZ SANTOS"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 715,
+      "delta": 8,
+      "final": 723,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSE MACHADO"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 723,
+      "delta": -12,
+      "final": 711,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIVAIL NETO"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 799,
+      "delta": -40,
+      "final": 759,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MESSIAS ANDRADE"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 759,
+      "delta": -10,
+      "final": 749,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 749,
+      "delta": -36,
+      "final": 713,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 713,
+      "delta": -16,
+      "final": 697,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "IVO GALLINDO"
+    },
+    {
+      "played_at": "2008-12-20T18:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 828,
+      "delta": -44,
+      "final": 784,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUKAS ANDRADE"
+    },
+    {
+      "played_at": "2008-12-20T14:40:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 763,
+      "delta": 80,
+      "final": 843,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOHN NAKAYAMA"
+    },
+    {
+      "played_at": "2008-12-19T20:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 743,
+      "delta": 20,
+      "final": 763,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "TSUYOSHI ARAKAKI"
+    },
+    {
+      "played_at": "2008-12-19T16:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 723,
+      "delta": 20,
+      "final": 743,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAURICIO WANDERLEY"
+    },
+    {
+      "played_at": "2008-12-19T14:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 731,
+      "delta": -8,
+      "final": 723,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NILTON TAKAOKA"
+    },
+    {
+      "played_at": "2008-12-19T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 722,
+      "delta": 0,
+      "final": 722,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE CLUBES - 2008 - FORTALEZA",
+      "initial": 758,
+      "delta": -36,
+      "final": 722,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTOVAM LIMA"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE CLUBES - 2008 - FORTALEZA",
+      "initial": 722,
+      "delta": 0,
+      "final": 722,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLO BASTOS"
+    },
+    {
+      "played_at": "2008-12-17T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - SELEÇÕES ESTADUAIS - FORTALEZA",
+      "initial": 766,
+      "delta": -8,
+      "final": 758,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NILTON TAKAOKA"
+    },
+    {
+      "played_at": "2007-12-15T08:25:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 740,
+      "delta": -4,
+      "final": 736,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2007-12-14T17:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 812,
+      "delta": -72,
+      "final": 740,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÉRGIO UEDA"
+    },
+    {
+      "played_at": "2007-12-13T10:55:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 740,
+      "delta": 72,
+      "final": 812,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALESSANDRO NETO"
+    },
+    {
+      "played_at": "2007-12-13T08:25:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 760,
+      "delta": -20,
+      "final": 740,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2007-12-12T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES SELEÇÕES ESTADUAIS",
+      "initial": 600,
+      "delta": 104,
+      "final": 704,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BIANOR COELHO"
+    },
+    {
+      "played_at": "2007-12-12T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES SELEÇÕES ESTADUAIS",
+      "initial": 704,
+      "delta": -8,
+      "final": 696,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ SANTOS"
+    },
+    {
+      "played_at": "2007-12-12T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES SELEÇÕES ESTADUAIS",
+      "initial": 696,
+      "delta": -4,
+      "final": 692,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2007-12-12T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES SELEÇÕES ESTADUAIS",
+      "initial": 692,
+      "delta": 20,
+      "final": 712,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SÉRGIO UEDA"
+    },
+    {
+      "played_at": "2007-12-12T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES SELEÇÕES ESTADUAIS",
+      "initial": 712,
+      "delta": 48,
+      "final": 760,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MILTON RIBAS"
+    },
+    {
+      "played_at": "2007-12-11T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES DE CLUBES",
+      "initial": 568,
+      "delta": -28,
+      "final": 540,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MILTON RIBAS"
+    },
+    {
+      "played_at": "2007-12-11T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES DE CLUBES",
+      "initial": 540,
+      "delta": 24,
+      "final": 564,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOCIMAR FERREIRA"
+    },
+    {
+      "played_at": "2007-12-11T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES DE CLUBES",
+      "initial": 564,
+      "delta": 36,
+      "final": 600,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MESSIAS ANDRADE"
+    },
+    {
+      "played_at": "2007-04-14T09:15:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 645,
+      "delta": -32,
+      "final": 613,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÉRGIO UEDA"
+    },
+    {
+      "played_at": "2007-04-13T18:10:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 645,
+      "delta": 0,
+      "final": 645,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NILTON TAKAOKA"
+    },
+    {
+      "played_at": "2007-04-12T20:55:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 659,
+      "delta": -14,
+      "final": 645,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCIANO MUNCH"
+    },
+    {
+      "played_at": "2007-04-12T17:35:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 691,
+      "delta": -32,
+      "final": 659,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PATRICK COSTA"
+    },
+    {
+      "played_at": "2007-04-12T13:50:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 713,
+      "delta": -22,
+      "final": 691,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EVALDO MORAES"
+    },
+    {
+      "played_at": "2007-04-12T09:15:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 695,
+      "delta": 18,
+      "final": 713,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAIO PERFETTI"
+    },
+    {
+      "played_at": "2006-12-17T09:15:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 708,
+      "delta": -18,
+      "final": 690,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO PEREIRA"
+    },
+    {
+      "played_at": "2006-12-16T19:30:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 686,
+      "delta": 22,
+      "final": 708,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2006-12-16T15:50:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 672,
+      "delta": 14,
+      "final": 686,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTOR EUGENIO"
+    },
+    {
+      "played_at": "2006-12-16T10:35:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 652,
+      "delta": 20,
+      "final": 672,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FRANCISCO MEDEIROS"
+    },
+    {
+      "played_at": "2006-12-15T19:25:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 652,
+      "delta": 0,
+      "final": 652,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NILTON TAKAOKA"
+    },
+    {
+      "played_at": "2006-12-15T16:20:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 658,
+      "delta": -6,
+      "final": 652,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IVO GALLINDO"
+    },
+    {
+      "played_at": "2006-12-15T13:00:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 646,
+      "delta": 12,
+      "final": 658,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE TORRES"
+    },
+    {
+      "played_at": "2006-12-10T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE EQUIPES DE SELEÇÕES ESTADUAIS 2006",
+      "initial": 652,
+      "delta": -6,
+      "final": 646,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IVO GALLINDO"
+    },
+    {
+      "played_at": "2006-09-08T18:20:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 649,
+      "delta": -18,
+      "final": 631,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIS VELAZQUEZ"
+    },
+    {
+      "played_at": "2006-09-08T15:50:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 627,
+      "delta": 22,
+      "final": 649,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MURILO SODRÉ"
+    },
+    {
+      "played_at": "2006-09-08T12:55:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 613,
+      "delta": 14,
+      "final": 627,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS BRESSAN"
+    },
+    {
+      "played_at": "2006-09-07T18:10:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 655,
+      "delta": 0,
+      "final": 655,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2006-09-07T16:10:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 667,
+      "delta": -12,
+      "final": 655,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HEITOR TASSO"
+    },
+    {
+      "played_at": "2006-09-07T13:40:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 665,
+      "delta": -10,
+      "final": 655,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IVO GALLINDO"
+    },
+    {
+      "played_at": "2006-09-07T10:05:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2006",
+      "initial": 604,
+      "delta": 52,
+      "final": 656,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBERTO ROGELIA"
+    },
+    {
+      "played_at": "2005-11-26T17:30:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2005",
+      "initial": 543,
+      "delta": -8,
+      "final": 535,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL ROCHA"
+    },
+    {
+      "played_at": "2005-11-26T14:00:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2005",
+      "initial": 555,
+      "delta": -12,
+      "final": 543,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADEMIR BIZOTO"
+    },
+    {
+      "played_at": "2005-11-25T14:00:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2005",
+      "initial": 557,
+      "delta": -6,
+      "final": 551,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IVO GALLINDO"
+    },
+    {
+      "played_at": "2005-11-25T11:00:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2005",
+      "initial": 557,
+      "delta": 0,
+      "final": 557,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2005-11-24T11:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE SELEÇÕES 2005",
+      "initial": 607,
+      "delta": -2,
+      "final": 605,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO BATISTA"
+    },
+    {
+      "played_at": "2005-11-23T12:30:00",
+      "event": "CAMPEONATO BRASILEIRO DE CLUBES 2005",
+      "initial": 607,
+      "delta": 0,
+      "final": 607,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA ............."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "associate_id": 92305,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92305&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-10T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 232,
+      "delta": -18,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-05-10T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR GROSSE ............."
+    }
+  ]
+}

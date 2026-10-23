@@ -1,0 +1,43 @@
+{
+  "associate_id": 91269,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91269&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T19:36:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 211,
+      "delta": 0,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JESSÉ SILVA"
+    },
+    {
+      "played_at": "2026-03-14T18:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 220,
+      "delta": -9,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YURE ZANATA"
+    },
+    {
+      "played_at": "2026-03-14T17:36:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FLAVIO LICO ............."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "associate_id": 90171,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90171&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T16:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 364,
+      "delta": -18,
+      "final": 346,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ISAC SARDI"
+    },
+    {
+      "played_at": "2026-05-09T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 322,
+      "delta": 42,
+      "final": 364,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MIGUEL REFUNDINI"
+    },
+    {
+      "played_at": "2026-05-09T12:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 298,
+      "delta": 24,
+      "final": 322,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "THIAGO SILVA"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 274,
+      "delta": 24,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NICOLAS BARBOSA"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 24,
+      "final": 274,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS CARDOSO ............."
+    }
+  ]
+}

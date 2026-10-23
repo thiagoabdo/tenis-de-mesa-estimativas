@@ -1,0 +1,31 @@
+{
+  "associate_id": 91267,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91267&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-15T09:36:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 217,
+      "delta": -15,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ VASCONCELOS"
+    },
+    {
+      "played_at": "2026-03-14T20:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LOPES ............."
+    }
+  ]
+}

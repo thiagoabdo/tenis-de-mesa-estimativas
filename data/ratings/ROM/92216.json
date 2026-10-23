@@ -1,0 +1,43 @@
+{
+  "associate_id": 92216,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92216&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-17T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 34,
+      "delta": 0,
+      "final": 34,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LEONARDO MICELI"
+    },
+    {
+      "played_at": "2026-05-17T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 232,
+      "delta": -198,
+      "final": 34,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THOMAS ENDO"
+    },
+    {
+      "played_at": "2026-05-17T11:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS MOREIRA ............."
+    }
+  ]
+}

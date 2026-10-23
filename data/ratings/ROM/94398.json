@@ -1,0 +1,67 @@
+{
+  "associate_id": 94398,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94398&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T17:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 373,
+      "delta": -27,
+      "final": 346,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATHEUS FIGUEREDO"
+    },
+    {
+      "played_at": "2026-08-01T14:20:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 340,
+      "delta": 33,
+      "final": 373,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXSANDER CAMPOS"
+    },
+    {
+      "played_at": "2026-08-01T12:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 319,
+      "delta": 21,
+      "final": 340,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELENO AMARAL"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 292,
+      "delta": 27,
+      "final": 319,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAMERSON DAVID"
+    },
+    {
+      "played_at": "2026-08-01T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": 42,
+      "final": 292,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FABIO RIVILI ............."
+    }
+  ]
+}

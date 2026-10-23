@@ -1,0 +1,43 @@
+{
+  "associate_id": 87711,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87711&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-20T10:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO LUCENA"
+    },
+    {
+      "played_at": "2026-06-20T09:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MEDEIROS"
+    },
+    {
+      "played_at": "2026-06-20T08:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ELIAS NETO ............."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "associate_id": 90709,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90709&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T12:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 214,
+      "delta": -21,
+      "final": 193,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENAN ALMEIDA"
+    },
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 232,
+      "delta": -18,
+      "final": 214,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINICIUS NEGRI"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 211,
+      "delta": 21,
+      "final": 232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI MARCARINI"
+    },
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 229,
+      "delta": -18,
+      "final": 211,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FABIO RIVILI"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": -21,
+      "final": 229,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CHRISTOFER KRIKI ............."
+    }
+  ]
+}

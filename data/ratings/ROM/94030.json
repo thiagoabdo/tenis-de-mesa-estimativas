@@ -1,0 +1,67 @@
+{
+  "associate_id": 94030,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94030&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T13:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 242,
+      "delta": -8,
+      "final": 234,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "GERVENSLEY TALON"
+    },
+    {
+      "played_at": "2026-07-05T13:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 248,
+      "delta": -6,
+      "final": 242,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUCAS WARKEN"
+    },
+    {
+      "played_at": "2026-07-05T11:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 254,
+      "delta": -6,
+      "final": 248,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUCAS WARKEN"
+    },
+    {
+      "played_at": "2026-07-05T08:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 260,
+      "delta": -6,
+      "final": 254,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DAVI CHAVES"
+    },
+    {
+      "played_at": "2026-07-05T08:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "PEDRO POLVORA ............."
+    }
+  ]
+}

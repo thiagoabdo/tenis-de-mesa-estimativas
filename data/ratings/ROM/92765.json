@@ -1,0 +1,43 @@
+{
+  "associate_id": 92765,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92765&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T17:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 259,
+      "delta": -18,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA MATIAS"
+    },
+    {
+      "played_at": "2026-05-09T10:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 286,
+      "delta": -27,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELA KAWANO"
+    },
+    {
+      "played_at": "2026-05-09T09:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 36,
+      "final": 286,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAVINIA GUSSO ............."
+    }
+  ]
+}

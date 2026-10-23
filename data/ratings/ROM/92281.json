@@ -1,0 +1,115 @@
+{
+  "associate_id": 92281,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92281&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-02T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 376,
+      "delta": 0,
+      "final": 376,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROGÉRIO MIURA"
+    },
+    {
+      "played_at": "2026-08-02T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 406,
+      "delta": -30,
+      "final": 376,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ODAIR JAREMTCHUK"
+    },
+    {
+      "played_at": "2026-05-10T11:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 412,
+      "delta": -6,
+      "final": 406,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RONNI NARDI"
+    },
+    {
+      "played_at": "2026-05-10T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 322,
+      "delta": 90,
+      "final": 412,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSIMAR SILVEIRA"
+    },
+    {
+      "played_at": "2026-05-10T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 244,
+      "delta": 78,
+      "final": 322,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIANO NARDI"
+    },
+    {
+      "played_at": "2026-05-10T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 244,
+      "delta": 0,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROGERIO LUZ"
+    },
+    {
+      "played_at": "2026-04-19T11:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 247,
+      "delta": -3,
+      "final": 244,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RONNI NARDI"
+    },
+    {
+      "played_at": "2026-04-19T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -3,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OCTAVIO BERNARDO"
+    },
+    {
+      "played_at": "2026-04-19T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HERNANI NIGRIN ............."
+    }
+  ]
+}

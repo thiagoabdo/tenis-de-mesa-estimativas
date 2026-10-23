@@ -1,0 +1,31 @@
+{
+  "associate_id": 92226,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92226&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-25T10:05:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 217,
+      "delta": -27,
+      "final": 190,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JORGE MATOS"
+    },
+    {
+      "played_at": "2026-04-25T08:25:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTOR LIMA ............."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "associate_id": 92738,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92738&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 232,
+      "delta": -24,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINÍCIUS TUTIDA"
+    },
+    {
+      "played_at": "2026-05-09T08:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAUAN TOMINAGA ............."
+    }
+  ]
+}

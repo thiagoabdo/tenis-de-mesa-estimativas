@@ -1,0 +1,91 @@
+{
+  "associate_id": 85525,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85525&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T18:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 438,
+      "delta": -27,
+      "final": 411,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VALMIR JUNIOR"
+    },
+    {
+      "played_at": "2026-05-09T16:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 348,
+      "delta": 90,
+      "final": 438,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FÁBIO GROCHOCKI"
+    },
+    {
+      "played_at": "2026-05-09T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 306,
+      "delta": 42,
+      "final": 348,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RODRIGO VIANNA"
+    },
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 276,
+      "delta": 30,
+      "final": 306,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS NASSIF"
+    },
+    {
+      "played_at": "2026-05-09T08:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 252,
+      "delta": 24,
+      "final": 276,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR ALEXANDRE"
+    },
+    {
+      "played_at": "2025-04-26T10:10:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 270,
+      "delta": -18,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ OLIVEIRA"
+    },
+    {
+      "played_at": "2025-04-26T08:30:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITOR FERNANDES ............."
+    }
+  ]
+}

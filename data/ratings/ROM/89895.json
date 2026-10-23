@@ -1,0 +1,79 @@
+{
+  "associate_id": 89895,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89895&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-02-22T13:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 308,
+      "delta": -30,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO FILHO"
+    },
+    {
+      "played_at": "2026-02-22T11:20:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 281,
+      "delta": 27,
+      "final": 308,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAUL COSTA"
+    },
+    {
+      "played_at": "2026-02-22T08:25:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 251,
+      "delta": 30,
+      "final": 281,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSE MAUES"
+    },
+    {
+      "played_at": "2026-02-22T08:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 224,
+      "delta": 27,
+      "final": 251,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDO SILVA"
+    },
+    {
+      "played_at": "2025-11-30T09:40:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 236,
+      "delta": -12,
+      "final": 224,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO COLARES"
+    },
+    {
+      "played_at": "2025-11-30T08:00:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 250,
+      "delta": -14,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHRISTOFFER SOUSA ............."
+    }
+  ]
+}

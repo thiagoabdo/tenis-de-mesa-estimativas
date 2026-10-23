@@ -1,0 +1,67 @@
+{
+  "associate_id": 91237,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91237&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-12T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 268,
+      "delta": -21,
+      "final": 247,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINÍCIUS GONÇALVES"
+    },
+    {
+      "played_at": "2026-03-07T18:20:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 277,
+      "delta": -9,
+      "final": 268,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS AZEVEDO"
+    },
+    {
+      "played_at": "2026-03-07T18:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 269,
+      "delta": 8,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO ASSUMPÇÃO"
+    },
+    {
+      "played_at": "2026-03-07T17:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 260,
+      "delta": 9,
+      "final": 269,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMUEL COSTA"
+    },
+    {
+      "played_at": "2026-03-07T16:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCO ALVARENGA ............."
+    }
+  ]
+}

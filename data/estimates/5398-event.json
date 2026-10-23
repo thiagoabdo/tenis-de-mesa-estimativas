@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "event_id": 5398,
+  "event_name": "5398 - TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 3,
+  "event_match_count": 3,
+  "estimated_match_count": 3,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5398-2020-001",
+      "event_id": 5398,
+      "category_id": 2020,
+      "category": "Classe 04 (MAS)",
+      "phase": "Classe 04 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "28/02/2026",
+      "time": "10:30",
+      "played_at": "2026-02-28T10:30:00",
+      "players": [
+        {
+          "name": "ECILDO OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONAS JÚNIOR",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ECILDO OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 1705,
+            "name": "ECILDO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1354,
+            "rating_change": 3,
+            "rating_after": 1357,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 81234,
+            "name": "JONAS JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 222,
+            "rating_change": 0,
+            "rating_after": 222,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5398-2020-002",
+      "event_id": 5398,
+      "category_id": 2020,
+      "category": "Classe 04 (MAS)",
+      "phase": "Classe 04 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 1,
+      "date": "28/02/2026",
+      "time": "11:00",
+      "played_at": "2026-02-28T11:00:00",
+      "players": [
+        {
+          "name": "ANTÔNIO SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONAS JÚNIOR",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANTÔNIO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80760,
+            "name": "ANTÔNIO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 759,
+            "rating_change": 6,
+            "rating_after": 765,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 81234,
+            "name": "JONAS JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 222,
+            "rating_change": 0,
+            "rating_after": 222,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5398-2020-003",
+      "event_id": 5398,
+      "category_id": 2020,
+      "category": "Classe 04 (MAS)",
+      "phase": "Classe 04 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "28/02/2026",
+      "time": "11:30",
+      "played_at": "2026-02-28T11:30:00",
+      "players": [
+        {
+          "name": "ECILDO OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTÔNIO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ECILDO OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 1705,
+            "name": "ECILDO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1357,
+            "rating_change": 6,
+            "rating_after": 1363,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 80760,
+            "name": "ANTÔNIO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 765,
+            "rating_change": 0,
+            "rating_after": 765,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    }
+  ]
+}

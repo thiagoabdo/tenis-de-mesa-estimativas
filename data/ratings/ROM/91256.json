@@ -1,0 +1,79 @@
+{
+  "associate_id": 91256,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91256&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T15:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 277,
+      "delta": -24,
+      "final": 253,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAIMON FIRMINO"
+    },
+    {
+      "played_at": "2026-03-01T13:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": 27,
+      "final": 277,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EMANUEL LUNA"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 262,
+      "delta": -12,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR DANIEL"
+    },
+    {
+      "played_at": "2026-03-01T08:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 232,
+      "delta": 30,
+      "final": 262,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ DANTAS"
+    },
+    {
+      "played_at": "2026-02-28T09:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 241,
+      "delta": -9,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IAGO SOUSA"
+    },
+    {
+      "played_at": "2026-02-28T08:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍS SILVA ............."
+    }
+  ]
+}

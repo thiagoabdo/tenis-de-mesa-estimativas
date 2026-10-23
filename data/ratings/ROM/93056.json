@@ -1,0 +1,31 @@
+{
+  "associate_id": 93056,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93056&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T09:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 223,
+      "delta": -12,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS BORGES"
+    },
+    {
+      "played_at": "2026-06-06T08:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 250,
+      "delta": -27,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCCA OLIVEIRA ............."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "associate_id": 92385,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92385&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-31T18:00:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 151,
+      "delta": -27,
+      "final": 124,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RONALD BARBOSA"
+    },
+    {
+      "played_at": "2026-07-31T17:10:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 250,
+      "delta": -99,
+      "final": 151,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERTO MORAND ............."
+    }
+  ]
+}

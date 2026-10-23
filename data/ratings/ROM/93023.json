@@ -1,0 +1,43 @@
+{
+  "associate_id": 93023,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93023&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-05T10:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 202,
+      "delta": -66,
+      "final": 136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL ALMEIDA"
+    },
+    {
+      "played_at": "2026-06-05T09:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 220,
+      "delta": -18,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISAQUE CARVALHO"
+    },
+    {
+      "played_at": "2026-06-05T08:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTONIO DANTAS ............."
+    }
+  ]
+}

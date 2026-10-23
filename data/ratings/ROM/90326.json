@@ -1,0 +1,511 @@
+{
+  "associate_id": 90326,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90326&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-13T18:25:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 343,
+      "delta": -18,
+      "final": 325,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "TATIANA MARTINS"
+    },
+    {
+      "played_at": "2026-09-13T17:35:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 313,
+      "delta": 30,
+      "final": 343,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-09-13T15:30:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 349,
+      "delta": -36,
+      "final": 313,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "KARINE ARAUJO"
+    },
+    {
+      "played_at": "2026-09-13T10:55:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 325,
+      "delta": 24,
+      "final": 349,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GABRIELA FERREIRA"
+    },
+    {
+      "played_at": "2026-09-11T18:50:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 328,
+      "delta": -3,
+      "final": 325,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIN BRAGA"
+    },
+    {
+      "played_at": "2026-09-11T18:00:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 337,
+      "delta": -9,
+      "final": 328,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SOFIA PAULA"
+    },
+    {
+      "played_at": "2026-09-11T17:10:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 319,
+      "delta": 18,
+      "final": 337,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUISA MELO"
+    },
+    {
+      "played_at": "2026-09-11T13:25:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 319,
+      "delta": 0,
+      "final": 319,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLE LIMA"
+    },
+    {
+      "played_at": "2026-09-11T11:20:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 349,
+      "delta": -30,
+      "final": 319,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SOPHIA ANDRADE"
+    },
+    {
+      "played_at": "2026-08-23T08:00:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 385,
+      "delta": -36,
+      "final": 349,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIAH RIBEIRO"
+    },
+    {
+      "played_at": "2026-08-22T16:20:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 367,
+      "delta": 18,
+      "final": 385,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VICTORIA LIMA"
+    },
+    {
+      "played_at": "2026-08-22T15:05:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 343,
+      "delta": 24,
+      "final": 367,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-08-22T14:15:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 325,
+      "delta": 18,
+      "final": 343,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCELLA SALOMAO"
+    },
+    {
+      "played_at": "2026-08-21T15:30:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 301,
+      "delta": 24,
+      "final": 325,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-08-21T14:40:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 301,
+      "delta": 0,
+      "final": 301,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LARA MARTINS"
+    },
+    {
+      "played_at": "2026-08-21T13:50:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 316,
+      "delta": -15,
+      "final": 301,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SOFIA PAULA"
+    },
+    {
+      "played_at": "2026-08-21T10:55:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 316,
+      "delta": 0,
+      "final": 316,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA MESQUITA"
+    },
+    {
+      "played_at": "2026-08-21T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 316,
+      "delta": 0,
+      "final": 316,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLE LIMA"
+    },
+    {
+      "played_at": "2026-08-21T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 289,
+      "delta": 27,
+      "final": 316,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIAH RIBEIRO"
+    },
+    {
+      "played_at": "2026-08-02T13:50:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 307,
+      "delta": -18,
+      "final": 289,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VALENTINA RAWICZ"
+    },
+    {
+      "played_at": "2026-08-02T13:00:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 208,
+      "delta": 99,
+      "final": 307,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-08-02T11:20:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 145,
+      "delta": 63,
+      "final": 208,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NADIA CORTES"
+    },
+    {
+      "played_at": "2026-08-02T10:05:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 145,
+      "delta": 0,
+      "final": 145,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SOFIA CALDERANO"
+    },
+    {
+      "played_at": "2026-07-31T14:40:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 145,
+      "delta": 0,
+      "final": 145,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIN BRAGA"
+    },
+    {
+      "played_at": "2026-07-31T14:15:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 145,
+      "delta": 0,
+      "final": 145,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZA SANTOS"
+    },
+    {
+      "played_at": "2026-05-21T15:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 199,
+      "delta": -54,
+      "final": 145,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMILY FOGAGNOLO"
+    },
+    {
+      "played_at": "2026-05-20T18:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 397,
+      "delta": -198,
+      "final": 199,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAÍS SILVA"
+    },
+    {
+      "played_at": "2026-04-25T16:20:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 427,
+      "delta": -30,
+      "final": 397,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAISSA SILVA"
+    },
+    {
+      "played_at": "2026-04-25T15:30:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 409,
+      "delta": 18,
+      "final": 427,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MAGACHO"
+    },
+    {
+      "played_at": "2026-04-25T13:50:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 388,
+      "delta": 21,
+      "final": 409,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LÍVIA FIGUEIREDO"
+    },
+    {
+      "played_at": "2026-04-24T21:48:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 391,
+      "delta": -3,
+      "final": 388,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LARA MARTINS"
+    },
+    {
+      "played_at": "2026-04-24T14:52:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 364,
+      "delta": 27,
+      "final": 391,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA RIBEIRO"
+    },
+    {
+      "played_at": "2026-04-24T10:30:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 337,
+      "delta": 27,
+      "final": 364,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-04-24T09:40:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 370,
+      "delta": -33,
+      "final": 337,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SOFIA PAULA"
+    },
+    {
+      "played_at": "2026-04-24T08:50:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 349,
+      "delta": 21,
+      "final": 370,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LÍVIA FIGUEIREDO"
+    },
+    {
+      "played_at": "2026-03-08T17:10:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 373,
+      "delta": -24,
+      "final": 349,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAISSA SILVA"
+    },
+    {
+      "played_at": "2026-03-08T15:30:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 325,
+      "delta": 48,
+      "final": 373,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-03-08T14:40:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 307,
+      "delta": 18,
+      "final": 325,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THAÍS PAIVA"
+    },
+    {
+      "played_at": "2026-03-07T11:45:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 238,
+      "delta": 69,
+      "final": 307,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YASMIN BRAGA"
+    },
+    {
+      "played_at": "2026-03-07T10:55:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MANUELA PEREIRA"
+    },
+    {
+      "played_at": "2026-03-07T10:05:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARA MARTINS"
+    },
+    {
+      "played_at": "2026-03-07T08:25:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VALENTINA RAWICZ ............."
+    }
+  ]
+}

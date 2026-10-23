@@ -1,0 +1,43 @@
+{
+  "associate_id": 92767,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92767&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T12:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 247,
+      "delta": -30,
+      "final": 217,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO MALAMIN"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 217,
+      "delta": 30,
+      "final": 247,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TIAGO FERREIRA"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINICIUS OLIVEIRA ............."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "associate_id": 91266,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91266&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T20:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 226,
+      "delta": -27,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENALDO BEZERRA"
+    },
+    {
+      "played_at": "2026-03-14T18:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DEILSON SILVA ............."
+    }
+  ]
+}

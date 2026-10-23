@@ -1,0 +1,55 @@
+{
+  "associate_id": 87078,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87078&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-02T15:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 214,
+      "delta": 24,
+      "final": 238,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DEIZI LÚCIA"
+    },
+    {
+      "played_at": "2026-08-02T13:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 220,
+      "delta": -6,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LIJANE BELUSSO"
+    },
+    {
+      "played_at": "2026-08-02T12:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 241,
+      "delta": -21,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAGALI COSTA"
+    },
+    {
+      "played_at": "2026-08-02T11:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VENELIZA SAVOLDI ............."
+    }
+  ]
+}

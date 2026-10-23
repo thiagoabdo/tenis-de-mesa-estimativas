@@ -1,0 +1,31 @@
+{
+  "associate_id": 92696,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92696&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T09:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 240,
+      "delta": -6,
+      "final": 234,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MURILO BUSSOLOTO"
+    },
+    {
+      "played_at": "2026-07-05T09:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VICENTE FARIAS ............."
+    }
+  ]
+}

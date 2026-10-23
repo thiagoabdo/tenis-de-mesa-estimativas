@@ -1,0 +1,67 @@
+{
+  "associate_id": 92734,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92734&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-27T11:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 277,
+      "delta": -18,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADHORA FERREIRA"
+    },
+    {
+      "played_at": "2026-06-27T08:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 313,
+      "delta": -36,
+      "final": 277,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHELLE AKIYOSHI"
+    },
+    {
+      "played_at": "2026-05-09T17:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 328,
+      "delta": -15,
+      "final": 313,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LIZ OKUZONO"
+    },
+    {
+      "played_at": "2026-05-09T10:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 304,
+      "delta": 24,
+      "final": 328,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALICE BLANCO"
+    },
+    {
+      "played_at": "2026-05-09T09:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 54,
+      "final": 304,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BIANCA CAMARGO ............."
+    }
+  ]
+}

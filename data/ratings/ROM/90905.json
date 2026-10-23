@@ -1,0 +1,55 @@
+{
+  "associate_id": 90905,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90905&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-02-28T14:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 322,
+      "delta": -27,
+      "final": 295,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO LEVANDOVSKI"
+    },
+    {
+      "played_at": "2026-02-28T12:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 298,
+      "delta": 24,
+      "final": 322,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NILSON AQUINO"
+    },
+    {
+      "played_at": "2026-02-28T11:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 274,
+      "delta": 24,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CÉSAR FONSECA"
+    },
+    {
+      "played_at": "2026-02-28T09:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": 24,
+      "final": 274,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ CABRAL ............."
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "schema_version": 1,
+  "event_id": 5397,
+  "event_name": "5397 - TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 3,
+  "event_match_count": 10,
+  "estimated_match_count": 10,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5397-58-001",
+      "event_id": 5397,
+      "category_id": 58,
+      "category": "ABSOLUTO B MAS",
+      "phase": "ABSOLUTO B MAS - Semi Final",
+      "game_number": 1,
+      "table": 5,
+      "date": "01/03/2026",
+      "time": "16:30",
+      "played_at": "2026-03-01T16:30:00",
+      "players": [
+        {
+          "name": "CELIO GURGEL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "KELINSON SILVA - GUILHERME NASCIMENTO",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            3,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "CELIO GURGEL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 19872,
+            "name": "CELIO GURGEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 2224,
+            "rating_change": 30,
+            "rating_after": 2254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "KELINSON SILVA - GUILHERME NASCIMENTO",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": -24,
+            "rating_after": 2200,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-59-001",
+      "event_id": 5397,
+      "category_id": 59,
+      "category": "ABSOLUTO C MAS",
+      "phase": "ABSOLUTO C MAS - Semi Final",
+      "game_number": 1,
+      "table": 1,
+      "date": "01/03/2026",
+      "time": "16:30",
+      "played_at": "2026-03-01T16:30:00",
+      "players": [
+        {
+          "name": "NICKOLAS SILVA - MIKHAELL ARAUJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALDENIR NETO - ROBSON SILVA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            3,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "NICKOLAS SILVA - MIKHAELL ARAUJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "NICKOLAS SILVA - MIKHAELL ARAUJO",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 30,
+            "rating_after": 2254,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ALDENIR NETO - ROBSON SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": -24,
+            "rating_after": 2200,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-59-002",
+      "event_id": 5397,
+      "category_id": 59,
+      "category": "ABSOLUTO C MAS",
+      "phase": "ABSOLUTO C MAS - Semi Final",
+      "game_number": 2,
+      "table": 2,
+      "date": "01/03/2026",
+      "time": "16:30",
+      "played_at": "2026-03-01T16:30:00",
+      "players": [
+        {
+          "name": "PEDRO SIQUEIRA - ALAN MACEDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SANTOS - JULIO MELO",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PEDRO SIQUEIRA - ALAN MACEDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "PEDRO SIQUEIRA - ALAN MACEDO",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 30,
+            "rating_after": 2254,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL SANTOS - JULIO MELO",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": -24,
+            "rating_after": 2200,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-111-001",
+      "event_id": 5397,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Quartas de Final",
+      "game_number": 1,
+      "table": 3,
+      "date": "01/03/2026",
+      "time": "16:30",
+      "played_at": "2026-03-01T16:30:00",
+      "players": [
+        {
+          "name": "KAIO JUNIOR - BERNARDO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO CAMELO - ARTUR COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "JOÃO CAMELO - ARTUR COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "KAIO JUNIOR - BERNARDO OLIVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": -24,
+            "rating_after": 2200,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "JOÃO CAMELO - ARTUR COSTA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 30,
+            "rating_after": 2254,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-111-002",
+      "event_id": 5397,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Quartas de Final",
+      "game_number": 2,
+      "table": 4,
+      "date": "01/03/2026",
+      "time": "16:30",
+      "played_at": "2026-03-01T16:30:00",
+      "players": [
+        {
+          "name": "CAUÃ SOUZA - LUÍS SILVA",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            13,
+            11,
+            8,
+            12
+          ]
+        },
+        {
+          "name": "LUIZ VALENTE - SAIMON FIRMINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            7,
+            11,
+            10
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "CAUÃ SOUZA - LUÍS SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "CAUÃ SOUZA - LUÍS SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 30,
+            "rating_after": 2254,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUIZ VALENTE - SAIMON FIRMINO",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": -24,
+            "rating_after": 2200,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-111-003",
+      "event_id": 5397,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Semi Final",
+      "game_number": 3,
+      "table": 1,
+      "date": "01/03/2026",
+      "time": "17:00",
+      "played_at": "2026-03-01T17:00:00",
+      "players": [
+        {
+          "name": "ELIAS NETO - JOÃO SOUSA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO CAMELO - ARTUR COSTA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            6,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ELIAS NETO - JOÃO SOUSA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ELIAS NETO - JOÃO SOUSA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 36,
+            "rating_after": 2260,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "JOÃO CAMELO - ARTUR COSTA",
+            "associate_id_source": "name_only",
+            "rating_before": 2254,
+            "rating_change": -30,
+            "rating_after": 2224,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-111-004",
+      "event_id": 5397,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Semi Final",
+      "game_number": 4,
+      "table": 2,
+      "date": "01/03/2026",
+      "time": "17:00",
+      "played_at": "2026-03-01T17:00:00",
+      "players": [
+        {
+          "name": "JOSÉ JÚNIOR - PEDRO SILVA",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ SOUZA - LUÍS SILVA",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            4,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOSÉ JÚNIOR - PEDRO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOSÉ JÚNIOR - PEDRO SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 36,
+            "rating_after": 2260,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "CAUÃ SOUZA - LUÍS SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 2254,
+            "rating_change": -30,
+            "rating_after": 2224,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-58-002",
+      "event_id": 5397,
+      "category_id": 58,
+      "category": "ABSOLUTO B MAS",
+      "phase": "ABSOLUTO B MAS - Final",
+      "game_number": 2,
+      "table": 3,
+      "date": "01/03/2026",
+      "time": "17:30",
+      "played_at": "2026-03-01T17:30:00",
+      "players": [
+        {
+          "name": "FELIX JUNIOR - TAUÃ OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            6,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "CELIO GURGEL",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            5,
+            11,
+            4,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "FELIX JUNIOR - TAUÃ OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "FELIX JUNIOR - TAUÃ OLIVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 2224,
+            "rating_change": 36,
+            "rating_after": 2260,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 19872,
+            "name": "CELIO GURGEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 2254,
+            "rating_change": -30,
+            "rating_after": 2224,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-59-003",
+      "event_id": 5397,
+      "category_id": 59,
+      "category": "ABSOLUTO C MAS",
+      "phase": "ABSOLUTO C MAS - Final",
+      "game_number": 3,
+      "table": 4,
+      "date": "01/03/2026",
+      "time": "17:30",
+      "played_at": "2026-03-01T17:30:00",
+      "players": [
+        {
+          "name": "NICKOLAS SILVA - MIKHAELL ARAUJO",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            8,
+            11,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO SIQUEIRA - ALAN MACEDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            6,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "PEDRO SIQUEIRA - ALAN MACEDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "NICKOLAS SILVA - MIKHAELL ARAUJO",
+            "associate_id_source": "name_only",
+            "rating_before": 2254,
+            "rating_change": -24,
+            "rating_after": 2230,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "PEDRO SIQUEIRA - ALAN MACEDO",
+            "associate_id_source": "name_only",
+            "rating_before": 2254,
+            "rating_change": 30,
+            "rating_after": 2284,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5397-111-005",
+      "event_id": 5397,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Final",
+      "game_number": 5,
+      "table": 2,
+      "date": "01/03/2026",
+      "time": "17:30",
+      "played_at": "2026-03-01T17:30:00",
+      "players": [
+        {
+          "name": "ELIAS NETO - JOÃO SOUSA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ JÚNIOR - PEDRO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ELIAS NETO - JOÃO SOUSA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ELIAS NETO - JOÃO SOUSA",
+            "associate_id_source": "name_only",
+            "rating_before": 2260,
+            "rating_change": 30,
+            "rating_after": 2290,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "JOSÉ JÚNIOR - PEDRO SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 2260,
+            "rating_change": -24,
+            "rating_after": 2236,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "associate_id": 92975,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92975&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T16:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 184,
+      "delta": -30,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS SOUZA"
+    },
+    {
+      "played_at": "2026-06-06T15:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 250,
+      "delta": -66,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO OLIVEIRA ............."
+    }
+  ]
+}

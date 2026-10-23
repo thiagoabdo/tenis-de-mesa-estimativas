@@ -1,0 +1,535 @@
+{
+  "associate_id": 83073,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=83073&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-18T17:30:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 291,
+      "delta": -30,
+      "final": 261,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR JUNQUEIRA"
+    },
+    {
+      "played_at": "2026-09-18T16:30:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 291,
+      "delta": 0,
+      "final": 291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LINCOLN LACERDA"
+    },
+    {
+      "played_at": "2026-09-18T15:00:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 291,
+      "delta": 0,
+      "final": 291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANKLIN ALVES"
+    },
+    {
+      "played_at": "2026-09-18T13:30:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 291,
+      "delta": 0,
+      "final": 291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME SILVA"
+    },
+    {
+      "played_at": "2026-06-26T16:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas/TO - 2026",
+      "initial": 210,
+      "delta": 81,
+      "final": 291,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAIMUNDO JUNIOR"
+    },
+    {
+      "played_at": "2026-06-26T15:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas/TO - 2026",
+      "initial": 237,
+      "delta": -27,
+      "final": 210,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MATEUS PIRK"
+    },
+    {
+      "played_at": "2026-06-26T14:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas/TO - 2026",
+      "initial": 417,
+      "delta": -180,
+      "final": 237,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO PEREIRA"
+    },
+    {
+      "played_at": "2026-06-14T18:00:00",
+      "event": "TMB Distrital - 3ª Etapa Brasília/DF - 2026",
+      "initial": 432,
+      "delta": -15,
+      "final": 417,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ITHAN OLIVEIRA"
+    },
+    {
+      "played_at": "2026-06-14T17:00:00",
+      "event": "TMB Distrital - 3ª Etapa Brasília/DF - 2026",
+      "initial": 378,
+      "delta": 54,
+      "final": 432,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO GOMES"
+    },
+    {
+      "played_at": "2026-06-14T16:00:00",
+      "event": "TMB Distrital - 3ª Etapa Brasília/DF - 2026",
+      "initial": 318,
+      "delta": 60,
+      "final": 378,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2026-05-14T10:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 354,
+      "delta": -36,
+      "final": 318,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GEORGE ARAUJO"
+    },
+    {
+      "played_at": "2026-05-14T09:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 354,
+      "delta": 0,
+      "final": 354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME SILVA"
+    },
+    {
+      "played_at": "2026-02-05T10:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 354,
+      "delta": 0,
+      "final": 354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANKLIN ALVES"
+    },
+    {
+      "played_at": "2026-02-04T16:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 354,
+      "delta": 0,
+      "final": 354,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DEMÉTRIUS REIS"
+    },
+    {
+      "played_at": "2025-11-09T11:00:00",
+      "event": "TMB Distrital - 8ª Etapa Brasília/DF - 2025",
+      "initial": 370,
+      "delta": -16,
+      "final": 354,
+      "score": [
+        0,
+        4
+      ],
+      "opponent": "ARTHUR JUNQUEIRA"
+    },
+    {
+      "played_at": "2025-11-09T10:00:00",
+      "event": "TMB Distrital - 8ª Etapa Brasília/DF - 2025",
+      "initial": 354,
+      "delta": 16,
+      "final": 370,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO.MIGUEL MARCOS"
+    },
+    {
+      "played_at": "2025-11-09T09:30:00",
+      "event": "TMB Distrital - 8ª Etapa Brasília/DF - 2025",
+      "initial": 308,
+      "delta": 46,
+      "final": 354,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO GOMES"
+    },
+    {
+      "played_at": "2025-10-18T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/ GO - 2025",
+      "initial": 278,
+      "delta": 30,
+      "final": 308,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATAS RODRIGUES"
+    },
+    {
+      "played_at": "2025-10-18T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/ GO - 2025",
+      "initial": 278,
+      "delta": 0,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANKLIN ALVES"
+    },
+    {
+      "played_at": "2025-10-18T09:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/ GO - 2025",
+      "initial": 278,
+      "delta": 0,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO NARVAIS"
+    },
+    {
+      "played_at": "2025-09-07T18:00:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Paraolímpico - Ranking -",
+      "initial": 290,
+      "delta": -12,
+      "final": 278,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR JUNQUEIRA"
+    },
+    {
+      "played_at": "2025-09-07T17:30:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Paraolímpico - Ranking -",
+      "initial": 300,
+      "delta": -10,
+      "final": 290,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ITHAN OLIVEIRA"
+    },
+    {
+      "played_at": "2025-09-07T17:00:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Paraolímpico - Ranking -",
+      "initial": 306,
+      "delta": -6,
+      "final": 300,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2025-09-07T16:30:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Paraolímpico - Ranking -",
+      "initial": 292,
+      "delta": 14,
+      "final": 306,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI SILVA"
+    },
+    {
+      "played_at": "2025-08-17T18:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 317,
+      "delta": -25,
+      "final": 292,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAIO AMORIM"
+    },
+    {
+      "played_at": "2025-08-17T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 332,
+      "delta": -15,
+      "final": 317,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TIAGO FREITAS"
+    },
+    {
+      "played_at": "2025-08-17T16:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 287,
+      "delta": 45,
+      "final": 332,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DAVI SILVA"
+    },
+    {
+      "played_at": "2025-08-17T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 342,
+      "delta": -55,
+      "final": 287,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-06-15T09:30:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2025",
+      "initial": 350,
+      "delta": -8,
+      "final": 342,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2025-06-15T08:30:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2025",
+      "initial": 374,
+      "delta": -24,
+      "final": 350,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR JUNQUEIRA"
+    },
+    {
+      "played_at": "2025-05-18T18:00:00",
+      "event": "TMB Distrital - 3ª Etapa Brasilia/DF - 2025",
+      "initial": 382,
+      "delta": -8,
+      "final": 374,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2025-05-18T17:30:00",
+      "event": "TMB Distrital - 3ª Etapa Brasilia/DF - 2025",
+      "initial": 368,
+      "delta": 14,
+      "final": 382,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR JUNQUEIRA"
+    },
+    {
+      "played_at": "2025-04-13T19:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasilia/DF - 2025",
+      "initial": 328,
+      "delta": 40,
+      "final": 368,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2025-04-13T18:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasilia/DF - 2025",
+      "initial": 310,
+      "delta": 18,
+      "final": 328,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI SILVA"
+    },
+    {
+      "played_at": "2025-04-13T18:00:00",
+      "event": "TMB Distrital - 2ª Etapa Brasilia/DF - 2025",
+      "initial": 330,
+      "delta": -20,
+      "final": 310,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO GOMES"
+    },
+    {
+      "played_at": "2025-04-13T17:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasilia/DF - 2025",
+      "initial": 354,
+      "delta": -24,
+      "final": 330,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ITHAN OLIVEIRA"
+    },
+    {
+      "played_at": "2025-03-16T12:00:00",
+      "event": "TMB Distrital - 1ª Etapa Brasilia/DF - 2025",
+      "initial": 342,
+      "delta": 12,
+      "final": 354,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO.MIGUEL MARCOS"
+    },
+    {
+      "played_at": "2025-03-16T11:30:00",
+      "event": "TMB Distrital - 1ª Etapa Brasilia/DF - 2025",
+      "initial": 346,
+      "delta": -4,
+      "final": 342,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2025-03-16T11:00:00",
+      "event": "TMB Distrital - 1ª Etapa Brasilia/DF - 2025",
+      "initial": 330,
+      "delta": 16,
+      "final": 346,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ITHAN OLIVEIRA"
+    },
+    {
+      "played_at": "2025-03-16T10:30:00",
+      "event": "TMB Distrital - 1ª Etapa Brasilia/DF - 2025",
+      "initial": 306,
+      "delta": 24,
+      "final": 330,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO GOMES"
+    },
+    {
+      "played_at": "2024-11-17T14:30:00",
+      "event": "TMB Distrital - 6ª Etapa Brasilia/DF - 2024 ...",
+      "initial": 310,
+      "delta": -4,
+      "final": 306,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WASHINGTON CASTRO"
+    },
+    {
+      "played_at": "2024-11-17T14:00:00",
+      "event": "TMB Distrital - 6ª Etapa Brasilia/DF - 2024 ...",
+      "initial": 290,
+      "delta": 20,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALISSON SANTOS"
+    },
+    {
+      "played_at": "2024-11-17T13:00:00",
+      "event": "TMB Distrital - 6ª Etapa Brasilia/DF - 2024 ...",
+      "initial": 270,
+      "delta": 20,
+      "final": 290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KEYSON SOUTO"
+    },
+    {
+      "played_at": "2024-11-17T12:30:00",
+      "event": "TMB Distrital - 6ª Etapa Brasilia/DF - 2024 ...",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR JUNQUEIRA ............."
+    }
+  ]
+}

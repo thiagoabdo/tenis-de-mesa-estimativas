@@ -1,0 +1,1238 @@
+{
+  "schema_version": 1,
+  "event_id": 5565,
+  "event_name": "5565 - TMB Estadual - Campeonato Mineiro",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 3,
+  "event_match_count": 18,
+  "estimated_match_count": 18,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5565-2024-001",
+      "event_id": 5565,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "08:00",
+      "played_at": "2026-04-11T08:00:00",
+      "players": [
+        {
+          "name": "JOÃO CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONATAS RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            2,
+            1,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29165,
+            "name": "JOÃO CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 393,
+            "rating_change": 15,
+            "rating_after": 408,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 82171,
+            "name": "JONATAS RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 107,
+            "rating_change": -9,
+            "rating_after": 98,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-001",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "11/04/2026",
+      "time": "08:20",
+      "played_at": "2026-04-11T08:20:00",
+      "players": [
+        {
+          "name": "LUCAS CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            7,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "REINALDO SALES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57055,
+            "name": "LUCAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 612,
+            "rating_change": -54,
+            "rating_after": 558,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -66
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 69,
+            "rating_after": 319,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 90
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-002",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 2,
+      "table": 2,
+      "date": "11/04/2026",
+      "time": "08:20",
+      "played_at": "2026-04-11T08:20:00",
+      "players": [
+        {
+          "name": "PAULO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MOURA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60582,
+            "name": "PAULO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 218,
+            "rating_change": 33,
+            "rating_after": 251,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 85540,
+            "name": "JOSÉ MOURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 220,
+            "rating_change": -27,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-003",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 3,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "08:20",
+      "played_at": "2026-04-11T08:20:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            5,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 323,
+            "rating_change": 21,
+            "rating_after": 344,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 181,
+            "rating_change": -15,
+            "rating_after": 166,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2024-002",
+      "event_id": 5565,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "08:40",
+      "played_at": "2026-04-11T08:40:00",
+      "players": [
+        {
+          "name": "CAIO AMORIM",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONATAS RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            3,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CAIO AMORIM",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 32466,
+            "name": "CAIO AMORIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 267,
+            "rating_change": 18,
+            "rating_after": 285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 82171,
+            "name": "JONATAS RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 98,
+            "rating_change": -12,
+            "rating_after": 86,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-004",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 01",
+      "game_number": 4,
+      "table": 1,
+      "date": "11/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-11T09:00:00",
+      "players": [
+        {
+          "name": "PAULO ARAUJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            8,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO ARAUJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78556,
+            "name": "PAULO ARAUJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 657,
+            "rating_change": 12,
+            "rating_after": 669,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 319,
+            "rating_change": -6,
+            "rating_after": 313,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-005",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 5,
+      "table": 2,
+      "date": "11/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-11T09:00:00",
+      "players": [
+        {
+          "name": "PAULO CAMPOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ALVARO LACERDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60582,
+            "name": "PAULO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 251,
+            "rating_change": -33,
+            "rating_after": 218,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 166,
+            "rating_change": 42,
+            "rating_after": 208,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-006",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 6,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-11T09:00:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MOURA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 344,
+            "rating_change": 18,
+            "rating_after": 362,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 85540,
+            "name": "JOSÉ MOURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 193,
+            "rating_change": -12,
+            "rating_after": 181,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2024-003",
+      "event_id": 5565,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "09:20",
+      "played_at": "2026-04-11T09:20:00",
+      "players": [
+        {
+          "name": "JOÃO CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "CAIO AMORIM",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            5,
+            11,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "JOÃO CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29165,
+            "name": "JOÃO CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 408,
+            "rating_change": 21,
+            "rating_after": 429,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 32466,
+            "name": "CAIO AMORIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 285,
+            "rating_change": -15,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-007",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 01",
+      "game_number": 7,
+      "table": 1,
+      "date": "11/04/2026",
+      "time": "09:40",
+      "played_at": "2026-04-11T09:40:00",
+      "players": [
+        {
+          "name": "LUCAS CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            6,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PAULO ARAUJO",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PAULO ARAUJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57055,
+            "name": "LUCAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 558,
+            "rating_change": -15,
+            "rating_after": 543,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          },
+          {
+            "associate_id": 78556,
+            "name": "PAULO ARAUJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 669,
+            "rating_change": 21,
+            "rating_after": 690,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 48
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-008",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 8,
+      "table": 2,
+      "date": "11/04/2026",
+      "time": "09:40",
+      "played_at": "2026-04-11T09:40:00",
+      "players": [
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MOURA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALVARO LACERDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 208,
+            "rating_change": 27,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 85540,
+            "name": "JOSÉ MOURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 181,
+            "rating_change": -21,
+            "rating_after": 160,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-009",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 9,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "09:40",
+      "played_at": "2026-04-11T09:40:00",
+      "players": [
+        {
+          "name": "PAULO CAMPOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60582,
+            "name": "PAULO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 218,
+            "rating_change": -15,
+            "rating_after": 203,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 362,
+            "rating_change": 21,
+            "rating_after": 383,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2025-001",
+      "event_id": 5565,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-11T10:00:00",
+      "players": [
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EDMUNDO NETO",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            6,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ CIRINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 537,
+            "rating_change": 12,
+            "rating_after": 549,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 88189,
+            "name": "EDMUNDO NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -6,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2025-002",
+      "event_id": 5565,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 1,
+      "date": "11/04/2026",
+      "time": "10:20",
+      "played_at": "2026-04-11T10:20:00",
+      "players": [
+        {
+          "name": "ANDRE SOARES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            10,
+            7,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "EDMUNDO NETO",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            12,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "EDMUNDO NETO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88180,
+            "name": "ANDRE SOARES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -30,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          },
+          {
+            "associate_id": 88189,
+            "name": "EDMUNDO NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": 36,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-010",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Semi Final",
+      "game_number": 10,
+      "table": 2,
+      "date": "11/04/2026",
+      "time": "10:20",
+      "played_at": "2026-04-11T10:20:00",
+      "players": [
+        {
+          "name": "PAULO ARAUJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            5,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO ARAUJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78556,
+            "name": "PAULO ARAUJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 690,
+            "rating_change": 9,
+            "rating_after": 699,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": -3,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-011",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Semi Final",
+      "game_number": 11,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "10:20",
+      "played_at": "2026-04-11T10:20:00",
+      "players": [
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "REINALDO SALES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 313,
+            "rating_change": 42,
+            "rating_after": 355,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 383,
+            "rating_change": -33,
+            "rating_after": 350,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -66
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2025-003",
+      "event_id": 5565,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 3,
+      "date": "11/04/2026",
+      "time": "10:40",
+      "played_at": "2026-04-11T10:40:00",
+      "players": [
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDRE SOARES",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ CIRINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 549,
+            "rating_change": 12,
+            "rating_after": 561,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 88180,
+            "name": "ANDRE SOARES",
+            "associate_id_source": "event_roster",
+            "rating_before": 220,
+            "rating_change": -6,
+            "rating_after": 214,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5565-2026-012",
+      "event_id": 5565,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Final",
+      "game_number": 12,
+      "table": 2,
+      "date": "11/04/2026",
+      "time": "10:40",
+      "played_at": "2026-04-11T10:40:00",
+      "players": [
+        {
+          "name": "PAULO ARAUJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            3,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO ARAUJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78556,
+            "name": "PAULO ARAUJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 699,
+            "rating_change": 12,
+            "rating_after": 711,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 355,
+            "rating_change": -6,
+            "rating_after": 349,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    }
+  ]
+}

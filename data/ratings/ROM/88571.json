@@ -1,0 +1,943 @@
+{
+  "associate_id": 88571,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=88571&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-06T12:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1212,
+      "delta": -144,
+      "final": 1068,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS CARDOSO"
+    },
+    {
+      "played_at": "2026-09-06T10:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1149,
+      "delta": 63,
+      "final": 1212,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YURI FONTES"
+    },
+    {
+      "played_at": "2026-09-06T08:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1257,
+      "delta": -108,
+      "final": 1149,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VICTOR CARNEIRO"
+    },
+    {
+      "played_at": "2026-09-05T20:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1077,
+      "delta": 180,
+      "final": 1257,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL LIMA"
+    },
+    {
+      "played_at": "2026-09-05T10:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1077,
+      "delta": 0,
+      "final": 1077,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALAN MACEDO"
+    },
+    {
+      "played_at": "2026-09-05T09:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1032,
+      "delta": 45,
+      "final": 1077,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DIRCEU SOUZA"
+    },
+    {
+      "played_at": "2026-09-05T08:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1014,
+      "delta": 18,
+      "final": 1032,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAEL LOUREIRO"
+    },
+    {
+      "played_at": "2026-09-04T13:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 1014,
+      "delta": 0,
+      "final": 1014,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR FUKUDA"
+    },
+    {
+      "played_at": "2026-09-04T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 978,
+      "delta": 36,
+      "final": 1014,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO MEDEIROS"
+    },
+    {
+      "played_at": "2026-09-04T10:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 870,
+      "delta": 108,
+      "final": 978,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO ANDRADE"
+    },
+    {
+      "played_at": "2026-09-04T09:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 852,
+      "delta": 18,
+      "final": 870,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DANIEL ALBUQUERQUE"
+    },
+    {
+      "played_at": "2026-08-09T16:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 822,
+      "delta": 30,
+      "final": 852,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO SOUSA"
+    },
+    {
+      "played_at": "2026-08-09T16:00:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 801,
+      "delta": 21,
+      "final": 822,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MÁRIO PAZ"
+    },
+    {
+      "played_at": "2026-08-09T14:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 768,
+      "delta": 33,
+      "final": 801,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO SOUSA"
+    },
+    {
+      "played_at": "2026-08-09T13:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 747,
+      "delta": 21,
+      "final": 768,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BERNARDO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-08T17:00:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 756,
+      "delta": -9,
+      "final": 747,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAIO JUNIOR"
+    },
+    {
+      "played_at": "2026-08-08T15:00:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 744,
+      "delta": 12,
+      "final": 756,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HUDAR SOUZA"
+    },
+    {
+      "played_at": "2026-08-08T13:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 735,
+      "delta": 9,
+      "final": 744,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIO SILVA"
+    },
+    {
+      "played_at": "2026-08-08T11:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 735,
+      "delta": 0,
+      "final": 735,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FILHO"
+    },
+    {
+      "played_at": "2026-08-08T10:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 735,
+      "delta": 0,
+      "final": 735,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO SIQUEIRA"
+    },
+    {
+      "played_at": "2026-08-08T09:30:00",
+      "event": "TMB Estadual 2026 - 4ª Etapa - Mossoró/RN",
+      "initial": 723,
+      "delta": 12,
+      "final": 735,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GEORGE FILHO"
+    },
+    {
+      "played_at": "2026-07-12T16:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 765,
+      "delta": -42,
+      "final": 723,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO SANTANA"
+    },
+    {
+      "played_at": "2026-07-12T15:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 711,
+      "delta": 54,
+      "final": 765,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO CIRNE"
+    },
+    {
+      "played_at": "2026-07-12T14:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 663,
+      "delta": 48,
+      "final": 711,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOSÉ REIS"
+    },
+    {
+      "played_at": "2026-07-12T12:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 603,
+      "delta": 60,
+      "final": 663,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS CARNEIRO"
+    },
+    {
+      "played_at": "2026-07-11T20:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 573,
+      "delta": 30,
+      "final": 603,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO DANTAS"
+    },
+    {
+      "played_at": "2026-07-11T16:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 531,
+      "delta": 42,
+      "final": 573,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "TOMAZ COIMBRA"
+    },
+    {
+      "played_at": "2026-07-10T19:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 531,
+      "delta": 0,
+      "final": 531,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-07-10T18:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 435,
+      "delta": 96,
+      "final": 531,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EDUARDO CIRNE"
+    },
+    {
+      "played_at": "2026-07-10T17:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 471,
+      "delta": -36,
+      "final": 435,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HEITOR VARELLA"
+    },
+    {
+      "played_at": "2026-07-10T16:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 441,
+      "delta": 30,
+      "final": 471,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI DOMICIANO"
+    },
+    {
+      "played_at": "2026-07-10T15:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 405,
+      "delta": 36,
+      "final": 441,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BERNARDO SILVA"
+    },
+    {
+      "played_at": "2026-06-21T10:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 423,
+      "delta": -18,
+      "final": 405,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-06-21T08:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 444,
+      "delta": -21,
+      "final": 423,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ ARAUJO"
+    },
+    {
+      "played_at": "2026-06-20T17:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 444,
+      "delta": 0,
+      "final": 444,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ELIAS NETO"
+    },
+    {
+      "played_at": "2026-06-20T15:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 411,
+      "delta": 33,
+      "final": 444,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IAGO SOUSA"
+    },
+    {
+      "played_at": "2026-06-20T14:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 414,
+      "delta": -3,
+      "final": 411,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO SOUSA"
+    },
+    {
+      "played_at": "2026-06-20T11:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 429,
+      "delta": -15,
+      "final": 414,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BERNARDO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-06-20T10:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 405,
+      "delta": 24,
+      "final": 429,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIO SILVA"
+    },
+    {
+      "played_at": "2026-06-20T09:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 390,
+      "delta": 15,
+      "final": 405,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS DANTAS"
+    },
+    {
+      "played_at": "2026-05-03T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 399,
+      "delta": -9,
+      "final": 390,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR SILVA"
+    },
+    {
+      "played_at": "2026-05-03T09:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 417,
+      "delta": -18,
+      "final": 399,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RODRIGO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-02T08:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 417,
+      "delta": 0,
+      "final": 417,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RANIERI FILHO"
+    },
+    {
+      "played_at": "2026-05-01T18:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 525,
+      "delta": -108,
+      "final": 417,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS CARNEIRO"
+    },
+    {
+      "played_at": "2026-05-01T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 462,
+      "delta": 63,
+      "final": 525,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BERNARDO PORTO"
+    },
+    {
+      "played_at": "2026-04-26T11:30:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 480,
+      "delta": -18,
+      "final": 462,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO MOURA"
+    },
+    {
+      "played_at": "2026-04-26T09:30:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 522,
+      "delta": -42,
+      "final": 480,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ FERNANDES"
+    },
+    {
+      "played_at": "2026-04-26T08:30:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 495,
+      "delta": 27,
+      "final": 522,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR NÓBREGA"
+    },
+    {
+      "played_at": "2026-04-25T11:30:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 474,
+      "delta": 21,
+      "final": 495,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HUDAR SOUZA"
+    },
+    {
+      "played_at": "2026-04-25T10:30:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 453,
+      "delta": 21,
+      "final": 474,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HEITOR VARELLA"
+    },
+    {
+      "played_at": "2026-04-25T10:03:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 459,
+      "delta": -6,
+      "final": 453,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "KAIO JUNIOR"
+    },
+    {
+      "played_at": "2026-04-25T09:30:00",
+      "event": "TMB Estadual 2026 - 2ª Etapa - Mossoró/RN",
+      "initial": 444,
+      "delta": 15,
+      "final": 459,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ DANTAS"
+    },
+    {
+      "played_at": "2026-03-01T17:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 480,
+      "delta": -36,
+      "final": 444,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ VALENTE"
+    },
+    {
+      "played_at": "2026-03-01T16:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 456,
+      "delta": 24,
+      "final": 480,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ ARAUJO"
+    },
+    {
+      "played_at": "2026-03-01T15:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 435,
+      "delta": 21,
+      "final": 456,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DANIEL SILVA"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 417,
+      "delta": 18,
+      "final": 435,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISAQUE OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-01T09:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 399,
+      "delta": 18,
+      "final": 417,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ DANTAS"
+    },
+    {
+      "played_at": "2026-02-28T18:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 399,
+      "delta": 0,
+      "final": 399,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALAN MACEDO"
+    },
+    {
+      "played_at": "2026-02-28T17:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 351,
+      "delta": 48,
+      "final": 399,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HUDAR SOUZA"
+    },
+    {
+      "played_at": "2026-02-28T16:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 330,
+      "delta": 21,
+      "final": 351,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUEL LUNA"
+    },
+    {
+      "played_at": "2026-02-28T15:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 300,
+      "delta": 30,
+      "final": 330,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO CIRNE"
+    },
+    {
+      "played_at": "2026-02-28T14:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 276,
+      "delta": 24,
+      "final": 300,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ DANTAS"
+    },
+    {
+      "played_at": "2025-11-30T12:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 288,
+      "delta": -12,
+      "final": 276,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROMULO FILHO"
+    },
+    {
+      "played_at": "2025-11-30T11:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 270,
+      "delta": 18,
+      "final": 288,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GEORGE FILHO"
+    },
+    {
+      "played_at": "2025-11-30T09:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 242,
+      "delta": 28,
+      "final": 270,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL SILVA"
+    },
+    {
+      "played_at": "2025-11-30T08:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HUDAR SOUZA"
+    },
+    {
+      "played_at": "2025-11-29T18:30:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALAN MACEDO"
+    },
+    {
+      "played_at": "2025-11-29T17:30:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FILHO"
+    },
+    {
+      "played_at": "2025-11-29T09:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 260,
+      "delta": -10,
+      "final": 250,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HUDAR SOUZA"
+    },
+    {
+      "played_at": "2025-11-29T08:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 272,
+      "delta": -12,
+      "final": 260,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROGÉRIO ALVES"
+    },
+    {
+      "played_at": "2025-11-29T01:24:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 256,
+      "delta": 16,
+      "final": 272,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUEL LUNA"
+    },
+    {
+      "played_at": "2025-09-28T13:00:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 268,
+      "delta": -12,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AFRÂNIO PAIVA"
+    },
+    {
+      "played_at": "2025-09-28T10:30:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 288,
+      "delta": -20,
+      "final": 268,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CRISTOFER ALYSON"
+    },
+    {
+      "played_at": "2025-09-27T16:00:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 304,
+      "delta": -16,
+      "final": 288,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HUDAR SOUZA"
+    },
+    {
+      "played_at": "2025-09-27T15:00:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 304,
+      "delta": 0,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FILHO"
+    },
+    {
+      "played_at": "2025-09-27T10:30:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 288,
+      "delta": 16,
+      "final": 304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR ROLIM"
+    },
+    {
+      "played_at": "2025-09-27T09:30:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 270,
+      "delta": 18,
+      "final": 288,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO AIRES"
+    },
+    {
+      "played_at": "2025-09-27T08:30:00",
+      "event": "Estadual - 3ª Etapa - Mossoro/RN – 2025",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUILHERME SALUSTIO ............."
+    }
+  ]
+}

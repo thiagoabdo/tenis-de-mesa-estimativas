@@ -1,0 +1,55 @@
+{
+  "associate_id": 91405,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91405&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T10:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 331,
+      "delta": -30,
+      "final": 301,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI PERONDI"
+    },
+    {
+      "played_at": "2026-03-14T10:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 310,
+      "delta": 21,
+      "final": 331,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI RESENDE"
+    },
+    {
+      "played_at": "2026-03-14T09:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 280,
+      "delta": 30,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEVI COSTA"
+    },
+    {
+      "played_at": "2026-03-14T08:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALDO NETO ............."
+    }
+  ]
+}

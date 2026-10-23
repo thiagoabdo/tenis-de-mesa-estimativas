@@ -1,0 +1,55 @@
+{
+  "associate_id": 90910,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90910&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T10:15:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 230,
+      "delta": -6,
+      "final": 224,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ASSOCIAÇÃO ATMM"
+    },
+    {
+      "played_at": "2026-03-01T10:00:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 235,
+      "delta": -5,
+      "final": 230,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "BENJAMIN GARCIA"
+    },
+    {
+      "played_at": "2026-03-01T08:15:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 241,
+      "delta": -6,
+      "final": 235,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VICENTE MOUSSALLE"
+    },
+    {
+      "played_at": "2026-03-01T08:00:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "FELIPE BASILE ............."
+    }
+  ]
+}

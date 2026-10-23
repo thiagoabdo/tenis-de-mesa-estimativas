@@ -1,0 +1,31 @@
+{
+  "associate_id": 93203,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93203&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-13T11:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 235,
+      "delta": -33,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DIEGO AMARANTES"
+    },
+    {
+      "played_at": "2026-06-13T10:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -15,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI COSTA ............."
+    }
+  ]
+}

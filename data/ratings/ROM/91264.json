@@ -1,0 +1,55 @@
+{
+  "associate_id": 91264,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91264&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T21:06:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 313,
+      "delta": 0,
+      "final": 313,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR CZERWINSKI"
+    },
+    {
+      "played_at": "2026-03-14T16:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 280,
+      "delta": 33,
+      "final": 313,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MIGUEL ASSIS"
+    },
+    {
+      "played_at": "2026-03-14T15:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 280,
+      "delta": 0,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ITALO JUNIOR"
+    },
+    {
+      "played_at": "2026-03-14T14:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUEL CAVALCANTE ............."
+    }
+  ]
+}

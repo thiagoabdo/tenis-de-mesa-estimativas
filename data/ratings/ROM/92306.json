@@ -1,0 +1,55 @@
+{
+  "associate_id": 92306,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92306&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T11:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 169,
+      "delta": -24,
+      "final": 145,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HELENO AMARAL"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 202,
+      "delta": -33,
+      "final": 169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR FAEDO"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 220,
+      "delta": -18,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERNESTO TANIGUTI"
+    },
+    {
+      "played_at": "2026-04-18T09:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO YAMAMOTO ............."
+    }
+  ]
+}

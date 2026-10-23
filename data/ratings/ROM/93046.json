@@ -1,0 +1,79 @@
+{
+  "associate_id": 93046,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93046&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-19T10:05:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 223,
+      "delta": 18,
+      "final": 241,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO PAIVA"
+    },
+    {
+      "played_at": "2026-09-19T09:15:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 235,
+      "delta": -12,
+      "final": 223,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CALEB HOSSOE"
+    },
+    {
+      "played_at": "2026-09-19T08:25:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 244,
+      "delta": -9,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBERTO COSTA"
+    },
+    {
+      "played_at": "2026-06-06T15:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 265,
+      "delta": -21,
+      "final": 244,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIS CHAVES"
+    },
+    {
+      "played_at": "2026-06-06T15:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 232,
+      "delta": 33,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EICK COSTA"
+    },
+    {
+      "played_at": "2026-06-06T14:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CALEB HOSSOE ............."
+    }
+  ]
+}

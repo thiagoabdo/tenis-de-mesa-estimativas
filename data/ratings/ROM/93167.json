@@ -1,0 +1,91 @@
+{
+  "associate_id": 93167,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93167&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-14T10:30:00",
+      "event": "TMB - Copa Brasil Prata - Belém - PA - 2026",
+      "initial": 346,
+      "delta": 48,
+      "final": 394,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "OTAVIO LOUREIRO"
+    },
+    {
+      "played_at": "2026-08-14T09:30:00",
+      "event": "TMB - Copa Brasil Prata - Belém - PA - 2026",
+      "initial": 310,
+      "delta": 36,
+      "final": 346,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ CRUZ"
+    },
+    {
+      "played_at": "2026-06-13T10:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 289,
+      "delta": 21,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CRISTIANO SALDANHA"
+    },
+    {
+      "played_at": "2026-06-13T09:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 268,
+      "delta": 21,
+      "final": 289,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "OTAVIO LOUREIRO"
+    },
+    {
+      "played_at": "2026-06-13T09:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 238,
+      "delta": 30,
+      "final": 268,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENJAMIN SOUZA"
+    },
+    {
+      "played_at": "2026-06-13T08:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 202,
+      "delta": 36,
+      "final": 238,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENJAMIN SOUZA"
+    },
+    {
+      "played_at": "2026-06-13T08:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -48,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OTAVIO LOUREIRO ............."
+    }
+  ]
+}

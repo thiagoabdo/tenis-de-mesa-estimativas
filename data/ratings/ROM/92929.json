@@ -1,0 +1,67 @@
+{
+  "associate_id": 92929,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92929&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T12:30:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 240,
+      "delta": -8,
+      "final": 232,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JOÃO NEGRINI"
+    },
+    {
+      "played_at": "2026-06-06T12:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 248,
+      "delta": -8,
+      "final": 240,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "RÔMULO SILVA"
+    },
+    {
+      "played_at": "2026-06-06T09:45:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 254,
+      "delta": -6,
+      "final": 248,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "DAVI SILVA"
+    },
+    {
+      "played_at": "2026-06-06T09:30:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 260,
+      "delta": -6,
+      "final": 254,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JOAO SILVA"
+    },
+    {
+      "played_at": "2026-06-06T09:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "JOSÉ LEITE ............."
+    }
+  ]
+}

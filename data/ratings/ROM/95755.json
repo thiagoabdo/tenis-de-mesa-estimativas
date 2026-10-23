@@ -1,0 +1,55 @@
+{
+  "associate_id": 95755,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=95755&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T15:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 202,
+      "delta": -21,
+      "final": 181,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ÍTALO RAMIREZ"
+    },
+    {
+      "played_at": "2026-09-26T13:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 211,
+      "delta": -9,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-08-22T14:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 232,
+      "delta": -21,
+      "final": 211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ÍTALO RAMIREZ"
+    },
+    {
+      "played_at": "2026-08-22T13:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE GLIZT ............."
+    }
+  ]
+}

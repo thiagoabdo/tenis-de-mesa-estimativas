@@ -1,0 +1,535 @@
+{
+  "associate_id": 85540,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85540&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T17:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 225,
+      "delta": -15,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO SANTOS"
+    },
+    {
+      "played_at": "2026-09-26T16:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 225,
+      "delta": 0,
+      "final": 225,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO SOUZA"
+    },
+    {
+      "played_at": "2026-08-29T16:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 235,
+      "delta": -10,
+      "final": 225,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVID KLEEFELDT"
+    },
+    {
+      "played_at": "2026-08-29T16:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 244,
+      "delta": -9,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITOR OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-29T11:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 244,
+      "delta": 0,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO SOUZA"
+    },
+    {
+      "played_at": "2026-08-29T11:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 252,
+      "delta": -8,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHARLES OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-11T13:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 261,
+      "delta": -9,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MOTTA"
+    },
+    {
+      "played_at": "2026-04-11T13:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 192,
+      "delta": 69,
+      "final": 261,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ AMARAL"
+    },
+    {
+      "played_at": "2026-04-11T12:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 138,
+      "delta": 54,
+      "final": 192,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NESLEY OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-11T09:40:00",
+      "event": "TMB Estadual - Campeonato Mineiro",
+      "initial": 156,
+      "delta": -18,
+      "final": 138,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALVARO LACERDA"
+    },
+    {
+      "played_at": "2026-04-11T09:00:00",
+      "event": "TMB Estadual - Campeonato Mineiro",
+      "initial": 156,
+      "delta": 0,
+      "final": 156,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO MONTEIRO"
+    },
+    {
+      "played_at": "2026-04-11T08:20:00",
+      "event": "TMB Estadual - Campeonato Mineiro",
+      "initial": 174,
+      "delta": -18,
+      "final": 156,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO CAMPOS"
+    },
+    {
+      "played_at": "2026-03-07T16:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 179,
+      "delta": -5,
+      "final": 174,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDSON DINIZ"
+    },
+    {
+      "played_at": "2026-03-07T15:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 185,
+      "delta": -6,
+      "final": 179,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "WALDER CARMO"
+    },
+    {
+      "played_at": "2026-03-07T13:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 173,
+      "delta": 12,
+      "final": 185,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CHARLES OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-07T12:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 179,
+      "delta": -6,
+      "final": 173,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDSON DINIZ"
+    },
+    {
+      "played_at": "2026-03-07T12:20:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 183,
+      "delta": -4,
+      "final": 179,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO SANTOS"
+    },
+    {
+      "played_at": "2026-03-07T10:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 185,
+      "delta": -2,
+      "final": 183,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MOTTA"
+    },
+    {
+      "played_at": "2025-11-22T17:40:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 195,
+      "delta": -10,
+      "final": 185,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO BELCHIOR"
+    },
+    {
+      "played_at": "2025-11-22T17:00:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 201,
+      "delta": -6,
+      "final": 195,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO BERNARDES"
+    },
+    {
+      "played_at": "2025-11-22T16:20:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 205,
+      "delta": -4,
+      "final": 201,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MOTTA"
+    },
+    {
+      "played_at": "2025-10-18T17:10:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 211,
+      "delta": -6,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADRIAN GANZ"
+    },
+    {
+      "played_at": "2025-10-18T16:20:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 202,
+      "delta": 9,
+      "final": 211,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITOR SILVA"
+    },
+    {
+      "played_at": "2025-10-18T15:30:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 188,
+      "delta": 14,
+      "final": 202,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME LIMA"
+    },
+    {
+      "played_at": "2025-10-18T14:40:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 174,
+      "delta": 14,
+      "final": 188,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIEL MIRANDA"
+    },
+    {
+      "played_at": "2025-10-18T13:25:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 179,
+      "delta": -5,
+      "final": 174,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO BELCHIOR"
+    },
+    {
+      "played_at": "2025-10-18T12:35:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 183,
+      "delta": -4,
+      "final": 179,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ MARINHO"
+    },
+    {
+      "played_at": "2025-10-18T11:45:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 153,
+      "delta": 30,
+      "final": 183,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ AMARAL"
+    },
+    {
+      "played_at": "2025-08-16T18:25:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 158,
+      "delta": -5,
+      "final": 153,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO SILVA"
+    },
+    {
+      "played_at": "2025-08-16T16:20:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 164,
+      "delta": -6,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUAN BRAGA"
+    },
+    {
+      "played_at": "2025-08-16T13:00:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 170,
+      "delta": -6,
+      "final": 164,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO BELCHIOR"
+    },
+    {
+      "played_at": "2025-08-16T12:10:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 172,
+      "delta": -2,
+      "final": 170,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO SOUZA"
+    },
+    {
+      "played_at": "2025-07-05T16:20:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 184,
+      "delta": -12,
+      "final": 172,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE CALDEIRA"
+    },
+    {
+      "played_at": "2025-07-05T15:40:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 196,
+      "delta": -12,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO FIGUEIREDO"
+    },
+    {
+      "played_at": "2025-07-05T08:20:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 210,
+      "delta": -14,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ MARINHO"
+    },
+    {
+      "played_at": "2025-07-05T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 220,
+      "delta": -10,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MOTTA"
+    },
+    {
+      "played_at": "2025-05-31T19:40:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 225,
+      "delta": -5,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMERSON PEREIRA"
+    },
+    {
+      "played_at": "2025-05-31T18:50:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 232,
+      "delta": -7,
+      "final": 225,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIERRY ARAGÃO"
+    },
+    {
+      "played_at": "2025-05-31T18:00:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 221,
+      "delta": 11,
+      "final": 232,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO NASCIMENTO"
+    },
+    {
+      "played_at": "2025-05-31T15:55:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 227,
+      "delta": -6,
+      "final": 221,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO SOUZA"
+    },
+    {
+      "played_at": "2025-05-31T15:30:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 234,
+      "delta": -7,
+      "final": 227,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHARLES OLIVEIRA"
+    },
+    {
+      "played_at": "2025-05-31T15:05:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 242,
+      "delta": -8,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO SANTOS"
+    },
+    {
+      "played_at": "2025-04-26T10:40:00",
+      "event": "Regional - 1ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 242,
+      "delta": 0,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ AMARAL"
+    },
+    {
+      "played_at": "2025-04-26T10:20:00",
+      "event": "Regional - 1ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHARLES OLIVEIRA ............."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "associate_id": 92289,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92289&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T14:30:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 242,
+      "delta": -6,
+      "final": 236,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "DIEGO SOTELO"
+    },
+    {
+      "played_at": "2026-06-06T14:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 231,
+      "delta": 11,
+      "final": 242,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "BERNARDO GREGOREKI"
+    },
+    {
+      "played_at": "2026-06-06T14:00:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 237,
+      "delta": -6,
+      "final": 231,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JOAO COLDEBELLA"
+    },
+    {
+      "played_at": "2026-06-06T09:30:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 242,
+      "delta": -5,
+      "final": 237,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ANTONY MENEGON"
+    },
+    {
+      "played_at": "2026-06-06T09:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JOAO COLDEBELLA ............."
+    }
+  ]
+}

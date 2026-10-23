@@ -1,0 +1,43 @@
+{
+  "associate_id": 90944,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90944&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T14:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 190,
+      "delta": -27,
+      "final": 163,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICENTE WENTZ"
+    },
+    {
+      "played_at": "2026-03-01T13:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 214,
+      "delta": -24,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO DORNELLES"
+    },
+    {
+      "played_at": "2026-03-01T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": -36,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIM BAGGIO ............."
+    }
+  ]
+}

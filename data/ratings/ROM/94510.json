@@ -1,0 +1,67 @@
+{
+  "associate_id": 94510,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94510&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 253,
+      "delta": -33,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTONIO WOLSKI"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 271,
+      "delta": -18,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL KREMER"
+    },
+    {
+      "played_at": "2026-08-01T12:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 295,
+      "delta": -24,
+      "final": 271,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO MALAMIN"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 271,
+      "delta": 24,
+      "final": 295,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL MIYATAKE"
+    },
+    {
+      "played_at": "2026-08-01T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": 21,
+      "final": 271,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO PIPINO ............."
+    }
+  ]
+}

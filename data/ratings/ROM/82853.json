@@ -1,0 +1,79 @@
+{
+  "associate_id": 82853,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=82853&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-15T12:35:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 232,
+      "delta": -6,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILLO MARTINS"
+    },
+    {
+      "played_at": "2026-03-15T12:10:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 221,
+      "delta": 11,
+      "final": 232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOAO DINIZ"
+    },
+    {
+      "played_at": "2026-03-15T10:05:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 226,
+      "delta": -5,
+      "final": 221,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MONTEIRO"
+    },
+    {
+      "played_at": "2026-03-15T09:15:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 226,
+      "delta": 0,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI DOMINGUES"
+    },
+    {
+      "played_at": "2024-11-09T12:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Belo Horizonte/MG - 2024.",
+      "initial": 232,
+      "delta": -6,
+      "final": 226,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO MONTEIRO"
+    },
+    {
+      "played_at": "2024-11-09T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Belo Horizonte/MG - 2024.",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THEO ROCHA ............."
+    }
+  ]
+}

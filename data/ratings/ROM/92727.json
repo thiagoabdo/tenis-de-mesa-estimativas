@@ -1,0 +1,43 @@
+{
+  "associate_id": 92727,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92727&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-10T13:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 244,
+      "delta": 30,
+      "final": 274,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAURA NICOLOSSI"
+    },
+    {
+      "played_at": "2026-05-10T11:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 277,
+      "delta": -33,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CORA BLANCO"
+    },
+    {
+      "played_at": "2026-05-10T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 27,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLARA VALLE ............."
+    }
+  ]
+}

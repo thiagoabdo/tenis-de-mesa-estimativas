@@ -1,0 +1,43 @@
+{
+  "associate_id": 92760,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92760&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-10T13:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 244,
+      "delta": -36,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL KUMAGAI"
+    },
+    {
+      "played_at": "2026-05-10T10:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 223,
+      "delta": 21,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO SCHERER"
+    },
+    {
+      "played_at": "2026-05-10T08:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -27,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATIAS BARBOSA ............."
+    }
+  ]
+}

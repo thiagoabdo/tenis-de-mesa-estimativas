@@ -1,0 +1,55 @@
+{
+  "associate_id": 90897,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90897&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 202,
+      "delta": -48,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 202,
+      "delta": 0,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2026-02-28T11:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 217,
+      "delta": -15,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AUGUSTO RODRIGUES"
+    },
+    {
+      "played_at": "2026-02-28T09:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO SANTOS ............."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "associate_id": 94449,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94449&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-05T10:05:00",
+      "event": "TMB Estadual 2026 - III Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 270,
+      "delta": 21,
+      "final": 291,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLY SOUZA"
+    },
+    {
+      "played_at": "2026-09-05T09:15:00",
+      "event": "TMB Estadual 2026 - III Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 237,
+      "delta": 33,
+      "final": 270,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KIMBERLLY SANTANA"
+    },
+    {
+      "played_at": "2026-09-05T08:25:00",
+      "event": "TMB Estadual 2026 - III Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 261,
+      "delta": -24,
+      "final": 237,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BIANCA SOUZA"
+    },
+    {
+      "played_at": "2026-07-25T09:40:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 252,
+      "delta": 9,
+      "final": 261,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "GABRIELLY SOUZA"
+    },
+    {
+      "played_at": "2026-07-25T09:20:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 262,
+      "delta": -10,
+      "final": 252,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "KIMBERLLY SANTANA"
+    },
+    {
+      "played_at": "2026-07-25T09:00:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 250,
+      "delta": 12,
+      "final": 262,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "BIANCA SOUZA ............."
+    }
+  ]
+}

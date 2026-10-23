@@ -1,0 +1,55 @@
+{
+  "associate_id": 91274,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91274&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T09:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 205,
+      "delta": 0,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAIMON FIRMINO"
+    },
+    {
+      "played_at": "2026-03-01T08:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 205,
+      "delta": 0,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL SILVA"
+    },
+    {
+      "played_at": "2026-02-28T09:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 208,
+      "delta": -3,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO SOUSA"
+    },
+    {
+      "played_at": "2026-02-28T08:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": -42,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL SILVA ............."
+    }
+  ]
+}

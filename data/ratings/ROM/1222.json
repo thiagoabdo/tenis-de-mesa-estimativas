@@ -1,0 +1,1603 @@
+{
+  "associate_id": 1222,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=1222&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T17:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 695,
+      "delta": -24,
+      "final": 671,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIO SOUZA"
+    },
+    {
+      "played_at": "2026-09-20T16:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 653,
+      "delta": 42,
+      "final": 695,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO MEDEIROS"
+    },
+    {
+      "played_at": "2026-09-20T15:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 632,
+      "delta": 21,
+      "final": 653,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NEY FRANCO"
+    },
+    {
+      "played_at": "2026-09-20T15:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 599,
+      "delta": 33,
+      "final": 632,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR DIAS"
+    },
+    {
+      "played_at": "2026-09-19T19:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 617,
+      "delta": -18,
+      "final": 599,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-09-19T18:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 629,
+      "delta": -12,
+      "final": 617,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSE PACHECO"
+    },
+    {
+      "played_at": "2026-09-19T11:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 629,
+      "delta": 0,
+      "final": 629,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2026-09-19T09:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 635,
+      "delta": -6,
+      "final": 629,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2026-09-19T08:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 629,
+      "delta": 6,
+      "final": 635,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MOACIR PACHECO"
+    },
+    {
+      "played_at": "2026-06-14T19:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 683,
+      "delta": -54,
+      "final": 629,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL ALMEIDA"
+    },
+    {
+      "played_at": "2026-06-14T18:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 668,
+      "delta": 15,
+      "final": 683,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CARDOSO"
+    },
+    {
+      "played_at": "2026-06-14T16:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 653,
+      "delta": 15,
+      "final": 668,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALMYR FAVACHO"
+    },
+    {
+      "played_at": "2026-06-14T09:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 653,
+      "delta": 0,
+      "final": 653,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2026-06-13T18:31:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 629,
+      "delta": 24,
+      "final": 653,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ADÔNIS AZEVEDO"
+    },
+    {
+      "played_at": "2026-06-13T16:26:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 665,
+      "delta": -36,
+      "final": 629,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO CARVALHO"
+    },
+    {
+      "played_at": "2026-06-13T16:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 659,
+      "delta": 6,
+      "final": 665,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELDO BARBOSA"
+    },
+    {
+      "played_at": "2026-06-13T15:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 569,
+      "delta": 90,
+      "final": 659,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2026-06-13T15:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 557,
+      "delta": 12,
+      "final": 569,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOAO SILVA"
+    },
+    {
+      "played_at": "2026-06-13T14:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 551,
+      "delta": 6,
+      "final": 557,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELINO NETO"
+    },
+    {
+      "played_at": "2026-06-13T10:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 536,
+      "delta": 15,
+      "final": 551,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS CORDEIRO"
+    },
+    {
+      "played_at": "2026-06-13T09:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 515,
+      "delta": 21,
+      "final": 536,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO SOUSA"
+    },
+    {
+      "played_at": "2026-02-22T08:25:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 548,
+      "delta": -33,
+      "final": 515,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEXANDRE SOUSA"
+    },
+    {
+      "played_at": "2026-02-21T21:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 530,
+      "delta": 18,
+      "final": 548,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUAN SOUSA"
+    },
+    {
+      "played_at": "2026-02-21T19:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 515,
+      "delta": 15,
+      "final": 530,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EFSON GOMES"
+    },
+    {
+      "played_at": "2026-02-21T18:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 551,
+      "delta": -36,
+      "final": 515,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS MENEZES"
+    },
+    {
+      "played_at": "2026-02-21T17:07:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 536,
+      "delta": 15,
+      "final": 551,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "WELLINGTTON FERNANDES"
+    },
+    {
+      "played_at": "2026-02-21T14:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 515,
+      "delta": 21,
+      "final": 536,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS SOUSA"
+    },
+    {
+      "played_at": "2026-02-21T13:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 518,
+      "delta": -3,
+      "final": 515,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2026-02-21T10:05:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 518,
+      "delta": 0,
+      "final": 518,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2026-02-21T09:43:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 509,
+      "delta": 9,
+      "final": 518,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MOACIR PACHECO"
+    },
+    {
+      "played_at": "2026-02-21T08:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 488,
+      "delta": 21,
+      "final": 509,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MIGUEL RODRIGUES"
+    },
+    {
+      "played_at": "2025-11-30T10:55:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 506,
+      "delta": -18,
+      "final": 488,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SANDRO SOUZA"
+    },
+    {
+      "played_at": "2025-11-30T09:15:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 494,
+      "delta": 12,
+      "final": 506,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CARDOSO"
+    },
+    {
+      "played_at": "2025-11-30T08:25:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 470,
+      "delta": 24,
+      "final": 494,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GLEISON PEREIRA"
+    },
+    {
+      "played_at": "2025-11-29T18:08:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 442,
+      "delta": 28,
+      "final": 470,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO MONTEIRO"
+    },
+    {
+      "played_at": "2025-11-29T18:07:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 442,
+      "delta": 0,
+      "final": 442,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2025-11-29T15:34:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 458,
+      "delta": -16,
+      "final": 442,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DAVI FURTADO"
+    },
+    {
+      "played_at": "2025-11-29T15:30:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 448,
+      "delta": 10,
+      "final": 458,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELDO BARBOSA"
+    },
+    {
+      "played_at": "2025-11-29T15:20:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 436,
+      "delta": 12,
+      "final": 448,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMADEU JUNIOR"
+    },
+    {
+      "played_at": "2025-11-29T15:19:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 414,
+      "delta": 22,
+      "final": 436,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2025-11-29T07:50:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 426,
+      "delta": -12,
+      "final": 414,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO CARVALHO"
+    },
+    {
+      "played_at": "2025-11-29T07:25:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 428,
+      "delta": -2,
+      "final": 426,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2025-07-06T16:30:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 442,
+      "delta": -14,
+      "final": 428,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ENZO CABRAL"
+    },
+    {
+      "played_at": "2025-07-06T15:30:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 454,
+      "delta": -12,
+      "final": 442,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2025-07-06T14:30:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 434,
+      "delta": 20,
+      "final": 454,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDIVAL OLIVEIRA"
+    },
+    {
+      "played_at": "2025-07-05T20:10:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 454,
+      "delta": -20,
+      "final": 434,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KEYVERSON FERREIRA"
+    },
+    {
+      "played_at": "2025-07-05T19:20:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 474,
+      "delta": -20,
+      "final": 454,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE NEVES"
+    },
+    {
+      "played_at": "2025-07-05T15:10:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 468,
+      "delta": 6,
+      "final": 474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO SILVA"
+    },
+    {
+      "played_at": "2025-07-05T14:20:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 476,
+      "delta": -8,
+      "final": 468,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2025-07-05T13:30:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 488,
+      "delta": -12,
+      "final": 476,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO MOREIRA"
+    },
+    {
+      "played_at": "2025-07-05T10:44:00",
+      "event": "Estadual - 3ª Etapa - Belém/PA - 2025",
+      "initial": 460,
+      "delta": 28,
+      "final": 488,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NATALINO MEDEIROS"
+    },
+    {
+      "played_at": "2025-05-04T15:05:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 472,
+      "delta": -12,
+      "final": 460,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS BRITO"
+    },
+    {
+      "played_at": "2025-05-04T13:25:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 490,
+      "delta": -18,
+      "final": 472,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2025-05-03T22:06:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 500,
+      "delta": -10,
+      "final": 490,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2025-05-03T21:55:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 514,
+      "delta": -14,
+      "final": 500,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DÊNIS BRITO"
+    },
+    {
+      "played_at": "2025-05-03T21:30:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 498,
+      "delta": 16,
+      "final": 514,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIMUNDO SILVA"
+    },
+    {
+      "played_at": "2025-05-03T21:05:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 482,
+      "delta": 16,
+      "final": 498,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EFSON GOMES"
+    },
+    {
+      "played_at": "2025-05-03T20:40:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 464,
+      "delta": 18,
+      "final": 482,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSEIAS BRAGA"
+    },
+    {
+      "played_at": "2025-05-03T19:50:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 450,
+      "delta": 14,
+      "final": 464,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELDO BARBOSA"
+    },
+    {
+      "played_at": "2025-05-03T19:25:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 470,
+      "delta": -20,
+      "final": 450,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2025-05-03T18:10:00",
+      "event": "Estadual - 2ª Etapa - Barcaena/PA - 2025",
+      "initial": 472,
+      "delta": -2,
+      "final": 470,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2025-02-16T17:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 482,
+      "delta": -10,
+      "final": 472,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR SALHEB"
+    },
+    {
+      "played_at": "2025-02-16T16:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 454,
+      "delta": 28,
+      "final": 482,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "TIAGO HOLANDA"
+    },
+    {
+      "played_at": "2025-02-16T15:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 426,
+      "delta": 28,
+      "final": 454,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO MOREIRA"
+    },
+    {
+      "played_at": "2025-02-16T14:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 442,
+      "delta": -16,
+      "final": 426,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS BRITO"
+    },
+    {
+      "played_at": "2025-02-15T21:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 442,
+      "delta": 0,
+      "final": 442,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2025-02-15T20:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 430,
+      "delta": 12,
+      "final": 442,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOSÉ JESUS"
+    },
+    {
+      "played_at": "2025-02-15T20:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 452,
+      "delta": -22,
+      "final": 430,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SANDRO SOUZA"
+    },
+    {
+      "played_at": "2025-02-15T18:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 442,
+      "delta": 10,
+      "final": 452,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALESSANDRO SOUSA"
+    },
+    {
+      "played_at": "2025-02-15T15:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 456,
+      "delta": -14,
+      "final": 442,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2025-02-15T14:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 480,
+      "delta": -24,
+      "final": 456,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDIVAL OLIVEIRA"
+    },
+    {
+      "played_at": "2025-02-15T13:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 466,
+      "delta": 14,
+      "final": 480,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RENATO OLIVEIRA"
+    },
+    {
+      "played_at": "2024-12-01T14:38:00",
+      "event": "TMB Estadual Campeonato Paraense de Equipes - Belém/PA 2024...",
+      "initial": 466,
+      "delta": 0,
+      "final": 466,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS CARDOSO"
+    },
+    {
+      "played_at": "2024-12-01T05:12:00",
+      "event": "TMB Estadual Campeonato Paraense de Equipes - Belém/PA 2024...",
+      "initial": 442,
+      "delta": 24,
+      "final": 466,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "IREALVO BRITO"
+    },
+    {
+      "played_at": "2024-12-01T05:11:00",
+      "event": "TMB Estadual Campeonato Paraense de Equipes - Belém/PA 2024...",
+      "initial": 442,
+      "delta": 0,
+      "final": 442,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSE SALGUEIRO"
+    },
+    {
+      "played_at": "2024-11-23T17:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 442,
+      "delta": 0,
+      "final": 442,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2024-11-23T13:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 466,
+      "delta": -24,
+      "final": 442,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SANDRO SOUZA"
+    },
+    {
+      "played_at": "2024-11-23T03:09:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 470,
+      "delta": -4,
+      "final": 466,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2024-11-23T03:08:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 482,
+      "delta": -12,
+      "final": 470,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO SALGADO"
+    },
+    {
+      "played_at": "2024-10-20T17:22:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 464,
+      "delta": 18,
+      "final": 482,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SIDNEY SANTOS"
+    },
+    {
+      "played_at": "2024-10-20T15:30:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 474,
+      "delta": -10,
+      "final": 464,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOEL SILVA"
+    },
+    {
+      "played_at": "2024-10-20T14:30:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 446,
+      "delta": 28,
+      "final": 474,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUCIO FERREIRA"
+    },
+    {
+      "played_at": "2024-10-20T13:30:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 428,
+      "delta": 18,
+      "final": 446,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EVALDO ATHAÍDE"
+    },
+    {
+      "played_at": "2024-10-20T11:30:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 432,
+      "delta": -4,
+      "final": 428,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "TOMAZ AZEVEDO"
+    },
+    {
+      "played_at": "2024-10-20T09:00:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 432,
+      "delta": 0,
+      "final": 432,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS CARDOSO"
+    },
+    {
+      "played_at": "2024-10-19T14:20:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 456,
+      "delta": -24,
+      "final": 432,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊNIS BRITO"
+    },
+    {
+      "played_at": "2024-10-19T11:00:00",
+      "event": "TMB Estadual - 4ª etapa - Belém/PA - 2024",
+      "initial": 470,
+      "delta": -14,
+      "final": 456,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCIO FERREIRA"
+    },
+    {
+      "played_at": "2024-06-30T11:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 482,
+      "delta": -12,
+      "final": 470,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NATALINO MEDEIROS"
+    },
+    {
+      "played_at": "2024-06-30T09:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 496,
+      "delta": -14,
+      "final": 482,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RODRIGO SOUZA"
+    },
+    {
+      "played_at": "2024-06-30T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 482,
+      "delta": 14,
+      "final": 496,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ZILDO SEVERO"
+    },
+    {
+      "played_at": "2024-06-29T19:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 490,
+      "delta": -8,
+      "final": 482,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO DIAS"
+    },
+    {
+      "played_at": "2024-06-29T18:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 490,
+      "delta": 0,
+      "final": 490,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS CARDOSO"
+    },
+    {
+      "played_at": "2024-06-29T18:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 462,
+      "delta": 28,
+      "final": 490,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NATALINO MEDEIROS"
+    },
+    {
+      "played_at": "2024-06-29T16:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 486,
+      "delta": -24,
+      "final": 462,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "TIAGO HOLANDA"
+    },
+    {
+      "played_at": "2024-06-29T15:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 472,
+      "delta": 14,
+      "final": 486,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ZILDO SEVERO"
+    },
+    {
+      "played_at": "2024-06-29T14:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 456,
+      "delta": 16,
+      "final": 472,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RODRIGO SOUZA"
+    },
+    {
+      "played_at": "2024-06-29T01:12:00",
+      "event": "TMB Estadual - 3ª Etapa - Marabá/PA - 2024",
+      "initial": 432,
+      "delta": 24,
+      "final": 456,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS GONDIM"
+    },
+    {
+      "played_at": "2024-05-19T15:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 444,
+      "delta": -12,
+      "final": 432,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SALOMÃO COSTA"
+    },
+    {
+      "played_at": "2024-05-19T14:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 424,
+      "delta": 20,
+      "final": 444,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS TRINDADE"
+    },
+    {
+      "played_at": "2024-05-19T12:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 436,
+      "delta": -12,
+      "final": 424,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADALBERTO PRAXEDES"
+    },
+    {
+      "played_at": "2024-05-19T11:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 408,
+      "delta": 28,
+      "final": 436,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMUEL LOBATO"
+    },
+    {
+      "played_at": "2024-05-18T19:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 408,
+      "delta": 0,
+      "final": 408,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABRIZIO IMBELLONI"
+    },
+    {
+      "played_at": "2024-05-18T18:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 422,
+      "delta": -14,
+      "final": 408,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALCINEY ABREU"
+    },
+    {
+      "played_at": "2024-05-18T18:01:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 446,
+      "delta": -24,
+      "final": 422,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ROGÉRIO SILVA"
+    },
+    {
+      "played_at": "2024-05-18T17:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Barcarena /PA - 2024",
+      "initial": 452,
+      "delta": -6,
+      "final": 446,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2024-02-25T14:15:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 420,
+      "delta": 32,
+      "final": 452,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2024-02-25T13:00:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 428,
+      "delta": -8,
+      "final": 420,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JONATAS MARTINS"
+    },
+    {
+      "played_at": "2024-02-24T18:50:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 440,
+      "delta": -12,
+      "final": 428,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2024-02-24T18:25:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 440,
+      "delta": 0,
+      "final": 440,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABRIZIO IMBELLONI"
+    },
+    {
+      "played_at": "2024-02-24T16:46:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 462,
+      "delta": -22,
+      "final": 440,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÉRGIO BAÍA"
+    },
+    {
+      "played_at": "2024-02-24T14:15:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 478,
+      "delta": -16,
+      "final": 462,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2024-02-24T12:35:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 464,
+      "delta": 14,
+      "final": 478,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ADHERLEM LIMA"
+    },
+    {
+      "played_at": "2024-02-24T10:05:00",
+      "event": "TMB Estadual - 1º Etapa - Belém /PA - 2024",
+      "initial": 450,
+      "delta": 14,
+      "final": 464,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO SEGUNDO"
+    },
+    {
+      "played_at": "2023-05-21T15:30:00",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 462,
+      "delta": -12,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ZÉLIS NETO"
+    },
+    {
+      "played_at": "2023-05-21T14:40:00",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 474,
+      "delta": -12,
+      "final": 462,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRENO OLIVEIRA"
+    },
+    {
+      "played_at": "2023-05-21T14:15:00",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 454,
+      "delta": 20,
+      "final": 474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSE PACHECO"
+    },
+    {
+      "played_at": "2023-05-20T19:40:01",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS CARDOSO"
+    },
+    {
+      "played_at": "2023-05-20T18:50:00",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 430,
+      "delta": 24,
+      "final": 454,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2023-05-20T18:25:02",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 442,
+      "delta": -12,
+      "final": 430,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ZÉLIS NETO"
+    },
+    {
+      "played_at": "2023-05-20T18:25:01",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 442,
+      "delta": 0,
+      "final": 442,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABRIZIO IMBELLONI"
+    },
+    {
+      "played_at": "2023-05-20T17:11:00",
+      "event": "TMB Estadual - 3º Etapa - Bacarena/PA - 2023",
+      "initial": 454,
+      "delta": -12,
+      "final": 442,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHARLE CARDOSO"
+    },
+    {
+      "played_at": "2023-04-16T16:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 458,
+      "delta": -4,
+      "final": 454,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUAN CASTRO"
+    },
+    {
+      "played_at": "2023-04-16T15:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 476,
+      "delta": -18,
+      "final": 458,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ZÉLIS NETO"
+    },
+    {
+      "played_at": "2023-04-16T09:40:02",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 476,
+      "delta": 0,
+      "final": 476,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRO MOTTA"
+    },
+    {
+      "played_at": "2023-04-16T09:40:01",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 476,
+      "delta": 0,
+      "final": 476,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO ANDRADE"
+    },
+    {
+      "played_at": "2023-04-16T09:15:02",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 476,
+      "delta": 0,
+      "final": 476,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERTO ANDRADE"
+    },
+    {
+      "played_at": "2023-04-16T09:15:01",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 476,
+      "delta": 0,
+      "final": 476,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO ARATA"
+    },
+    {
+      "played_at": "2023-04-15T18:40:01",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 476,
+      "delta": 0,
+      "final": 476,
+      "score": [
+        0,
+        4
+      ],
+      "opponent": "LUCAS CARDOSO"
+    },
+    {
+      "played_at": "2023-04-15T18:01:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 466,
+      "delta": 10,
+      "final": 476,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCISCO SOUSA"
+    },
+    {
+      "played_at": "2023-04-15T18:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 478,
+      "delta": -12,
+      "final": 466,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2023-04-15T16:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 500,
+      "delta": -22,
+      "final": 478,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERLANO SILVA"
+    },
+    {
+      "played_at": "2023-04-15T15:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 512,
+      "delta": -12,
+      "final": 500,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO RUIVO"
+    },
+    {
+      "played_at": "2023-04-15T14:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Belém/PA - 2023..",
+      "initial": 500,
+      "delta": 12,
+      "final": 512,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO GARCIA ............."
+    }
+  ]
+}

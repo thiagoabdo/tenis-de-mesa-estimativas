@@ -1,0 +1,55 @@
+{
+  "associate_id": 94472,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94472&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 151,
+      "delta": -18,
+      "final": 133,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO VALUS"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 184,
+      "delta": -33,
+      "final": 151,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ELIZEU ALVES"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 217,
+      "delta": -33,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAICON RIBEIRO"
+    },
+    {
+      "played_at": "2026-08-01T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR JUNIOR ............."
+    }
+  ]
+}

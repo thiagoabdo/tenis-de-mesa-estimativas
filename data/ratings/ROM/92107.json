@@ -1,0 +1,43 @@
+{
+  "associate_id": 92107,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92107&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-17T12:02:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 226,
+      "delta": -36,
+      "final": 190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RENATA BUENO"
+    },
+    {
+      "played_at": "2026-04-17T11:18:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 226,
+      "delta": 0,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAINA RODRIGUES"
+    },
+    {
+      "played_at": "2026-04-17T10:34:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HELENA PARREIRA ............."
+    }
+  ]
+}

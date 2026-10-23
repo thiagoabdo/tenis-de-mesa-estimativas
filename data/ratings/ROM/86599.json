@@ -1,0 +1,91 @@
+{
+  "associate_id": 86599,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=86599&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-25T11:20:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 242,
+      "delta": 24,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDO SCHLENDER"
+    },
+    {
+      "played_at": "2026-04-25T10:05:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 266,
+      "delta": -24,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL VERDOLIN"
+    },
+    {
+      "played_at": "2026-04-25T09:40:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 233,
+      "delta": 33,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS FILHO"
+    },
+    {
+      "played_at": "2026-04-25T08:25:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 206,
+      "delta": 27,
+      "final": 233,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NICOLAS SCHLENDER"
+    },
+    {
+      "played_at": "2025-05-31T09:40:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 222,
+      "delta": -16,
+      "final": 206,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIQUELME BORGES"
+    },
+    {
+      "played_at": "2025-05-31T08:50:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 236,
+      "delta": -14,
+      "final": 222,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS SCHLENDER"
+    },
+    {
+      "played_at": "2025-05-31T08:00:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 250,
+      "delta": -14,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL VERDOLIN ............."
+    }
+  ]
+}

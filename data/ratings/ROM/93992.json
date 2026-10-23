@@ -1,0 +1,91 @@
+{
+  "associate_id": 93992,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93992&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T13:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 267,
+      "delta": -10,
+      "final": 257,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "BERNARDO GREGOREKI"
+    },
+    {
+      "played_at": "2026-07-05T12:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 257,
+      "delta": 10,
+      "final": 267,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "BENJAMIM MEIRELLES"
+    },
+    {
+      "played_at": "2026-07-05T12:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 261,
+      "delta": -4,
+      "final": 257,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ANTONY MENEGON"
+    },
+    {
+      "played_at": "2026-07-05T10:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 266,
+      "delta": -5,
+      "final": 261,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ANTONY MENEGON"
+    },
+    {
+      "played_at": "2026-07-05T09:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 255,
+      "delta": 11,
+      "final": 266,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "YURI PAPKE"
+    },
+    {
+      "played_at": "2026-07-05T09:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 244,
+      "delta": 11,
+      "final": 255,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "BRIAN SEVERGININI"
+    },
+    {
+      "played_at": "2026-07-05T08:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "FELIPE BASILE ............."
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "associate_id": 32467,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=32467&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-18T17:00:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 1477,
+      "delta": 18,
+      "final": 1495,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2026-09-18T15:30:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 1495,
+      "delta": -18,
+      "final": 1477,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2026-09-18T14:00:00",
+      "event": "TMB - Copa Brasil de Tênis de Mesa - Goiânia -GO",
+      "initial": 1489,
+      "delta": 6,
+      "final": 1495,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2026-07-17T12:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 1489,
+      "delta": 0,
+      "final": 1489,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2026-07-17T11:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 1585,
+      "delta": -96,
+      "final": 1489,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NICOLE SANTOS"
+    },
+    {
+      "played_at": "2026-05-14T15:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 1621,
+      "delta": -36,
+      "final": 1585,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2026-05-14T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 1549,
+      "delta": 72,
+      "final": 1621,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2026-05-14T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 1657,
+      "delta": -108,
+      "final": 1549,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIANA MOURA"
+    },
+    {
+      "played_at": "2025-12-07T15:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1657,
+      "delta": 0,
+      "final": 1657,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2025-12-07T14:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1607,
+      "delta": 50,
+      "final": 1657,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-12-07T13:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1607,
+      "delta": 0,
+      "final": 1607,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2025-12-07T12:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1557,
+      "delta": 50,
+      "final": 1607,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2025-10-18T10:05:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 1579,
+      "delta": -22,
+      "final": 1557,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA BREGANHOLI"
+    },
+    {
+      "played_at": "2025-10-18T08:25:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 1601,
+      "delta": -22,
+      "final": 1579,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2025-08-17T17:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 1501,
+      "delta": 100,
+      "final": 1601,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2025-08-17T16:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 1496,
+      "delta": 5,
+      "final": 1501,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA MORAES"
+    },
+    {
+      "played_at": "2025-08-17T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Brasília/DF 2025",
+      "initial": 1486,
+      "delta": 10,
+      "final": 1496,
+      "score": [
+        4,
+        0
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2025-05-16T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1426,
+      "delta": 60,
+      "final": 1486,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-05-16T11:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1426,
+      "delta": 0,
+      "final": 1426,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2025-05-16T10:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1126,
+      "delta": 300,
+      "final": 1426,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2025-05-16T09:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1206,
+      "delta": -80,
+      "final": 1126,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2024-12-07T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 Individual",
+      "initial": 1206,
+      "delta": 0,
+      "final": 1206,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2024-12-07T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 Individual",
+      "initial": 1206,
+      "delta": 0,
+      "final": 1206,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2024-09-13T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1174,
+      "delta": 32,
+      "final": 1206,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2024-09-13T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1030,
+      "delta": 144,
+      "final": 1174,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2024-09-13T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1126,
+      "delta": -96,
+      "final": 1030,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NICOLE SANTOS"
+    },
+    {
+      "played_at": "2024-09-13T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1126,
+      "delta": 0,
+      "final": 1126,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2024-07-26T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 1126,
+      "delta": 0,
+      "final": 1126,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2024-07-26T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 1110,
+      "delta": 16,
+      "final": 1126,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA MORAES"
+    },
+    {
+      "played_at": "2024-07-26T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 1110,
+      "delta": 0,
+      "final": 1110,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2024-07-26T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 966,
+      "delta": 144,
+      "final": 1110,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2024-06-08T14:40:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Belo Horizonte/MG - 2024",
+      "initial": 916,
+      "delta": 50,
+      "final": 966,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2024-06-08T13:50:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Belo Horizonte/MG - 2024",
+      "initial": 891,
+      "delta": 25,
+      "final": 916,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NICOLE SANTOS"
+    },
+    {
+      "played_at": "2024-06-08T13:00:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Belo Horizonte/MG - 2024",
+      "initial": 946,
+      "delta": -55,
+      "final": 891,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2023-12-10T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 786,
+      "delta": 160,
+      "final": 946,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2023-12-10T09:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 786,
+      "delta": 0,
+      "final": 786,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2023-12-10T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 786,
+      "delta": 0,
+      "final": 786,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2023-09-15T11:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 898,
+      "delta": -112,
+      "final": 786,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2023-09-15T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 714,
+      "delta": 184,
+      "final": 898,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2023-09-15T09:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 714,
+      "delta": 0,
+      "final": 714,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2023-09-15T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 714,
+      "delta": 0,
+      "final": 714,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2023-07-07T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2023",
+      "initial": 714,
+      "delta": 0,
+      "final": 714,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CÁTIA OLIVEIRA"
+    },
+    {
+      "played_at": "2023-07-07T13:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2023",
+      "initial": 506,
+      "delta": 208,
+      "final": 714,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2023-07-07T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2023",
+      "initial": 506,
+      "delta": 0,
+      "final": 506,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2023-07-07T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2023",
+      "initial": 394,
+      "delta": 112,
+      "final": 506,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2022-12-04T16:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 404,
+      "delta": -10,
+      "final": 394,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2022-12-04T14:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 404,
+      "delta": 0,
+      "final": 404,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIANA MOURA"
+    },
+    {
+      "played_at": "2022-12-04T13:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 404,
+      "delta": 0,
+      "final": 404,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2021-09-24T14:00:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 436,
+      "delta": -32,
+      "final": 404,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2021-09-24T11:30:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 364,
+      "delta": 72,
+      "final": 436,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2021-09-24T10:30:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 380,
+      "delta": -16,
+      "final": 364,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIANA SILVA"
+    },
+    {
+      "played_at": "2021-09-24T08:30:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 452,
+      "delta": -72,
+      "final": 380,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2019-12-13T10:55:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Paralímpico",
+      "initial": 452,
+      "delta": 0,
+      "final": 452,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2019-12-13T09:15:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Paralímpico",
+      "initial": 182,
+      "delta": 270,
+      "final": 452,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCIANA MOURA"
+    },
+    {
+      "played_at": "2019-12-13T08:25:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Paralímpico",
+      "initial": 182,
+      "delta": 0,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2019-12-11T16:00:00",
+      "event": "Campeonato Brasileiro Seleções Estaduais Paralímpicas 2019",
+      "initial": 182,
+      "delta": 0,
+      "final": 182,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2013-11-01T10:00:00",
+      "event": "44º Campeonato Brasileiro Paralímpico - Classes",
+      "initial": 187,
+      "delta": -5,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIANA MOURA"
+    },
+    {
+      "played_at": "2013-11-01T09:20:00",
+      "event": "44º Campeonato Brasileiro Paralímpico - Classes",
+      "initial": 187,
+      "delta": 0,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROSANGELA DALCIN"
+    },
+    {
+      "played_at": "2013-11-01T08:00:00",
+      "event": "44º Campeonato Brasileiro Paralímpico - Classes",
+      "initial": 187,
+      "delta": 0,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUANA SILVA"
+    },
+    {
+      "played_at": "2013-08-24T10:05:00",
+      "event": "Copa Brasil Vitória 2013 - Classes Paralímpica",
+      "initial": 205,
+      "delta": -18,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2013-08-24T08:25:00",
+      "event": "Copa Brasil Vitória 2013 - Classes Paralímpica",
+      "initial": 205,
+      "delta": 0,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATA BENEVIDES ............."
+    }
+  ]
+}

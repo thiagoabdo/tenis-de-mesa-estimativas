@@ -1,0 +1,631 @@
+{
+  "associate_id": 90736,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90736&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T14:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 766,
+      "delta": -6,
+      "final": 760,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-09-27T13:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 739,
+      "delta": 27,
+      "final": 766,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-09-27T11:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 715,
+      "delta": 24,
+      "final": 739,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2026-09-27T10:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 700,
+      "delta": 15,
+      "final": 715,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE ITO"
+    },
+    {
+      "played_at": "2026-09-27T09:40:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 685,
+      "delta": 15,
+      "final": 700,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-09-27T08:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 679,
+      "delta": 6,
+      "final": 685,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI MELO"
+    },
+    {
+      "played_at": "2026-09-27T08:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 670,
+      "delta": 9,
+      "final": 679,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FÁBIO KATAYAMA"
+    },
+    {
+      "played_at": "2026-09-26T16:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 670,
+      "delta": 0,
+      "final": 670,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO TAKAYAMA"
+    },
+    {
+      "played_at": "2026-09-26T14:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 640,
+      "delta": 30,
+      "final": 670,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2026-09-26T11:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 640,
+      "delta": 0,
+      "final": 640,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL RODRIGUES"
+    },
+    {
+      "played_at": "2026-09-26T10:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 628,
+      "delta": 12,
+      "final": 640,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ENZO SCHERER"
+    },
+    {
+      "played_at": "2026-08-23T11:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 643,
+      "delta": -15,
+      "final": 628,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2026-08-23T10:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 622,
+      "delta": 21,
+      "final": 643,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARTIM AMARAL"
+    },
+    {
+      "played_at": "2026-08-23T10:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 607,
+      "delta": 15,
+      "final": 622,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-08-23T08:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 598,
+      "delta": 9,
+      "final": 607,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO SILVA"
+    },
+    {
+      "played_at": "2026-08-23T08:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 586,
+      "delta": 12,
+      "final": 598,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAYO PROFIRO"
+    },
+    {
+      "played_at": "2026-08-22T15:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 601,
+      "delta": -15,
+      "final": 586,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAMUEL MITSUI"
+    },
+    {
+      "played_at": "2026-08-22T10:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 586,
+      "delta": 15,
+      "final": 601,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ENZO FRANÇA"
+    },
+    {
+      "played_at": "2026-08-22T08:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 586,
+      "delta": 0,
+      "final": 586,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI MATTOS"
+    },
+    {
+      "played_at": "2026-08-02T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 598,
+      "delta": -12,
+      "final": 586,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2026-08-02T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 544,
+      "delta": 54,
+      "final": 598,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GABRIEL NARDI"
+    },
+    {
+      "played_at": "2026-08-02T10:55:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 532,
+      "delta": 12,
+      "final": 544,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE ITO"
+    },
+    {
+      "played_at": "2026-08-02T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 514,
+      "delta": 18,
+      "final": 532,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-08-02T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 505,
+      "delta": 9,
+      "final": 514,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÍTALO RAMIREZ"
+    },
+    {
+      "played_at": "2026-08-02T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 490,
+      "delta": 15,
+      "final": 505,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUÉL MOREIRA"
+    },
+    {
+      "played_at": "2026-08-01T17:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 502,
+      "delta": -12,
+      "final": 490,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EMANUEL TESCHE"
+    },
+    {
+      "played_at": "2026-08-01T10:35:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 484,
+      "delta": 18,
+      "final": 502,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO FRANÇA"
+    },
+    {
+      "played_at": "2026-08-01T09:20:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 484,
+      "delta": 0,
+      "final": 484,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO MIRANDA"
+    },
+    {
+      "played_at": "2026-06-28T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 487,
+      "delta": -3,
+      "final": 484,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-06-28T11:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 418,
+      "delta": 69,
+      "final": 487,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2026-06-28T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 388,
+      "delta": 30,
+      "final": 418,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2026-06-28T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 370,
+      "delta": 18,
+      "final": 388,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HEITOR MELLO"
+    },
+    {
+      "played_at": "2026-06-27T10:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 379,
+      "delta": -9,
+      "final": 370,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BENJAMIM REFUNDINI"
+    },
+    {
+      "played_at": "2026-06-27T09:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 382,
+      "delta": -3,
+      "final": 379,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-05-10T10:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 394,
+      "delta": -12,
+      "final": 382,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GABRIEL NARDI"
+    },
+    {
+      "played_at": "2026-05-10T10:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 367,
+      "delta": 27,
+      "final": 394,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-05-10T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 343,
+      "delta": 24,
+      "final": 367,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-09T15:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 376,
+      "delta": -33,
+      "final": 343,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL BARBOSA"
+    },
+    {
+      "played_at": "2026-05-09T11:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 409,
+      "delta": -33,
+      "final": 376,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GABRIEL PORTES"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 391,
+      "delta": 18,
+      "final": 409,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "OTÁVIO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-19T13:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 400,
+      "delta": -9,
+      "final": 391,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-04-19T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 367,
+      "delta": 33,
+      "final": 400,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2026-04-19T10:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 319,
+      "delta": 48,
+      "final": 367,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-04-19T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 298,
+      "delta": 21,
+      "final": 319,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DAVI SOUZA"
+    },
+    {
+      "played_at": "2026-04-19T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 274,
+      "delta": 24,
+      "final": 298,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ENRICO NOBILI"
+    },
+    {
+      "played_at": "2026-04-18T10:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 295,
+      "delta": -21,
+      "final": 274,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2026-04-18T09:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 295,
+      "delta": 0,
+      "final": 295,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL RODRIGUES"
+    },
+    {
+      "played_at": "2026-03-22T08:00:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 322,
+      "delta": -27,
+      "final": 295,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL RAMOS"
+    },
+    {
+      "played_at": "2026-03-21T20:10:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 196,
+      "delta": 126,
+      "final": 322,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO NETTO"
+    },
+    {
+      "played_at": "2026-03-21T16:25:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 241,
+      "delta": -45,
+      "final": 196,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO GONÇALVES"
+    },
+    {
+      "played_at": "2026-03-20T09:15:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2026-03-20T08:25:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME HOJO ............."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "associate_id": 92756,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92756&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-28T09:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 358,
+      "delta": -36,
+      "final": 322,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE ARAGÃO"
+    },
+    {
+      "played_at": "2026-06-28T09:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 313,
+      "delta": 45,
+      "final": 358,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAIME CASTRO"
+    },
+    {
+      "played_at": "2026-06-27T17:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 169,
+      "delta": 144,
+      "final": 313,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO TOYAMA"
+    },
+    {
+      "played_at": "2026-06-27T15:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 187,
+      "delta": -18,
+      "final": 169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WELLINGTOM COSTA"
+    },
+    {
+      "played_at": "2026-06-27T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": -63,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WELLINGTOM COSTA"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO FREITAS ............."
+    }
+  ]
+}

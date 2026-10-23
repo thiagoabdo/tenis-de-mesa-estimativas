@@ -1,0 +1,43 @@
+{
+  "associate_id": 92036,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92036&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-17T10:12:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 376,
+      "delta": -54,
+      "final": 322,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍS SANTOS"
+    },
+    {
+      "played_at": "2026-04-17T08:44:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 430,
+      "delta": -54,
+      "final": 376,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTUR LUIZ"
+    },
+    {
+      "played_at": "2026-04-17T08:00:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 250,
+      "delta": 180,
+      "final": 430,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO SILVA ............."
+    }
+  ]
+}

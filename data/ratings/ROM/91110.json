@@ -1,0 +1,91 @@
+{
+  "associate_id": 91110,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91110&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T09:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 157,
+      "delta": -15,
+      "final": 142,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WALDINEI NUNES"
+    },
+    {
+      "played_at": "2026-09-20T08:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 166,
+      "delta": -9,
+      "final": 157,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS BARATA"
+    },
+    {
+      "played_at": "2026-06-14T13:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 187,
+      "delta": -21,
+      "final": 166,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI GONDIM"
+    },
+    {
+      "played_at": "2026-06-14T11:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 217,
+      "delta": -30,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL CARVALHO"
+    },
+    {
+      "played_at": "2026-02-22T11:20:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 238,
+      "delta": -21,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HUELISOM ANDRADE"
+    },
+    {
+      "played_at": "2026-02-22T08:50:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 271,
+      "delta": -33,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTENOR SANTOS"
+    },
+    {
+      "played_at": "2026-02-22T08:25:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 250,
+      "delta": 21,
+      "final": 271,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO SILVA ............."
+    }
+  ]
+}

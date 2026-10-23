@@ -1,0 +1,31 @@
+{
+  "associate_id": 92701,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92701&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T08:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 241,
+      "delta": -6,
+      "final": 235,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "FELIPE BASILE"
+    },
+    {
+      "played_at": "2026-07-05T08:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "YURI PAPKE ............."
+    }
+  ]
+}

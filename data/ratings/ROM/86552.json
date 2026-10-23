@@ -1,0 +1,379 @@
+{
+  "associate_id": 86552,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=86552&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-25T14:40:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 100,
+      "delta": -7,
+      "final": 93,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "SARA SANTOS"
+    },
+    {
+      "played_at": "2026-07-25T14:20:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 106,
+      "delta": -6,
+      "final": 100,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "YASMIN SILVA"
+    },
+    {
+      "played_at": "2026-07-25T09:40:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 106,
+      "delta": 0,
+      "final": 106,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MAÍSA GARCIA"
+    },
+    {
+      "played_at": "2026-07-25T09:20:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 114,
+      "delta": -8,
+      "final": 106,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "SOFIA REISDERFER"
+    },
+    {
+      "played_at": "2026-06-27T15:40:00",
+      "event": "TMB Regional 2026 - II Liga Mato Grosso - Sorriso/MT",
+      "initial": 123,
+      "delta": -9,
+      "final": 114,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "SOFIA REISDERFER"
+    },
+    {
+      "played_at": "2026-06-27T15:20:00",
+      "event": "TMB Regional 2026 - II Liga Mato Grosso - Sorriso/MT",
+      "initial": 129,
+      "delta": -6,
+      "final": 123,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "YASMIN SILVA"
+    },
+    {
+      "played_at": "2026-06-27T15:00:00",
+      "event": "TMB Regional 2026 - II Liga Mato Grosso - Sorriso/MT",
+      "initial": 135,
+      "delta": -6,
+      "final": 129,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUIZA SILVA"
+    },
+    {
+      "played_at": "2026-06-27T12:00:00",
+      "event": "TMB Regional 2026 - II Liga Mato Grosso - Sorriso/MT",
+      "initial": 141,
+      "delta": -6,
+      "final": 135,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ELINE SPECHT"
+    },
+    {
+      "played_at": "2026-06-27T11:40:00",
+      "event": "TMB Regional 2026 - II Liga Mato Grosso - Sorriso/MT",
+      "initial": 142,
+      "delta": -1,
+      "final": 141,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MAÍSA GARCIA"
+    },
+    {
+      "played_at": "2026-06-27T11:20:00",
+      "event": "TMB Regional 2026 - II Liga Mato Grosso - Sorriso/MT",
+      "initial": 132,
+      "delta": 10,
+      "final": 142,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "SOFIA REISDERFER"
+    },
+    {
+      "played_at": "2026-03-28T10:00:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 134,
+      "delta": -2,
+      "final": 132,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MAÍSA GARCIA"
+    },
+    {
+      "played_at": "2026-03-28T09:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 142,
+      "delta": -8,
+      "final": 134,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "SARA SANTOS"
+    },
+    {
+      "played_at": "2026-03-28T09:15:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 152,
+      "delta": -10,
+      "final": 142,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ELINE SPECHT"
+    },
+    {
+      "played_at": "2026-03-28T09:00:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 154,
+      "delta": -2,
+      "final": 152,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MAÍSA GARCIA"
+    },
+    {
+      "played_at": "2026-03-28T08:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 160,
+      "delta": -6,
+      "final": 154,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "LUIZA SILVA"
+    },
+    {
+      "played_at": "2025-10-25T09:40:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 164,
+      "delta": -4,
+      "final": 160,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA MULLER"
+    },
+    {
+      "played_at": "2025-10-25T08:50:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 170,
+      "delta": -6,
+      "final": 164,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PELANDA"
+    },
+    {
+      "played_at": "2025-09-20T15:35:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 176,
+      "delta": -6,
+      "final": 170,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA MULLER"
+    },
+    {
+      "played_at": "2025-09-20T14:45:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 144,
+      "delta": 32,
+      "final": 176,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA CUNHA"
+    },
+    {
+      "played_at": "2025-09-20T13:55:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 150,
+      "delta": -6,
+      "final": 144,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PELANDA"
+    },
+    {
+      "played_at": "2025-09-20T10:20:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 162,
+      "delta": -12,
+      "final": 150,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAVYNIA RYBA"
+    },
+    {
+      "played_at": "2025-09-20T09:05:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 170,
+      "delta": -8,
+      "final": 162,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA MULLER"
+    },
+    {
+      "played_at": "2025-09-20T07:50:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 174,
+      "delta": -4,
+      "final": 170,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAÍSA GARCIA"
+    },
+    {
+      "played_at": "2025-08-23T11:20:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 192,
+      "delta": -18,
+      "final": 174,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANA COUTO"
+    },
+    {
+      "played_at": "2025-08-23T10:05:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 198,
+      "delta": -6,
+      "final": 192,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PELANDA"
+    },
+    {
+      "played_at": "2025-08-23T09:40:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 220,
+      "delta": -22,
+      "final": 198,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANA COUTO"
+    },
+    {
+      "played_at": "2025-08-23T08:50:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 234,
+      "delta": -14,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANNA RIBEIRO"
+    },
+    {
+      "played_at": "2025-08-23T08:25:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 240,
+      "delta": -6,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAÍSA GARCIA"
+    },
+    {
+      "played_at": "2025-05-31T10:05:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 222,
+      "delta": 18,
+      "final": 240,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IVINI CONCEIÇÃO"
+    },
+    {
+      "played_at": "2025-05-31T09:15:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 232,
+      "delta": -10,
+      "final": 222,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PELANDA"
+    },
+    {
+      "played_at": "2025-05-31T08:25:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA MULLER ............."
+    }
+  ]
+}

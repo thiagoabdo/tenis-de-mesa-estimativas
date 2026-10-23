@@ -1,0 +1,439 @@
+{
+  "associate_id": 85492,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85492&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-26T10:20:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 290,
+      "delta": -30,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL SOUZA"
+    },
+    {
+      "played_at": "2026-04-25T14:45:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 302,
+      "delta": -12,
+      "final": 290,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELIPE BECCARDI"
+    },
+    {
+      "played_at": "2026-04-25T10:30:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 275,
+      "delta": 27,
+      "final": 302,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE MATOS"
+    },
+    {
+      "played_at": "2026-04-25T08:50:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 281,
+      "delta": -6,
+      "final": 275,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO PERILLO"
+    },
+    {
+      "played_at": "2026-03-28T16:30:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 287,
+      "delta": -6,
+      "final": 281,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "FERNANDO BONGIOLO"
+    },
+    {
+      "played_at": "2026-03-28T16:15:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 278,
+      "delta": 9,
+      "final": 287,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ARTHUR FERREIRA"
+    },
+    {
+      "played_at": "2026-03-28T16:00:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 270,
+      "delta": 8,
+      "final": 278,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "WALTER BECK"
+    },
+    {
+      "played_at": "2026-03-28T15:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 263,
+      "delta": 7,
+      "final": 270,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "PIETRO SILVA"
+    },
+    {
+      "played_at": "2026-03-28T15:15:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 254,
+      "delta": 9,
+      "final": 263,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "JOÃO TURANI"
+    },
+    {
+      "played_at": "2026-03-28T14:15:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 246,
+      "delta": 8,
+      "final": 254,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "HENRIQUE BECCARDI"
+    },
+    {
+      "played_at": "2026-03-28T12:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 252,
+      "delta": -6,
+      "final": 246,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "MAIKEL OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-28T12:30:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "RAFAEL TAVARES"
+    },
+    {
+      "played_at": "2026-03-28T10:00:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 255,
+      "delta": -3,
+      "final": 252,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "PEDRO MOCELIN"
+    },
+    {
+      "played_at": "2026-03-28T09:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 266,
+      "delta": -11,
+      "final": 255,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "JORGE MATOS"
+    },
+    {
+      "played_at": "2026-02-22T11:20:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 290,
+      "delta": -24,
+      "final": 266,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NATAN LANES"
+    },
+    {
+      "played_at": "2026-02-22T10:30:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 266,
+      "delta": 24,
+      "final": 290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALISON MARTINS"
+    },
+    {
+      "played_at": "2026-02-21T19:25:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 242,
+      "delta": 24,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENTO FARIA"
+    },
+    {
+      "played_at": "2026-02-21T18:10:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 200,
+      "delta": 42,
+      "final": 242,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANDRÉ SOARES"
+    },
+    {
+      "played_at": "2026-02-21T10:55:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 167,
+      "delta": 33,
+      "final": 200,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BENTO FARIA"
+    },
+    {
+      "played_at": "2026-02-21T09:40:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 173,
+      "delta": -6,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS ARRAES"
+    },
+    {
+      "played_at": "2026-02-21T08:25:00",
+      "event": "TMB Estadual 2026 - I Copa Mato Grosso - Cuiabá/MT",
+      "initial": 194,
+      "delta": -21,
+      "final": 173,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL COSTA"
+    },
+    {
+      "played_at": "2025-10-25T16:20:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 194,
+      "delta": 0,
+      "final": 194,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO PERILLO"
+    },
+    {
+      "played_at": "2025-10-25T15:05:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 198,
+      "delta": -4,
+      "final": 194,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MOCELIN"
+    },
+    {
+      "played_at": "2025-10-25T14:15:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 182,
+      "delta": 16,
+      "final": 198,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ DEUS"
+    },
+    {
+      "played_at": "2025-10-25T08:50:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 200,
+      "delta": -18,
+      "final": 182,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PIETRO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-10-25T08:00:00",
+      "event": "TMB Estadual - V COPA MATO GROSSO - Sorriso/MT - 2025",
+      "initial": 206,
+      "delta": -6,
+      "final": 200,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO CAÇÃO"
+    },
+    {
+      "played_at": "2025-08-23T11:45:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 220,
+      "delta": -14,
+      "final": 206,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ERICK SILVA"
+    },
+    {
+      "played_at": "2025-08-23T10:55:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 226,
+      "delta": -6,
+      "final": 220,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS BELO"
+    },
+    {
+      "played_at": "2025-08-23T10:30:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 202,
+      "delta": 24,
+      "final": 226,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO ROSA"
+    },
+    {
+      "played_at": "2025-08-23T09:40:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 216,
+      "delta": -14,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINÍCIUS GRIGGI"
+    },
+    {
+      "played_at": "2025-08-23T08:00:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 232,
+      "delta": -16,
+      "final": 216,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GIL LUZ"
+    },
+    {
+      "played_at": "2025-05-31T15:55:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 248,
+      "delta": -16,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI MAGALHÃES"
+    },
+    {
+      "played_at": "2025-05-31T15:05:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 248,
+      "delta": 0,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL TAVARES"
+    },
+    {
+      "played_at": "2025-05-31T14:15:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 224,
+      "delta": 24,
+      "final": 248,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YAGOSANTOS ARAÚJO"
+    },
+    {
+      "played_at": "2025-05-31T08:50:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 242,
+      "delta": -18,
+      "final": 224,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI KOPPER"
+    },
+    {
+      "played_at": "2025-05-31T08:00:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS BELO ............."
+    }
+  ]
+}

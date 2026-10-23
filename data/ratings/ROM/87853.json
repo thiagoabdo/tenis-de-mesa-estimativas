@@ -1,0 +1,31 @@
+{
+  "associate_id": 87853,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87853&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-02T20:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 223,
+      "delta": -54,
+      "final": 169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL CARVALHO"
+    },
+    {
+      "played_at": "2026-05-02T19:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 250,
+      "delta": -27,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS CARNEIRO ............."
+    }
+  ]
+}

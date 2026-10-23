@@ -1,0 +1,91 @@
+{
+  "associate_id": 85354,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85354&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-18T21:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 415,
+      "delta": -24,
+      "final": 391,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO IENSEN"
+    },
+    {
+      "played_at": "2026-04-18T20:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 385,
+      "delta": 30,
+      "final": 415,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SÉRGIO LIMA"
+    },
+    {
+      "played_at": "2026-04-18T19:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 352,
+      "delta": 33,
+      "final": 385,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME SANTOS"
+    },
+    {
+      "played_at": "2026-04-18T18:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 319,
+      "delta": 33,
+      "final": 352,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO SASSAKI"
+    },
+    {
+      "played_at": "2026-04-18T17:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 304,
+      "delta": 15,
+      "final": 319,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JEAN MALLET"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 280,
+      "delta": 24,
+      "final": 304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LINCON GROSSE"
+    },
+    {
+      "played_at": "2026-04-18T08:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FRANCISCO JUNIOR ............."
+    }
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "associate_id": 78883,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=78883&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-23T09:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 1070,
+      "delta": 0,
+      "final": 1070,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JEFFERSON.TAUAN SILVA"
+    },
+    {
+      "played_at": "2026-08-23T08:00:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 1115,
+      "delta": -45,
+      "final": 1070,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RENATO SCUR"
+    },
+    {
+      "played_at": "2026-08-22T17:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 1079,
+      "delta": 36,
+      "final": 1115,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YOSEF CARVALHO"
+    },
+    {
+      "played_at": "2026-08-22T10:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 1088,
+      "delta": -9,
+      "final": 1079,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NORMANDO ALENCAR"
+    },
+    {
+      "played_at": "2026-08-22T09:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 1286,
+      "delta": -198,
+      "final": 1088,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FABIO MARTINHO"
+    },
+    {
+      "played_at": "2026-05-03T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1331,
+      "delta": -45,
+      "final": 1286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL ALVES"
+    },
+    {
+      "played_at": "2026-05-03T13:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1277,
+      "delta": 54,
+      "final": 1331,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GLEYBERSON NUNES"
+    },
+    {
+      "played_at": "2026-05-03T11:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1187,
+      "delta": 90,
+      "final": 1277,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RODRIGO FILHO"
+    },
+    {
+      "played_at": "2026-05-02T21:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1232,
+      "delta": -45,
+      "final": 1187,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VINÍCIUS CORREIA"
+    },
+    {
+      "played_at": "2026-05-02T19:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1187,
+      "delta": 45,
+      "final": 1232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LISANDRO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-02T16:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1295,
+      "delta": -108,
+      "final": 1187,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GIUSEPPE CAMARA"
+    },
+    {
+      "played_at": "2026-05-02T14:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1295,
+      "delta": 0,
+      "final": 1295,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATEUS PONCHIO"
+    },
+    {
+      "played_at": "2026-05-02T11:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1241,
+      "delta": 54,
+      "final": 1295,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDMAR NETO"
+    },
+    {
+      "played_at": "2026-03-21T10:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2026",
+      "initial": 1241,
+      "delta": 0,
+      "final": 1241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO MACHADO"
+    },
+    {
+      "played_at": "2026-03-21T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2026",
+      "initial": 1217,
+      "delta": 24,
+      "final": 1241,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2026-03-21T09:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2026",
+      "initial": 1202,
+      "delta": 15,
+      "final": 1217,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATHEUS SANTOS"
+    },
+    {
+      "played_at": "2026-03-21T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2026",
+      "initial": 1193,
+      "delta": 9,
+      "final": 1202,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL CAVALCANTE"
+    },
+    {
+      "played_at": "2026-03-21T08:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2026",
+      "initial": 1184,
+      "delta": 9,
+      "final": 1193,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KLEBER ALMEIDA"
+    },
+    {
+      "played_at": "2025-10-04T11:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Maceió/AL - 2025",
+      "initial": 1192,
+      "delta": -8,
+      "final": 1184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VERON SILVA"
+    },
+    {
+      "played_at": "2025-10-04T09:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Maceió/AL - 2025",
+      "initial": 1184,
+      "delta": 8,
+      "final": 1192,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AYDANO FERRAZ"
+    },
+    {
+      "played_at": "2025-10-04T08:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Maceió/AL - 2025",
+      "initial": 1184,
+      "delta": 0,
+      "final": 1184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO MACHADO"
+    },
+    {
+      "played_at": "2025-09-20T09:45:00",
+      "event": "Estadual - 4ª Etapa - Maceio/AL - 2025",
+      "initial": 1194,
+      "delta": -10,
+      "final": 1184,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VERON SILVA"
+    },
+    {
+      "played_at": "2025-09-20T09:00:00",
+      "event": "Estadual - 4ª Etapa - Maceio/AL - 2025",
+      "initial": 1190,
+      "delta": 4,
+      "final": 1194,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO ROCHA"
+    },
+    {
+      "played_at": "2025-09-20T08:15:00",
+      "event": "Estadual - 4ª Etapa - Maceio/AL - 2025",
+      "initial": 1226,
+      "delta": -36,
+      "final": 1190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "AYDANO FERRAZ"
+    },
+    {
+      "played_at": "2025-08-23T13:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1226,
+      "delta": 0,
+      "final": 1226,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROBERTO ZANGALI"
+    },
+    {
+      "played_at": "2025-08-23T13:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1201,
+      "delta": 25,
+      "final": 1226,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2025-08-23T10:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1301,
+      "delta": -100,
+      "final": 1201,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRENO MENEZES"
+    },
+    {
+      "played_at": "2025-08-23T10:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1296,
+      "delta": 5,
+      "final": 1301,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSE ALMEIDA"
+    },
+    {
+      "played_at": "2025-08-23T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1291,
+      "delta": 5,
+      "final": 1296,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO REZENDE"
+    },
+    {
+      "played_at": "2025-08-22T14:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1316,
+      "delta": -25,
+      "final": 1291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO NETO"
+    },
+    {
+      "played_at": "2025-08-22T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1271,
+      "delta": 45,
+      "final": 1316,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUCAS GIANI"
+    },
+    {
+      "played_at": "2025-08-22T11:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1226,
+      "delta": 45,
+      "final": 1271,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VERON SILVA"
+    },
+    {
+      "played_at": "2025-08-22T09:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1156,
+      "delta": 70,
+      "final": 1226,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HUGO VINAGRE"
+    },
+    {
+      "played_at": "2025-08-22T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Praia do Francês/AL - 2025",
+      "initial": 1076,
+      "delta": 80,
+      "final": 1156,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO SIQUEIRA"
+    },
+    {
+      "played_at": "2025-05-17T10:30:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 1080,
+      "delta": -4,
+      "final": 1076,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO MACHADO"
+    },
+    {
+      "played_at": "2025-05-17T09:45:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 1112,
+      "delta": -32,
+      "final": 1080,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2025-05-17T09:00:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 1100,
+      "delta": 12,
+      "final": 1112,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATHEUS SANTOS"
+    },
+    {
+      "played_at": "2025-05-17T08:00:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 1092,
+      "delta": 8,
+      "final": 1100,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO BRASILEIRO"
+    },
+    {
+      "played_at": "2025-04-26T16:20:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 1092,
+      "delta": 0,
+      "final": 1092,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABEL NETO"
+    },
+    {
+      "played_at": "2025-04-26T15:00:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 1092,
+      "delta": 0,
+      "final": 1092,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME LEÃO"
+    },
+    {
+      "played_at": "2025-04-26T14:00:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 1092,
+      "delta": 0,
+      "final": 1092,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO RÊGO"
+    },
+    {
+      "played_at": "2025-04-26T11:40:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 1046,
+      "delta": 46,
+      "final": 1092,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCELO MACHADO"
+    },
+    {
+      "played_at": "2025-04-26T11:00:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 986,
+      "delta": 60,
+      "final": 1046,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EVERTON MELO"
+    },
+    {
+      "played_at": "2025-04-26T10:20:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 972,
+      "delta": 14,
+      "final": 986,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2025-04-26T09:20:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 962,
+      "delta": 10,
+      "final": 972,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AYDANO FERRAZ"
+    },
+    {
+      "played_at": "2025-04-26T08:00:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 950,
+      "delta": 12,
+      "final": 962,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO BRASILEIRO"
+    },
+    {
+      "played_at": "2025-04-13T15:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 1040,
+      "delta": -90,
+      "final": 950,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DANIEL TAPIOCA"
+    },
+    {
+      "played_at": "2025-04-13T13:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 1000,
+      "delta": 40,
+      "final": 1040,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMAURY JÚNIOR"
+    },
+    {
+      "played_at": "2025-04-13T09:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 985,
+      "delta": 15,
+      "final": 1000,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIONATA ALBERTINI"
+    },
+    {
+      "played_at": "2025-04-13T08:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 1055,
+      "delta": -70,
+      "final": 985,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GLAUCO LEITE"
+    },
+    {
+      "played_at": "2025-04-12T14:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 1085,
+      "delta": -30,
+      "final": 1055,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GLADSTON ROSA"
+    },
+    {
+      "played_at": "2025-04-12T13:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 970,
+      "delta": 115,
+      "final": 1085,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NIVALDO JÚNIOR"
+    },
+    {
+      "played_at": "2025-04-12T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 945,
+      "delta": 25,
+      "final": 970,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FÁBIO CAVALCANTI"
+    },
+    {
+      "played_at": "2025-04-12T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 795,
+      "delta": 150,
+      "final": 945,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NORMANDO ALENCAR"
+    },
+    {
+      "played_at": "2025-04-11T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 830,
+      "delta": -35,
+      "final": 795,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CAUÃ CAMPOS"
+    },
+    {
+      "played_at": "2025-04-11T17:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 785,
+      "delta": 45,
+      "final": 830,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS FREITAS"
+    },
+    {
+      "played_at": "2025-04-11T16:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 745,
+      "delta": 40,
+      "final": 785,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SIDNEY FALCÃO"
+    },
+    {
+      "played_at": "2025-04-11T11:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 675,
+      "delta": 70,
+      "final": 745,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALESSANDRO MOREIRA"
+    },
+    {
+      "played_at": "2025-04-11T10:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Recife/PE - 2025",
+      "initial": 630,
+      "delta": 45,
+      "final": 675,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HEITOR LEITE"
+    },
+    {
+      "played_at": "2024-04-07T18:25:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 635,
+      "delta": -5,
+      "final": 630,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NIEDSON SILVA"
+    },
+    {
+      "played_at": "2024-04-07T17:35:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 585,
+      "delta": 50,
+      "final": 635,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RINALDO MOUREIRA"
+    },
+    {
+      "played_at": "2024-04-07T16:45:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 485,
+      "delta": 100,
+      "final": 585,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FRANCISCO SILVA"
+    },
+    {
+      "played_at": "2024-04-07T15:55:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 430,
+      "delta": 55,
+      "final": 485,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL CAVALCANTE"
+    },
+    {
+      "played_at": "2024-04-07T15:05:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 375,
+      "delta": 55,
+      "final": 430,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FELIPE FLOR"
+    },
+    {
+      "played_at": "2024-04-07T13:25:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 345,
+      "delta": 30,
+      "final": 375,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO NASCIMENTO"
+    },
+    {
+      "played_at": "2024-04-07T10:55:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 400,
+      "delta": -55,
+      "final": 345,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCELO GOMES"
+    },
+    {
+      "played_at": "2024-04-07T08:00:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 375,
+      "delta": 25,
+      "final": 400,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATAS SILVA"
+    },
+    {
+      "played_at": "2024-04-06T09:15:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 375,
+      "delta": 0,
+      "final": 375,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCELO ALMEIDA"
+    },
+    {
+      "played_at": "2024-04-06T08:00:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 375,
+      "delta": 0,
+      "final": 375,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NORMANDO ALENCAR"
+    },
+    {
+      "played_at": "2024-04-05T14:15:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 415,
+      "delta": -40,
+      "final": 375,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NIEDSON SILVA"
+    },
+    {
+      "played_at": "2024-04-05T13:25:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 365,
+      "delta": 50,
+      "final": 415,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL CAVALCANTE"
+    },
+    {
+      "played_at": "2024-04-05T10:55:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 325,
+      "delta": 40,
+      "final": 365,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIEL SILVA"
+    },
+    {
+      "played_at": "2024-04-05T09:40:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 290,
+      "delta": 35,
+      "final": 325,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL CARDOSO"
+    },
+    {
+      "played_at": "2024-04-05T08:00:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 250,
+      "delta": 40,
+      "final": 290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO NASCIMENTO ............."
+    }
+  ]
+}

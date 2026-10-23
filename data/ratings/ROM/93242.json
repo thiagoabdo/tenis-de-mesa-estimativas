@@ -1,0 +1,55 @@
+{
+  "associate_id": 93242,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93242&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T13:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 225,
+      "delta": -7,
+      "final": 218,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "MURILO CAVANI"
+    },
+    {
+      "played_at": "2026-07-05T12:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 235,
+      "delta": -10,
+      "final": 225,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "BERNARDO GREGOREKI"
+    },
+    {
+      "played_at": "2026-07-05T09:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 241,
+      "delta": -6,
+      "final": 235,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "DIEGO SOTELO"
+    },
+    {
+      "played_at": "2026-07-05T09:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "YURI PAPKE ............."
+    }
+  ]
+}

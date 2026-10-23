@@ -1,0 +1,655 @@
+{
+  "associate_id": 25682,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=25682&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-12T18:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Salvador/BA 2026",
+      "initial": 766,
+      "delta": -42,
+      "final": 724,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MORGAN OVIDIO"
+    },
+    {
+      "played_at": "2026-09-12T17:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Salvador/BA 2026",
+      "initial": 676,
+      "delta": 90,
+      "final": 766,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELA LOPES"
+    },
+    {
+      "played_at": "2026-09-12T16:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Salvador/BA 2026",
+      "initial": 661,
+      "delta": 15,
+      "final": 676,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DANIEL TAPIOCA"
+    },
+    {
+      "played_at": "2026-09-12T14:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Salvador/BA 2026",
+      "initial": 607,
+      "delta": 54,
+      "final": 661,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO CARNEIRO"
+    },
+    {
+      "played_at": "2026-09-12T10:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Salvador/BA 2026",
+      "initial": 607,
+      "delta": 0,
+      "final": 607,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-09-12T10:05:00",
+      "event": "TMB Estadual - 4ª Etapa - Salvador/BA 2026",
+      "initial": 643,
+      "delta": -36,
+      "final": 607,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CARMELITO JUNIOR"
+    },
+    {
+      "played_at": "2026-08-15T16:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Salvador/BA 2026",
+      "initial": 655,
+      "delta": -12,
+      "final": 643,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICHOLAS OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-15T13:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Salvador/BA 2026",
+      "initial": 667,
+      "delta": -12,
+      "final": 655,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2026-08-15T11:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Salvador/BA 2026",
+      "initial": 667,
+      "delta": 0,
+      "final": 667,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-08-15T10:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Salvador/BA 2026",
+      "initial": 667,
+      "delta": 0,
+      "final": 667,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2026-08-15T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Salvador/BA 2026",
+      "initial": 655,
+      "delta": 12,
+      "final": 667,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÂNGELO SOUSA"
+    },
+    {
+      "played_at": "2026-06-06T18:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 751,
+      "delta": -96,
+      "final": 655,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MATEUS MACHADO"
+    },
+    {
+      "played_at": "2026-06-06T17:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 781,
+      "delta": -30,
+      "final": 751,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO GOMES"
+    },
+    {
+      "played_at": "2026-06-06T15:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 745,
+      "delta": 36,
+      "final": 781,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SANDRO SOUZA"
+    },
+    {
+      "played_at": "2026-06-06T11:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 745,
+      "delta": 0,
+      "final": 745,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2026-06-06T10:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 745,
+      "delta": 0,
+      "final": 745,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-06-06T09:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 727,
+      "delta": 18,
+      "final": 745,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IDNEY PORTELA"
+    },
+    {
+      "played_at": "2026-06-06T08:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Feira de Santana -BA Individual Olímpico",
+      "initial": 721,
+      "delta": 6,
+      "final": 727,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CÍCERO BARACHO"
+    },
+    {
+      "played_at": "2026-05-09T16:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Salvador/BA 2026",
+      "initial": 703,
+      "delta": 18,
+      "final": 721,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NICHOLAS OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-09T15:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Salvador/BA 2026",
+      "initial": 745,
+      "delta": -42,
+      "final": 703,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADALBERTO VALADÃO"
+    },
+    {
+      "played_at": "2026-05-09T13:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Salvador/BA 2026",
+      "initial": 760,
+      "delta": -15,
+      "final": 745,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS ANDRADE"
+    },
+    {
+      "played_at": "2026-05-09T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Salvador/BA 2026",
+      "initial": 760,
+      "delta": 0,
+      "final": 760,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-05-09T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Salvador/BA 2026",
+      "initial": 760,
+      "delta": 0,
+      "final": 760,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2026-05-09T08:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Salvador/BA 2026",
+      "initial": 691,
+      "delta": 69,
+      "final": 760,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2026-04-11T19:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Salvador/BA 2026",
+      "initial": 718,
+      "delta": -27,
+      "final": 691,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS NASCIMENTO"
+    },
+    {
+      "played_at": "2026-04-11T17:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Salvador/BA 2026",
+      "initial": 703,
+      "delta": 15,
+      "final": 718,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DOMINIQUE BUIJS"
+    },
+    {
+      "played_at": "2026-04-11T16:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Salvador/BA 2026",
+      "initial": 751,
+      "delta": -48,
+      "final": 703,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MOALISSON MARQUES"
+    },
+    {
+      "played_at": "2026-04-11T13:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Salvador/BA 2026",
+      "initial": 751,
+      "delta": 0,
+      "final": 751,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-04-11T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Salvador/BA 2026",
+      "initial": 760,
+      "delta": -9,
+      "final": 751,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2026-04-11T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Salvador/BA 2026",
+      "initial": 670,
+      "delta": 90,
+      "final": 760,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2025-09-27T17:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Salvador/BA - 2025",
+      "initial": 658,
+      "delta": 12,
+      "final": 670,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DANIEL TAPIOCA"
+    },
+    {
+      "played_at": "2025-09-27T16:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Salvador/BA - 2025",
+      "initial": 666,
+      "delta": -8,
+      "final": 658,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LEANDRO SILVA"
+    },
+    {
+      "played_at": "2025-09-27T15:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Salvador/BA - 2025",
+      "initial": 672,
+      "delta": -6,
+      "final": 666,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HENRIQUE PINTO"
+    },
+    {
+      "played_at": "2025-09-27T10:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Salvador/BA - 2025",
+      "initial": 620,
+      "delta": 52,
+      "final": 672,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2025-09-27T09:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Salvador/BA - 2025",
+      "initial": 620,
+      "delta": 0,
+      "final": 620,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2025-09-27T08:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Salvador/BA - 2025",
+      "initial": 560,
+      "delta": 60,
+      "final": 620,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2025-07-19T16:20:00",
+      "event": "Estadual - 3ª Etapa - Salvador/BA 2025",
+      "initial": 566,
+      "delta": -6,
+      "final": 560,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EUDES ASSIS"
+    },
+    {
+      "played_at": "2025-07-19T15:05:00",
+      "event": "Estadual - 3ª Etapa - Salvador/BA 2025",
+      "initial": 570,
+      "delta": -4,
+      "final": 566,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE PINTO"
+    },
+    {
+      "played_at": "2025-07-19T13:00:00",
+      "event": "Estadual - 3ª Etapa - Salvador/BA 2025",
+      "initial": 510,
+      "delta": 60,
+      "final": 570,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2025-07-19T12:10:00",
+      "event": "Estadual - 3ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 60,
+      "final": 510,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2025-07-19T10:55:00",
+      "event": "Estadual - 3ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2025-06-01T16:20:00",
+      "event": "Estadual - 2ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEX WANG"
+    },
+    {
+      "played_at": "2025-06-01T15:05:00",
+      "event": "Estadual - 2ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL MOREIRA"
+    },
+    {
+      "played_at": "2025-06-01T14:15:00",
+      "event": "Estadual - 2ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HANRY OLIVEIRA"
+    },
+    {
+      "played_at": "2025-06-01T09:40:00",
+      "event": "Estadual - 2ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2025-06-01T08:50:00",
+      "event": "Estadual - 2ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2025-06-01T08:00:00",
+      "event": "Estadual - 2ª Etapa - Salvador/BA 2025",
+      "initial": 450,
+      "delta": 0,
+      "final": 450,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2010-07-10T15:30:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 460,
+      "delta": -10,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICARDO VILLELA"
+    },
+    {
+      "played_at": "2010-07-10T11:00:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 408,
+      "delta": 52,
+      "final": 460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉ SOUZA"
+    },
+    {
+      "played_at": "2010-07-10T08:30:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 408,
+      "delta": 0,
+      "final": 408,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO SIMÕES"
+    },
+    {
+      "played_at": "2010-07-09T09:30:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 428,
+      "delta": -20,
+      "final": 408,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE COSTA"
+    },
+    {
+      "played_at": "2010-07-09T08:30:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 388,
+      "delta": 40,
+      "final": 428,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RICARDO VILLELA"
+    },
+    {
+      "played_at": "2010-07-08T16:30:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 368,
+      "delta": 20,
+      "final": 388,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "WILSON SANTOS"
+    },
+    {
+      "played_at": "2010-07-08T16:00:00",
+      "event": "Eventos - Copa Brasil Salvador - (individual) 2010",
+      "initial": 350,
+      "delta": 18,
+      "final": 368,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ CONCEIÇÃO ............."
+    }
+  ]
+}

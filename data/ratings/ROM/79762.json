@@ -1,0 +1,67 @@
+{
+  "associate_id": 79762,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=79762&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T15:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 283,
+      "delta": -27,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTUR COSTA"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 259,
+      "delta": 24,
+      "final": 283,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ENZO AIRES"
+    },
+    {
+      "played_at": "2026-03-01T08:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 229,
+      "delta": 30,
+      "final": 259,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO SANTIAGO"
+    },
+    {
+      "played_at": "2026-02-28T14:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": -21,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDERSON FERREIRA"
+    },
+    {
+      "played_at": "2026-02-28T14:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIX JUNIOR ............."
+    }
+  ]
+}

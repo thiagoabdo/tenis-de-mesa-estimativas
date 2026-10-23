@@ -1,0 +1,43 @@
+{
+  "associate_id": 93254,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93254&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-28T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 217,
+      "delta": -36,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ÍTALO RAMIREZ"
+    },
+    {
+      "played_at": "2026-06-28T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 232,
+      "delta": -15,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-06-28T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS SHIMADA ............."
+    }
+  ]
+}

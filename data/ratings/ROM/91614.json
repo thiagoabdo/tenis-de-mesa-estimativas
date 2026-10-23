@@ -1,0 +1,55 @@
+{
+  "associate_id": 91614,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91614&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-29T08:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 234,
+      "delta": -14,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI VILLANI"
+    },
+    {
+      "played_at": "2026-08-29T08:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 236,
+      "delta": -2,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO FERNANDES"
+    },
+    {
+      "played_at": "2026-03-07T09:20:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 240,
+      "delta": -4,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISAC FERNANDES"
+    },
+    {
+      "played_at": "2026-03-07T08:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS CHAGAS ............."
+    }
+  ]
+}

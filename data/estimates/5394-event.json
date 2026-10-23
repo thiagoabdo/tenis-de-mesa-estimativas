@@ -1,0 +1,5386 @@
+{
+  "schema_version": 1,
+  "event_id": 5394,
+  "event_name": "5394 - TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá/PR - 2026 Individual Paralímpico",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 9,
+  "event_match_count": 79,
+  "estimated_match_count": 79,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5394-2021-001",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Grupo 01",
+      "game_number": 1,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "13:55",
+      "played_at": "2026-03-20T13:55:00",
+      "players": [
+        {
+          "name": "GERSON HINTZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EMERSON SILVA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            3,
+            10,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GERSON HINTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 28479,
+            "name": "GERSON HINTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 1355,
+            "rating_change": 63,
+            "rating_after": 1418,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 63
+          },
+          {
+            "associate_id": 24270,
+            "name": "EMERSON SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1237,
+            "rating_change": -45,
+            "rating_after": 1192,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -45
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-002",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Grupo 02",
+      "game_number": 2,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "13:55",
+      "played_at": "2026-03-20T13:55:00",
+      "players": [
+        {
+          "name": "ARTHUR BRANCO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO LEMOS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            1,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ARTHUR BRANCO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 73254,
+            "name": "ARTHUR BRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 828,
+            "rating_change": 36,
+            "rating_after": 864,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 35319,
+            "name": "MARCELO LEMOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 473,
+            "rating_change": -18,
+            "rating_after": 455,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-002",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 2,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "13:55",
+      "played_at": "2026-03-20T13:55:00",
+      "players": [
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDRÉA COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 621,
+            "rating_change": 27,
+            "rating_after": 648,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 180,
+            "rating_change": -9,
+            "rating_after": 171,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-001",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 1,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "13:56",
+      "played_at": "2026-03-20T13:56:00",
+      "players": [
+        {
+          "name": "MANUELA LIMA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARINICE VIEIRA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            1,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MANUELA LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82537,
+            "name": "MANUELA LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1344,
+            "rating_change": 9,
+            "rating_after": 1353,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 22066,
+            "name": "MARINICE VIEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 139,
+            "rating_change": 0,
+            "rating_after": 139,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-001",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "CINCLER TREVISAN",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            15,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            13,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CINCLER TREVISAN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20850,
+            "name": "CINCLER TREVISAN",
+            "associate_id_source": "event_roster",
+            "rating_before": 1234,
+            "rating_change": 9,
+            "rating_after": 1243,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 82162,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 173,
+            "rating_change": 0,
+            "rating_after": 173,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-002",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "JEAN PADILHA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTÔNIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JEAN PADILHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 24053,
+            "name": "JEAN PADILHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1377,
+            "rating_change": 9,
+            "rating_after": 1386,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 22059,
+            "name": "ANTÔNIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 509,
+            "rating_change": 0,
+            "rating_after": 509,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-001",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 01",
+      "game_number": 1,
+      "table": 14,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "LUCAS GRILO",
+          "sets_won": 3,
+          "set_points": [
+            14,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BRUNO MUNE",
+          "sets_won": 0,
+          "set_points": [
+            12,
+            7,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUCAS GRILO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 34757,
+            "name": "LUCAS GRILO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1611,
+            "rating_change": 9,
+            "rating_after": 1620,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 36034,
+            "name": "BRUNO MUNE",
+            "associate_id_source": "event_roster",
+            "rating_before": 749,
+            "rating_change": 0,
+            "rating_after": 749,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-002",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 02",
+      "game_number": 2,
+      "table": 15,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            7,
+            10,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS PELLIN",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            12,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "MARCOS PELLIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1387,
+            "rating_change": -198,
+            "rating_after": 1189,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -198
+          },
+          {
+            "associate_id": 89032,
+            "name": "MARCOS PELLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": 270,
+            "rating_after": 502,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 270
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-003",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 02",
+      "game_number": 3,
+      "table": 16,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "FRANCISCO MELO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            10,
+            11,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "GUSTAVO GONÇALVES",
+          "sets_won": 2,
+          "set_points": [
+            13,
+            12,
+            7,
+            4,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "FRANCISCO MELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 19090,
+            "name": "FRANCISCO MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1514,
+            "rating_change": 9,
+            "rating_after": 1523,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 87291,
+            "name": "GUSTAVO GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 134,
+            "rating_change": 0,
+            "rating_after": 134,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2026-001",
+      "event_id": 5394,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 9,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "EDNEI SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BASÍLIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "EDNEI SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 55794,
+            "name": "EDNEI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1725,
+            "rating_change": 18,
+            "rating_after": 1743,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 16784,
+            "name": "BASÍLIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 989,
+            "rating_change": 0,
+            "rating_after": 989,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2026-002",
+      "event_id": 5394,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 10,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "ALEXANDRE CALDEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WELLINGTON SILVA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALEXANDRE CALDEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20490,
+            "name": "ALEXANDRE CALDEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1582,
+            "rating_change": 9,
+            "rating_after": 1591,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 64036,
+            "name": "WELLINGTON SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 772,
+            "rating_change": 0,
+            "rating_after": 772,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-001",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 01",
+      "game_number": 1,
+      "table": 11,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PAULO KOSCHEL",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2483,
+            "rating_change": 9,
+            "rating_after": 2492,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 76347,
+            "name": "PAULO KOSCHEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 285,
+            "rating_change": 0,
+            "rating_after": 285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-002",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 02",
+      "game_number": 2,
+      "table": 12,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "KAUAN GABARDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAUAN GABARDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80540,
+            "name": "KAUAN GABARDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 721,
+            "rating_change": 27,
+            "rating_after": 748,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 91053,
+            "name": "JOÃO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-003",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 02",
+      "game_number": 3,
+      "table": 13,
+      "date": "20/03/2026",
+      "time": "14:20",
+      "played_at": "2026-03-20T14:20:00",
+      "players": [
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            12,
+            11,
+            8,
+            9
+          ]
+        },
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "ISAAC CAVALCANTI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 451,
+            "rating_change": -108,
+            "rating_after": 343,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -108
+          },
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 306,
+            "rating_change": 144,
+            "rating_after": 450,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 144
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2022-001",
+      "event_id": 5394,
+      "category_id": 2022,
+      "category": "Classe 06 (MAS)",
+      "phase": "Classe 06 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 21,
+      "date": "20/03/2026",
+      "time": "14:45",
+      "played_at": "2026-03-20T14:45:00",
+      "players": [
+        {
+          "name": "CHARLES VIEIRA",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            12,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "LEONARDO CORRÊA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            10,
+            5,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "CHARLES VIEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 8547,
+            "name": "CHARLES VIEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1720,
+            "rating_change": 18,
+            "rating_after": 1738,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 50325,
+            "name": "LEONARDO CORRÊA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1084,
+            "rating_change": 0,
+            "rating_after": 1084,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2023-001",
+      "event_id": 5394,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "14:45",
+      "played_at": "2026-03-20T14:45:00",
+      "players": [
+        {
+          "name": "JOÃO NARVAIS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RUY MAURICIO.STRUMPFNER",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            4,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO NARVAIS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80620,
+            "name": "JOÃO NARVAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1540,
+            "rating_change": 9,
+            "rating_after": 1549,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 84076,
+            "name": "RUY MAURICIO.STRUMPFNER",
+            "associate_id_source": "event_roster",
+            "rating_before": 80,
+            "rating_change": 0,
+            "rating_after": 80,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2023-002",
+      "event_id": 5394,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "14:45",
+      "played_at": "2026-03-20T14:45:00",
+      "players": [
+        {
+          "name": "FRANKLIN ALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            16,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO PEREIRA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            14,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FRANKLIN ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31312,
+            "name": "FRANKLIN ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1197,
+            "rating_change": 36,
+            "rating_after": 1233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 29031,
+            "name": "MARCELO PEREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 886,
+            "rating_change": -18,
+            "rating_after": 868,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2034-001",
+      "event_id": 5394,
+      "category_id": 2034,
+      "category": "Classe 05 (FEM)",
+      "phase": "Classe 05 (FEM) - Única 01",
+      "game_number": 1,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "14:45",
+      "played_at": "2026-03-20T14:45:00",
+      "players": [
+        {
+          "name": "MARIA PASSOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEONICE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARIA PASSOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20768,
+            "name": "MARIA PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1929,
+            "rating_change": 9,
+            "rating_after": 1938,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 52600,
+            "name": "LEONICE BARBOSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 0,
+            "rating_after": 250,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2034-002",
+      "event_id": 5394,
+      "category_id": 2034,
+      "category": "Classe 05 (FEM)",
+      "phase": "Classe 05 (FEM) - Única 01",
+      "game_number": 2,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "14:45",
+      "played_at": "2026-03-20T14:45:00",
+      "players": [
+        {
+          "name": "MARIANA QUEIROZ",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            6,
+            2,
+            12,
+            9
+          ]
+        },
+        {
+          "name": "LUCIANA MOURA",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            10,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "LUCIANA MOURA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86000,
+            "name": "MARIANA QUEIROZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 382,
+            "rating_change": 0,
+            "rating_after": 382,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 23860,
+            "name": "LUCIANA MOURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1750,
+            "rating_change": 9,
+            "rating_after": 1759,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-003",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Grupo 01",
+      "game_number": 3,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "LUÍS.CARLOS OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            7,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EMERSON SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "EMERSON SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 79032,
+            "name": "LUÍS.CARLOS OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": 0,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 24270,
+            "name": "EMERSON SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1192,
+            "rating_change": 9,
+            "rating_after": 1201,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-004",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Grupo 02",
+      "game_number": 4,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "CHIANG MING",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO LEMOS",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CHIANG MING",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 24692,
+            "name": "CHIANG MING",
+            "associate_id_source": "event_roster",
+            "rating_before": 797,
+            "rating_change": 36,
+            "rating_after": 833,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 35319,
+            "name": "MARCELO LEMOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 455,
+            "rating_change": -18,
+            "rating_after": 437,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-004",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 01",
+      "game_number": 4,
+      "table": 14,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "GABRIEL OI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            3,
+            8,
+            11
+          ]
+        },
+        {
+          "name": "BRUNO MUNE",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            7,
+            11,
+            11,
+            7
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "GABRIEL OI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 47409,
+            "name": "GABRIEL OI",
+            "associate_id_source": "event_roster",
+            "rating_before": 1126,
+            "rating_change": 36,
+            "rating_after": 1162,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 36034,
+            "name": "BRUNO MUNE",
+            "associate_id_source": "event_roster",
+            "rating_before": 749,
+            "rating_change": -18,
+            "rating_after": 731,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-005",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 02",
+      "game_number": 5,
+      "table": 15,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO GONÇALVES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            7,
+            8,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MATHEUS FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1189,
+            "rating_change": 9,
+            "rating_after": 1198,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 87291,
+            "name": "GUSTAVO GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 134,
+            "rating_change": 0,
+            "rating_after": 134,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-006",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 02",
+      "game_number": 6,
+      "table": 16,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "FRANCISCO MELO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS PELLIN",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            2,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FRANCISCO MELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 19090,
+            "name": "FRANCISCO MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1523,
+            "rating_change": 9,
+            "rating_after": 1532,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 89032,
+            "name": "MARCOS PELLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 502,
+            "rating_change": 0,
+            "rating_after": 502,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2025-001",
+      "event_id": 5394,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "MARIO RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            9,
+            11,
+            11,
+            8
+          ]
+        },
+        {
+          "name": "PEDRO MARTINEZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            7,
+            9,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "PEDRO MARTINEZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 17704,
+            "name": "MARIO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1336,
+            "rating_change": -198,
+            "rating_after": 1138,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -198
+          },
+          {
+            "associate_id": 66713,
+            "name": "PEDRO MARTINEZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 678,
+            "rating_change": 270,
+            "rating_after": 948,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 270
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2025-002",
+      "event_id": 5394,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "REGINALDO GOMES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            3,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "REGINALDO GOMES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21703,
+            "name": "REGINALDO GOMES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1312,
+            "rating_change": 54,
+            "rating_after": 1366,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 54
+          },
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 1114,
+            "rating_change": -36,
+            "rating_after": 1078,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-005",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 02",
+      "game_number": 5,
+      "table": 12,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "KAUAN GABARDO",
+          "sets_won": 3,
+          "set_points": [
+            2,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            9,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "KAUAN GABARDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80540,
+            "name": "KAUAN GABARDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 748,
+            "rating_change": 45,
+            "rating_after": 793,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 45
+          },
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 450,
+            "rating_change": -27,
+            "rating_after": 423,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-006",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 02",
+      "game_number": 6,
+      "table": 13,
+      "date": "20/03/2026",
+      "time": "15:10",
+      "played_at": "2026-03-20T15:10:00",
+      "players": [
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI CALAZANS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 343,
+            "rating_change": 63,
+            "rating_after": 406,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 63
+          },
+          {
+            "associate_id": 91053,
+            "name": "JOÃO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -45,
+            "rating_after": 196,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -45
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-003",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "15:35",
+      "played_at": "2026-03-20T15:35:00",
+      "players": [
+        {
+          "name": "CINCLER TREVISAN",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTÔNIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CINCLER TREVISAN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20850,
+            "name": "CINCLER TREVISAN",
+            "associate_id_source": "event_roster",
+            "rating_before": 1243,
+            "rating_change": 18,
+            "rating_after": 1261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 22059,
+            "name": "ANTÔNIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 509,
+            "rating_change": 0,
+            "rating_after": 509,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-004",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "15:35",
+      "played_at": "2026-03-20T15:35:00",
+      "players": [
+        {
+          "name": "JEAN PADILHA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RAFAEL RAMOS",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JEAN PADILHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 24053,
+            "name": "JEAN PADILHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1386,
+            "rating_change": 18,
+            "rating_after": 1404,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 21993,
+            "name": "RAFAEL RAMOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 684,
+            "rating_change": 0,
+            "rating_after": 684,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2026-003",
+      "event_id": 5394,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 9,
+      "date": "20/03/2026",
+      "time": "15:35",
+      "played_at": "2026-03-20T15:35:00",
+      "players": [
+        {
+          "name": "EDNEI SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WELLINGTON SILVA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            6,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "EDNEI SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 55794,
+            "name": "EDNEI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1743,
+            "rating_change": 9,
+            "rating_after": 1752,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 64036,
+            "name": "WELLINGTON SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 772,
+            "rating_change": 0,
+            "rating_after": 772,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2026-004",
+      "event_id": 5394,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 10,
+      "date": "20/03/2026",
+      "time": "15:35",
+      "played_at": "2026-03-20T15:35:00",
+      "players": [
+        {
+          "name": "ALEXANDRE CALDEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BASÍLIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALEXANDRE CALDEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20490,
+            "name": "ALEXANDRE CALDEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1591,
+            "rating_change": 18,
+            "rating_after": 1609,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 16784,
+            "name": "BASÍLIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 989,
+            "rating_change": 0,
+            "rating_after": 989,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-004",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 4,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "15:35",
+      "played_at": "2026-03-20T15:35:00",
+      "players": [
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY PASSOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDRÉA COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 648,
+            "rating_change": 36,
+            "rating_after": 684,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 89958,
+            "name": "ISABELLY PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -18,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-003",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 3,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "15:36",
+      "played_at": "2026-03-20T15:36:00",
+      "players": [
+        {
+          "name": "MANUELA LIMA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            4,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MANUELA LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82537,
+            "name": "MANUELA LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1353,
+            "rating_change": 9,
+            "rating_after": 1362,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 171,
+            "rating_change": 0,
+            "rating_after": 171,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2023-003",
+      "event_id": 5394,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "JOÃO NARVAIS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO PEREIRA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            4,
+            10,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO NARVAIS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80620,
+            "name": "JOÃO NARVAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1549,
+            "rating_change": 18,
+            "rating_after": 1567,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 29031,
+            "name": "MARCELO PEREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 868,
+            "rating_change": 0,
+            "rating_after": 868,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2023-004",
+      "event_id": 5394,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "FRANKLIN ALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RUY MAURICIO.STRUMPFNER",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            2,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FRANKLIN ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31312,
+            "name": "FRANKLIN ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1233,
+            "rating_change": 9,
+            "rating_after": 1242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 84076,
+            "name": "RUY MAURICIO.STRUMPFNER",
+            "associate_id_source": "event_roster",
+            "rating_before": 80,
+            "rating_change": 0,
+            "rating_after": 80,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-007",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 01",
+      "game_number": 7,
+      "table": 14,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "LUCAS GRILO",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL OI",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            6,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUCAS GRILO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 34757,
+            "name": "LUCAS GRILO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1620,
+            "rating_change": 27,
+            "rating_after": 1647,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 47409,
+            "name": "GABRIEL OI",
+            "associate_id_source": "event_roster",
+            "rating_before": 1162,
+            "rating_change": -9,
+            "rating_after": 1153,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-008",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 02",
+      "game_number": 8,
+      "table": 15,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "GUSTAVO GONÇALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            12,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS PELLIN",
+          "sets_won": 1,
+          "set_points": [
+            3,
+            11,
+            3,
+            10,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "GUSTAVO GONÇALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87291,
+            "name": "GUSTAVO GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 134,
+            "rating_change": 207,
+            "rating_after": 341,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 207
+          },
+          {
+            "associate_id": 89032,
+            "name": "MARCOS PELLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 502,
+            "rating_change": -162,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -162
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-009",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Grupo 02",
+      "game_number": 9,
+      "table": 16,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "FRANCISCO MELO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            5,
+            8,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MATHEUS FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1198,
+            "rating_change": 207,
+            "rating_after": 1405,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 207
+          },
+          {
+            "associate_id": 19090,
+            "name": "FRANCISCO MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1532,
+            "rating_change": -162,
+            "rating_after": 1370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -162
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-007",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 01",
+      "game_number": 7,
+      "table": 11,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAIR JUNIOR",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2492,
+            "rating_change": 9,
+            "rating_after": 2501,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 81592,
+            "name": "DAIR JUNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 0,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-008",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 02",
+      "game_number": 8,
+      "table": 12,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ISAAC CAVALCANTI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 423,
+            "rating_change": 45,
+            "rating_after": 468,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 45
+          },
+          {
+            "associate_id": 91053,
+            "name": "JOÃO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 196,
+            "rating_change": -27,
+            "rating_after": 169,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-009",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Grupo 02",
+      "game_number": 9,
+      "table": 13,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "KAUAN GABARDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            6,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAUAN GABARDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80540,
+            "name": "KAUAN GABARDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 793,
+            "rating_change": 36,
+            "rating_after": 829,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 406,
+            "rating_change": -18,
+            "rating_after": 388,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2034-003",
+      "event_id": 5394,
+      "category_id": 2034,
+      "category": "Classe 05 (FEM)",
+      "phase": "Classe 05 (FEM) - Única 01",
+      "game_number": 3,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "MARIA PASSOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "LUCIANA MOURA",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            8,
+            14,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MARIA PASSOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20768,
+            "name": "MARIA PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1938,
+            "rating_change": 54,
+            "rating_after": 1992,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 54
+          },
+          {
+            "associate_id": 23860,
+            "name": "LUCIANA MOURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1759,
+            "rating_change": -36,
+            "rating_after": 1723,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2034-004",
+      "event_id": 5394,
+      "category_id": 2034,
+      "category": "Classe 05 (FEM)",
+      "phase": "Classe 05 (FEM) - Única 01",
+      "game_number": 4,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "16:00",
+      "played_at": "2026-03-20T16:00:00",
+      "players": [
+        {
+          "name": "MARIANA QUEIROZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEONICE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARIANA QUEIROZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86000,
+            "name": "MARIANA QUEIROZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 382,
+            "rating_change": 63,
+            "rating_after": 445,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 63
+          },
+          {
+            "associate_id": 52600,
+            "name": "LEONICE BARBOSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -45,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -45
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-005",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Grupo 01",
+      "game_number": 5,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "16:25",
+      "played_at": "2026-03-20T16:25:00",
+      "players": [
+        {
+          "name": "GERSON HINTZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUÍS.CARLOS OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            2,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GERSON HINTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 28479,
+            "name": "GERSON HINTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 1418,
+            "rating_change": 9,
+            "rating_after": 1427,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 79032,
+            "name": "LUÍS.CARLOS OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": 0,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-006",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Grupo 02",
+      "game_number": 6,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "16:25",
+      "played_at": "2026-03-20T16:25:00",
+      "players": [
+        {
+          "name": "ARTHUR BRANCO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CHIANG MING",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            7,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ARTHUR BRANCO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 73254,
+            "name": "ARTHUR BRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 864,
+            "rating_change": 81,
+            "rating_after": 945,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 81
+          },
+          {
+            "associate_id": 24692,
+            "name": "CHIANG MING",
+            "associate_id_source": "event_roster",
+            "rating_before": 833,
+            "rating_change": -63,
+            "rating_after": 770,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -63
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2022-002",
+      "event_id": 5394,
+      "category_id": 2022,
+      "category": "Classe 06 (MAS)",
+      "phase": "Classe 06 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 21,
+      "date": "20/03/2026",
+      "time": "16:25",
+      "played_at": "2026-03-20T16:25:00",
+      "players": [
+        {
+          "name": "MARLISON ALFAIA",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            4,
+            11,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "LEONARDO CORRÊA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            7,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "LEONARDO CORRÊA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 35255,
+            "name": "MARLISON ALFAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 761,
+            "rating_change": -18,
+            "rating_after": 743,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 50325,
+            "name": "LEONARDO CORRÊA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1084,
+            "rating_change": 36,
+            "rating_after": 1120,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2025-003",
+      "event_id": 5394,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "16:25",
+      "played_at": "2026-03-20T16:25:00",
+      "players": [
+        {
+          "name": "MARIO RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            8,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MARIO RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 17704,
+            "name": "MARIO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1138,
+            "rating_change": 72,
+            "rating_after": 1210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 72
+          },
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 1078,
+            "rating_change": -54,
+            "rating_after": 1024,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -54
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2025-004",
+      "event_id": 5394,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "16:25",
+      "played_at": "2026-03-20T16:25:00",
+      "players": [
+        {
+          "name": "REGINALDO GOMES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            5,
+            9,
+            14,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO MARTINEZ",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            11,
+            16,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "PEDRO MARTINEZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21703,
+            "name": "REGINALDO GOMES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1366,
+            "rating_change": -180,
+            "rating_after": 1186,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -180
+          },
+          {
+            "associate_id": 66713,
+            "name": "PEDRO MARTINEZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 948,
+            "rating_change": 234,
+            "rating_after": 1182,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 234
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-005",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "JEAN PADILHA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            3,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JEAN PADILHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 24053,
+            "name": "JEAN PADILHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1404,
+            "rating_change": 9,
+            "rating_after": 1413,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 82162,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 173,
+            "rating_change": 0,
+            "rating_after": 173,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-006",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "RAFAEL RAMOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTÔNIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RAFAEL RAMOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21993,
+            "name": "RAFAEL RAMOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 684,
+            "rating_change": 54,
+            "rating_after": 738,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 54
+          },
+          {
+            "associate_id": 22059,
+            "name": "ANTÔNIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 509,
+            "rating_change": -36,
+            "rating_after": 473,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-010",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Semi Final",
+      "game_number": 10,
+      "table": 14,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "LUCAS GRILO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FRANCISCO MELO",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            7,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUCAS GRILO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 34757,
+            "name": "LUCAS GRILO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1647,
+            "rating_change": 45,
+            "rating_after": 1692,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 45
+          },
+          {
+            "associate_id": 19090,
+            "name": "FRANCISCO MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1370,
+            "rating_change": -27,
+            "rating_after": 1343,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-011",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Semi Final",
+      "game_number": 11,
+      "table": 15,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "GABRIEL OI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            7,
+            3,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MATHEUS FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 47409,
+            "name": "GABRIEL OI",
+            "associate_id_source": "event_roster",
+            "rating_before": 1153,
+            "rating_change": -27,
+            "rating_after": 1126,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          },
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1405,
+            "rating_change": 45,
+            "rating_after": 1450,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 45
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2026-005",
+      "event_id": 5394,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 9,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "WELLINGTON SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BASÍLIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "WELLINGTON SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 64036,
+            "name": "WELLINGTON SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 772,
+            "rating_change": 180,
+            "rating_after": 952,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 180
+          },
+          {
+            "associate_id": 16784,
+            "name": "BASÍLIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 989,
+            "rating_change": -144,
+            "rating_after": 845,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -144
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2026-006",
+      "event_id": 5394,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 10,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "EDNEI SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALEXANDRE CALDEIRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "EDNEI SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 55794,
+            "name": "EDNEI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1752,
+            "rating_change": 63,
+            "rating_after": 1815,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 63
+          },
+          {
+            "associate_id": 20490,
+            "name": "ALEXANDRE CALDEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1609,
+            "rating_change": -45,
+            "rating_after": 1564,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -45
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-010",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Semi Final",
+      "game_number": 10,
+      "table": 12,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            6,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2501,
+            "rating_change": 9,
+            "rating_after": 2510,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 468,
+            "rating_change": 0,
+            "rating_after": 468,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-011",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Semi Final",
+      "game_number": 11,
+      "table": 13,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "PAULO KOSCHEL",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAUAN GABARDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "KAUAN GABARDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 76347,
+            "name": "PAULO KOSCHEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 285,
+            "rating_change": 0,
+            "rating_after": 285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 80540,
+            "name": "KAUAN GABARDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 829,
+            "rating_change": 18,
+            "rating_after": 847,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-005",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 5,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 3,
+          "set_points": [
+            14,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARINICE VIEIRA",
+          "sets_won": 0,
+          "set_points": [
+            12,
+            2,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDRÉA COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 684,
+            "rating_change": 18,
+            "rating_after": 702,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 22066,
+            "name": "MARINICE VIEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 139,
+            "rating_change": 0,
+            "rating_after": 139,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-006",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 6,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "16:50",
+      "played_at": "2026-03-20T16:50:00",
+      "players": [
+        {
+          "name": "ISABELLY PASSOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "IRENE SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89958,
+            "name": "ISABELLY PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": -99,
+            "rating_after": 133,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -99
+          },
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 171,
+            "rating_change": 126,
+            "rating_after": 297,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 126
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2023-005",
+      "event_id": 5394,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "17:15",
+      "played_at": "2026-03-20T17:15:00",
+      "players": [
+        {
+          "name": "MARCELO PEREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RUY MAURICIO.STRUMPFNER",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARCELO PEREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29031,
+            "name": "MARCELO PEREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 868,
+            "rating_change": 9,
+            "rating_after": 877,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 84076,
+            "name": "RUY MAURICIO.STRUMPFNER",
+            "associate_id_source": "event_roster",
+            "rating_before": 80,
+            "rating_change": 0,
+            "rating_after": 80,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2023-006",
+      "event_id": 5394,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "17:15",
+      "played_at": "2026-03-20T17:15:00",
+      "players": [
+        {
+          "name": "JOÃO NARVAIS",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            6,
+            13,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "FRANKLIN ALVES",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            15,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "FRANKLIN ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80620,
+            "name": "JOÃO NARVAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1567,
+            "rating_change": -162,
+            "rating_after": 1405,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -162
+          },
+          {
+            "associate_id": 31312,
+            "name": "FRANKLIN ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1242,
+            "rating_change": 207,
+            "rating_after": 1449,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 207
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2034-005",
+      "event_id": 5394,
+      "category_id": 2034,
+      "category": "Classe 05 (FEM)",
+      "phase": "Classe 05 (FEM) - Única 01",
+      "game_number": 5,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "17:15",
+      "played_at": "2026-03-20T17:15:00",
+      "players": [
+        {
+          "name": "LUCIANA MOURA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEONICE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            4,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUCIANA MOURA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 23860,
+            "name": "LUCIANA MOURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1723,
+            "rating_change": 9,
+            "rating_after": 1732,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 52600,
+            "name": "LEONICE BARBOSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": 0,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2034-006",
+      "event_id": 5394,
+      "category_id": 2034,
+      "category": "Classe 05 (FEM)",
+      "phase": "Classe 05 (FEM) - Única 01",
+      "game_number": 6,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "17:15",
+      "played_at": "2026-03-20T17:15:00",
+      "players": [
+        {
+          "name": "MARIA PASSOS",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            9,
+            11,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "MARIANA QUEIROZ",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            11,
+            13,
+            7,
+            7
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "MARIA PASSOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20768,
+            "name": "MARIA PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1992,
+            "rating_change": 9,
+            "rating_after": 2001,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86000,
+            "name": "MARIANA QUEIROZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 445,
+            "rating_change": 0,
+            "rating_after": 445,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-007",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Semi Final",
+      "game_number": 7,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "17:40",
+      "played_at": "2026-03-20T17:40:00",
+      "players": [
+        {
+          "name": "GERSON HINTZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CHIANG MING",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GERSON HINTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 28479,
+            "name": "GERSON HINTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 1427,
+            "rating_change": 18,
+            "rating_after": 1445,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 24692,
+            "name": "CHIANG MING",
+            "associate_id_source": "event_roster",
+            "rating_before": 770,
+            "rating_change": 0,
+            "rating_after": 770,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-008",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Semi Final",
+      "game_number": 8,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "17:40",
+      "played_at": "2026-03-20T17:40:00",
+      "players": [
+        {
+          "name": "EMERSON SILVA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            7,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR BRANCO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ARTHUR BRANCO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 24270,
+            "name": "EMERSON SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1201,
+            "rating_change": -144,
+            "rating_after": 1057,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -144
+          },
+          {
+            "associate_id": 73254,
+            "name": "ARTHUR BRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 945,
+            "rating_change": 180,
+            "rating_after": 1125,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 180
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2025-005",
+      "event_id": 5394,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "17:40",
+      "played_at": "2026-03-20T17:40:00",
+      "players": [
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            11,
+            4,
+            4
+          ]
+        },
+        {
+          "name": "PEDRO MARTINEZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            7,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "PEDRO MARTINEZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 1024,
+            "rating_change": -36,
+            "rating_after": 988,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          },
+          {
+            "associate_id": 66713,
+            "name": "PEDRO MARTINEZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 1182,
+            "rating_change": 54,
+            "rating_after": 1236,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 54
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2025-006",
+      "event_id": 5394,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "17:40",
+      "played_at": "2026-03-20T17:40:00",
+      "players": [
+        {
+          "name": "MARIO RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            3,
+            11,
+            2,
+            11,
+            12
+          ]
+        },
+        {
+          "name": "REGINALDO GOMES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            7,
+            14
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "REGINALDO GOMES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 17704,
+            "name": "MARIO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1210,
+            "rating_change": -81,
+            "rating_after": 1129,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -81
+          },
+          {
+            "associate_id": 21703,
+            "name": "REGINALDO GOMES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1186,
+            "rating_change": 99,
+            "rating_after": 1285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 99
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-007",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 7,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "18:05",
+      "played_at": "2026-03-20T18:05:00",
+      "players": [
+        {
+          "name": "CINCLER TREVISAN",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            11,
+            11,
+            10,
+            13
+          ]
+        },
+        {
+          "name": "RAFAEL RAMOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            6,
+            7,
+            12,
+            15
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "RAFAEL RAMOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20850,
+            "name": "CINCLER TREVISAN",
+            "associate_id_source": "event_roster",
+            "rating_before": 1261,
+            "rating_change": -198,
+            "rating_after": 1063,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -198
+          },
+          {
+            "associate_id": 21993,
+            "name": "RAFAEL RAMOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 738,
+            "rating_change": 270,
+            "rating_after": 1008,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 270
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-008",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 8,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "18:05",
+      "played_at": "2026-03-20T18:05:00",
+      "players": [
+        {
+          "name": "ANTÔNIO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "TIAGO FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 22059,
+            "name": "ANTÔNIO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 473,
+            "rating_change": -162,
+            "rating_after": 311,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -162
+          },
+          {
+            "associate_id": 82162,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 173,
+            "rating_change": 207,
+            "rating_after": 380,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 207
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2022-003",
+      "event_id": 5394,
+      "category_id": 2022,
+      "category": "Classe 06 (MAS)",
+      "phase": "Classe 06 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "18:30",
+      "played_at": "2026-03-20T18:30:00",
+      "players": [
+        {
+          "name": "CHARLES VIEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARLISON ALFAIA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CHARLES VIEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 8547,
+            "name": "CHARLES VIEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1738,
+            "rating_change": 9,
+            "rating_after": 1747,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 35255,
+            "name": "MARLISON ALFAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 743,
+            "rating_change": 0,
+            "rating_after": 743,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2029-012",
+      "event_id": 5394,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Final",
+      "game_number": 12,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "18:30",
+      "played_at": "2026-03-20T18:30:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "KAUAN GABARDO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            6,
+            4,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2510,
+            "rating_change": 9,
+            "rating_after": 2519,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 80540,
+            "name": "KAUAN GABARDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 847,
+            "rating_change": 0,
+            "rating_after": 847,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-008",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 8,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "18:30",
+      "played_at": "2026-03-20T18:30:00",
+      "players": [
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            9,
+            13,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MARINICE VIEIRA",
+          "sets_won": 1,
+          "set_points": [
+            10,
+            11,
+            11,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "IRENE SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 297,
+            "rating_change": 54,
+            "rating_after": 351,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 54
+          },
+          {
+            "associate_id": 22066,
+            "name": "MARINICE VIEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 139,
+            "rating_change": -36,
+            "rating_after": 103,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-007",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 7,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "18:31",
+      "played_at": "2026-03-20T18:31:00",
+      "players": [
+        {
+          "name": "MANUELA LIMA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY PASSOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MANUELA LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82537,
+            "name": "MANUELA LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1362,
+            "rating_change": 9,
+            "rating_after": 1371,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 89958,
+            "name": "ISABELLY PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 133,
+            "rating_change": 0,
+            "rating_after": 133,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2021-009",
+      "event_id": 5394,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Final",
+      "game_number": 9,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "18:55",
+      "played_at": "2026-03-20T18:55:00",
+      "players": [
+        {
+          "name": "GERSON HINTZ",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            4,
+            5,
+            12,
+            7
+          ]
+        },
+        {
+          "name": "ARTHUR BRANCO",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            11,
+            11,
+            10,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "ARTHUR BRANCO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 28479,
+            "name": "GERSON HINTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 1445,
+            "rating_change": -162,
+            "rating_after": 1283,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -162
+          },
+          {
+            "associate_id": 73254,
+            "name": "ARTHUR BRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1125,
+            "rating_change": 207,
+            "rating_after": 1332,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 207
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2024-012",
+      "event_id": 5394,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Final",
+      "game_number": 12,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "18:55",
+      "played_at": "2026-03-20T18:55:00",
+      "players": [
+        {
+          "name": "LUCAS GRILO",
+          "sets_won": 3,
+          "set_points": [
+            20,
+            11,
+            6,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 1,
+          "set_points": [
+            18,
+            8,
+            11,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "LUCAS GRILO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 34757,
+            "name": "LUCAS GRILO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1692,
+            "rating_change": 45,
+            "rating_after": 1737,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 45
+          },
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1450,
+            "rating_change": -27,
+            "rating_after": 1423,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-009",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 9,
+      "table": 24,
+      "date": "20/03/2026",
+      "time": "19:20",
+      "played_at": "2026-03-20T19:20:00",
+      "players": [
+        {
+          "name": "CINCLER TREVISAN",
+          "sets_won": 1,
+          "set_points": [
+            10,
+            11,
+            7,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "JEAN PADILHA",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            9,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "JEAN PADILHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 20850,
+            "name": "CINCLER TREVISAN",
+            "associate_id_source": "event_roster",
+            "rating_before": 1063,
+            "rating_change": -18,
+            "rating_after": 1045,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 24053,
+            "name": "JEAN PADILHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1413,
+            "rating_change": 36,
+            "rating_after": 1449,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2019-010",
+      "event_id": 5394,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 10,
+      "table": 25,
+      "date": "20/03/2026",
+      "time": "19:20",
+      "played_at": "2026-03-20T19:20:00",
+      "players": [
+        {
+          "name": "RAFAEL RAMOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            7,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RAFAEL RAMOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21993,
+            "name": "RAFAEL RAMOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1008,
+            "rating_change": 18,
+            "rating_after": 1026,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 82162,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 380,
+            "rating_change": 0,
+            "rating_after": 380,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-009",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 9,
+      "table": 22,
+      "date": "20/03/2026",
+      "time": "19:20",
+      "played_at": "2026-03-20T19:20:00",
+      "players": [
+        {
+          "name": "MANUELA LIMA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MANUELA LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82537,
+            "name": "MANUELA LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1371,
+            "rating_change": 18,
+            "rating_after": 1389,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 702,
+            "rating_change": 0,
+            "rating_after": 702,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5394-2039-010",
+      "event_id": 5394,
+      "category_id": 2039,
+      "category": "Classe 10 (FEM)",
+      "phase": "Classe 10 (FEM) - Única 01",
+      "game_number": 10,
+      "table": 23,
+      "date": "20/03/2026",
+      "time": "19:20",
+      "played_at": "2026-03-20T19:20:00",
+      "players": [
+        {
+          "name": "ISABELLY PASSOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARINICE VIEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MARINICE VIEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 9,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89958,
+            "name": "ISABELLY PASSOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 133,
+            "rating_change": -90,
+            "rating_after": 43,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -90
+          },
+          {
+            "associate_id": 22066,
+            "name": "MARINICE VIEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 103,
+            "rating_change": 108,
+            "rating_after": 211,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 108
+          }
+        ]
+      }
+    }
+  ]
+}

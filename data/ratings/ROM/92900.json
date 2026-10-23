@@ -1,0 +1,31 @@
+{
+  "associate_id": 92900,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92900&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-14T13:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 214,
+      "delta": -33,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL COSTA"
+    },
+    {
+      "played_at": "2026-06-14T09:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -36,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SHINJI SATO ............."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "associate_id": 92253,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92253&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-28T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 259,
+      "delta": -30,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BIANCA MARTINS"
+    },
+    {
+      "played_at": "2026-06-28T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 259,
+      "delta": 0,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MELISSA JERONIMO"
+    },
+    {
+      "played_at": "2026-04-19T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 229,
+      "delta": 30,
+      "final": 259,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANNA SASSAKI"
+    },
+    {
+      "played_at": "2026-04-19T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 235,
+      "delta": -6,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA.NISHITANI OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-19T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -15,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MELISSA JERONIMO ............."
+    }
+  ]
+}

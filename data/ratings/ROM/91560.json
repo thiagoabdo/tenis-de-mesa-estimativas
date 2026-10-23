@@ -1,0 +1,67 @@
+{
+  "associate_id": 91560,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91560&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-29T11:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 227,
+      "delta": -7,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WALDER CARMO"
+    },
+    {
+      "played_at": "2026-08-29T10:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 230,
+      "delta": -3,
+      "final": 227,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS VILLANI"
+    },
+    {
+      "played_at": "2026-08-29T10:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 230,
+      "delta": 0,
+      "final": 230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO NASCIMENTO"
+    },
+    {
+      "played_at": "2026-03-07T17:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 240,
+      "delta": -10,
+      "final": 230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JACKSON FERNANDES"
+    },
+    {
+      "played_at": "2026-03-07T16:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IGOR PINTO ............."
+    }
+  ]
+}

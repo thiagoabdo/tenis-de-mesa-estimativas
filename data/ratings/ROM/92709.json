@@ -1,0 +1,31 @@
+{
+  "associate_id": 92709,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92709&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 226,
+      "delta": -21,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO YAMAMOTO"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAIO BONI ............."
+    }
+  ]
+}

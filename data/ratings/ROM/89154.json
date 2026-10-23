@@ -1,0 +1,55 @@
+{
+  "associate_id": 89154,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89154&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 205,
+      "delta": -21,
+      "final": 184,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS PAULA"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 241,
+      "delta": -36,
+      "final": 205,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MATHEUS COSTA"
+    },
+    {
+      "played_at": "2026-08-22T09:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 274,
+      "delta": -33,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL SCUSSIATTO"
+    },
+    {
+      "played_at": "2026-08-22T08:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 250,
+      "delta": 24,
+      "final": 274,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NICOLAS BARBOSA ............."
+    }
+  ]
+}

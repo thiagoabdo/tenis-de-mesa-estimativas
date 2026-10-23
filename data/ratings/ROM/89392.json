@@ -1,0 +1,67 @@
+{
+  "associate_id": 89392,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89392&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-27T12:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 274,
+      "delta": -30,
+      "final": 244,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAULO PIRES"
+    },
+    {
+      "played_at": "2026-06-27T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 238,
+      "delta": 36,
+      "final": 274,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERIC TAKESHITA"
+    },
+    {
+      "played_at": "2026-06-27T09:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 196,
+      "delta": 42,
+      "final": 238,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GAEL DURAND"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 220,
+      "delta": -24,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAUAN TOMINAGA"
+    },
+    {
+      "played_at": "2026-04-18T08:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME SANTOS ............."
+    }
+  ]
+}

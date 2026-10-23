@@ -1,0 +1,43 @@
+{
+  "associate_id": 93256,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93256&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T11:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 233,
+      "delta": -9,
+      "final": 224,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "BEATRIZ ZANARDI"
+    },
+    {
+      "played_at": "2026-07-05T10:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 241,
+      "delta": -8,
+      "final": 233,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUIZA MENUZZI"
+    },
+    {
+      "played_at": "2026-07-05T10:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MARIA SALVI ............."
+    }
+  ]
+}

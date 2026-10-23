@@ -1,0 +1,43 @@
+{
+  "associate_id": 91734,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91734&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-28T10:15:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Antônio Prado/RS - 2026",
+      "initial": 249,
+      "delta": -8,
+      "final": 241,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "AUGUSTO TONI"
+    },
+    {
+      "played_at": "2026-03-28T10:00:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Antônio Prado/RS - 2026",
+      "initial": 240,
+      "delta": 9,
+      "final": 249,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "TEILOR MARTINS"
+    },
+    {
+      "played_at": "2026-03-28T09:45:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Antônio Prado/RS - 2026",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VITOR RODRIGUES ............."
+    }
+  ]
+}

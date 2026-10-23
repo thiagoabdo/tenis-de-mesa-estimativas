@@ -1,0 +1,631 @@
+{
+  "associate_id": 86921,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=86921&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-30T14:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 386,
+      "delta": -42,
+      "final": 344,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAYSSA TEIXEIRA"
+    },
+    {
+      "played_at": "2026-08-30T12:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 386,
+      "delta": 0,
+      "final": 386,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JUCIARA SANTOS"
+    },
+    {
+      "played_at": "2026-08-30T11:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 365,
+      "delta": 21,
+      "final": 386,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DINÁH ARAUJO"
+    },
+    {
+      "played_at": "2026-08-30T09:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 311,
+      "delta": 54,
+      "final": 365,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELINE VIEGAS"
+    },
+    {
+      "played_at": "2026-08-30T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 311,
+      "delta": 0,
+      "final": 311,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA TABOSA"
+    },
+    {
+      "played_at": "2026-05-31T19:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Ranking - Cabo de Santo Agostinho/PE - 2026 SÉRIE OURO",
+      "initial": 332,
+      "delta": -21,
+      "final": 311,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARYANA GUEDES"
+    },
+    {
+      "played_at": "2026-05-31T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Ranking - Cabo de Santo Agostinho/PE - 2026 SÉRIE OURO",
+      "initial": 335,
+      "delta": -3,
+      "final": 332,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA TABOSA"
+    },
+    {
+      "played_at": "2026-05-31T09:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Ranking - Cabo de Santo Agostinho/PE - 2026 SÉRIE OURO",
+      "initial": 335,
+      "delta": 0,
+      "final": 335,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JUCIARA SANTOS"
+    },
+    {
+      "played_at": "2026-05-03T16:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 425,
+      "delta": -90,
+      "final": 335,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA ALMEIDA"
+    },
+    {
+      "played_at": "2026-05-03T13:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 389,
+      "delta": 36,
+      "final": 425,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA ANDRADE"
+    },
+    {
+      "played_at": "2026-05-03T12:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 299,
+      "delta": 90,
+      "final": 389,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA UCHÔA"
+    },
+    {
+      "played_at": "2026-05-02T17:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 299,
+      "delta": 0,
+      "final": 299,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2026-05-02T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 299,
+      "delta": 0,
+      "final": 299,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA TABOSA"
+    },
+    {
+      "played_at": "2026-05-02T13:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 308,
+      "delta": -9,
+      "final": 299,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS BARBOSA"
+    },
+    {
+      "played_at": "2026-05-02T12:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 254,
+      "delta": 54,
+      "final": 308,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ERIKA ABREU"
+    },
+    {
+      "played_at": "2025-11-23T17:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 254,
+      "delta": 0,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA RIBERTI"
+    },
+    {
+      "played_at": "2025-11-23T14:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 254,
+      "delta": 0,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PÂMELA ALENCAR"
+    },
+    {
+      "played_at": "2025-11-23T10:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 266,
+      "delta": -12,
+      "final": 254,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LARA FLORÊNCIO"
+    },
+    {
+      "played_at": "2025-11-23T09:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 272,
+      "delta": -6,
+      "final": 266,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA TABOSA"
+    },
+    {
+      "played_at": "2025-10-19T12:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 282,
+      "delta": -10,
+      "final": 272,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOYCE ARAÚJO"
+    },
+    {
+      "played_at": "2025-10-19T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 252,
+      "delta": 30,
+      "final": 282,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ESTHEFANY LIMA"
+    },
+    {
+      "played_at": "2025-10-19T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 262,
+      "delta": -10,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANNE SANTANA"
+    },
+    {
+      "played_at": "2025-10-18T12:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 262,
+      "delta": 0,
+      "final": 262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JAQUELINE ISHIDA"
+    },
+    {
+      "played_at": "2025-10-18T11:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 262,
+      "delta": 0,
+      "final": 262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA RIBERTI"
+    },
+    {
+      "played_at": "2025-10-18T10:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 212,
+      "delta": 50,
+      "final": 262,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERIKA ABREU"
+    },
+    {
+      "played_at": "2025-10-17T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 237,
+      "delta": -25,
+      "final": 212,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THAIZE PEREIRA"
+    },
+    {
+      "played_at": "2025-10-17T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 277,
+      "delta": -40,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANNE SANTANA"
+    },
+    {
+      "played_at": "2025-10-17T16:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 232,
+      "delta": 45,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETÍCIA VERAS"
+    },
+    {
+      "played_at": "2025-09-21T17:30:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Ouro",
+      "initial": 232,
+      "delta": 0,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PÂMELA ALENCAR"
+    },
+    {
+      "played_at": "2025-09-21T15:30:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Ouro",
+      "initial": 210,
+      "delta": 22,
+      "final": 232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "QUIARA LIMA"
+    },
+    {
+      "played_at": "2025-09-21T14:30:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Ouro",
+      "initial": 210,
+      "delta": 0,
+      "final": 210,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "TACIANA MARANHÃO"
+    },
+    {
+      "played_at": "2025-09-21T12:00:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Ouro",
+      "initial": 224,
+      "delta": -14,
+      "final": 210,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALYNE FLORÊNCIO"
+    },
+    {
+      "played_at": "2025-09-21T10:00:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Ouro",
+      "initial": 244,
+      "delta": -20,
+      "final": 224,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ISABELLA TABOSA"
+    },
+    {
+      "played_at": "2025-09-21T09:00:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Ouro",
+      "initial": 216,
+      "delta": 28,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FINIZOLA"
+    },
+    {
+      "played_at": "2025-08-17T18:00:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Ouro",
+      "initial": 216,
+      "delta": 0,
+      "final": 216,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARONÍ SOUZA"
+    },
+    {
+      "played_at": "2025-08-17T15:00:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Ouro",
+      "initial": 216,
+      "delta": 0,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IANNE SILVA"
+    },
+    {
+      "played_at": "2025-08-17T13:00:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Ouro",
+      "initial": 232,
+      "delta": -16,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VALENTINA AMARAL"
+    },
+    {
+      "played_at": "2025-08-17T09:00:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Ouro",
+      "initial": 242,
+      "delta": -10,
+      "final": 232,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOYCE ARAÚJO"
+    },
+    {
+      "played_at": "2025-07-13T19:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 247,
+      "delta": -5,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLE SOUSA"
+    },
+    {
+      "played_at": "2025-07-13T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 177,
+      "delta": 70,
+      "final": 247,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA TONELLI"
+    },
+    {
+      "played_at": "2025-07-13T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 237,
+      "delta": -60,
+      "final": 177,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOICE SOUZA"
+    },
+    {
+      "played_at": "2025-07-12T20:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 237,
+      "delta": 0,
+      "final": 237,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2025-07-12T19:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 237,
+      "delta": 0,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA RAMALHO"
+    },
+    {
+      "played_at": "2025-07-12T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 237,
+      "delta": 0,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PÂMELA ALENCAR"
+    },
+    {
+      "played_at": "2025-07-12T13:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 237,
+      "delta": 0,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA RIBERTI"
+    },
+    {
+      "played_at": "2025-07-11T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 267,
+      "delta": -30,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ELINE VIEGAS"
+    },
+    {
+      "played_at": "2025-07-11T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 232,
+      "delta": 35,
+      "final": 267,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-07-06T19:00:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 SÉRIE OURO",
+      "initial": 248,
+      "delta": -16,
+      "final": 232,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ELINE VIEGAS"
+    },
+    {
+      "played_at": "2025-07-06T18:45:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 SÉRIE OURO",
+      "initial": 248,
+      "delta": 0,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JUCIARA SANTOS"
+    },
+    {
+      "played_at": "2025-07-06T17:00:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 SÉRIE OURO",
+      "initial": 226,
+      "delta": 22,
+      "final": 248,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERIKA ABREU"
+    },
+    {
+      "played_at": "2025-07-06T10:00:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 SÉRIE OURO",
+      "initial": 232,
+      "delta": -6,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MEYLIN SILVA"
+    },
+    {
+      "played_at": "2025-07-06T08:30:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 SÉRIE OURO",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ELINE VIEGAS ............."
+    }
+  ]
+}

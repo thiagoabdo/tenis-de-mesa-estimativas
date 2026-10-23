@@ -1,0 +1,3958 @@
+{
+  "schema_version": 1,
+  "event_id": 5767,
+  "event_name": "5767 - TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 6,
+  "event_match_count": 58,
+  "estimated_match_count": 58,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5767-2025-001",
+      "event_id": 5767,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-17T11:00:00",
+      "players": [
+        {
+          "name": "REGINALDO GOMES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "REGINALDO GOMES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21703,
+            "name": "REGINALDO GOMES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1741,
+            "rating_change": 12,
+            "rating_after": 1753,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 17784,
+            "name": "GUSTAVO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1238,
+            "rating_change": 0,
+            "rating_after": 1238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-001",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 01",
+      "game_number": 1,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-17T11:00:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDERSON COSTA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            6,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1071,
+            "rating_change": 6,
+            "rating_after": 1077,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 80241,
+            "name": "ANDERSON COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 190,
+            "rating_change": 0,
+            "rating_after": 190,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-002",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 2,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-17T11:00:00",
+      "players": [
+        {
+          "name": "RYAN SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RYAN SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62658,
+            "name": "RYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1597,
+            "rating_change": 6,
+            "rating_after": 1603,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 415,
+            "rating_change": 0,
+            "rating_after": 415,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-003",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 3,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-17T11:00:00",
+      "players": [
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            7,
+            3,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GUSTAVO ROSSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 85,
+            "rating_change": 0,
+            "rating_after": 85,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 610,
+            "rating_change": 12,
+            "rating_after": 622,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2032-001",
+      "event_id": 5767,
+      "category_id": 2032,
+      "category": "Classe 03 (FEM)",
+      "phase": "Classe 03 (FEM) - Única 01",
+      "game_number": 1,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-17T11:00:00",
+      "players": [
+        {
+          "name": "MARIA FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            15,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "NICOLE SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            6,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARIA FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 32470,
+            "name": "MARIA FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1998,
+            "rating_change": 12,
+            "rating_after": 2010,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 70603,
+            "name": "NICOLE SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1329,
+            "rating_change": 0,
+            "rating_after": 1329,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2025-002",
+      "event_id": 5767,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "11:30",
+      "played_at": "2026-07-17T11:30:00",
+      "players": [
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ CIRINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 632,
+            "rating_change": 180,
+            "rating_after": 812,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 180
+          },
+          {
+            "associate_id": 17784,
+            "name": "GUSTAVO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1238,
+            "rating_change": -132,
+            "rating_after": 1106,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -132
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-004",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 01",
+      "game_number": 4,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "11:30",
+      "played_at": "2026-07-17T11:30:00",
+      "players": [
+        {
+          "name": "PAULO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDERSON COSTA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            6,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60582,
+            "name": "PAULO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 172,
+            "rating_change": 66,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 66
+          },
+          {
+            "associate_id": 80241,
+            "name": "ANDERSON COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 190,
+            "rating_change": -54,
+            "rating_after": 136,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -54
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-005",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 5,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "11:30",
+      "played_at": "2026-07-17T11:30:00",
+      "players": [
+        {
+          "name": "RYAN SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            3,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RYAN SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62658,
+            "name": "RYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1603,
+            "rating_change": 6,
+            "rating_after": 1609,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 622,
+            "rating_change": 0,
+            "rating_after": 622,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-006",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 6,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "11:30",
+      "played_at": "2026-07-17T11:30:00",
+      "players": [
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALVARO LACERDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 85,
+            "rating_change": 138,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 138
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 415,
+            "rating_change": -108,
+            "rating_after": 307,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -108
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2032-002",
+      "event_id": 5767,
+      "category_id": 2032,
+      "category": "Classe 03 (FEM)",
+      "phase": "Classe 03 (FEM) - Única 01",
+      "game_number": 2,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "11:30",
+      "played_at": "2026-07-17T11:30:00",
+      "players": [
+        {
+          "name": "CAMILA RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            7,
+            11,
+            8,
+            9
+          ]
+        },
+        {
+          "name": "NICOLE SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            5,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "NICOLE SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 32467,
+            "name": "CAMILA RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1585,
+            "rating_change": -96,
+            "rating_after": 1489,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -96
+          },
+          {
+            "associate_id": 70603,
+            "name": "NICOLE SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1329,
+            "rating_change": 120,
+            "rating_after": 1449,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 120
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2025-003",
+      "event_id": 5767,
+      "category_id": 2025,
+      "category": "Classe 09 (MAS)",
+      "phase": "Classe 09 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "12:00",
+      "played_at": "2026-07-17T12:00:00",
+      "players": [
+        {
+          "name": "REGINALDO GOMES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            21,
+            15,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            19,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "REGINALDO GOMES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21703,
+            "name": "REGINALDO GOMES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1753,
+            "rating_change": 6,
+            "rating_after": 1759,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 812,
+            "rating_change": 0,
+            "rating_after": 812,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-007",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 01",
+      "game_number": 7,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "12:00",
+      "played_at": "2026-07-17T12:00:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "PAULO CAMPOS",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            7,
+            8,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1077,
+            "rating_change": 6,
+            "rating_after": 1083,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 60582,
+            "name": "PAULO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 0,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-008",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 8,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "12:00",
+      "played_at": "2026-07-17T12:00:00",
+      "players": [
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GUSTAVO ROSSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 622,
+            "rating_change": 24,
+            "rating_after": 646,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 307,
+            "rating_change": -12,
+            "rating_after": 295,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-009",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Grupo 02",
+      "game_number": 9,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "12:00",
+      "played_at": "2026-07-17T12:00:00",
+      "players": [
+        {
+          "name": "RYAN SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RYAN SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62658,
+            "name": "RYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1609,
+            "rating_change": 6,
+            "rating_after": 1615,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": 0,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2032-003",
+      "event_id": 5767,
+      "category_id": 2032,
+      "category": "Classe 03 (FEM)",
+      "phase": "Classe 03 (FEM) - Única 01",
+      "game_number": 3,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "12:00",
+      "played_at": "2026-07-17T12:00:00",
+      "players": [
+        {
+          "name": "MARIA FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            17,
+            12,
+            null
+          ]
+        },
+        {
+          "name": "CAMILA RIBEIRO",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            5,
+            19,
+            10,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MARIA FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 32470,
+            "name": "MARIA FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 2010,
+            "rating_change": 12,
+            "rating_after": 2022,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 32467,
+            "name": "CAMILA RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1489,
+            "rating_change": 0,
+            "rating_after": 1489,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2019-001",
+      "event_id": 5767,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "JOSÉ FILHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIZ SEABRA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOSÉ FILHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57044,
+            "name": "JOSÉ FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1331,
+            "rating_change": 6,
+            "rating_after": 1337,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 80242,
+            "name": "LUIZ SEABRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 180,
+            "rating_change": 0,
+            "rating_after": 180,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2019-002",
+      "event_id": 5767,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "GABRIEL ASSUMPÇÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EVERSON VALGAS",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GABRIEL ASSUMPÇÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 48961,
+            "name": "GABRIEL ASSUMPÇÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1649,
+            "rating_change": 6,
+            "rating_after": 1655,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 76075,
+            "name": "EVERSON VALGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": 0,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-010",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Semi Final",
+      "game_number": 10,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            13,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            15,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GUSTAVO ROSSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1083,
+            "rating_change": -120,
+            "rating_after": 963,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -120
+          },
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 646,
+            "rating_change": 156,
+            "rating_after": 802,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-011",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Semi Final",
+      "game_number": 11,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "PAULO CAMPOS",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            7,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RYAN SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RYAN SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60582,
+            "name": "PAULO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 0,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 62658,
+            "name": "RYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1615,
+            "rating_change": 6,
+            "rating_after": 1621,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-001",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR SILVA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            2,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2228,
+            "rating_change": 6,
+            "rating_after": 2234,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 70757,
+            "name": "VITOR SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 84,
+            "rating_change": 0,
+            "rating_after": 84,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2037-001",
+      "event_id": 5767,
+      "category_id": 2037,
+      "category": "Classe 08 (FEM)",
+      "phase": "Classe 08 (FEM) - Única 01",
+      "game_number": 1,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "MARIA PAULA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            3,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARIA PAULA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 70755,
+            "name": "MARIA PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 774,
+            "rating_change": 24,
+            "rating_after": 798,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 459,
+            "rating_change": -12,
+            "rating_after": 447,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2037-002",
+      "event_id": 5767,
+      "category_id": 2037,
+      "category": "Classe 08 (FEM)",
+      "phase": "Classe 08 (FEM) - Única 01",
+      "game_number": 2,
+      "table": 20,
+      "date": "17/07/2026",
+      "time": "13:00",
+      "played_at": "2026-07-17T13:00:00",
+      "players": [
+        {
+          "name": "MARIANA CASTILHO",
+          "sets_won": 2,
+          "set_points": [
+            13,
+            6,
+            3,
+            11,
+            9
+          ]
+        },
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            5,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "ANDRÉA COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 56656,
+            "name": "MARIANA CASTILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 897,
+            "rating_change": -96,
+            "rating_after": 801,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -96
+          },
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 693,
+            "rating_change": 120,
+            "rating_after": 813,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 120
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2021-001",
+      "event_id": 5767,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            2,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "TIAGO FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 56125,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1143,
+            "rating_change": 6,
+            "rating_after": 1149,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 90084,
+            "name": "THIAGO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 200,
+            "rating_change": 0,
+            "rating_after": 200,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2021-002",
+      "event_id": 5767,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "ALEXANDRE ANK",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SAYMON SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            4,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALEXANDRE ANK",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 16296,
+            "name": "ALEXANDRE ANK",
+            "associate_id_source": "event_roster",
+            "rating_before": 1582,
+            "rating_change": 6,
+            "rating_after": 1588,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 80609,
+            "name": "SAYMON SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 40,
+            "rating_change": 0,
+            "rating_after": 40,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2023-001",
+      "event_id": 5767,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "FRANKLIN ALVES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            7,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FELIPE OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31312,
+            "name": "FRANKLIN ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1105,
+            "rating_change": 0,
+            "rating_after": 1105,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 47229,
+            "name": "FELIPE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1748,
+            "rating_change": 12,
+            "rating_after": 1760,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2023-002",
+      "event_id": 5767,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 20,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "CAIO AMORIM",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONATAS RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            4,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CAIO AMORIM",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 32466,
+            "name": "CAIO AMORIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 538,
+            "rating_change": 18,
+            "rating_after": 556,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 82171,
+            "name": "JONATAS RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 133,
+            "rating_change": -6,
+            "rating_after": 127,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2024-001",
+      "event_id": 5767,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EDMUNDO NETO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MATHEUS FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1270,
+            "rating_change": 6,
+            "rating_after": 1276,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 88189,
+            "name": "EDMUNDO NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": 0,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2024-002",
+      "event_id": 5767,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "BRUNO MUNE",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            7,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO CARVALHO",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            4,
+            11,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "BRUNO MUNE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 36034,
+            "name": "BRUNO MUNE",
+            "associate_id_source": "event_roster",
+            "rating_before": 700,
+            "rating_change": 30,
+            "rating_after": 730,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 29165,
+            "name": "JOÃO CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 453,
+            "rating_change": -18,
+            "rating_after": 435,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-002",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "13:30",
+      "played_at": "2026-07-17T13:30:00",
+      "players": [
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ CALAZANS",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            9,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "DAVI CALAZANS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1064,
+            "rating_change": 6,
+            "rating_after": 1070,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 89193,
+            "name": "ANDRÉ CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 149,
+            "rating_change": 0,
+            "rating_after": 149,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2019-003",
+      "event_id": 5767,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-17T14:00:00",
+      "players": [
+        {
+          "name": "JOSÉ FILHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EVERSON VALGAS",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            4,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOSÉ FILHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57044,
+            "name": "JOSÉ FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1337,
+            "rating_change": 6,
+            "rating_after": 1343,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 76075,
+            "name": "EVERSON VALGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": 0,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2019-004",
+      "event_id": 5767,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-17T14:00:00",
+      "players": [
+        {
+          "name": "GABRIEL ASSUMPÇÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIZ SEABRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            1,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GABRIEL ASSUMPÇÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 48961,
+            "name": "GABRIEL ASSUMPÇÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1655,
+            "rating_change": 6,
+            "rating_after": 1661,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 80242,
+            "name": "LUIZ SEABRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 180,
+            "rating_change": 0,
+            "rating_after": 180,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-003",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-17T14:00:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ CALAZANS",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            8,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2234,
+            "rating_change": 6,
+            "rating_after": 2240,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 89193,
+            "name": "ANDRÉ CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 149,
+            "rating_change": 0,
+            "rating_after": 149,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2037-003",
+      "event_id": 5767,
+      "category_id": 2037,
+      "category": "Classe 08 (FEM)",
+      "phase": "Classe 08 (FEM) - Única 01",
+      "game_number": 3,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-17T14:00:00",
+      "players": [
+        {
+          "name": "MARIA PAULA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARIA PAULA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 70755,
+            "name": "MARIA PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 798,
+            "rating_change": 66,
+            "rating_after": 864,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 66
+          },
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 813,
+            "rating_change": -54,
+            "rating_after": 759,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -54
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2037-004",
+      "event_id": 5767,
+      "category_id": 2037,
+      "category": "Classe 08 (FEM)",
+      "phase": "Classe 08 (FEM) - Única 01",
+      "game_number": 4,
+      "table": 20,
+      "date": "17/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-17T14:00:00",
+      "players": [
+        {
+          "name": "MARIANA CASTILHO",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            7,
+            11,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "IRENE SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 56656,
+            "name": "MARIANA CASTILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 801,
+            "rating_change": -108,
+            "rating_after": 693,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -108
+          },
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 447,
+            "rating_change": 138,
+            "rating_after": 585,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 138
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2021-003",
+      "event_id": 5767,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SAYMON SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "TIAGO FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 56125,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1149,
+            "rating_change": 6,
+            "rating_after": 1155,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 80609,
+            "name": "SAYMON SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 40,
+            "rating_change": 0,
+            "rating_after": 40,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2021-004",
+      "event_id": 5767,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "ALEXANDRE ANK",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            3,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALEXANDRE ANK",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 16296,
+            "name": "ALEXANDRE ANK",
+            "associate_id_source": "event_roster",
+            "rating_before": 1588,
+            "rating_change": 6,
+            "rating_after": 1594,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 90084,
+            "name": "THIAGO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 200,
+            "rating_change": 0,
+            "rating_after": 200,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2023-003",
+      "event_id": 5767,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "FRANKLIN ALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONATAS RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            7,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FRANKLIN ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31312,
+            "name": "FRANKLIN ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1105,
+            "rating_change": 6,
+            "rating_after": 1111,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 82171,
+            "name": "JONATAS RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 127,
+            "rating_change": 0,
+            "rating_after": 127,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2023-004",
+      "event_id": 5767,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 20,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "CAIO AMORIM",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FELIPE OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 32466,
+            "name": "CAIO AMORIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 556,
+            "rating_change": 0,
+            "rating_after": 556,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 47229,
+            "name": "FELIPE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1760,
+            "rating_change": 6,
+            "rating_after": 1766,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2024-003",
+      "event_id": 5767,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            3,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MATHEUS FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1276,
+            "rating_change": 6,
+            "rating_after": 1282,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 29165,
+            "name": "JOÃO CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 435,
+            "rating_change": 0,
+            "rating_after": 435,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2024-004",
+      "event_id": 5767,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "BRUNO MUNE",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EDMUNDO NETO",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            2,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "BRUNO MUNE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 36034,
+            "name": "BRUNO MUNE",
+            "associate_id_source": "event_roster",
+            "rating_before": 730,
+            "rating_change": 18,
+            "rating_after": 748,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 88189,
+            "name": "EDMUNDO NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": -6,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2026-012",
+      "event_id": 5767,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Final",
+      "game_number": 12,
+      "table": 7,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "GUSTAVO ROSSI",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            7,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RYAN SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RYAN SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 71047,
+            "name": "GUSTAVO ROSSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 802,
+            "rating_change": 0,
+            "rating_after": 802,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 62658,
+            "name": "RYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1621,
+            "rating_change": 6,
+            "rating_after": 1627,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-004",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-17T14:30:00",
+      "players": [
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 2,
+          "set_points": [
+            3,
+            8,
+            11,
+            11,
+            9
+          ]
+        },
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            1,
+            3,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "ISAAC CAVALCANTI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1070,
+            "rating_change": -120,
+            "rating_after": 950,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -120
+          },
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 597,
+            "rating_change": 156,
+            "rating_after": 753,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 156
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2019-005",
+      "event_id": 5767,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-17T15:00:00",
+      "players": [
+        {
+          "name": "EVERSON VALGAS",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            13,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIZ SEABRA",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            15,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "LUIZ SEABRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 76075,
+            "name": "EVERSON VALGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": -66,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -66
+          },
+          {
+            "associate_id": 80242,
+            "name": "LUIZ SEABRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 180,
+            "rating_change": 84,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 84
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2019-006",
+      "event_id": 5767,
+      "category_id": 2019,
+      "category": "Classe 03 (MAS)",
+      "phase": "Classe 03 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-17T15:00:00",
+      "players": [
+        {
+          "name": "JOSÉ FILHO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            11,
+            3,
+            10,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL ASSUMPÇÃO",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            13,
+            11,
+            12,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "GABRIEL ASSUMPÇÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57044,
+            "name": "JOSÉ FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1343,
+            "rating_change": -12,
+            "rating_after": 1331,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 48961,
+            "name": "GABRIEL ASSUMPÇÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1661,
+            "rating_change": 24,
+            "rating_after": 1685,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-005",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-17T15:00:00",
+      "players": [
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR SILVA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI CALAZANS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 950,
+            "rating_change": 6,
+            "rating_after": 956,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 70757,
+            "name": "VITOR SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 84,
+            "rating_change": 0,
+            "rating_after": 84,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2037-005",
+      "event_id": 5767,
+      "category_id": 2037,
+      "category": "Classe 08 (FEM)",
+      "phase": "Classe 08 (FEM) - Única 01",
+      "game_number": 5,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-17T15:00:00",
+      "players": [
+        {
+          "name": "ANDRÉA COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            10,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "IRENE SILVA",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            4,
+            12,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ANDRÉA COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31293,
+            "name": "ANDRÉA COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 759,
+            "rating_change": 36,
+            "rating_after": 795,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 31339,
+            "name": "IRENE SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 585,
+            "rating_change": -24,
+            "rating_after": 561,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2037-006",
+      "event_id": 5767,
+      "category_id": 2037,
+      "category": "Classe 08 (FEM)",
+      "phase": "Classe 08 (FEM) - Única 01",
+      "game_number": 6,
+      "table": 20,
+      "date": "17/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-17T15:00:00",
+      "players": [
+        {
+          "name": "MARIA PAULA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIANA CASTILHO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            6,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARIA PAULA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 70755,
+            "name": "MARIA PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 864,
+            "rating_change": 36,
+            "rating_after": 900,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 56656,
+            "name": "MARIANA CASTILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 693,
+            "rating_change": -24,
+            "rating_after": 669,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2021-005",
+      "event_id": 5767,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 15,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "SAYMON SOUSA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            7,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO MARTINS",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            9,
+            11,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "SAYMON SOUSA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80609,
+            "name": "SAYMON SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 40,
+            "rating_change": 108,
+            "rating_after": 148,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 108
+          },
+          {
+            "associate_id": 90084,
+            "name": "THIAGO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 200,
+            "rating_change": -84,
+            "rating_after": 116,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -84
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2021-006",
+      "event_id": 5767,
+      "category_id": 2021,
+      "category": "Classe 05 (MAS)",
+      "phase": "Classe 05 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 16,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "TIAGO FREITAS",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALEXANDRE ANK",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ALEXANDRE ANK",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 56125,
+            "name": "TIAGO FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1155,
+            "rating_change": -6,
+            "rating_after": 1149,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 16296,
+            "name": "ALEXANDRE ANK",
+            "associate_id_source": "event_roster",
+            "rating_before": 1594,
+            "rating_change": 18,
+            "rating_after": 1612,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2023-005",
+      "event_id": 5767,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 19,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "JONATAS RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            5,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FELIPE OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82171,
+            "name": "JONATAS RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 127,
+            "rating_change": 0,
+            "rating_after": 127,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 47229,
+            "name": "FELIPE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1766,
+            "rating_change": 6,
+            "rating_after": 1772,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2023-006",
+      "event_id": 5767,
+      "category_id": 2023,
+      "category": "Classe 07 (MAS)",
+      "phase": "Classe 07 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 20,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "FRANKLIN ALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAIO AMORIM",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            1,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FRANKLIN ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 31312,
+            "name": "FRANKLIN ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 1111,
+            "rating_change": 12,
+            "rating_after": 1123,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 32466,
+            "name": "CAIO AMORIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 556,
+            "rating_change": 0,
+            "rating_after": 556,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2024-005",
+      "event_id": 5767,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 17,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "JOÃO CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EDMUNDO NETO",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            4,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29165,
+            "name": "JOÃO CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 435,
+            "rating_change": 30,
+            "rating_after": 465,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 88189,
+            "name": "EDMUNDO NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 231,
+            "rating_change": -18,
+            "rating_after": 213,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2024-006",
+      "event_id": 5767,
+      "category_id": 2024,
+      "category": "Classe 08 (MAS)",
+      "phase": "Classe 08 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 18,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "MATHEUS FREITAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            10,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "BRUNO MUNE",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            12,
+            8,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MATHEUS FREITAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 53102,
+            "name": "MATHEUS FREITAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 1282,
+            "rating_change": 12,
+            "rating_after": 1294,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 36034,
+            "name": "BRUNO MUNE",
+            "associate_id_source": "event_roster",
+            "rating_before": 748,
+            "rating_change": 0,
+            "rating_after": 748,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-006",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-17T15:30:00",
+      "players": [
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ CALAZANS",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            10,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ISAAC CAVALCANTI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 753,
+            "rating_change": 12,
+            "rating_after": 765,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 89193,
+            "name": "ANDRÉ CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 149,
+            "rating_change": 0,
+            "rating_after": 149,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-007",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 7,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-17T16:00:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2240,
+            "rating_change": 6,
+            "rating_after": 2246,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 765,
+            "rating_change": 0,
+            "rating_after": 765,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-008",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 8,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "16:30",
+      "played_at": "2026-07-17T16:30:00",
+      "players": [
+        {
+          "name": "ANDRÉ CALAZANS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "VITOR SILVA",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            7,
+            11,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ANDRÉ CALAZANS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89193,
+            "name": "ANDRÉ CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 149,
+            "rating_change": 48,
+            "rating_after": 197,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 48
+          },
+          {
+            "associate_id": 70757,
+            "name": "VITOR SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 84,
+            "rating_change": -36,
+            "rating_after": 48,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-009",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 9,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "17:00",
+      "played_at": "2026-07-17T17:00:00",
+      "players": [
+        {
+          "name": "KAYNAN SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CALAZANS",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            6,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "KAYNAN SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 60309,
+            "name": "KAYNAN SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 2246,
+            "rating_change": 6,
+            "rating_after": 2252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 81471,
+            "name": "DAVI CALAZANS",
+            "associate_id_source": "event_roster",
+            "rating_before": 956,
+            "rating_change": 0,
+            "rating_after": 956,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5767-2029-010",
+      "event_id": 5767,
+      "category_id": 2029,
+      "category": "Classe 11 (MAS)",
+      "phase": "Classe 11 (MAS) - Única 01",
+      "game_number": 10,
+      "table": 21,
+      "date": "17/07/2026",
+      "time": "17:30",
+      "played_at": "2026-07-17T17:30:00",
+      "players": [
+        {
+          "name": "ISAAC CAVALCANTI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR SILVA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            10,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ISAAC CAVALCANTI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88096,
+            "name": "ISAAC CAVALCANTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 765,
+            "rating_change": 12,
+            "rating_after": 777,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 70757,
+            "name": "VITOR SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 48,
+            "rating_change": 0,
+            "rating_after": 48,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    }
+  ]
+}

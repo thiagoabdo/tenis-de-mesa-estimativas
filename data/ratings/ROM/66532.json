@@ -1,0 +1,43 @@
+{
+  "associate_id": 66532,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=66532&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-10T15:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 148,
+      "delta": -108,
+      "final": 40,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE DURAES"
+    },
+    {
+      "played_at": "2026-07-10T14:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 232,
+      "delta": -84,
+      "final": 148,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JONATAS RODRIGUES"
+    },
+    {
+      "played_at": "2026-07-10T13:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDSON.MOISES SANTOS ............."
+    }
+  ]
+}

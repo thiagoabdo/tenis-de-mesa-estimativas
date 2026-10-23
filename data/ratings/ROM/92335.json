@@ -1,0 +1,91 @@
+{
+  "associate_id": 92335,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92335&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-27T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 307,
+      "delta": -18,
+      "final": 289,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL KREMER"
+    },
+    {
+      "played_at": "2026-06-27T12:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 286,
+      "delta": 21,
+      "final": 307,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MAICON RIBEIRO"
+    },
+    {
+      "played_at": "2026-04-18T18:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 313,
+      "delta": -27,
+      "final": 286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VALMIR JUNIOR"
+    },
+    {
+      "played_at": "2026-04-18T17:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 289,
+      "delta": 24,
+      "final": 313,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTOR ITO"
+    },
+    {
+      "played_at": "2026-04-18T16:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 259,
+      "delta": 30,
+      "final": 289,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO ASSIS"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 277,
+      "delta": -18,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISAC SARDI"
+    },
+    {
+      "played_at": "2026-04-18T09:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": 27,
+      "final": 277,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "IGOR CECHET ............."
+    }
+  ]
+}

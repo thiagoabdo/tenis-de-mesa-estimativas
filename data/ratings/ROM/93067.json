@@ -1,0 +1,31 @@
+{
+  "associate_id": 93067,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93067&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T10:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 223,
+      "delta": 24,
+      "final": 247,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANNA FERREIRA"
+    },
+    {
+      "played_at": "2026-06-06T09:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 250,
+      "delta": -27,
+      "final": 223,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ADRIANA LIMA ............."
+    }
+  ]
+}

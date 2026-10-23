@@ -1,0 +1,31 @@
+{
+  "associate_id": 92707,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92707&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 226,
+      "delta": -36,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO CAMARGO"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ KOCHI ............."
+    }
+  ]
+}

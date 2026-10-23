@@ -1,0 +1,91 @@
+{
+  "associate_id": 90914,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90914&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T15:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 295,
+      "delta": -3,
+      "final": 292,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2026-03-01T15:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 280,
+      "delta": 15,
+      "final": 295,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2026-03-01T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 226,
+      "delta": 24,
+      "final": 250,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ CABRAL"
+    },
+    {
+      "played_at": "2026-02-28T12:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 247,
+      "delta": -21,
+      "final": 226,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EDUARDO LEVANDOVSKI"
+    },
+    {
+      "played_at": "2026-02-28T11:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 277,
+      "delta": -30,
+      "final": 247,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELIPE BASILE"
+    },
+    {
+      "played_at": "2026-02-28T09:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": 27,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THEODORO VARGAS ............."
+    }
+  ]
+}

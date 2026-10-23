@@ -1,0 +1,31 @@
+{
+  "associate_id": 93945,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93945&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T13:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 242,
+      "delta": -3,
+      "final": 239,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ANTONY MENEGON"
+    },
+    {
+      "played_at": "2026-07-05T12:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DAVI ALBUQUERQUE ............."
+    }
+  ]
+}

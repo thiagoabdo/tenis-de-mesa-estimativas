@@ -1,0 +1,799 @@
+{
+  "associate_id": 28710,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=28710&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-12T15:15:00",
+      "event": "TMB Estadual - 5ª Etapa Alagoano - Maceió/AL - 2026",
+      "initial": 342,
+      "delta": -18,
+      "final": 324,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAYME NETO"
+    },
+    {
+      "played_at": "2026-09-12T15:00:00",
+      "event": "TMB Estadual - 5ª Etapa Alagoano - Maceió/AL - 2026",
+      "initial": 351,
+      "delta": -9,
+      "final": 342,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CESAR ALBUQUERQUE"
+    },
+    {
+      "played_at": "2026-09-12T14:30:00",
+      "event": "TMB Estadual - 5ª Etapa Alagoano - Maceió/AL - 2026",
+      "initial": 354,
+      "delta": -3,
+      "final": 351,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO REZENDE"
+    },
+    {
+      "played_at": "2026-09-12T13:30:00",
+      "event": "TMB Estadual - 5ª Etapa Alagoano - Maceió/AL - 2026",
+      "initial": 360,
+      "delta": -6,
+      "final": 354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-23T13:00:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 360,
+      "delta": 0,
+      "final": 360,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR COSTA"
+    },
+    {
+      "played_at": "2026-08-23T12:00:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 153,
+      "delta": 207,
+      "final": 360,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PATRICK CRUZ"
+    },
+    {
+      "played_at": "2026-08-22T13:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 153,
+      "delta": 0,
+      "final": 153,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2026-08-22T10:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": 153,
+      "delta": 0,
+      "final": 153,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHEN CHUAN"
+    },
+    {
+      "played_at": "2026-08-22T08:30:00",
+      "event": "Copa Brasil Ouro Maceió/AL - 2026",
+      "initial": -27,
+      "delta": 180,
+      "final": 153,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CARLOS SOUSA"
+    },
+    {
+      "played_at": "2026-05-09T14:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2026",
+      "initial": -21,
+      "delta": -6,
+      "final": -27,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAYME NETO"
+    },
+    {
+      "played_at": "2026-05-09T13:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2026",
+      "initial": -6,
+      "delta": -15,
+      "final": -21,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO SILVA"
+    },
+    {
+      "played_at": "2026-05-02T20:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 21,
+      "delta": -27,
+      "final": -6,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ TENÓRIO"
+    },
+    {
+      "played_at": "2026-05-02T19:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 120,
+      "delta": -99,
+      "final": 21,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALMO BRACCESI"
+    },
+    {
+      "played_at": "2026-05-02T16:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 174,
+      "delta": -54,
+      "final": 120,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CARLOS SOUSA"
+    },
+    {
+      "played_at": "2026-05-02T15:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 174,
+      "delta": 0,
+      "final": 174,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIO MONTE"
+    },
+    {
+      "played_at": "2026-05-02T13:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 174,
+      "delta": 0,
+      "final": 174,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILSON SILVA"
+    },
+    {
+      "played_at": "2025-10-04T15:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Maceió/AL - 2025",
+      "initial": 142,
+      "delta": 32,
+      "final": 174,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERASMO JÚNIOR"
+    },
+    {
+      "played_at": "2025-10-04T15:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Maceió/AL - 2025",
+      "initial": 150,
+      "delta": -8,
+      "final": 142,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THALLYSON SILVA"
+    },
+    {
+      "played_at": "2025-09-20T09:15:00",
+      "event": "Estadual - 4ª Etapa - Maceio/AL - 2025",
+      "initial": 158,
+      "delta": -8,
+      "final": 150,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÊVIS TENÓRIO"
+    },
+    {
+      "played_at": "2025-09-20T08:30:00",
+      "event": "Estadual - 4ª Etapa - Maceio/AL - 2025",
+      "initial": 160,
+      "delta": -2,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR SANTOS"
+    },
+    {
+      "played_at": "2025-07-05T10:15:00",
+      "event": "Estadual - 3ª Etapa - Campeonato Alagoano de Tênis de Mesa",
+      "initial": 170,
+      "delta": -10,
+      "final": 160,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL MELO"
+    },
+    {
+      "played_at": "2025-07-05T09:30:00",
+      "event": "Estadual - 3ª Etapa - Campeonato Alagoano de Tênis de Mesa",
+      "initial": 178,
+      "delta": -8,
+      "final": 170,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAYME NETO"
+    },
+    {
+      "played_at": "2025-07-05T08:15:00",
+      "event": "Estadual - 3ª Etapa - Campeonato Alagoano de Tênis de Mesa",
+      "initial": 154,
+      "delta": 24,
+      "final": 178,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NYKOLLAS VIEIRA"
+    },
+    {
+      "played_at": "2025-05-17T10:45:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 154,
+      "delta": 0,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL MELO"
+    },
+    {
+      "played_at": "2025-05-17T10:15:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 154,
+      "delta": 0,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARLYSSON CAMPOS"
+    },
+    {
+      "played_at": "2025-05-17T08:30:00",
+      "event": "Estadual- 2ª Etapa- Maceió/AL",
+      "initial": 144,
+      "delta": 10,
+      "final": 154,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CÍCERO BARACHO"
+    },
+    {
+      "played_at": "2025-04-26T16:20:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 158,
+      "delta": -14,
+      "final": 144,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO SILVA"
+    },
+    {
+      "played_at": "2025-04-26T15:20:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 162,
+      "delta": -4,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KLEBER ALMEIDA"
+    },
+    {
+      "played_at": "2025-04-26T14:20:00",
+      "event": "Estadual - 1ª Etapa - Maceio/AL - 2025",
+      "initial": 162,
+      "delta": 0,
+      "final": 162,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO BRASILEIRO"
+    },
+    {
+      "played_at": "2024-04-07T13:00:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 182,
+      "delta": -20,
+      "final": 162,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR SANTOS"
+    },
+    {
+      "played_at": "2024-04-07T09:15:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 217,
+      "delta": -35,
+      "final": 182,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI MELO"
+    },
+    {
+      "played_at": "2024-04-07T08:00:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 137,
+      "delta": 80,
+      "final": 217,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXANDRE ARAÚJO"
+    },
+    {
+      "played_at": "2024-04-06T10:30:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 137,
+      "delta": 0,
+      "final": 137,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ECILDO OLIVEIRA"
+    },
+    {
+      "played_at": "2024-04-06T08:50:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 137,
+      "delta": 0,
+      "final": 137,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO BATISTA"
+    },
+    {
+      "played_at": "2024-04-05T08:50:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 167,
+      "delta": -30,
+      "final": 137,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ REIS"
+    },
+    {
+      "played_at": "2024-04-05T08:00:00",
+      "event": "TMB Challenger Plus - 2ª Edição - Recife/PE - 2024",
+      "initial": 197,
+      "delta": -30,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO SILVA"
+    },
+    {
+      "played_at": "2022-11-05T17:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 212,
+      "delta": -15,
+      "final": 197,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ATOS SILVA"
+    },
+    {
+      "played_at": "2022-11-05T16:00:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 162,
+      "delta": 50,
+      "final": 212,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO LEAHY"
+    },
+    {
+      "played_at": "2022-11-05T13:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 192,
+      "delta": -30,
+      "final": 162,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ SOUZA"
+    },
+    {
+      "played_at": "2022-11-05T13:00:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 197,
+      "delta": -5,
+      "final": 192,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO SILVA"
+    },
+    {
+      "played_at": "2022-11-05T11:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 212,
+      "delta": -15,
+      "final": 197,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ADELMO BASTOS"
+    },
+    {
+      "played_at": "2022-11-05T10:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 212,
+      "delta": 0,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2022-11-05T08:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Maceió/AL - 2022.",
+      "initial": 212,
+      "delta": 0,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2022-10-23T13:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Recife/PE - 2022.",
+      "initial": 247,
+      "delta": -35,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTONIO SILVA"
+    },
+    {
+      "played_at": "2022-10-23T09:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Recife/PE - 2022.",
+      "initial": 302,
+      "delta": -55,
+      "final": 247,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO NASCIMENTO"
+    },
+    {
+      "played_at": "2022-10-22T13:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Recife/PE - 2022.",
+      "initial": 302,
+      "delta": 0,
+      "final": 302,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHEN CHUAN"
+    },
+    {
+      "played_at": "2022-10-22T11:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Recife/PE - 2022.",
+      "initial": 302,
+      "delta": 0,
+      "final": 302,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOEL SANTOS"
+    },
+    {
+      "played_at": "2022-05-21T11:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Maceió/AL - 2022.",
+      "initial": 330,
+      "delta": -28,
+      "final": 302,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2022-05-21T11:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Maceió/AL - 2022.",
+      "initial": 316,
+      "delta": 14,
+      "final": 330,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOSÉ ARAÚJO"
+    },
+    {
+      "played_at": "2022-05-21T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Maceió/AL - 2022.",
+      "initial": 340,
+      "delta": -24,
+      "final": 316,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FLÁVIO SEIXAS"
+    },
+    {
+      "played_at": "2022-05-21T09:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Maceió/AL - 2022.",
+      "initial": 368,
+      "delta": -28,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAYME NETO"
+    },
+    {
+      "played_at": "2022-05-21T09:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Maceió/AL - 2022.",
+      "initial": 356,
+      "delta": 12,
+      "final": 368,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2022-05-21T09:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Maceió/AL - 2022.",
+      "initial": 374,
+      "delta": -18,
+      "final": 356,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EWERTON SAMPAIO"
+    },
+    {
+      "played_at": "2022-04-23T16:45:00",
+      "event": "TMB Challenger Plus - 4ª Edição - Caruaru/PE - 2022.",
+      "initial": 404,
+      "delta": -30,
+      "final": 374,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ SOUSA"
+    },
+    {
+      "played_at": "2022-04-23T15:05:00",
+      "event": "TMB Challenger Plus - 4ª Edição - Caruaru/PE - 2022.",
+      "initial": 464,
+      "delta": -60,
+      "final": 404,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO GOUVEIA"
+    },
+    {
+      "played_at": "2022-04-23T11:45:00",
+      "event": "TMB Challenger Plus - 4ª Edição - Caruaru/PE - 2022.",
+      "initial": 404,
+      "delta": 60,
+      "final": 464,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO PAZ"
+    },
+    {
+      "played_at": "2022-04-23T10:05:00",
+      "event": "TMB Challenger Plus - 4ª Edição - Caruaru/PE - 2022.",
+      "initial": 424,
+      "delta": -20,
+      "final": 404,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO AMORIM"
+    },
+    {
+      "played_at": "2022-04-23T09:15:00",
+      "event": "TMB Challenger Plus - 4ª Edição - Caruaru/PE - 2022.",
+      "initial": 424,
+      "delta": 0,
+      "final": 424,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHEN CHUAN"
+    },
+    {
+      "played_at": "2022-04-23T08:25:00",
+      "event": "TMB Challenger Plus - 4ª Edição - Caruaru/PE - 2022.",
+      "initial": 274,
+      "delta": 150,
+      "final": 424,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ.BEZERRA ARAÚJO.JÚNIOR"
+    },
+    {
+      "played_at": "2022-04-09T10:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2022.",
+      "initial": 280,
+      "delta": -6,
+      "final": 274,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EWERTON SAMPAIO"
+    },
+    {
+      "played_at": "2022-04-09T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2022.",
+      "initial": 290,
+      "delta": -10,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARLYSSON CAMPOS"
+    },
+    {
+      "played_at": "2022-04-09T08:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2022.",
+      "initial": 301,
+      "delta": -11,
+      "final": 290,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2022-04-09T08:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2022.",
+      "initial": 293,
+      "delta": 8,
+      "final": 301,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VERON SILVA"
+    },
+    {
+      "played_at": "2022-04-09T08:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Maceió/AL - 2022.",
+      "initial": 304,
+      "delta": -11,
+      "final": 293,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAIQUE TOLEDO"
+    },
+    {
+      "played_at": "2022-03-19T08:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2022.",
+      "initial": 326,
+      "delta": -22,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ATOS SILVA"
+    },
+    {
+      "played_at": "2022-03-19T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maceió/AL - 2022.",
+      "initial": 350,
+      "delta": -24,
+      "final": 326,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RYAN SILVA ............."
+    }
+  ]
+}

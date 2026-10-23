@@ -1,0 +1,31 @@
+{
+  "associate_id": 93191,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93191&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T09:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 226,
+      "delta": -33,
+      "final": 193,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO PAIVA"
+    },
+    {
+      "played_at": "2026-06-06T08:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS ARAUJO ............."
+    }
+  ]
+}

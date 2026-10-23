@@ -1,0 +1,823 @@
+{
+  "associate_id": 76655,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=76655&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-30T11:00:00",
+      "event": "JEMS EQUIPE 2026",
+      "initial": 782,
+      "delta": 0,
+      "final": 782,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ANNA FIGUEIREDO"
+    },
+    {
+      "played_at": "2026-08-30T09:00:00",
+      "event": "JEMS EQUIPE 2026",
+      "initial": 780,
+      "delta": 2,
+      "final": 782,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "MARIA SOUSA"
+    },
+    {
+      "played_at": "2026-08-29T18:00:00",
+      "event": "JEMS EQUIPE 2026",
+      "initial": 777,
+      "delta": 3,
+      "final": 780,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "HELOISA RODRIGUES"
+    },
+    {
+      "played_at": "2026-08-29T15:15:00",
+      "event": "JEMS 2026 14 A 17 ANOS",
+      "initial": 781,
+      "delta": -4,
+      "final": 777,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2026-08-29T14:25:00",
+      "event": "JEMS 2026 14 A 17 ANOS",
+      "initial": 778,
+      "delta": 3,
+      "final": 781,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ADRIANA SILVA"
+    },
+    {
+      "played_at": "2026-08-29T10:30:00",
+      "event": "JEMS 2026 14 A 17 ANOS",
+      "initial": 775,
+      "delta": 3,
+      "final": 778,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DARA REIS"
+    },
+    {
+      "played_at": "2026-08-22T17:30:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 748,
+      "delta": 27,
+      "final": 775,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NYCOLE OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-22T16:00:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 763,
+      "delta": -15,
+      "final": 748,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2026-08-22T15:30:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 703,
+      "delta": 60,
+      "final": 763,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2026-08-22T13:30:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 703,
+      "delta": 0,
+      "final": 703,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALICE JACINTO"
+    },
+    {
+      "played_at": "2026-08-22T13:00:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 634,
+      "delta": 69,
+      "final": 703,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2026-08-22T10:30:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 682,
+      "delta": -48,
+      "final": 634,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "IZADORA COSTA"
+    },
+    {
+      "played_at": "2026-08-21T20:00:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 613,
+      "delta": 69,
+      "final": 682,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2026-08-21T17:30:00",
+      "event": "TMB ESTADUAL 3ª ETAPA MARANHENSE 2026 ( De 21/08/2026 à 23/08/2026 ) - Olímpico - Ranking -",
+      "initial": 613,
+      "delta": 0,
+      "final": 613,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2026-06-28T12:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 712,
+      "delta": -99,
+      "final": 613,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARINA MARQUES"
+    },
+    {
+      "played_at": "2026-06-28T11:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 676,
+      "delta": 36,
+      "final": 712,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MONTENEGRO"
+    },
+    {
+      "played_at": "2026-06-28T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 532,
+      "delta": 144,
+      "final": 676,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ISADORA LIMA"
+    },
+    {
+      "played_at": "2026-06-28T09:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 469,
+      "delta": 63,
+      "final": 532,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VALENTINA MARACAIPE"
+    },
+    {
+      "played_at": "2026-06-28T08:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 424,
+      "delta": 45,
+      "final": 469,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANCHES"
+    },
+    {
+      "played_at": "2026-06-26T16:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 442,
+      "delta": -18,
+      "final": 424,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIM COELHO"
+    },
+    {
+      "played_at": "2026-06-26T15:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 388,
+      "delta": 54,
+      "final": 442,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANA SILVA"
+    },
+    {
+      "played_at": "2026-06-26T14:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 406,
+      "delta": -18,
+      "final": 388,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LIVIA CUNHA"
+    },
+    {
+      "played_at": "2026-06-26T10:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 424,
+      "delta": -18,
+      "final": 406,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2026-06-26T09:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 388,
+      "delta": 36,
+      "final": 424,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MONTENEGRO"
+    },
+    {
+      "played_at": "2026-06-26T08:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 388,
+      "delta": 0,
+      "final": 388,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2025-12-14T08:50:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 372,
+      "delta": 16,
+      "final": 388,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMMANUELLE COSTA"
+    },
+    {
+      "played_at": "2025-12-14T08:25:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 336,
+      "delta": 36,
+      "final": 372,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELLA SOUSA"
+    },
+    {
+      "played_at": "2025-12-14T08:00:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 284,
+      "delta": 52,
+      "final": 336,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAURA RIBEIRO"
+    },
+    {
+      "played_at": "2025-12-13T09:40:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 286,
+      "delta": -2,
+      "final": 284,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2025-12-13T09:15:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 286,
+      "delta": 0,
+      "final": 286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2025-08-03T11:20:00",
+      "event": "TMB ESCOLAR - JOGOS ESCOLARES MARANHENSES 2025 - São Luís - MA",
+      "initial": 289,
+      "delta": -3,
+      "final": 286,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIA COELHO"
+    },
+    {
+      "played_at": "2025-08-03T10:55:00",
+      "event": "TMB ESCOLAR - JOGOS ESCOLARES MARANHENSES 2025 - São Luís - MA",
+      "initial": 279,
+      "delta": 10,
+      "final": 289,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAYRA AQUINO"
+    },
+    {
+      "played_at": "2025-08-03T10:05:00",
+      "event": "TMB ESCOLAR - JOGOS ESCOLARES MARANHENSES 2025 - São Luís - MA",
+      "initial": 269,
+      "delta": 10,
+      "final": 279,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GEOVANA GOMES"
+    },
+    {
+      "played_at": "2024-10-27T11:00:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 284,
+      "delta": -15,
+      "final": 269,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA SCHEER"
+    },
+    {
+      "played_at": "2024-10-27T09:30:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 319,
+      "delta": -35,
+      "final": 284,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARYANA FELIPE"
+    },
+    {
+      "played_at": "2024-10-26T09:00:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 349,
+      "delta": -30,
+      "final": 319,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA SCHEER"
+    },
+    {
+      "played_at": "2024-10-26T08:30:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 259,
+      "delta": 90,
+      "final": 349,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2024-10-26T08:00:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 259,
+      "delta": 0,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALICE JACINTO"
+    },
+    {
+      "played_at": "2024-10-25T15:00:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 199,
+      "delta": 60,
+      "final": 259,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LARA MELONIO"
+    },
+    {
+      "played_at": "2024-10-25T14:30:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2024",
+      "initial": 239,
+      "delta": -40,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARYANA FELIPE"
+    },
+    {
+      "played_at": "2024-08-27T15:30:00",
+      "event": "TMB Escolar - Jogos Escolares Maranhenses - São Luís/MA - 2024",
+      "initial": 248,
+      "delta": -9,
+      "final": 239,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GEOVANA GOMES"
+    },
+    {
+      "played_at": "2024-08-27T09:30:00",
+      "event": "TMB Escolar - Jogos Escolares Maranhenses - São Luís/MA - 2024",
+      "initial": 257,
+      "delta": -9,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLA MELÔNIO"
+    },
+    {
+      "played_at": "2024-08-26T19:51:00",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2024",
+      "initial": 263,
+      "delta": -6,
+      "final": 257,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA BOMFIM"
+    },
+    {
+      "played_at": "2024-08-26T00:37:00",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2024",
+      "initial": 253,
+      "delta": 10,
+      "final": 263,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA MILHOMEM"
+    },
+    {
+      "played_at": "2024-04-14T15:30:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 208,
+      "delta": 45,
+      "final": 253,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AGNES TAVARES"
+    },
+    {
+      "played_at": "2024-04-14T14:30:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 213,
+      "delta": -5,
+      "final": 208,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2024-04-14T13:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 243,
+      "delta": -30,
+      "final": 213,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDA RIBEIRO"
+    },
+    {
+      "played_at": "2024-04-12T16:30:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 253,
+      "delta": -10,
+      "final": 243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2024-04-12T15:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 258,
+      "delta": -5,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUDMILLA LIMA"
+    },
+    {
+      "played_at": "2024-04-12T14:30:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 258,
+      "delta": 0,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALICE JACINTO"
+    },
+    {
+      "played_at": "2024-04-12T13:30:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 218,
+      "delta": 40,
+      "final": 258,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELA RUIVO"
+    },
+    {
+      "played_at": "2024-04-12T13:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 233,
+      "delta": -15,
+      "final": 218,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2024-04-12T11:30:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 243,
+      "delta": -10,
+      "final": 233,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2024-04-12T09:00:00",
+      "event": "TMB Challenger Plus - 5ª Edição - Belém/PA - 2024",
+      "initial": 253,
+      "delta": -10,
+      "final": 243,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2023-11-12T15:30:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 268,
+      "delta": -15,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUDMILLA LIMA"
+    },
+    {
+      "played_at": "2023-11-12T12:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 298,
+      "delta": -30,
+      "final": 268,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALINE SALES"
+    },
+    {
+      "played_at": "2023-11-12T09:30:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 313,
+      "delta": -15,
+      "final": 298,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2023-11-11T11:30:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 328,
+      "delta": -15,
+      "final": 313,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA REIS"
+    },
+    {
+      "played_at": "2023-11-11T10:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 328,
+      "delta": 0,
+      "final": 328,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YUMI IWAMOTO"
+    },
+    {
+      "played_at": "2023-11-11T09:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 288,
+      "delta": 40,
+      "final": 328,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2023-11-10T19:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 313,
+      "delta": -25,
+      "final": 288,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2023-11-10T10:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 323,
+      "delta": -10,
+      "final": 313,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA REIS"
+    },
+    {
+      "played_at": "2023-11-10T09:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 268,
+      "delta": 55,
+      "final": 323,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2023-08-10T10:30:00",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2023",
+      "initial": 277,
+      "delta": -9,
+      "final": 268,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2023-08-09T12:35:00",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2023",
+      "initial": 265,
+      "delta": 12,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KARLA SILVA"
+    },
+    {
+      "played_at": "2023-08-09T09:40:00",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2023",
+      "initial": 255,
+      "delta": 10,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANGELA MENDES"
+    },
+    {
+      "played_at": "2023-08-08T14:00:02",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2022",
+      "initial": 260,
+      "delta": -5,
+      "final": 255,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIA COELHO"
+    },
+    {
+      "played_at": "2023-08-08T10:00:02",
+      "event": "TMB Escolar – Jogos Escolares Maranhenses – São Luís/MA – 2022",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELA TAVARES ............."
+    }
+  ]
+}

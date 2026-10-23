@@ -1,0 +1,2462 @@
+{
+  "schema_version": 1,
+  "event_id": 5888,
+  "event_name": "5888 - TMB Regional - 6ª Etapa - Liga Escolar - Pelota/RS - 2026",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 1,
+  "event_match_count": 36,
+  "estimated_match_count": 36,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5888-53-001",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 12,
+      "date": "01/08/2026",
+      "time": "08:30",
+      "played_at": "2026-08-01T08:30:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DIOGO AGUIAR",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "FELIPE BASILE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 361,
+            "rating_change": 7,
+            "rating_after": 368,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94193,
+            "name": "DIOGO AGUIAR",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -5,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-002",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "08:30",
+      "played_at": "2026-08-01T08:30:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ LEITE",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            5,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 303,
+            "rating_change": 8,
+            "rating_after": 311,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 87238,
+            "name": "JOSÉ LEITE",
+            "associate_id_source": "event_roster",
+            "rating_before": 230,
+            "rating_change": -6,
+            "rating_after": 224,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-003",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 3,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "08:30",
+      "played_at": "2026-08-01T08:30:00",
+      "players": [
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE KELBAUSKAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 353,
+            "rating_change": 7,
+            "rating_after": 360,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94249,
+            "name": "VICENTE KELBAUSKAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -5,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-67-001",
+      "event_id": 5888,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 1,
+      "table": 11,
+      "date": "01/08/2026",
+      "time": "08:30",
+      "played_at": "2026-08-01T08:30:00",
+      "players": [
+        {
+          "name": "DORA ROCHA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AMANDA ACOSTA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DORA ROCHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94173,
+            "name": "DORA ROCHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 94431,
+            "name": "AMANDA ACOSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-270-001",
+      "event_id": 5888,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 1,
+      "table": 9,
+      "date": "01/08/2026",
+      "time": "08:30",
+      "played_at": "2026-08-01T08:30:00",
+      "players": [
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            12,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "CAUÃ JUNQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 340,
+            "rating_change": 10,
+            "rating_after": 350,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 323,
+            "rating_change": -8,
+            "rating_after": 315,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-270-002",
+      "event_id": 5888,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 2,
+      "table": 10,
+      "date": "01/08/2026",
+      "time": "08:30",
+      "played_at": "2026-08-01T08:30:00",
+      "players": [
+        {
+          "name": "MICAEL BRASIL",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILO FRANCO",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MICAEL BRASIL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94402,
+            "name": "MICAEL BRASIL",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 94400,
+            "name": "MURILO FRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-004",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 4,
+      "table": 12,
+      "date": "01/08/2026",
+      "time": "08:45",
+      "played_at": "2026-08-01T08:45:00",
+      "players": [
+        {
+          "name": "JOÃO NEGRINI",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DIOGO AGUIAR",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "DIOGO AGUIAR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82316,
+            "name": "JOÃO NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 269,
+            "rating_change": -9,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 94193,
+            "name": "DIOGO AGUIAR",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": 11,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-005",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 5,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "08:45",
+      "played_at": "2026-08-01T08:45:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE KELBAUSKAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 311,
+            "rating_change": 8,
+            "rating_after": 319,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94249,
+            "name": "VICENTE KELBAUSKAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -6,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-006",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 6,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "08:45",
+      "played_at": "2026-08-01T08:45:00",
+      "players": [
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ LEITE",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 360,
+            "rating_change": 7,
+            "rating_after": 367,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 87238,
+            "name": "JOSÉ LEITE",
+            "associate_id_source": "event_roster",
+            "rating_before": 224,
+            "rating_change": -5,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-67-002",
+      "event_id": 5888,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 2,
+      "table": 11,
+      "date": "01/08/2026",
+      "time": "08:45",
+      "played_at": "2026-08-01T08:45:00",
+      "players": [
+        {
+          "name": "SOFIA NEGRINI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AMANDA ACOSTA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "SOFIA NEGRINI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84609,
+            "name": "SOFIA NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 529,
+            "rating_change": 5,
+            "rating_after": 534,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 94431,
+            "name": "AMANDA ACOSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": -3,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-270-003",
+      "event_id": 5888,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 3,
+      "table": 9,
+      "date": "01/08/2026",
+      "time": "08:45",
+      "played_at": "2026-08-01T08:45:00",
+      "players": [
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILO FRANCO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "CAUÃ JUNQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 350,
+            "rating_change": 7,
+            "rating_after": 357,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94400,
+            "name": "MURILO FRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": -5,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-270-004",
+      "event_id": 5888,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 4,
+      "table": 10,
+      "date": "01/08/2026",
+      "time": "08:45",
+      "played_at": "2026-08-01T08:45:00",
+      "players": [
+        {
+          "name": "MICAEL BRASIL",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            7,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94402,
+            "name": "MICAEL BRASIL",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -6,
+            "rating_after": 254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 315,
+            "rating_change": 8,
+            "rating_after": 323,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-007",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 7,
+      "table": 12,
+      "date": "01/08/2026",
+      "time": "09:00",
+      "played_at": "2026-08-01T09:00:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO NEGRINI",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "FELIPE BASILE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 368,
+            "rating_change": 7,
+            "rating_after": 375,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 82316,
+            "name": "JOÃO NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -5,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-008",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "09:00",
+      "played_at": "2026-08-01T09:00:00",
+      "players": [
+        {
+          "name": "VICENTE KELBAUSKAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ LEITE",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "JOSÉ LEITE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94249,
+            "name": "VICENTE KELBAUSKAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": -9,
+            "rating_after": 230,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 87238,
+            "name": "JOSÉ LEITE",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": 11,
+            "rating_after": 230,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-009",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 9,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "09:00",
+      "played_at": "2026-08-01T09:00:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 0,
+          "set_points": [
+            14,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            16,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 319,
+            "rating_change": -7,
+            "rating_after": 312,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 367,
+            "rating_change": 9,
+            "rating_after": 376,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-67-003",
+      "event_id": 5888,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 3,
+      "table": 11,
+      "date": "01/08/2026",
+      "time": "09:00",
+      "played_at": "2026-08-01T09:00:00",
+      "players": [
+        {
+          "name": "DORA ROCHA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            6,
+            10,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SOFIA NEGRINI",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            12,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "SOFIA NEGRINI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94173,
+            "name": "DORA ROCHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -3,
+            "rating_after": 257,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 84609,
+            "name": "SOFIA NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 534,
+            "rating_change": 5,
+            "rating_after": 539,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-270-005",
+      "event_id": 5888,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 5,
+      "table": 9,
+      "date": "01/08/2026",
+      "time": "09:00",
+      "played_at": "2026-08-01T09:00:00",
+      "players": [
+        {
+          "name": "MURILO FRANCO",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            5,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94400,
+            "name": "MURILO FRANCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": -6,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 323,
+            "rating_change": 8,
+            "rating_after": 331,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-270-006",
+      "event_id": 5888,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 6,
+      "table": 10,
+      "date": "01/08/2026",
+      "time": "09:00",
+      "played_at": "2026-08-01T09:00:00",
+      "players": [
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MICAEL BRASIL",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "CAUÃ JUNQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 357,
+            "rating_change": 7,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94402,
+            "name": "MICAEL BRASIL",
+            "associate_id_source": "event_roster",
+            "rating_before": 254,
+            "rating_change": -5,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-010",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 10,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "09:15",
+      "played_at": "2026-08-01T09:15:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 375,
+            "rating_change": -11,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 312,
+            "rating_change": 14,
+            "rating_after": 326,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-011",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 11,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "09:15",
+      "played_at": "2026-08-01T09:15:00",
+      "players": [
+        {
+          "name": "DIOGO AGUIAR",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            2,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94193,
+            "name": "DIOGO AGUIAR",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -5,
+            "rating_after": 251,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          },
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 376,
+            "rating_change": 7,
+            "rating_after": 383,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-53-012",
+      "event_id": 5888,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Final",
+      "game_number": 12,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "09:30",
+      "played_at": "2026-08-01T09:30:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            9,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 326,
+            "rating_change": -6,
+            "rating_after": 320,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 383,
+            "rating_change": 8,
+            "rating_after": 391,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-001",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 11,
+      "date": "01/08/2026",
+      "time": "09:45",
+      "played_at": "2026-08-01T09:45:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE KELBAUSKAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "FELIPE BASILE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": 7,
+            "rating_after": 371,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94249,
+            "name": "VICENTE KELBAUSKAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 230,
+            "rating_change": -5,
+            "rating_after": 225,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-002",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 2,
+      "table": 12,
+      "date": "01/08/2026",
+      "time": "09:45",
+      "played_at": "2026-08-01T09:45:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO NEGRINI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "JOÃO NEGRINI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 320,
+            "rating_change": -11,
+            "rating_after": 309,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 82316,
+            "name": "JOÃO NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 255,
+            "rating_change": 14,
+            "rating_after": 269,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-003",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 3,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "09:45",
+      "played_at": "2026-08-01T09:45:00",
+      "players": [
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ LEITE",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            11,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 391,
+            "rating_change": 6,
+            "rating_after": 397,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 87238,
+            "name": "JOSÉ LEITE",
+            "associate_id_source": "event_roster",
+            "rating_before": 230,
+            "rating_change": -4,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-004",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 4,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "09:45",
+      "played_at": "2026-08-01T09:45:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DIOGO AGUIAR",
+          "sets_won": 1,
+          "set_points": [
+            13,
+            3,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 331,
+            "rating_change": 8,
+            "rating_after": 339,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94193,
+            "name": "DIOGO AGUIAR",
+            "associate_id_source": "event_roster",
+            "rating_before": 251,
+            "rating_change": -6,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-005",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 5,
+      "table": 11,
+      "date": "01/08/2026",
+      "time": "10:00",
+      "played_at": "2026-08-01T10:00:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO NEGRINI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "FELIPE BASILE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 371,
+            "rating_change": 7,
+            "rating_after": 378,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 82316,
+            "name": "JOÃO NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 269,
+            "rating_change": -5,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-006",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 6,
+      "table": 12,
+      "date": "01/08/2026",
+      "time": "10:00",
+      "played_at": "2026-08-01T10:00:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE KELBAUSKAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 309,
+            "rating_change": 8,
+            "rating_after": 317,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94249,
+            "name": "VICENTE KELBAUSKAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -6,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-007",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 7,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "10:00",
+      "played_at": "2026-08-01T10:00:00",
+      "players": [
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DIOGO AGUIAR",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 397,
+            "rating_change": 6,
+            "rating_after": 403,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 94193,
+            "name": "DIOGO AGUIAR",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -4,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-008",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "10:00",
+      "played_at": "2026-08-01T10:00:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ LEITE",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 339,
+            "rating_change": 7,
+            "rating_after": 346,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 87238,
+            "name": "JOSÉ LEITE",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": -5,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-009",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 9,
+      "table": 11,
+      "date": "01/08/2026",
+      "time": "10:15",
+      "played_at": "2026-08-01T10:15:00",
+      "players": [
+        {
+          "name": "JOÃO NEGRINI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE KELBAUSKAS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "JOÃO NEGRINI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82316,
+            "name": "JOÃO NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 264,
+            "rating_change": 9,
+            "rating_after": 273,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 94249,
+            "name": "VICENTE KELBAUSKAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": -7,
+            "rating_after": 212,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-010",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 10,
+      "table": 12,
+      "date": "01/08/2026",
+      "time": "10:15",
+      "played_at": "2026-08-01T10:15:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 378,
+            "rating_change": -11,
+            "rating_after": 367,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 317,
+            "rating_change": 14,
+            "rating_after": 331,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-011",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 11,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "10:15",
+      "played_at": "2026-08-01T10:15:00",
+      "players": [
+        {
+          "name": "DIOGO AGUIAR",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ LEITE",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DIOGO AGUIAR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94193,
+            "name": "DIOGO AGUIAR",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": 10,
+            "rating_after": 251,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 87238,
+            "name": "JOSÉ LEITE",
+            "associate_id_source": "event_roster",
+            "rating_before": 221,
+            "rating_change": -8,
+            "rating_after": 213,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-012",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 12,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "10:15",
+      "played_at": "2026-08-01T10:15:00",
+      "players": [
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 403,
+            "rating_change": 8,
+            "rating_after": 411,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 346,
+            "rating_change": -6,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-013",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 13,
+      "table": 13,
+      "date": "01/08/2026",
+      "time": "10:30",
+      "played_at": "2026-08-01T10:30:00",
+      "players": [
+        {
+          "name": "FELIPE BASILE",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            13,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87684,
+            "name": "FELIPE BASILE",
+            "associate_id_source": "event_roster",
+            "rating_before": 367,
+            "rating_change": -10,
+            "rating_after": 357,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 340,
+            "rating_change": 12,
+            "rating_after": 352,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-014",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 14,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "10:30",
+      "played_at": "2026-08-01T10:30:00",
+      "players": [
+        {
+          "name": "JOÃO NEGRINI",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            14,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            16,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82316,
+            "name": "JOÃO NEGRINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 273,
+            "rating_change": -5,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          },
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 411,
+            "rating_change": 7,
+            "rating_after": 418,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5888-54-015",
+      "event_id": 5888,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Final",
+      "game_number": 15,
+      "table": 14,
+      "date": "01/08/2026",
+      "time": "10:45",
+      "played_at": "2026-08-01T10:45:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR NINO",
+          "sets_won": 2,
+          "set_points": [
+            1,
+            11,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "ARTHUR NINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 352,
+            "rating_change": -6,
+            "rating_after": 346,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 88669,
+            "name": "ARTHUR NINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 418,
+            "rating_change": 8,
+            "rating_after": 426,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    }
+  ]
+}

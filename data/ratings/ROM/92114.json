@@ -1,0 +1,55 @@
+{
+  "associate_id": 92114,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92114&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-18T11:15:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+      "initial": 267,
+      "delta": -6,
+      "final": 261,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "PEDRO GUGLIEMIN"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+      "initial": 256,
+      "delta": 11,
+      "final": 267,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "IGOR RIBEIRO"
+    },
+    {
+      "played_at": "2026-04-18T10:45:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+      "initial": 242,
+      "delta": 14,
+      "final": 256,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "WILLIAN GONÇALVES"
+    },
+    {
+      "played_at": "2026-04-18T10:30:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VINICIUS CAMARGO ............."
+    }
+  ]
+}

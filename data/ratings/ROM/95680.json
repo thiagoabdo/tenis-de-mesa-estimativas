@@ -1,0 +1,79 @@
+{
+  "associate_id": 95680,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=95680&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T10:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 244,
+      "delta": -9,
+      "final": 235,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HEITOR MELLO"
+    },
+    {
+      "played_at": "2026-09-27T09:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 247,
+      "delta": -3,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL NARDI"
+    },
+    {
+      "played_at": "2026-09-27T08:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 253,
+      "delta": -6,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-08-23T09:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 229,
+      "delta": 24,
+      "final": 253,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO SILVA"
+    },
+    {
+      "played_at": "2026-08-23T09:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 244,
+      "delta": -15,
+      "final": 229,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2026-08-23T08:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR GROSSE ............."
+    }
+  ]
+}

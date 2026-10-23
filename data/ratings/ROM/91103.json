@@ -1,0 +1,67 @@
+{
+  "associate_id": 91103,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91103&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-14T23:06:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 199,
+      "delta": -24,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL SOUZA"
+    },
+    {
+      "played_at": "2026-06-14T11:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 166,
+      "delta": 33,
+      "final": 199,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL BENAYON"
+    },
+    {
+      "played_at": "2026-06-14T09:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 181,
+      "delta": -15,
+      "final": 166,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDIVAL OLIVEIRA"
+    },
+    {
+      "played_at": "2026-02-22T08:50:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 214,
+      "delta": -33,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCEL FILHO"
+    },
+    {
+      "played_at": "2026-02-22T08:25:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -36,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RUI SOUSA ............."
+    }
+  ]
+}

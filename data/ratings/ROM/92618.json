@@ -1,0 +1,55 @@
+{
+  "associate_id": 92618,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92618&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T18:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 349,
+      "delta": -18,
+      "final": 331,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BIANCA CAMARGO"
+    },
+    {
+      "played_at": "2026-05-09T17:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 325,
+      "delta": 24,
+      "final": 349,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MÁRCIA TREIB"
+    },
+    {
+      "played_at": "2026-05-09T10:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 310,
+      "delta": 15,
+      "final": 325,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANOELA BARBOSA"
+    },
+    {
+      "played_at": "2026-05-09T09:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 60,
+      "final": 310,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CAROLIN BERTHOLDI ............."
+    }
+  ]
+}

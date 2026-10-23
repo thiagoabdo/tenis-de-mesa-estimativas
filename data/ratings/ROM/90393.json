@@ -1,0 +1,67 @@
+{
+  "associate_id": 90393,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90393&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-02-22T14:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 352,
+      "delta": -24,
+      "final": 328,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALESSANDRO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-02-22T13:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 325,
+      "delta": 27,
+      "final": 352,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANTENOR SANTOS"
+    },
+    {
+      "played_at": "2026-02-22T11:20:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 298,
+      "delta": 27,
+      "final": 325,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CHARLESON SANTOS"
+    },
+    {
+      "played_at": "2026-02-22T08:50:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 277,
+      "delta": 21,
+      "final": 298,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HEITOR SOUSA"
+    },
+    {
+      "played_at": "2026-02-22T08:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 250,
+      "delta": 27,
+      "final": 277,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO FILHO ............."
+    }
+  ]
+}

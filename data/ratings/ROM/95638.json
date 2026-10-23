@@ -1,0 +1,103 @@
+{
+  "associate_id": 95638,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=95638&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T12:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 358,
+      "delta": -30,
+      "final": 328,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MONTEIRO"
+    },
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 337,
+      "delta": 21,
+      "final": 358,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL VOLPE"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 313,
+      "delta": 24,
+      "final": 337,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO COSTA"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 286,
+      "delta": 27,
+      "final": 313,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EVANDRO BARBOZA"
+    },
+    {
+      "played_at": "2026-08-22T14:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 313,
+      "delta": -27,
+      "final": 286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL SOBRAL"
+    },
+    {
+      "played_at": "2026-08-22T12:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 292,
+      "delta": 21,
+      "final": 313,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO ASSIS"
+    },
+    {
+      "played_at": "2026-08-22T09:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 268,
+      "delta": 24,
+      "final": 292,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CEZARIO"
+    },
+    {
+      "played_at": "2026-08-22T08:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 250,
+      "delta": 18,
+      "final": 268,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDERSON SANTOS ............."
+    }
+  ]
+}

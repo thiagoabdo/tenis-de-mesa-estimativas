@@ -1,0 +1,1351 @@
+{
+  "associate_id": 55398,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=55398&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-18T18:24:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1154,
+      "delta": -36,
+      "final": 1118,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARNALDO SOUTO"
+    },
+    {
+      "played_at": "2026-04-18T17:18:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1100,
+      "delta": 54,
+      "final": 1154,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDSON LIMA"
+    },
+    {
+      "played_at": "2026-04-18T16:34:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1136,
+      "delta": -36,
+      "final": 1100,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ITALO JUNIOR"
+    },
+    {
+      "played_at": "2026-04-18T14:44:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1154,
+      "delta": -18,
+      "final": 1136,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SILVIO JÚNIOR"
+    },
+    {
+      "played_at": "2026-04-18T14:00:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1070,
+      "delta": 84,
+      "final": 1154,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUSTAVO SILVA"
+    },
+    {
+      "played_at": "2026-04-18T12:02:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1022,
+      "delta": 48,
+      "final": 1070,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO ZAYAT"
+    },
+    {
+      "played_at": "2026-04-18T10:12:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 992,
+      "delta": 30,
+      "final": 1022,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCOS ARAÚJO"
+    },
+    {
+      "played_at": "2026-04-18T09:28:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 968,
+      "delta": 24,
+      "final": 992,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIEL OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-18T08:44:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 956,
+      "delta": 12,
+      "final": 968,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO RIBEIRO"
+    },
+    {
+      "played_at": "2025-11-15T19:22:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 978,
+      "delta": -22,
+      "final": 956,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO SILVA"
+    },
+    {
+      "played_at": "2025-11-15T17:50:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1018,
+      "delta": -40,
+      "final": 978,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAIO NETO"
+    },
+    {
+      "played_at": "2025-11-15T11:27:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1020,
+      "delta": -2,
+      "final": 1018,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS ALMADA"
+    },
+    {
+      "played_at": "2025-11-15T10:41:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 974,
+      "delta": 46,
+      "final": 1020,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SÁVIO SILVA"
+    },
+    {
+      "played_at": "2025-11-15T09:55:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 970,
+      "delta": 4,
+      "final": 974,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO GAMA"
+    },
+    {
+      "played_at": "2025-11-15T09:09:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 966,
+      "delta": 4,
+      "final": 970,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO PIMENTA"
+    },
+    {
+      "played_at": "2025-11-15T08:23:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 960,
+      "delta": 6,
+      "final": 966,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DIEGO SANTOS"
+    },
+    {
+      "played_at": "2025-06-29T13:08:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 1015,
+      "delta": -55,
+      "final": 960,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YGOR ARAÚJO"
+    },
+    {
+      "played_at": "2025-06-29T12:24:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 995,
+      "delta": 20,
+      "final": 1015,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUSTAVO FIOROTTI"
+    },
+    {
+      "played_at": "2025-06-29T11:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 975,
+      "delta": 20,
+      "final": 995,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERITON SOUSA"
+    },
+    {
+      "played_at": "2025-06-29T08:44:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 945,
+      "delta": 30,
+      "final": 975,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PYETRO DANTAS"
+    },
+    {
+      "played_at": "2025-06-28T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 995,
+      "delta": -50,
+      "final": 945,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARLON AMORIM"
+    },
+    {
+      "played_at": "2025-06-28T10:56:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 1005,
+      "delta": -10,
+      "final": 995,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RICARDO MATSUBARA"
+    },
+    {
+      "played_at": "2025-06-28T09:28:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 995,
+      "delta": 10,
+      "final": 1005,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ÁLEFE SILVA"
+    },
+    {
+      "played_at": "2025-06-27T16:34:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 1040,
+      "delta": -45,
+      "final": 995,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YGOR ARAÚJO"
+    },
+    {
+      "played_at": "2025-06-27T16:12:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 985,
+      "delta": 55,
+      "final": 1040,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIS MONTELLANO"
+    },
+    {
+      "played_at": "2025-06-27T15:06:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 915,
+      "delta": 70,
+      "final": 985,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SIDNEY JÚNIOR"
+    },
+    {
+      "played_at": "2025-06-27T11:18:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 970,
+      "delta": -55,
+      "final": 915,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EDUARDO SINDEAUX"
+    },
+    {
+      "played_at": "2025-06-27T10:34:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 900,
+      "delta": 70,
+      "final": 970,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NILTON FARIAS"
+    },
+    {
+      "played_at": "2025-04-13T10:34:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 924,
+      "delta": -24,
+      "final": 900,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PABLO SIMÃO"
+    },
+    {
+      "played_at": "2025-04-13T09:28:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 948,
+      "delta": -24,
+      "final": 924,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SIDNEY JÚNIOR"
+    },
+    {
+      "played_at": "2025-04-13T09:06:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 938,
+      "delta": 10,
+      "final": 948,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DAVI PARDO"
+    },
+    {
+      "played_at": "2025-04-12T17:40:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 934,
+      "delta": 4,
+      "final": 938,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO ALMEIDA"
+    },
+    {
+      "played_at": "2025-04-12T17:18:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 942,
+      "delta": -8,
+      "final": 934,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÁVIO SILVA"
+    },
+    {
+      "played_at": "2025-04-12T16:34:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 936,
+      "delta": 6,
+      "final": 942,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DIEGO SANTOS"
+    },
+    {
+      "played_at": "2024-11-10T14:14:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 904,
+      "delta": 32,
+      "final": 936,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARLON AMORIM"
+    },
+    {
+      "played_at": "2024-11-10T13:52:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 888,
+      "delta": 16,
+      "final": 904,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PABLO SIMÃO"
+    },
+    {
+      "played_at": "2024-11-10T13:30:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 878,
+      "delta": 10,
+      "final": 888,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMIZAEL GALVÃO"
+    },
+    {
+      "played_at": "2024-11-10T12:46:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 864,
+      "delta": 14,
+      "final": 878,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RÔMULO GAMA"
+    },
+    {
+      "played_at": "2024-11-10T11:18:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 836,
+      "delta": 28,
+      "final": 864,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FÉLIX SILVA"
+    },
+    {
+      "played_at": "2024-11-09T17:18:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 800,
+      "delta": 36,
+      "final": 836,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLÁUDIO HIKAGUE"
+    },
+    {
+      "played_at": "2024-11-09T16:34:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 792,
+      "delta": 8,
+      "final": 800,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUSTAVO SILVA"
+    },
+    {
+      "played_at": "2024-11-09T15:28:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 774,
+      "delta": 18,
+      "final": 792,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YGOR ARAÚJO"
+    },
+    {
+      "played_at": "2024-11-09T14:44:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 770,
+      "delta": 4,
+      "final": 774,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAIO HOLANDA"
+    },
+    {
+      "played_at": "2024-11-09T14:00:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 730,
+      "delta": 40,
+      "final": 770,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CLÁUDIO HIKAGUE"
+    },
+    {
+      "played_at": "2024-11-09T10:34:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 730,
+      "delta": 0,
+      "final": 730,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VALTER JÚNIOR"
+    },
+    {
+      "played_at": "2024-11-09T09:52:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2024 - VI Rondoniense",
+      "initial": 730,
+      "delta": 0,
+      "final": 730,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "YGOR ARAÚJO"
+    },
+    {
+      "played_at": "2024-05-12T10:00:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 775,
+      "delta": -45,
+      "final": 730,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCOS BENITE"
+    },
+    {
+      "played_at": "2024-05-12T09:20:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 735,
+      "delta": 40,
+      "final": 775,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTOR WATANABE"
+    },
+    {
+      "played_at": "2024-05-12T08:20:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 750,
+      "delta": -15,
+      "final": 735,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RICARDO MATSUBARA"
+    },
+    {
+      "played_at": "2024-05-10T16:40:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 780,
+      "delta": -30,
+      "final": 750,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLÁUDIO HIKAGUE"
+    },
+    {
+      "played_at": "2024-05-10T16:00:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 780,
+      "delta": 0,
+      "final": 780,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAUAN MONTEIRO"
+    },
+    {
+      "played_at": "2024-05-10T15:40:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 755,
+      "delta": 25,
+      "final": 780,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CRUZ"
+    },
+    {
+      "played_at": "2024-05-10T14:40:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 705,
+      "delta": 50,
+      "final": 755,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERITON SOUSA"
+    },
+    {
+      "played_at": "2024-05-10T14:00:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 645,
+      "delta": 60,
+      "final": 705,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EVAIRTON NASCIMENTO"
+    },
+    {
+      "played_at": "2024-05-10T11:20:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 700,
+      "delta": -55,
+      "final": 645,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCIO LIMA"
+    },
+    {
+      "played_at": "2024-05-10T10:00:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 665,
+      "delta": 35,
+      "final": 700,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PABLO SIMÃO"
+    },
+    {
+      "played_at": "2024-05-10T09:00:00",
+      "event": "TMB Challenger Plus - 8ª Edição - Porto Velho/RO - 2024",
+      "initial": 625,
+      "delta": 40,
+      "final": 665,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUARACY MOREIRA"
+    },
+    {
+      "played_at": "2023-12-03T10:00:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 641,
+      "delta": -16,
+      "final": 625,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VICTOR WATANABE"
+    },
+    {
+      "played_at": "2023-12-03T09:00:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 649,
+      "delta": -8,
+      "final": 641,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SÁVIO SILVA"
+    },
+    {
+      "played_at": "2023-12-03T08:20:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 609,
+      "delta": 40,
+      "final": 649,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FÉLIX SILVA"
+    },
+    {
+      "played_at": "2023-12-02T17:40:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 609,
+      "delta": 0,
+      "final": 609,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO FIOROTTI"
+    },
+    {
+      "played_at": "2023-12-02T17:20:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 593,
+      "delta": 16,
+      "final": 609,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HIAGO LEMES"
+    },
+    {
+      "played_at": "2023-12-02T14:40:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 585,
+      "delta": 8,
+      "final": 593,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUILHERME SILVA"
+    },
+    {
+      "played_at": "2023-05-28T11:20:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 640,
+      "delta": -55,
+      "final": 585,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HIAGO LEMES"
+    },
+    {
+      "played_at": "2023-05-28T08:25:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 730,
+      "delta": -90,
+      "final": 640,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GLEYSSON BARROS"
+    },
+    {
+      "played_at": "2023-05-27T14:50:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 755,
+      "delta": -25,
+      "final": 730,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCOS BENITE"
+    },
+    {
+      "played_at": "2023-05-27T10:05:01",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 755,
+      "delta": 0,
+      "final": 755,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO CARNEIRO"
+    },
+    {
+      "played_at": "2023-05-27T08:25:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 730,
+      "delta": 25,
+      "final": 755,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CLÁUDIO HIKAGUE"
+    },
+    {
+      "played_at": "2023-05-26T16:05:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 680,
+      "delta": 50,
+      "final": 730,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EVAIRTON NASCIMENTO"
+    },
+    {
+      "played_at": "2023-05-26T15:40:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 635,
+      "delta": 45,
+      "final": 680,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARLON AMORIM"
+    },
+    {
+      "played_at": "2023-05-26T15:15:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 600,
+      "delta": 35,
+      "final": 635,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NEYVO SOUZA"
+    },
+    {
+      "played_at": "2023-05-26T14:00:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 565,
+      "delta": 35,
+      "final": 600,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBERTO CAIADO"
+    },
+    {
+      "played_at": "2023-05-26T08:55:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 530,
+      "delta": 35,
+      "final": 565,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ERITON SOUSA"
+    },
+    {
+      "played_at": "2022-11-05T11:45:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 518,
+      "delta": 12,
+      "final": 530,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL SOARE"
+    },
+    {
+      "played_at": "2022-11-05T11:15:02",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 496,
+      "delta": 22,
+      "final": 518,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RÔMULO GAMA"
+    },
+    {
+      "played_at": "2022-11-05T11:15:01",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 468,
+      "delta": 28,
+      "final": 496,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SIDNEY JUNIOR"
+    },
+    {
+      "played_at": "2022-11-05T11:00:01",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 476,
+      "delta": -8,
+      "final": 468,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO MATSUBARA"
+    },
+    {
+      "played_at": "2022-11-05T09:15:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 504,
+      "delta": -28,
+      "final": 476,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DIOGO SILVA"
+    },
+    {
+      "played_at": "2022-11-05T08:30:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 492,
+      "delta": 12,
+      "final": 504,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO CRUZ"
+    },
+    {
+      "played_at": "2022-11-05T08:00:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2022",
+      "initial": 478,
+      "delta": 14,
+      "final": 492,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL SOARE"
+    },
+    {
+      "played_at": "2022-09-17T09:45:00",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 467,
+      "delta": 11,
+      "final": 478,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SIDNEY JUNIOR"
+    },
+    {
+      "played_at": "2022-09-17T09:30:00",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 474,
+      "delta": -7,
+      "final": 467,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICARDO MATSUBARA"
+    },
+    {
+      "played_at": "2022-09-17T09:15:00",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 464,
+      "delta": 10,
+      "final": 474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO MONTEIRO"
+    },
+    {
+      "played_at": "2022-09-17T09:00:03",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 464,
+      "delta": 0,
+      "final": 464,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ NETO"
+    },
+    {
+      "played_at": "2022-09-17T09:00:02",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 460,
+      "delta": 4,
+      "final": 464,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLÁUDIO HIKAGUE"
+    },
+    {
+      "played_at": "2022-09-17T08:45:00",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 455,
+      "delta": 5,
+      "final": 460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO FIOROTTI"
+    },
+    {
+      "played_at": "2022-09-17T08:30:00",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 447,
+      "delta": 8,
+      "final": 455,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IAGO MAIA"
+    },
+    {
+      "played_at": "2022-09-17T08:15:00",
+      "event": "TMB Regional - Porto Velho/RO - 2022",
+      "initial": 442,
+      "delta": 5,
+      "final": 447,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIS ARAÚJO"
+    },
+    {
+      "played_at": "2022-07-16T12:30:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 450,
+      "delta": -8,
+      "final": 442,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SIDNEY JUNIOR"
+    },
+    {
+      "played_at": "2022-07-16T12:15:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 457,
+      "delta": -7,
+      "final": 450,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO MATSUBARA"
+    },
+    {
+      "played_at": "2022-07-16T12:00:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 449,
+      "delta": 8,
+      "final": 457,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MIGUEL SOARE"
+    },
+    {
+      "played_at": "2022-07-16T10:30:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 456,
+      "delta": -7,
+      "final": 449,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GABRIEL SILVA"
+    },
+    {
+      "played_at": "2022-07-16T10:00:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 451,
+      "delta": 5,
+      "final": 456,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIS ARAÚJO"
+    },
+    {
+      "played_at": "2022-07-16T09:45:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 445,
+      "delta": 6,
+      "final": 451,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME GOBBO"
+    },
+    {
+      "played_at": "2022-07-16T09:30:00",
+      "event": "TMB Regional - Ariquemes/RO - 2022",
+      "initial": 439,
+      "delta": 6,
+      "final": 445,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PABLO SIMÃO"
+    },
+    {
+      "played_at": "2022-05-29T15:55:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 454,
+      "delta": -15,
+      "final": 439,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SILVIO JÚNIOR"
+    },
+    {
+      "played_at": "2022-05-29T15:05:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 479,
+      "delta": -25,
+      "final": 454,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO LOPES"
+    },
+    {
+      "played_at": "2022-05-29T12:10:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 444,
+      "delta": 35,
+      "final": 479,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL CARVALHO"
+    },
+    {
+      "played_at": "2022-05-29T09:40:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 414,
+      "delta": 30,
+      "final": 444,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WILLIANS PEREIRA"
+    },
+    {
+      "played_at": "2022-05-27T20:05:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 414,
+      "delta": 0,
+      "final": 414,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITOR IWAMOTO"
+    },
+    {
+      "played_at": "2022-05-27T19:15:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 484,
+      "delta": -70,
+      "final": 414,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NELSON JUNIOR"
+    },
+    {
+      "played_at": "2022-05-27T18:25:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 459,
+      "delta": 25,
+      "final": 484,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIS ARAÚJO"
+    },
+    {
+      "played_at": "2022-05-27T16:20:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 429,
+      "delta": 30,
+      "final": 459,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CLÁUDIO HIKAGUE"
+    },
+    {
+      "played_at": "2022-05-27T12:35:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 454,
+      "delta": -25,
+      "final": 429,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SÁVIO SILVA"
+    },
+    {
+      "played_at": "2022-05-27T10:05:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 504,
+      "delta": -50,
+      "final": 454,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SILVIO JÚNIOR"
+    },
+    {
+      "played_at": "2022-05-27T09:15:00",
+      "event": "TMB Challenger Plus - 7ª Edição - Porto Velho/RO - 2022",
+      "initial": 469,
+      "delta": 35,
+      "final": 504,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO ALBINO"
+    },
+    {
+      "played_at": "2019-09-27T13:10:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste 2 - Cuiabá - Mt -2019",
+      "initial": 331,
+      "delta": 99,
+      "final": 430,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ORLANDO LOPES"
+    },
+    {
+      "played_at": "2019-09-27T11:30:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste 2 - Cuiabá - Mt -2019",
+      "initial": 331,
+      "delta": 0,
+      "final": 331,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO CATINO"
+    },
+    {
+      "played_at": "2019-09-27T10:40:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste 2 - Cuiabá - Mt -2019",
+      "initial": 349,
+      "delta": -18,
+      "final": 331,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HUMBERTO ARAÚJO"
+    },
+    {
+      "played_at": "2019-09-26T11:30:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste 2 - Cuiabá - Mt -2019",
+      "initial": 430,
+      "delta": -81,
+      "final": 349,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS MEDEIROS"
+    },
+    {
+      "played_at": "2019-09-26T10:40:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste 2 - Cuiabá - Mt -2019",
+      "initial": 340,
+      "delta": 90,
+      "final": 430,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO PEIXOTO"
+    },
+    {
+      "played_at": "2019-09-26T09:50:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste 2 - Cuiabá - Mt -2019",
+      "initial": 250,
+      "delta": 90,
+      "final": 340,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ADRIANO SANCHES ............."
+    }
+  ]
+}

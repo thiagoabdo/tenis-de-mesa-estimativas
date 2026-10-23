@@ -1,0 +1,2407 @@
+{
+  "associate_id": 64727,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=64727&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T12:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1213,
+      "delta": -27,
+      "final": 1186,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-09-20T10:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1186,
+      "delta": 27,
+      "final": 1213,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ERY LOPES"
+    },
+    {
+      "played_at": "2026-09-20T08:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1228,
+      "delta": -42,
+      "final": 1186,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL NOGUEIRA"
+    },
+    {
+      "played_at": "2026-09-19T13:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1237,
+      "delta": -9,
+      "final": 1228,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2026-09-19T12:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1183,
+      "delta": 54,
+      "final": 1237,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2026-09-19T09:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1180,
+      "delta": 3,
+      "final": 1183,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALVARO FIALHO"
+    },
+    {
+      "played_at": "2026-08-23T13:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1213,
+      "delta": -33,
+      "final": 1180,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI TAMACIRO"
+    },
+    {
+      "played_at": "2026-08-23T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1255,
+      "delta": -42,
+      "final": 1213,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ FILHO"
+    },
+    {
+      "played_at": "2026-08-22T13:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1255,
+      "delta": 0,
+      "final": 1255,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2026-08-22T12:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1261,
+      "delta": -6,
+      "final": 1255,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2026-08-22T11:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1258,
+      "delta": 3,
+      "final": 1261,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAURICIO PORTILLO"
+    },
+    {
+      "played_at": "2026-06-21T15:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1285,
+      "delta": -27,
+      "final": 1258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2026-06-21T12:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1303,
+      "delta": -18,
+      "final": 1285,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2026-06-21T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1288,
+      "delta": 15,
+      "final": 1303,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HENRIQUE KINA"
+    },
+    {
+      "played_at": "2026-06-20T13:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1288,
+      "delta": 0,
+      "final": 1288,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL MARTINES"
+    },
+    {
+      "played_at": "2026-06-20T11:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1285,
+      "delta": 3,
+      "final": 1288,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRE SA"
+    },
+    {
+      "played_at": "2026-06-20T09:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1318,
+      "delta": -33,
+      "final": 1285,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2026-06-06T17:35:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1354,
+      "delta": -36,
+      "final": 1318,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS ONUKI"
+    },
+    {
+      "played_at": "2026-06-06T15:55:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1480,
+      "delta": -126,
+      "final": 1354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AUGUSTO MANHOLER"
+    },
+    {
+      "played_at": "2026-06-06T12:10:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1489,
+      "delta": -9,
+      "final": 1480,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE MARIAMA"
+    },
+    {
+      "played_at": "2026-06-06T11:45:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1480,
+      "delta": 9,
+      "final": 1489,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEÔNIDAS JUNIOR"
+    },
+    {
+      "played_at": "2026-06-06T10:05:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1381,
+      "delta": 99,
+      "final": 1480,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2026-06-06T09:15:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1372,
+      "delta": 9,
+      "final": 1381,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-19T15:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1384,
+      "delta": -12,
+      "final": 1372,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE HAYASHI"
+    },
+    {
+      "played_at": "2026-04-19T14:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1354,
+      "delta": 30,
+      "final": 1384,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCELO TAIRA"
+    },
+    {
+      "played_at": "2026-04-19T13:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1369,
+      "delta": -15,
+      "final": 1354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE HAYASHI"
+    },
+    {
+      "played_at": "2026-04-19T10:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1354,
+      "delta": 15,
+      "final": 1369,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ FILHO"
+    },
+    {
+      "played_at": "2026-04-19T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1342,
+      "delta": 12,
+      "final": 1354,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2026-04-18T13:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1357,
+      "delta": -15,
+      "final": 1342,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL MARTINES"
+    },
+    {
+      "played_at": "2026-04-18T12:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1360,
+      "delta": -3,
+      "final": 1357,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2026-04-18T11:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 1357,
+      "delta": 3,
+      "final": 1360,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GLAUBER DIAS"
+    },
+    {
+      "played_at": "2026-03-22T13:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1372,
+      "delta": -15,
+      "final": 1357,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HENRIQUE HAYASHI"
+    },
+    {
+      "played_at": "2026-03-22T12:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1357,
+      "delta": 15,
+      "final": 1372,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2026-03-22T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1342,
+      "delta": 15,
+      "final": 1357,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ FILHO"
+    },
+    {
+      "played_at": "2026-03-22T08:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1360,
+      "delta": -18,
+      "final": 1342,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MIGUEL MARTINES"
+    },
+    {
+      "played_at": "2026-03-21T14:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1393,
+      "delta": -33,
+      "final": 1360,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL MARTINES"
+    },
+    {
+      "played_at": "2026-03-21T13:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1351,
+      "delta": 42,
+      "final": 1393,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2026-03-21T10:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1348,
+      "delta": 3,
+      "final": 1351,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARKUS PADOVAN"
+    },
+    {
+      "played_at": "2026-02-22T12:35:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 1360,
+      "delta": -12,
+      "final": 1348,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EMILSON TEIXEIRA"
+    },
+    {
+      "played_at": "2026-02-22T11:45:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 1348,
+      "delta": 12,
+      "final": 1360,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2026-02-22T10:05:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 1279,
+      "delta": 69,
+      "final": 1348,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALCIDES FILHO"
+    },
+    {
+      "played_at": "2026-02-22T08:50:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 1237,
+      "delta": 42,
+      "final": 1279,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CLEBER YAMAZATO"
+    },
+    {
+      "played_at": "2025-12-13T15:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1247,
+      "delta": -10,
+      "final": 1237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR FAZOLIM"
+    },
+    {
+      "played_at": "2025-12-13T09:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1247,
+      "delta": 0,
+      "final": 1247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2025-12-12T18:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1257,
+      "delta": -10,
+      "final": 1247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO LIMA"
+    },
+    {
+      "played_at": "2025-12-12T17:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1247,
+      "delta": 10,
+      "final": 1257,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAILSON ASSIS"
+    },
+    {
+      "played_at": "2025-12-11T19:25:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 1247,
+      "delta": 0,
+      "final": 1247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ.GEAMBASTIANE MOREIRA"
+    },
+    {
+      "played_at": "2025-11-09T12:35:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1255,
+      "delta": -8,
+      "final": 1247,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "IVO FILHO"
+    },
+    {
+      "played_at": "2025-11-09T10:30:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1259,
+      "delta": -4,
+      "final": 1255,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALCIDES FILHO"
+    },
+    {
+      "played_at": "2025-11-09T08:50:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1199,
+      "delta": 60,
+      "final": 1259,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME MATOS"
+    },
+    {
+      "played_at": "2025-11-08T14:25:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1199,
+      "delta": 0,
+      "final": 1199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2025-11-08T12:20:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1199,
+      "delta": 0,
+      "final": 1199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2025-11-08T10:40:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1197,
+      "delta": 2,
+      "final": 1199,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO FOLGADO"
+    },
+    {
+      "played_at": "2025-11-08T09:50:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1165,
+      "delta": 32,
+      "final": 1197,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-09-21T13:00:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1165,
+      "delta": 0,
+      "final": 1165,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME MATOS"
+    },
+    {
+      "played_at": "2025-09-21T11:20:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1181,
+      "delta": -16,
+      "final": 1165,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-09-20T14:50:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1199,
+      "delta": -18,
+      "final": 1181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-09-20T13:35:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1199,
+      "delta": 0,
+      "final": 1199,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2025-09-20T11:55:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 1197,
+      "delta": 2,
+      "final": 1199,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JEAN VARGAS"
+    },
+    {
+      "played_at": "2025-08-17T11:20:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1207,
+      "delta": -10,
+      "final": 1197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2025-08-17T09:40:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1207,
+      "delta": 0,
+      "final": 1207,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL WATANABEE"
+    },
+    {
+      "played_at": "2025-08-16T14:00:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1207,
+      "delta": 0,
+      "final": 1207,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2025-08-16T12:20:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1205,
+      "delta": 2,
+      "final": 1207,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GLAUBER DIAS"
+    },
+    {
+      "played_at": "2025-08-16T10:15:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1227,
+      "delta": -22,
+      "final": 1205,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-06-29T10:30:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 1227,
+      "delta": 0,
+      "final": 1227,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WILLIAM WATANABE"
+    },
+    {
+      "played_at": "2025-06-29T09:15:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 1227,
+      "delta": 0,
+      "final": 1227,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THALES KINJO"
+    },
+    {
+      "played_at": "2025-06-28T13:45:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 1227,
+      "delta": 0,
+      "final": 1227,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2025-06-28T12:30:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 1225,
+      "delta": 2,
+      "final": 1227,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GLAUBER DIAS"
+    },
+    {
+      "played_at": "2025-06-28T10:50:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 1253,
+      "delta": -28,
+      "final": 1225,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-04-13T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1253,
+      "delta": 0,
+      "final": 1253,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HEITOR MARIM"
+    },
+    {
+      "played_at": "2025-04-13T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1263,
+      "delta": -10,
+      "final": 1253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO BACALINE"
+    },
+    {
+      "played_at": "2025-04-13T11:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1233,
+      "delta": 30,
+      "final": 1263,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL SALVAN"
+    },
+    {
+      "played_at": "2025-04-12T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1268,
+      "delta": -35,
+      "final": 1233,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDNEI SILVA"
+    },
+    {
+      "played_at": "2025-04-12T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1118,
+      "delta": 150,
+      "final": 1268,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXANDRE ALMEIDA"
+    },
+    {
+      "played_at": "2025-04-12T09:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1113,
+      "delta": 5,
+      "final": 1118,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRE AJIKI"
+    },
+    {
+      "played_at": "2025-04-11T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1138,
+      "delta": -25,
+      "final": 1113,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO JÚNIOR"
+    },
+    {
+      "played_at": "2025-04-11T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1068,
+      "delta": 70,
+      "final": 1138,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-04-11T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 1113,
+      "delta": -45,
+      "final": 1068,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2025-03-23T10:30:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1113,
+      "delta": 0,
+      "final": 1113,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2025-03-23T08:50:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1113,
+      "delta": 0,
+      "final": 1113,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2025-03-22T14:00:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1137,
+      "delta": -24,
+      "final": 1113,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCELO TAIRA"
+    },
+    {
+      "played_at": "2025-03-22T11:55:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1153,
+      "delta": -16,
+      "final": 1137,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2025-03-22T09:00:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 1151,
+      "delta": 2,
+      "final": 1153,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ADROALDO JÚNIOR"
+    },
+    {
+      "played_at": "2025-03-16T10:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1161,
+      "delta": -10,
+      "final": 1151,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "KAUÊ ARAÚJO"
+    },
+    {
+      "played_at": "2025-03-16T08:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1196,
+      "delta": -35,
+      "final": 1161,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO BARANI"
+    },
+    {
+      "played_at": "2025-03-15T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1196,
+      "delta": 0,
+      "final": 1196,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RODRIGO VITAL"
+    },
+    {
+      "played_at": "2025-03-15T11:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1191,
+      "delta": 5,
+      "final": 1196,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JANDI BARBOSA"
+    },
+    {
+      "played_at": "2025-03-15T10:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1181,
+      "delta": 10,
+      "final": 1191,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "WESLEI SILVA"
+    },
+    {
+      "played_at": "2025-03-15T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1176,
+      "delta": 5,
+      "final": 1181,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO RAMIREZ"
+    },
+    {
+      "played_at": "2025-03-14T19:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1211,
+      "delta": -35,
+      "final": 1176,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ENZO BARANI"
+    },
+    {
+      "played_at": "2025-03-14T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 1166,
+      "delta": 45,
+      "final": 1211,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIPIO NASCIMENTO"
+    },
+    {
+      "played_at": "2025-02-16T14:40:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto - Campo Grande - MS - 2025",
+      "initial": 1198,
+      "delta": -32,
+      "final": 1166,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO TAIRA"
+    },
+    {
+      "played_at": "2025-02-16T13:00:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto - Campo Grande - MS - 2025",
+      "initial": 1190,
+      "delta": 8,
+      "final": 1198,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATHAN RODA"
+    },
+    {
+      "played_at": "2025-02-16T10:55:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto - Campo Grande - MS - 2025",
+      "initial": 1150,
+      "delta": 40,
+      "final": 1190,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FELIPE PEREIRA"
+    },
+    {
+      "played_at": "2025-02-16T08:50:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto - Campo Grande - MS - 2025",
+      "initial": 1118,
+      "delta": 32,
+      "final": 1150,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BRUNO BENITES"
+    },
+    {
+      "played_at": "2024-12-14T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1148,
+      "delta": -30,
+      "final": 1118,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO ARRUDA"
+    },
+    {
+      "played_at": "2024-12-14T16:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1008,
+      "delta": 140,
+      "final": 1148,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO SANTOS"
+    },
+    {
+      "played_at": "2024-12-14T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 968,
+      "delta": 40,
+      "final": 1008,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO MAIA"
+    },
+    {
+      "played_at": "2024-12-14T11:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1168,
+      "delta": -200,
+      "final": 968,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS OLIVEIRA"
+    },
+    {
+      "played_at": "2024-12-14T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1168,
+      "delta": 0,
+      "final": 1168,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ WLODARCZYK"
+    },
+    {
+      "played_at": "2024-12-13T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1118,
+      "delta": 50,
+      "final": 1168,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NACSHON RODRIGUES"
+    },
+    {
+      "played_at": "2024-12-13T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1118,
+      "delta": 0,
+      "final": 1118,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO VITAL"
+    },
+    {
+      "played_at": "2024-12-13T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 1088,
+      "delta": 30,
+      "final": 1118,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUILHERME MENEZES"
+    },
+    {
+      "played_at": "2024-12-12T02:24:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Equipes de Clubes",
+      "initial": 1088,
+      "delta": 0,
+      "final": 1088,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CHARLES FIRBIDA"
+    },
+    {
+      "played_at": "2024-12-11T16:33:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Seleção Estadual",
+      "initial": 1088,
+      "delta": 0,
+      "final": 1088,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSE NETO"
+    },
+    {
+      "played_at": "2024-12-11T02:48:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Seleção Estadual",
+      "initial": 788,
+      "delta": 300,
+      "final": 1088,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO OLIVEIRA"
+    },
+    {
+      "played_at": "2024-11-03T11:20:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 798,
+      "delta": -10,
+      "final": 788,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IVO FILHO"
+    },
+    {
+      "played_at": "2024-11-03T09:40:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 822,
+      "delta": -24,
+      "final": 798,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "WALLISSON FARIAS"
+    },
+    {
+      "played_at": "2024-11-02T17:35:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 822,
+      "delta": 0,
+      "final": 822,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2024-11-02T16:45:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 782,
+      "delta": 40,
+      "final": 822,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2024-11-02T15:55:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 784,
+      "delta": -2,
+      "final": 782,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2024-11-02T14:40:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 772,
+      "delta": 12,
+      "final": 784,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CLEBER YAMAZATO"
+    },
+    {
+      "played_at": "2024-09-08T14:40:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 786,
+      "delta": -14,
+      "final": 772,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL SCHENATO"
+    },
+    {
+      "played_at": "2024-09-08T14:15:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 764,
+      "delta": 22,
+      "final": 786,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ FILHO"
+    },
+    {
+      "played_at": "2024-09-08T13:25:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 750,
+      "delta": 14,
+      "final": 764,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "WALLISSON FARIAS"
+    },
+    {
+      "played_at": "2024-09-08T12:10:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 764,
+      "delta": -14,
+      "final": 750,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JONATHAN RODA"
+    },
+    {
+      "played_at": "2024-09-08T10:30:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 748,
+      "delta": 16,
+      "final": 764,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEONARDO JYOBOJI"
+    },
+    {
+      "played_at": "2024-09-07T19:15:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 748,
+      "delta": 0,
+      "final": 748,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2024-09-07T18:25:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 702,
+      "delta": 46,
+      "final": 748,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2024-09-07T17:35:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 702,
+      "delta": 0,
+      "final": 702,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2024-09-07T15:55:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 686,
+      "delta": 16,
+      "final": 702,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CLEBER YAMAZATO"
+    },
+    {
+      "played_at": "2024-06-23T12:35:00",
+      "event": "TMB Estadual - 3ª Etapa Ranking - Dourados/MS - 2024",
+      "initial": 696,
+      "delta": -10,
+      "final": 686,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO AKIEDA"
+    },
+    {
+      "played_at": "2024-06-23T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa Ranking - Dourados/MS - 2024",
+      "initial": 718,
+      "delta": -22,
+      "final": 696,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAFAEL LIMA"
+    },
+    {
+      "played_at": "2024-06-23T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa Ranking - Dourados/MS - 2024",
+      "initial": 694,
+      "delta": 24,
+      "final": 718,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ FILHO"
+    },
+    {
+      "played_at": "2024-04-07T12:10:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 710,
+      "delta": -16,
+      "final": 694,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JONATHAN RODA"
+    },
+    {
+      "played_at": "2024-04-07T10:30:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 746,
+      "delta": -36,
+      "final": 710,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WALLISSON FARIAS"
+    },
+    {
+      "played_at": "2024-04-07T09:15:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 740,
+      "delta": 6,
+      "final": 746,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO SILVA"
+    },
+    {
+      "played_at": "2024-04-06T16:45:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 746,
+      "delta": -6,
+      "final": 740,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2024-04-06T15:30:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 760,
+      "delta": -14,
+      "final": 746,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2024-04-06T14:15:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 752,
+      "delta": 8,
+      "final": 760,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE HOKAMA"
+    },
+    {
+      "played_at": "2024-03-24T12:35:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande - MS",
+      "initial": 784,
+      "delta": -32,
+      "final": 752,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CLEBER YAMAZATO"
+    },
+    {
+      "played_at": "2024-03-24T10:55:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande - MS",
+      "initial": 774,
+      "delta": 10,
+      "final": 784,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO SOUZA"
+    },
+    {
+      "played_at": "2024-03-24T08:00:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande - MS",
+      "initial": 770,
+      "delta": 4,
+      "final": 774,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SIDMAR FERREIRA"
+    },
+    {
+      "played_at": "2024-03-23T15:55:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande - MS",
+      "initial": 776,
+      "delta": -6,
+      "final": 770,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2024-03-23T13:50:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande - MS",
+      "initial": 766,
+      "delta": 10,
+      "final": 776,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLEBER YAMAZATO"
+    },
+    {
+      "played_at": "2024-03-23T13:00:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande - MS",
+      "initial": 766,
+      "delta": 0,
+      "final": 766,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2024-02-25T11:45:00",
+      "event": "TMB Estadual - Rating - Troféu Mario Morimoto - Campo Grande/MS - 2024",
+      "initial": 778,
+      "delta": -12,
+      "final": 766,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2024-02-25T10:05:00",
+      "event": "TMB Estadual - Rating - Troféu Mario Morimoto - Campo Grande/MS - 2024",
+      "initial": 786,
+      "delta": -8,
+      "final": 778,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THALES KINJO"
+    },
+    {
+      "played_at": "2024-02-25T08:50:00",
+      "event": "TMB Estadual - Rating - Troféu Mario Morimoto - Campo Grande/MS - 2024",
+      "initial": 792,
+      "delta": -6,
+      "final": 786,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO TAIRA"
+    },
+    {
+      "played_at": "2023-12-17T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 892,
+      "delta": -100,
+      "final": 792,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL SILVA"
+    },
+    {
+      "played_at": "2023-12-17T14:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 872,
+      "delta": 20,
+      "final": 892,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SANDRO HILLA"
+    },
+    {
+      "played_at": "2023-12-17T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 832,
+      "delta": 40,
+      "final": 872,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AUGUSTO TARDIO"
+    },
+    {
+      "played_at": "2023-12-17T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 782,
+      "delta": 50,
+      "final": 832,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SCUR"
+    },
+    {
+      "played_at": "2023-12-16T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 782,
+      "delta": 0,
+      "final": 782,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE DASILVA"
+    },
+    {
+      "played_at": "2023-12-16T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 482,
+      "delta": 300,
+      "final": 782,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALEXANDRE BIGELI"
+    },
+    {
+      "played_at": "2023-12-15T20:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 442,
+      "delta": 40,
+      "final": 482,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO JUNIOR"
+    },
+    {
+      "played_at": "2023-11-19T13:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados /MS - 2023",
+      "initial": 452,
+      "delta": -10,
+      "final": 442,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO BENITES"
+    },
+    {
+      "played_at": "2023-11-19T11:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados /MS - 2023",
+      "initial": 456,
+      "delta": -4,
+      "final": 452,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO DIAS"
+    },
+    {
+      "played_at": "2023-11-19T09:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados /MS - 2023",
+      "initial": 438,
+      "delta": 18,
+      "final": 456,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ MAMORÉ"
+    },
+    {
+      "played_at": "2023-11-18T17:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados /MS - 2023",
+      "initial": 444,
+      "delta": -6,
+      "final": 438,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SANDRO KATO"
+    },
+    {
+      "played_at": "2023-11-18T15:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados /MS - 2023",
+      "initial": 444,
+      "delta": 0,
+      "final": 444,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2023-11-18T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados /MS - 2023",
+      "initial": 398,
+      "delta": 46,
+      "final": 444,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2023-09-24T10:55:00",
+      "event": "TMB Estadual - Ranking - 3ª Etapa - Campo Grande/MS - 2024.",
+      "initial": 408,
+      "delta": -10,
+      "final": 398,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ TEIXEIRA"
+    },
+    {
+      "played_at": "2023-09-24T09:15:00",
+      "event": "TMB Estadual - Ranking - 3ª Etapa - Campo Grande/MS - 2024.",
+      "initial": 420,
+      "delta": -12,
+      "final": 408,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE PEREIRA"
+    },
+    {
+      "played_at": "2023-09-23T16:20:00",
+      "event": "TMB Estadual - Ranking - 3ª Etapa - Campo Grande/MS - 2024.",
+      "initial": 420,
+      "delta": 0,
+      "final": 420,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAURO MELO"
+    },
+    {
+      "played_at": "2023-09-23T15:55:00",
+      "event": "TMB Estadual - Ranking - 3ª Etapa - Campo Grande/MS - 2024.",
+      "initial": 392,
+      "delta": 28,
+      "final": 420,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2023-09-23T14:40:00",
+      "event": "TMB Estadual - Ranking - 3ª Etapa - Campo Grande/MS - 2024.",
+      "initial": 392,
+      "delta": 0,
+      "final": 392,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2023-09-23T13:50:00",
+      "event": "TMB Estadual - Ranking - 3ª Etapa - Campo Grande/MS - 2024.",
+      "initial": 378,
+      "delta": 14,
+      "final": 392,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "REYNALDO SILVA"
+    },
+    {
+      "played_at": "2023-08-06T13:25:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 400,
+      "delta": -22,
+      "final": 378,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO FILHO"
+    },
+    {
+      "played_at": "2023-08-06T12:35:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 386,
+      "delta": 14,
+      "final": 400,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEANDRO ARUME"
+    },
+    {
+      "played_at": "2023-08-06T11:45:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 392,
+      "delta": -6,
+      "final": 386,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO KAMEYA"
+    },
+    {
+      "played_at": "2023-08-06T09:40:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 380,
+      "delta": 12,
+      "final": 392,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCO AGUENA"
+    },
+    {
+      "played_at": "2023-08-05T17:35:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 380,
+      "delta": 0,
+      "final": 380,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2023-08-05T16:45:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 364,
+      "delta": 16,
+      "final": 380,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "REYNALDO SILVA"
+    },
+    {
+      "played_at": "2023-08-05T15:30:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 368,
+      "delta": -4,
+      "final": 364,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO FEDERICI"
+    },
+    {
+      "played_at": "2023-08-05T14:15:00",
+      "event": "TMB Estadual - Ranking - 2ª Etapa - Campo Grande - MS",
+      "initial": 354,
+      "delta": 14,
+      "final": 368,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JEAN VARGAS"
+    },
+    {
+      "played_at": "2023-05-21T12:35:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande/MS 2023",
+      "initial": 354,
+      "delta": 0,
+      "final": 354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2023-05-21T12:10:01",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande/MS 2023",
+      "initial": 334,
+      "delta": 20,
+      "final": 354,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAEL LIMA"
+    },
+    {
+      "played_at": "2023-05-21T11:20:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande/MS 2023",
+      "initial": 338,
+      "delta": -4,
+      "final": 334,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2023-05-21T09:40:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande/MS 2023",
+      "initial": 322,
+      "delta": 16,
+      "final": 338,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL SILVA"
+    },
+    {
+      "played_at": "2023-05-20T16:00:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande/MS 2023",
+      "initial": 322,
+      "delta": 0,
+      "final": 322,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALCIDES FILHO"
+    },
+    {
+      "played_at": "2023-05-20T14:45:00",
+      "event": "TMB Estadual - Ranking - 1ª Etapa - Campo Grande/MS 2023",
+      "initial": 340,
+      "delta": -18,
+      "final": 322,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2023-03-12T11:20:00",
+      "event": "TMB Estadual - Rating Mario Morimoto - Campo Grande/MS - 2023.",
+      "initial": 354,
+      "delta": -14,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO DIAS"
+    },
+    {
+      "played_at": "2023-03-12T10:05:00",
+      "event": "TMB Estadual - Rating Mario Morimoto - Campo Grande/MS - 2023.",
+      "initial": 374,
+      "delta": -20,
+      "final": 354,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATHEUS ARAKAKI"
+    },
+    {
+      "played_at": "2023-03-12T08:25:00",
+      "event": "TMB Estadual - Rating Mario Morimoto - Campo Grande/MS - 2023.",
+      "initial": 354,
+      "delta": 20,
+      "final": 374,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KHAYKY BRITO"
+    },
+    {
+      "played_at": "2022-11-06T10:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 354,
+      "delta": 0,
+      "final": 354,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2022-11-06T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 340,
+      "delta": 14,
+      "final": 354,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOAO DUTKA"
+    },
+    {
+      "played_at": "2022-11-06T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 340,
+      "delta": 0,
+      "final": 340,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALCIDES FILHO"
+    },
+    {
+      "played_at": "2022-11-05T15:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 342,
+      "delta": -2,
+      "final": 340,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2022-11-05T14:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 324,
+      "delta": 18,
+      "final": 342,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIO KAMEYA"
+    },
+    {
+      "played_at": "2022-11-05T13:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 330,
+      "delta": -6,
+      "final": 324,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GEDOLIM SILVA"
+    },
+    {
+      "played_at": "2022-09-18T12:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 330,
+      "delta": 0,
+      "final": 330,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL OTA"
+    },
+    {
+      "played_at": "2022-09-18T11:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 310,
+      "delta": 20,
+      "final": 330,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JHONATAN SANTOS"
+    },
+    {
+      "played_at": "2022-09-18T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 278,
+      "delta": 32,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRENO DAMASCENO"
+    },
+    {
+      "played_at": "2022-09-18T08:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 278,
+      "delta": 0,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILLIAM WATANABE"
+    },
+    {
+      "played_at": "2022-09-17T15:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 278,
+      "delta": 0,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO SOKEN"
+    },
+    {
+      "played_at": "2022-09-17T15:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 238,
+      "delta": 40,
+      "final": 278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS YANAI"
+    },
+    {
+      "played_at": "2022-09-17T14:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 238,
+      "delta": 0,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENILSON COSME"
+    },
+    {
+      "played_at": "2022-09-17T13:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2022..",
+      "initial": 206,
+      "delta": 32,
+      "final": 238,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIO KAMEYA"
+    },
+    {
+      "played_at": "2022-05-22T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Campo Grande/MS - 2022",
+      "initial": 210,
+      "delta": -4,
+      "final": 206,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO FEDERICI"
+    },
+    {
+      "played_at": "2022-05-22T08:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Campo Grande/MS - 2022",
+      "initial": 210,
+      "delta": 0,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDGAR IBRAHIM"
+    },
+    {
+      "played_at": "2022-05-21T14:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Campo Grande/MS - 2022",
+      "initial": 216,
+      "delta": -6,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS YANAI"
+    },
+    {
+      "played_at": "2022-05-21T13:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Campo Grande/MS - 2022",
+      "initial": 220,
+      "delta": -4,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE HOKAMA"
+    },
+    {
+      "played_at": "2022-04-10T10:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2022",
+      "initial": 226,
+      "delta": -6,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS YANAI"
+    },
+    {
+      "played_at": "2022-04-10T09:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2022",
+      "initial": 232,
+      "delta": -6,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRO KATO"
+    },
+    {
+      "played_at": "2022-04-10T08:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2022",
+      "initial": 234,
+      "delta": -2,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO TAMACIRO"
+    },
+    {
+      "played_at": "2022-04-10T08:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2022",
+      "initial": 234,
+      "delta": 0,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHARLES KULHAWA"
+    },
+    {
+      "played_at": "2022-03-20T12:35:00",
+      "event": "TMB Estadual xxxxx",
+      "initial": 248,
+      "delta": -14,
+      "final": 234,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO BALLOCK"
+    },
+    {
+      "played_at": "2022-03-20T10:55:00",
+      "event": "TMB Estadual xxxxx",
+      "initial": 264,
+      "delta": -16,
+      "final": 248,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUILHERME TAKAHASHI"
+    },
+    {
+      "played_at": "2022-03-20T09:40:00",
+      "event": "TMB Estadual xxxxx",
+      "initial": 250,
+      "delta": 14,
+      "final": 264,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITOR YAMAZATO ............."
+    }
+  ]
+}

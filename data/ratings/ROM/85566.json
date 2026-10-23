@@ -1,0 +1,67 @@
+{
+  "associate_id": 85566,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85566&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 234,
+      "delta": -9,
+      "final": 225,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL ZILIO"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 234,
+      "delta": 0,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2025-04-27T13:55:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 256,
+      "delta": -22,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO INOUE"
+    },
+    {
+      "played_at": "2025-04-27T10:05:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 278,
+      "delta": -22,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO VALLE"
+    },
+    {
+      "played_at": "2025-04-27T08:50:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 250,
+      "delta": 28,
+      "final": 278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MURILO CATANI ............."
+    }
+  ]
+}

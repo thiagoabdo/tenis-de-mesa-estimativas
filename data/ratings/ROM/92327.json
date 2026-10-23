@@ -1,0 +1,43 @@
+{
+  "associate_id": 92327,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92327&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T15:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 256,
+      "delta": -24,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR PRECINATO"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 283,
+      "delta": -27,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE MOLOGNI"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 33,
+      "final": 283,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE KANNO ............."
+    }
+  ]
+}

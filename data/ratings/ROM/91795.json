@@ -1,0 +1,55 @@
+{
+  "associate_id": 91795,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91795&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-15T12:10:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 239,
+      "delta": -9,
+      "final": 230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE RODRIGUES"
+    },
+    {
+      "played_at": "2026-03-15T10:05:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 245,
+      "delta": -6,
+      "final": 239,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILLO MARTINS"
+    },
+    {
+      "played_at": "2026-03-15T09:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 245,
+      "delta": 0,
+      "final": 245,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI DOMINGUES"
+    },
+    {
+      "played_at": "2026-03-15T09:15:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+      "initial": 250,
+      "delta": -5,
+      "final": 245,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MONTEIRO ............."
+    }
+  ]
+}

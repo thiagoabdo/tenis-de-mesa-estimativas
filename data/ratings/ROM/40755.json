@@ -1,0 +1,343 @@
+{
+  "associate_id": 40755,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=40755&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-19T09:40:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 412,
+      "delta": -36,
+      "final": 376,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCONIO NÓBREGA"
+    },
+    {
+      "played_at": "2026-09-19T08:50:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 418,
+      "delta": -6,
+      "final": 412,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANDRÉ SANTOS"
+    },
+    {
+      "played_at": "2026-09-19T08:00:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 418,
+      "delta": 0,
+      "final": 418,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO VIANA"
+    },
+    {
+      "played_at": "2026-06-06T15:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 418,
+      "delta": 0,
+      "final": 418,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LINALDO PINHEIRO"
+    },
+    {
+      "played_at": "2026-06-06T14:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 400,
+      "delta": 18,
+      "final": 418,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO NEVES"
+    },
+    {
+      "played_at": "2026-03-07T16:45:00",
+      "event": "TMB ESTADUAL - 1ª Etapa -FMATM - SÃO LUÍS - 2026",
+      "initial": 400,
+      "delta": 0,
+      "final": 400,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LINALDO PINHEIRO"
+    },
+    {
+      "played_at": "2026-03-07T16:20:00",
+      "event": "TMB ESTADUAL - 1ª Etapa -FMATM - SÃO LUÍS - 2026",
+      "initial": 382,
+      "delta": 18,
+      "final": 400,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO NEVES"
+    },
+    {
+      "played_at": "2025-11-22T18:35:00",
+      "event": "TMB Estadual - 4ª Etapa - São José de Ribamar - 2025",
+      "initial": 382,
+      "delta": 0,
+      "final": 382,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ LIMA"
+    },
+    {
+      "played_at": "2025-11-22T16:55:00",
+      "event": "TMB Estadual - 4ª Etapa - São José de Ribamar - 2025",
+      "initial": 362,
+      "delta": 20,
+      "final": 382,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JORGE FERREIRA"
+    },
+    {
+      "played_at": "2025-11-22T15:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São José de Ribamar - 2025",
+      "initial": 354,
+      "delta": 8,
+      "final": 362,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LINDBERGH MONTEIRO"
+    },
+    {
+      "played_at": "2025-10-04T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 340,
+      "delta": 14,
+      "final": 354,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO NEVES"
+    },
+    {
+      "played_at": "2025-10-04T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 358,
+      "delta": -18,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JORGE FERREIRA"
+    },
+    {
+      "played_at": "2025-10-04T08:00:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 298,
+      "delta": 60,
+      "final": 358,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ LIMA"
+    },
+    {
+      "played_at": "2024-09-21T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 280,
+      "delta": 18,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO NEVES"
+    },
+    {
+      "played_at": "2024-09-21T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 280,
+      "delta": 0,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ LIMA"
+    },
+    {
+      "played_at": "2024-09-21T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 294,
+      "delta": -14,
+      "final": 280,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE FERREIRA"
+    },
+    {
+      "played_at": "2023-04-29T12:00:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA - 2023.",
+      "initial": 302,
+      "delta": -8,
+      "final": 294,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ LIMA"
+    },
+    {
+      "played_at": "2023-04-29T11:10:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA - 2023.",
+      "initial": 286,
+      "delta": 16,
+      "final": 302,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL GOMES"
+    },
+    {
+      "played_at": "2023-02-04T19:25:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2023...",
+      "initial": 266,
+      "delta": 20,
+      "final": 286,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GABRIEL GOMES"
+    },
+    {
+      "played_at": "2023-02-04T17:45:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2023...",
+      "initial": 254,
+      "delta": 12,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDO FILHO"
+    },
+    {
+      "played_at": "2023-02-04T16:05:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2023...",
+      "initial": 262,
+      "delta": -8,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ LIMA"
+    },
+    {
+      "played_at": "2022-08-27T10:05:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 274,
+      "delta": -12,
+      "final": 262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAIMUNDO SANTOS"
+    },
+    {
+      "played_at": "2022-08-27T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 276,
+      "delta": -2,
+      "final": 274,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO ARAÚJO"
+    },
+    {
+      "played_at": "2022-08-27T09:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 244,
+      "delta": 32,
+      "final": 276,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ LIMA"
+    },
+    {
+      "played_at": "2022-06-11T16:30:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA - 2022",
+      "initial": 256,
+      "delta": -12,
+      "final": 244,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAIMUNDO SANTOS"
+    },
+    {
+      "played_at": "2022-06-11T15:40:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA - 2022",
+      "initial": 236,
+      "delta": 20,
+      "final": 256,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAIR BAESSE"
+    },
+    {
+      "played_at": "2022-06-11T14:50:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA - 2022",
+      "initial": 238,
+      "delta": -2,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO ARAÚJO"
+    },
+    {
+      "played_at": "2022-06-11T14:00:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA - 2022",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ LIMA ............."
+    }
+  ]
+}

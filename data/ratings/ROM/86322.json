@@ -1,0 +1,67 @@
+{
+  "associate_id": 86322,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=86322&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-18T09:15:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+      "initial": 220,
+      "delta": 11,
+      "final": 231,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "MONALISA SIQUEIRA"
+    },
+    {
+      "played_at": "2026-04-18T09:00:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+      "initial": 225,
+      "delta": -5,
+      "final": 220,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ALICE SUTORILLO"
+    },
+    {
+      "played_at": "2025-06-08T08:30:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2025",
+      "initial": 231,
+      "delta": -6,
+      "final": 225,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "SOPHIA SANTOS"
+    },
+    {
+      "played_at": "2025-06-08T08:15:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2025",
+      "initial": 240,
+      "delta": -9,
+      "final": 231,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VALENTINA SANTOS"
+    },
+    {
+      "played_at": "2025-06-08T08:00:00",
+      "event": "TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2025",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "ALICE SUTORILLO ............."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "associate_id": 91735,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91735&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-28T16:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 214,
+      "delta": -21,
+      "final": 193,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS WENTZ"
+    },
+    {
+      "played_at": "2026-03-28T14:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 226,
+      "delta": -12,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO NOZARI"
+    },
+    {
+      "played_at": "2026-03-28T13:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO NAVARRO ............."
+    }
+  ]
+}

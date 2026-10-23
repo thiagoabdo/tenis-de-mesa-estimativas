@@ -1,0 +1,31 @@
+{
+  "associate_id": 90941,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90941&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T11:15:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 238,
+      "delta": -5,
+      "final": 233,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MARINA SCARPARO"
+    },
+    {
+      "played_at": "2026-03-01T11:00:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "GABRIELLY SILVA ............."
+    }
+  ]
+}

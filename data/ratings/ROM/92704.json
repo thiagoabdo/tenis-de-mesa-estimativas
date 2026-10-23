@@ -1,0 +1,31 @@
+{
+  "associate_id": 92704,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92704&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T15:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 214,
+      "delta": -15,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2026-05-09T13:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -36,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ÍTALO RAMIREZ ............."
+    }
+  ]
+}

@@ -1,0 +1,7086 @@
+{
+  "schema_version": 1,
+  "event_id": 5837,
+  "event_name": "5837 - TMB Regional 2026 - II Liga Mato Grosso - Confresa/MT",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 1,
+  "event_match_count": 104,
+  "estimated_match_count": 104,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5837-56-003",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 3,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "02:30",
+      "played_at": "2026-06-27T02:30:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            3,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-64-001",
+      "event_id": 5837,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "02:31",
+      "played_at": "2026-06-27T02:31:00",
+      "players": [
+        {
+          "name": "JOÃO SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            6,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91917,
+            "name": "JOÃO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 249,
+            "rating_change": 11,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89272,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-033",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 33,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "07:56",
+      "played_at": "2026-06-27T07:56:00",
+      "players": [
+        {
+          "name": "LUIZ TORRES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTUR TONIN",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ TORRES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89248,
+            "name": "LUIZ TORRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 261,
+            "rating_change": 10,
+            "rating_after": 271,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 93971,
+            "name": "ARTUR TONIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-001",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "08:00",
+      "played_at": "2026-06-27T08:00:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            13,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 307,
+            "rating_change": 8,
+            "rating_after": 315,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -6,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-002",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "08:00",
+      "played_at": "2026-06-27T08:00:00",
+      "players": [
+        {
+          "name": "LUAN ARAÚJO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR SALES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "HEITOR SALES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88214,
+            "name": "LUAN ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": -8,
+            "rating_after": 230,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 94045,
+            "name": "HEITOR SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-003",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 03",
+      "game_number": 3,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "08:00",
+      "played_at": "2026-06-27T08:00:00",
+      "players": [
+        {
+          "name": "HEITOR MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "PYETRO SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91937,
+            "name": "HEITOR MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 231,
+            "rating_change": -8,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-005",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 5,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "08:20",
+      "played_at": "2026-06-27T08:20:00",
+      "players": [
+        {
+          "name": "JONAS CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIA MORAIS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "MARIA MORAIS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91992,
+            "name": "JONAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": -7,
+            "rating_after": 207,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 94183,
+            "name": "MARIA MORAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 9,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-006",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 6,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "08:40",
+      "played_at": "2026-06-27T08:40:00",
+      "players": [
+        {
+          "name": "RAYAN SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            9,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94028,
+            "name": "RAYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": 11,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-007",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 7,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "08:40",
+      "played_at": "2026-06-27T08:40:00",
+      "players": [
+        {
+          "name": "ARTUR TONIN",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            13,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR SALES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "HEITOR SALES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93971,
+            "name": "ARTUR TONIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": -8,
+            "rating_after": 234,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 94045,
+            "name": "HEITOR SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": 10,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-008",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 03",
+      "game_number": 8,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "08:40",
+      "played_at": "2026-06-27T08:40:00",
+      "players": [
+        {
+          "name": "JOÃO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            7,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "PYETRO SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92349,
+            "name": "JOÃO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": 10,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-010",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 10,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "09:00",
+      "played_at": "2026-06-27T09:00:00",
+      "players": [
+        {
+          "name": "6",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIA MORAIS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "MARIA MORAIS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "6",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 94183,
+            "name": "MARIA MORAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": 10,
+            "rating_after": 269,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-011",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 11,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "09:20",
+      "played_at": "2026-06-27T09:20:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RAYAN SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 315,
+            "rating_change": 8,
+            "rating_after": 323,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94028,
+            "name": "RAYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -6,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-012",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 12,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "09:20",
+      "played_at": "2026-06-27T09:20:00",
+      "players": [
+        {
+          "name": "LUAN ARAÚJO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTUR TONIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ARTUR TONIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88214,
+            "name": "LUAN ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 230,
+            "rating_change": -8,
+            "rating_after": 222,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 93971,
+            "name": "ARTUR TONIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": 10,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-013",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 03",
+      "game_number": 13,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "09:20",
+      "played_at": "2026-06-27T09:20:00",
+      "players": [
+        {
+          "name": "HEITOR MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO FERREIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "JOÃO FERREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91937,
+            "name": "HEITOR MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -8,
+            "rating_after": 215,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 92349,
+            "name": "JOÃO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": 10,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-014",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 04",
+      "game_number": 14,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "09:20",
+      "played_at": "2026-06-27T09:20:00",
+      "players": [
+        {
+          "name": "LORENZO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            9,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "DANIEL MACHADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92004,
+            "name": "LORENZO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 207,
+            "rating_change": -7,
+            "rating_after": 200,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 9,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-015",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 15,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "09:20",
+      "played_at": "2026-06-27T09:20:00",
+      "players": [
+        {
+          "name": "JONAS CARVALHO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "6",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "JONAS CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91992,
+            "name": "JONAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 207,
+            "rating_change": 12,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "6",
+            "associate_id_source": "name_only",
+            "rating_before": 242,
+            "rating_change": -10,
+            "rating_after": 232,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-016",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Oitavas de Final",
+      "game_number": 16,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "09:40",
+      "played_at": "2026-06-27T09:40:00",
+      "players": [
+        {
+          "name": "ARTUR TONIN",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO FERREIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            3,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "JOÃO FERREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93971,
+            "name": "ARTUR TONIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": -8,
+            "rating_after": 236,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 92349,
+            "name": "JOÃO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 252,
+            "rating_change": 10,
+            "rating_after": 262,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-017",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Oitavas de Final",
+      "game_number": 17,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "09:40",
+      "played_at": "2026-06-27T09:40:00",
+      "players": [
+        {
+          "name": "2-4",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "2-4",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 255,
+            "rating_change": 10,
+            "rating_after": 265,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-018",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 18,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "10:00",
+      "played_at": "2026-06-27T10:00:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 323,
+            "rating_change": 8,
+            "rating_after": 331,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 92349,
+            "name": "JOÃO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 262,
+            "rating_change": -6,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-019",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 19,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "10:00",
+      "played_at": "2026-06-27T10:00:00",
+      "players": [
+        {
+          "name": "MARIA MORAIS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARIA MORAIS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94183,
+            "name": "MARIA MORAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 269,
+            "rating_change": 10,
+            "rating_after": 279,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": -8,
+            "rating_after": 251,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-020",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 20,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "10:00",
+      "played_at": "2026-06-27T10:00:00",
+      "players": [
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONAS CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "PYETRO SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": 8,
+            "rating_after": 278,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 91992,
+            "name": "JONAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": -6,
+            "rating_after": 213,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-021",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 21,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "10:00",
+      "played_at": "2026-06-27T10:00:00",
+      "players": [
+        {
+          "name": "HEITOR SALES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94045,
+            "name": "HEITOR SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": -9,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 265,
+            "rating_change": 11,
+            "rating_after": 276,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-022",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 22,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "10:20",
+      "played_at": "2026-06-27T10:20:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIA MORAIS",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 331,
+            "rating_change": 8,
+            "rating_after": 339,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94183,
+            "name": "MARIA MORAIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 279,
+            "rating_change": -6,
+            "rating_after": 273,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-023",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 23,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "10:20",
+      "played_at": "2026-06-27T10:20:00",
+      "players": [
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            6,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 278,
+            "rating_change": -9,
+            "rating_after": 269,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 276,
+            "rating_change": 11,
+            "rating_after": 287,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-024",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Final",
+      "game_number": 24,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "10:40",
+      "played_at": "2026-06-27T10:40:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 339,
+            "rating_change": 8,
+            "rating_after": 347,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 287,
+            "rating_change": -6,
+            "rating_after": 281,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-001",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "11:00",
+      "played_at": "2026-06-27T11:00:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SOARES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 260,
+            "rating_change": 10,
+            "rating_after": 270,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL SOARES",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-002",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 2,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "11:00",
+      "played_at": "2026-06-27T11:00:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            1,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "name_only",
+            "rating_before": 242,
+            "rating_change": -8,
+            "rating_after": 234,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-004",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 4,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "11:20",
+      "played_at": "2026-06-27T11:20:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HESRON NASCIMENTO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "name_only",
+            "rating_before": 260,
+            "rating_change": 10,
+            "rating_after": 270,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "HESRON NASCIMENTO",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-64-002",
+      "event_id": 5837,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 2,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "11:40",
+      "played_at": "2026-06-27T11:40:00",
+      "players": [
+        {
+          "name": "ANDERSON MICHIURA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONATAN SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDERSON MICHIURA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91936,
+            "name": "ANDERSON MICHIURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": 12,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 89249,
+            "name": "JONATAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -10,
+            "rating_after": 240,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-001",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "12:00",
+      "played_at": "2026-06-27T12:00:00",
+      "players": [
+        {
+          "name": "ANTÔNIO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTUR TONIN",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ARTUR TONIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86345,
+            "name": "ANTÔNIO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 524,
+            "rating_change": -16,
+            "rating_after": 508,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -16
+          },
+          {
+            "associate_id": 93971,
+            "name": "ARTUR TONIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 236,
+            "rating_change": 20,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 20
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-005",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 5,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "12:00",
+      "played_at": "2026-06-27T12:00:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            12,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SOARES",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            10,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "name_only",
+            "rating_before": 270,
+            "rating_change": 9,
+            "rating_after": 279,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL SOARES",
+            "associate_id_source": "name_only",
+            "rating_before": 242,
+            "rating_change": -7,
+            "rating_after": 235,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-006",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 6,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "12:00",
+      "played_at": "2026-06-27T12:00:00",
+      "players": [
+        {
+          "name": "HESRON NASCIMENTO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "HESRON NASCIMENTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "HESRON NASCIMENTO",
+            "associate_id_source": "name_only",
+            "rating_before": 242,
+            "rating_change": 10,
+            "rating_after": 252,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "name_only",
+            "rating_before": 234,
+            "rating_change": -8,
+            "rating_after": 226,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-003",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 03",
+      "game_number": 3,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "12:20",
+      "played_at": "2026-06-27T12:20:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RHANDER ALVES",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 347,
+            "rating_change": 8,
+            "rating_after": 355,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94011,
+            "name": "RHANDER ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -6,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-007",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 7,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "12:20",
+      "played_at": "2026-06-27T12:20:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            7,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HESRON NASCIMENTO",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "HESRON NASCIMENTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 270,
+            "rating_change": -9,
+            "rating_after": 261,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "HESRON NASCIMENTO",
+            "associate_id_source": "name_only",
+            "rating_before": 252,
+            "rating_change": 11,
+            "rating_after": 263,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-008",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 8,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "12:20",
+      "played_at": "2026-06-27T12:20:00",
+      "players": [
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            2,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SOARES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "GABRIEL SOARES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "name_only",
+            "rating_before": 226,
+            "rating_change": -8,
+            "rating_after": 218,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL SOARES",
+            "associate_id_source": "name_only",
+            "rating_before": 235,
+            "rating_change": 10,
+            "rating_after": 245,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-002",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "12:37",
+      "played_at": "2026-06-27T12:37:00",
+      "players": [
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIS BARCELOS",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            8,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 576,
+            "rating_change": 4,
+            "rating_after": 580,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 93998,
+            "name": "LUIS BARCELOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -2,
+            "rating_after": 248,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-004",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 04",
+      "game_number": 4,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "12:40",
+      "played_at": "2026-06-27T12:40:00",
+      "players": [
+        {
+          "name": "LUAN ARAÚJO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RAYAN SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RAYAN SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88214,
+            "name": "LUAN ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 222,
+            "rating_change": -8,
+            "rating_after": 214,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 94028,
+            "name": "RAYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": 10,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-005",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 05",
+      "game_number": 5,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "12:40",
+      "played_at": "2026-06-27T12:40:00",
+      "players": [
+        {
+          "name": "LEVI FILHO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAN PIRES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YAN PIRES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86569,
+            "name": "LEVI FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 137,
+            "rating_change": -5,
+            "rating_after": 132,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          },
+          {
+            "associate_id": 94084,
+            "name": "YAN PIRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 7,
+            "rating_after": 257,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-006",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 06",
+      "game_number": 6,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "12:40",
+      "played_at": "2026-06-27T12:40:00",
+      "players": [
+        {
+          "name": "JONAS CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MARCOS VIEBRANTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91992,
+            "name": "JONAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 213,
+            "rating_change": -9,
+            "rating_after": 204,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 202,
+            "rating_change": 11,
+            "rating_after": 213,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-009",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 9,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "12:40",
+      "played_at": "2026-06-27T12:40:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 261,
+            "rating_change": 11,
+            "rating_after": 272,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "name_only",
+            "rating_before": 279,
+            "rating_change": -9,
+            "rating_after": 270,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-56-010",
+      "event_id": 5837,
+      "category_id": 56,
+      "category": "SUB-21 MAS",
+      "phase": "SUB-21 MAS - Única 01",
+      "game_number": 10,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "12:40",
+      "played_at": "2026-06-27T12:40:00",
+      "players": [
+        {
+          "name": "HESRON NASCIMENTO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SOARES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "HESRON NASCIMENTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "HESRON NASCIMENTO",
+            "associate_id_source": "name_only",
+            "rating_before": 263,
+            "rating_change": 10,
+            "rating_after": 273,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL SOARES",
+            "associate_id_source": "name_only",
+            "rating_before": 245,
+            "rating_change": -8,
+            "rating_after": 237,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-007",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 06",
+      "game_number": 7,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "13:00",
+      "played_at": "2026-06-27T13:00:00",
+      "players": [
+        {
+          "name": "THIAGO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89246,
+            "name": "THIAGO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 216,
+            "rating_change": -6,
+            "rating_after": 210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 281,
+            "rating_change": 8,
+            "rating_after": 289,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-008",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 07",
+      "game_number": 8,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "13:00",
+      "played_at": "2026-06-27T13:00:00",
+      "players": [
+        {
+          "name": "LUIZ TORRES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            5,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ TORRES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89248,
+            "name": "LUIZ TORRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 271,
+            "rating_change": 10,
+            "rating_after": 281,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 269,
+            "rating_change": -8,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-009",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 07",
+      "game_number": 9,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "13:00",
+      "played_at": "2026-06-27T13:00:00",
+      "players": [
+        {
+          "name": "LUCAS ASSIS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RHANIEL PONTES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RHANIEL PONTES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89224,
+            "name": "LUCAS ASSIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 227,
+            "rating_change": -8,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 94179,
+            "name": "RHANIEL PONTES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-64-003",
+      "event_id": 5837,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 3,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "13:00",
+      "played_at": "2026-06-27T13:00:00",
+      "players": [
+        {
+          "name": "JOÃO SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JONATAN SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91917,
+            "name": "JOÃO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": 10,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89249,
+            "name": "JONATAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 240,
+            "rating_change": -8,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-64-004",
+      "event_id": 5837,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 4,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "13:00",
+      "played_at": "2026-06-27T13:00:00",
+      "players": [
+        {
+          "name": "ANDERSON MICHIURA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            2,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDERSON MICHIURA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91936,
+            "name": "ANDERSON MICHIURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": 11,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89272,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -9,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-004",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 04",
+      "game_number": 4,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "13:11",
+      "played_at": "2026-06-27T13:11:00",
+      "players": [
+        {
+          "name": "LORENZO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "MARCOS VIEBRANTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92004,
+            "name": "LORENZO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 200,
+            "rating_change": -8,
+            "rating_after": 192,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 213,
+            "rating_change": 10,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-010",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 10,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "13:20",
+      "played_at": "2026-06-27T13:20:00",
+      "players": [
+        {
+          "name": "PYETRO OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTUR TONIN",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            7,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PYETRO OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93969,
+            "name": "PYETRO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 11,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 93971,
+            "name": "ARTUR TONIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -9,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-011",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 11,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "13:20",
+      "played_at": "2026-06-27T13:20:00",
+      "players": [
+        {
+          "name": "JOÃO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            5,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIS BARCELOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "LUIS BARCELOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92349,
+            "name": "JOÃO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -9,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 93998,
+            "name": "LUIS BARCELOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 248,
+            "rating_change": 11,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-012",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 03",
+      "game_number": 12,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "13:20",
+      "played_at": "2026-06-27T13:20:00",
+      "players": [
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RHANDER ALVES",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            11,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DANIEL MACHADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 251,
+            "rating_change": 10,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 94011,
+            "name": "RHANDER ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": -8,
+            "rating_after": 236,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-64-005",
+      "event_id": 5837,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 5,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "13:20",
+      "played_at": "2026-06-27T13:20:00",
+      "players": [
+        {
+          "name": "JONATAN SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "KAIQUE BARBOSA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "KAIQUE BARBOSA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89249,
+            "name": "JONATAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": -8,
+            "rating_after": 224,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 89272,
+            "name": "KAIQUE BARBOSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": 10,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-64-006",
+      "event_id": 5837,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 6,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "13:20",
+      "played_at": "2026-06-27T13:20:00",
+      "players": [
+        {
+          "name": "JOÃO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            9,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDERSON MICHIURA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ANDERSON MICHIURA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91917,
+            "name": "JOÃO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": -10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 91936,
+            "name": "ANDERSON MICHIURA",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": 12,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-013",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 04",
+      "game_number": 13,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "13:40",
+      "played_at": "2026-06-27T13:40:00",
+      "players": [
+        {
+          "name": "RIAN CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RAYAN SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            4,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RIAN CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88401,
+            "name": "RIAN CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 94028,
+            "name": "RAYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -8,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-014",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 05",
+      "game_number": 14,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "13:40",
+      "played_at": "2026-06-27T13:40:00",
+      "players": [
+        {
+          "name": "LORENZO FERREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAN PIRES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LORENZO FERREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92004,
+            "name": "LORENZO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 192,
+            "rating_change": 14,
+            "rating_after": 206,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 94084,
+            "name": "YAN PIRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 257,
+            "rating_change": -11,
+            "rating_after": 246,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-015",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 06",
+      "game_number": 15,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "13:40",
+      "played_at": "2026-06-27T13:40:00",
+      "players": [
+        {
+          "name": "JONAS CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91992,
+            "name": "JONAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 204,
+            "rating_change": -6,
+            "rating_after": 198,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 289,
+            "rating_change": 8,
+            "rating_after": 297,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-016",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 06",
+      "game_number": 16,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "13:40",
+      "played_at": "2026-06-27T13:40:00",
+      "players": [
+        {
+          "name": "THIAGO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MARCOS VIEBRANTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89246,
+            "name": "THIAGO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 210,
+            "rating_change": -8,
+            "rating_after": 202,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": 10,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-017",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 07",
+      "game_number": 17,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "13:40",
+      "played_at": "2026-06-27T13:40:00",
+      "players": [
+        {
+          "name": "LUIZ TORRES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RHANIEL PONTES",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            6,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ TORRES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89248,
+            "name": "LUIZ TORRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 281,
+            "rating_change": 10,
+            "rating_after": 291,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 94179,
+            "name": "RHANIEL PONTES",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -8,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-018",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 07",
+      "game_number": 18,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "14:00",
+      "played_at": "2026-06-27T14:00:00",
+      "players": [
+        {
+          "name": "LUCAS ASSIS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PYETRO SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89224,
+            "name": "LUCAS ASSIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": -7,
+            "rating_after": 212,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 261,
+            "rating_change": 9,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-001",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "14:00",
+      "played_at": "2026-06-27T14:00:00",
+      "players": [
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEANDRO LUZ",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            6,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 452,
+            "rating_change": 5,
+            "rating_after": 457,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 92326,
+            "name": "LEANDRO LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -3,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-003",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 03",
+      "game_number": 3,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "14:00",
+      "played_at": "2026-06-27T14:00:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MAYCON NEVES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 448,
+            "rating_change": 5,
+            "rating_after": 453,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 86578,
+            "name": "MAYCON NEVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 178,
+            "rating_change": -3,
+            "rating_after": 175,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-019",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 19,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "14:20",
+      "played_at": "2026-06-27T14:20:00",
+      "players": [
+        {
+          "name": "ANTÔNIO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PYETRO OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86345,
+            "name": "ANTÔNIO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 508,
+            "rating_change": -16,
+            "rating_after": 492,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -16
+          },
+          {
+            "associate_id": 93969,
+            "name": "PYETRO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 261,
+            "rating_change": 20,
+            "rating_after": 281,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 20
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-020",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 20,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "14:20",
+      "played_at": "2026-06-27T14:20:00",
+      "players": [
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            6,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 580,
+            "rating_change": 4,
+            "rating_after": 584,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 92349,
+            "name": "JOÃO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": -2,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-021",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 03",
+      "game_number": 21,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "14:20",
+      "played_at": "2026-06-27T14:20:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            4,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 355,
+            "rating_change": 8,
+            "rating_after": 363,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 261,
+            "rating_change": -6,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-022",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 04",
+      "game_number": 22,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "14:20",
+      "played_at": "2026-06-27T14:20:00",
+      "players": [
+        {
+          "name": "LUAN ARAÚJO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RIAN CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RIAN CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88214,
+            "name": "LUAN ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": -7,
+            "rating_after": 207,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 88401,
+            "name": "RIAN CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": 9,
+            "rating_after": 269,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-023",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 05",
+      "game_number": 23,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "14:20",
+      "played_at": "2026-06-27T14:20:00",
+      "players": [
+        {
+          "name": "LEVI FILHO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LORENZO FERREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "LORENZO FERREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86569,
+            "name": "LEVI FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 132,
+            "rating_change": -6,
+            "rating_after": 126,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          },
+          {
+            "associate_id": 92004,
+            "name": "LORENZO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 206,
+            "rating_change": 8,
+            "rating_after": 214,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-002",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "14:33",
+      "played_at": "2026-06-27T14:33:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SOARES",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            8,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 477,
+            "rating_change": 5,
+            "rating_after": 482,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 93997,
+            "name": "GABRIEL SOARES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -3,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-024",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 06",
+      "game_number": 24,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "14:40",
+      "played_at": "2026-06-27T14:40:00",
+      "players": [
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            4,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 297,
+            "rating_change": 8,
+            "rating_after": 305,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": -6,
+            "rating_after": 227,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-025",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 06",
+      "game_number": 25,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "14:40",
+      "played_at": "2026-06-27T14:40:00",
+      "players": [
+        {
+          "name": "JONAS CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JONAS CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91992,
+            "name": "JONAS CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 198,
+            "rating_change": 11,
+            "rating_after": 209,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 89246,
+            "name": "THIAGO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 202,
+            "rating_change": -9,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-026",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 07",
+      "game_number": 26,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "14:40",
+      "played_at": "2026-06-27T14:40:00",
+      "players": [
+        {
+          "name": "RHANIEL PONTES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PYETRO SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94179,
+            "name": "RHANIEL PONTES",
+            "associate_id_source": "event_roster",
+            "rating_before": 252,
+            "rating_change": -8,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": 10,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-027",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 07",
+      "game_number": 27,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "14:40",
+      "played_at": "2026-06-27T14:40:00",
+      "players": [
+        {
+          "name": "LUIZ TORRES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS ASSIS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ TORRES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89248,
+            "name": "LUIZ TORRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 291,
+            "rating_change": 8,
+            "rating_after": 299,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 89224,
+            "name": "LUCAS ASSIS",
+            "associate_id_source": "event_roster",
+            "rating_before": 212,
+            "rating_change": -6,
+            "rating_after": 206,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-028",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 28,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "15:00",
+      "played_at": "2026-06-27T15:00:00",
+      "players": [
+        {
+          "name": "LUIS BARCELOS",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PYETRO SOUZA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "LUIS BARCELOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93998,
+            "name": "LUIS BARCELOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": 11,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 94180,
+            "name": "PYETRO SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": -9,
+            "rating_after": 271,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-029",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 29,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "15:00",
+      "played_at": "2026-06-27T15:00:00",
+      "players": [
+        {
+          "name": "LORENZO FERREIRA",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MARCOS VIEBRANTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92004,
+            "name": "LORENZO FERREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": -8,
+            "rating_after": 206,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 227,
+            "rating_change": 10,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-030",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 30,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "15:00",
+      "played_at": "2026-06-27T15:00:00",
+      "players": [
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            11,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RIAN CARVALHO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            6,
+            10,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DANIEL MACHADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 255,
+            "rating_change": 11,
+            "rating_after": 266,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 88401,
+            "name": "RIAN CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 269,
+            "rating_change": -9,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-031",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 31,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "15:00",
+      "played_at": "2026-06-27T15:00:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RAYAN SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            1,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 363,
+            "rating_change": 7,
+            "rating_after": 370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 94028,
+            "name": "RAYAN SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": -5,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-032",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 32,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "15:00",
+      "played_at": "2026-06-27T15:00:00",
+      "players": [
+        {
+          "name": "YAN PIRES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "HEITOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94084,
+            "name": "YAN PIRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 246,
+            "rating_change": -6,
+            "rating_after": 240,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 305,
+            "rating_change": 8,
+            "rating_after": 313,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-004",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 01",
+      "game_number": 4,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "15:20",
+      "played_at": "2026-06-27T15:20:00",
+      "players": [
+        {
+          "name": "HENZO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEANDRO LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "LEANDRO LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89372,
+            "name": "HENZO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 92326,
+            "name": "LEANDRO LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": 11,
+            "rating_after": 258,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-005",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 02",
+      "game_number": 5,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "15:20",
+      "played_at": "2026-06-27T15:20:00",
+      "players": [
+        {
+          "name": "IZHAK COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL SOARES",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            3,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "IZHAK COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86573,
+            "name": "IZHAK COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": 8,
+            "rating_after": 336,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 93997,
+            "name": "GABRIEL SOARES",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": -6,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-006",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 03",
+      "game_number": 6,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "15:20",
+      "played_at": "2026-06-27T15:20:00",
+      "players": [
+        {
+          "name": "HESRON NASCIMENTO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MAYCON NEVES",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "MAYCON NEVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88199,
+            "name": "HESRON NASCIMENTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": -12,
+            "rating_after": 310,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 86578,
+            "name": "MAYCON NEVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 175,
+            "rating_change": 16,
+            "rating_after": 191,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-034",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 34,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "15:40",
+      "played_at": "2026-06-27T15:40:00",
+      "players": [
+        {
+          "name": "PYETRO OLIVEIRA",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIS BARCELOS",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            6,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "PYETRO OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93969,
+            "name": "PYETRO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 281,
+            "rating_change": 10,
+            "rating_after": 291,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 93998,
+            "name": "LUIS BARCELOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": -8,
+            "rating_after": 262,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-035",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 35,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "15:40",
+      "played_at": "2026-06-27T15:40:00",
+      "players": [
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            8,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARCOS VIEBRANTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": 12,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 266,
+            "rating_change": -10,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-036",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 36,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "15:40",
+      "played_at": "2026-06-27T15:40:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            4,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "SAMUEL MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 370,
+            "rating_change": 8,
+            "rating_after": 378,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 94166,
+            "name": "HEITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 313,
+            "rating_change": -6,
+            "rating_after": 307,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-037",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 37,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "15:40",
+      "played_at": "2026-06-27T15:40:00",
+      "players": [
+        {
+          "name": "LUIZ TORRES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89248,
+            "name": "LUIZ TORRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 299,
+            "rating_change": -3,
+            "rating_after": 296,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 584,
+            "rating_change": 5,
+            "rating_after": 589,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-038",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 38,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "16:00",
+      "played_at": "2026-06-27T16:00:00",
+      "players": [
+        {
+          "name": "PYETRO OLIVEIRA",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "PYETRO OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93969,
+            "name": "PYETRO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 291,
+            "rating_change": 9,
+            "rating_after": 300,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 249,
+            "rating_change": -7,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-039",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 39,
+      "table": 2,
+      "date": "27/06/2026",
+      "time": "16:00",
+      "played_at": "2026-06-27T16:00:00",
+      "players": [
+        {
+          "name": "SAMUEL MAGALHÃES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            11,
+            14,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91856,
+            "name": "SAMUEL MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 378,
+            "rating_change": -3,
+            "rating_after": 375,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 589,
+            "rating_change": 5,
+            "rating_after": 594,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-007",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 01",
+      "game_number": 7,
+      "table": 3,
+      "date": "27/06/2026",
+      "time": "16:00",
+      "played_at": "2026-06-27T16:00:00",
+      "players": [
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HENZO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            7,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 457,
+            "rating_change": 5,
+            "rating_after": 462,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 89372,
+            "name": "HENZO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -3,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-008",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "16:00",
+      "played_at": "2026-06-27T16:00:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IZHAK COSTA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            7,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 482,
+            "rating_change": 7,
+            "rating_after": 489,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 86573,
+            "name": "IZHAK COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 336,
+            "rating_change": -5,
+            "rating_after": 331,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-009",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Grupo 03",
+      "game_number": 9,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "16:00",
+      "played_at": "2026-06-27T16:00:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            11,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "HESRON NASCIMENTO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "HESRON NASCIMENTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 453,
+            "rating_change": -12,
+            "rating_after": 441,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 88199,
+            "name": "HESRON NASCIMENTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 310,
+            "rating_change": 16,
+            "rating_after": 326,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-54-040",
+      "event_id": 5837,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Final",
+      "game_number": 40,
+      "table": 1,
+      "date": "27/06/2026",
+      "time": "16:20",
+      "played_at": "2026-06-27T16:20:00",
+      "players": [
+        {
+          "name": "PYETRO OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93969,
+            "name": "PYETRO OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": -3,
+            "rating_after": 297,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 594,
+            "rating_change": 5,
+            "rating_after": 599,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-010",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Quartas de Final",
+      "game_number": 10,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "16:20",
+      "played_at": "2026-06-27T16:20:00",
+      "players": [
+        {
+          "name": "IZHAK COSTA",
+          "sets_won": 2,
+          "set_points": [
+            19,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MAYCON NEVES",
+          "sets_won": 1,
+          "set_points": [
+            21,
+            6,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "IZHAK COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86573,
+            "name": "IZHAK COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 331,
+            "rating_change": 7,
+            "rating_after": 338,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 86578,
+            "name": "MAYCON NEVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 191,
+            "rating_change": -5,
+            "rating_after": 186,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-011",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Quartas de Final",
+      "game_number": 11,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "16:20",
+      "played_at": "2026-06-27T16:20:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEANDRO LUZ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 441,
+            "rating_change": 6,
+            "rating_after": 447,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 92326,
+            "name": "LEANDRO LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 258,
+            "rating_change": -4,
+            "rating_after": 254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-53-009",
+      "event_id": 5837,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 04",
+      "game_number": 9,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "16:28",
+      "played_at": "2026-06-27T16:28:00",
+      "players": [
+        {
+          "name": "DANIEL MACHADO",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCOS VIEBRANTZ",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "MARCOS VIEBRANTZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89315,
+            "name": "DANIEL MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -9,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86588,
+            "name": "MARCOS VIEBRANTZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": 11,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-012",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Semi Final",
+      "game_number": 12,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "16:40",
+      "played_at": "2026-06-27T16:40:00",
+      "players": [
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IZHAK COSTA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            6,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 462,
+            "rating_change": 7,
+            "rating_after": 469,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 86573,
+            "name": "IZHAK COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 338,
+            "rating_change": -5,
+            "rating_after": 333,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-013",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Semi Final",
+      "game_number": 13,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "16:40",
+      "played_at": "2026-06-27T16:40:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            17,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            15,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 447,
+            "rating_change": 12,
+            "rating_after": 459,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 489,
+            "rating_change": -10,
+            "rating_after": 479,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-55-014",
+      "event_id": 5837,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Final",
+      "game_number": 14,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "17:00",
+      "played_at": "2026-06-27T17:00:00",
+      "players": [
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            9,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 469,
+            "rating_change": 10,
+            "rating_after": 479,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 459,
+            "rating_change": -8,
+            "rating_after": 451,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-001",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "18:00",
+      "played_at": "2026-06-27T18:00:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            6,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 479,
+            "rating_change": -5,
+            "rating_after": 474,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 599,
+            "rating_change": 7,
+            "rating_after": 606,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-002",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 2,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "18:00",
+      "played_at": "2026-06-27T18:00:00",
+      "players": [
+        {
+          "name": "ANTÔNIO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86345,
+            "name": "ANTÔNIO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 492,
+            "rating_change": -9,
+            "rating_after": 483,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 479,
+            "rating_change": 11,
+            "rating_after": 490,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-003",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 3,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "18:40",
+      "played_at": "2026-06-27T18:40:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            10,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 474,
+            "rating_change": -8,
+            "rating_after": 466,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 490,
+            "rating_change": 10,
+            "rating_after": 500,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-004",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 4,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "18:40",
+      "played_at": "2026-06-27T18:40:00",
+      "players": [
+        {
+          "name": "ANTÔNIO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            1,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ERIK SOUZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86345,
+            "name": "ANTÔNIO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 483,
+            "rating_change": -10,
+            "rating_after": 473,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 451,
+            "rating_change": 12,
+            "rating_after": 463,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-005",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 5,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "19:00",
+      "played_at": "2026-06-27T19:00:00",
+      "players": [
+        {
+          "name": "ANTÔNIO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86345,
+            "name": "ANTÔNIO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 473,
+            "rating_change": -5,
+            "rating_after": 468,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 606,
+            "rating_change": 7,
+            "rating_after": 613,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-006",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 6,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "19:00",
+      "played_at": "2026-06-27T19:00:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            4,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GIL LUZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 463,
+            "rating_change": -7,
+            "rating_after": 456,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 500,
+            "rating_change": 9,
+            "rating_after": 509,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-007",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 7,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "19:20",
+      "played_at": "2026-06-27T19:20:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 466,
+            "rating_change": 10,
+            "rating_after": 476,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 456,
+            "rating_change": -8,
+            "rating_after": 448,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-008",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 8,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "19:20",
+      "played_at": "2026-06-27T19:20:00",
+      "players": [
+        {
+          "name": "GIL LUZ",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "GIL LUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88198,
+            "name": "GIL LUZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 509,
+            "rating_change": 16,
+            "rating_after": 525,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 613,
+            "rating_change": -12,
+            "rating_after": 601,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-009",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 9,
+      "table": 4,
+      "date": "27/06/2026",
+      "time": "19:40",
+      "played_at": "2026-06-27T19:40:00",
+      "players": [
+        {
+          "name": "JOÃO MOREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTÔNIO SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO MOREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82313,
+            "name": "JOÃO MOREIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 476,
+            "rating_change": 10,
+            "rating_after": 486,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86345,
+            "name": "ANTÔNIO SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 468,
+            "rating_change": -8,
+            "rating_after": 460,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5837-111-010",
+      "event_id": 5837,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Única 01",
+      "game_number": 10,
+      "table": 5,
+      "date": "27/06/2026",
+      "time": "19:40",
+      "played_at": "2026-06-27T19:40:00",
+      "players": [
+        {
+          "name": "ERIK SOUZA",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MAGALHÃES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            7,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "DAVI MAGALHÃES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86587,
+            "name": "ERIK SOUZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 448,
+            "rating_change": -4,
+            "rating_after": 444,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          },
+          {
+            "associate_id": 86581,
+            "name": "DAVI MAGALHÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 601,
+            "rating_change": 6,
+            "rating_after": 607,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    }
+  ]
+}

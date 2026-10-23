@@ -1,0 +1,79 @@
+{
+  "associate_id": 93154,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93154&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-19T10:30:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 193,
+      "delta": -15,
+      "final": 178,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JORGE MARQUES"
+    },
+    {
+      "played_at": "2026-09-19T09:15:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 223,
+      "delta": -30,
+      "final": 193,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERICK SILVA"
+    },
+    {
+      "played_at": "2026-09-19T08:25:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 232,
+      "delta": -9,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCOS COSTA"
+    },
+    {
+      "played_at": "2026-06-06T11:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 241,
+      "delta": -9,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBERTO COSTA"
+    },
+    {
+      "played_at": "2026-06-06T10:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 241,
+      "delta": 0,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTONIO NUNES"
+    },
+    {
+      "played_at": "2026-06-06T08:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO GUAJAJARA ............."
+    }
+  ]
+}

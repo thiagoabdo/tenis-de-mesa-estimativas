@@ -1,0 +1,919 @@
+{
+  "associate_id": 84804,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=84804&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T16:00:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - CHAPECÓ",
+      "initial": 557,
+      "delta": 0,
+      "final": 557,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VITOR KOSER"
+    },
+    {
+      "played_at": "2026-09-26T14:45:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - CHAPECÓ",
+      "initial": 479,
+      "delta": 78,
+      "final": 557,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EMANUEL KEUNECKE"
+    },
+    {
+      "played_at": "2026-09-26T12:10:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - CHAPECÓ",
+      "initial": 446,
+      "delta": 33,
+      "final": 479,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GIAN VALENTINI"
+    },
+    {
+      "played_at": "2026-09-26T08:50:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - CHAPECÓ",
+      "initial": 392,
+      "delta": 54,
+      "final": 446,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO DEBUS"
+    },
+    {
+      "played_at": "2026-09-26T08:25:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - CHAPECÓ",
+      "initial": 377,
+      "delta": 15,
+      "final": 392,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THEO VENDRUSCOLO"
+    },
+    {
+      "played_at": "2026-09-25T10:40:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - ABSOLUTO - CHAPECÓ",
+      "initial": 413,
+      "delta": -36,
+      "final": 377,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCOS SILVA"
+    },
+    {
+      "played_at": "2026-09-25T09:00:00",
+      "event": "TMB ESTADUAL - 5ª ETAPA ESTADUAL CATARINENSE 2026 - ABSOLUTO - CHAPECÓ",
+      "initial": 395,
+      "delta": 18,
+      "final": 413,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATHEUS COSER"
+    },
+    {
+      "played_at": "2026-09-20T17:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 461,
+      "delta": -66,
+      "final": 395,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOAO FINIMUNDO"
+    },
+    {
+      "played_at": "2026-09-20T16:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 389,
+      "delta": 72,
+      "final": 461,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BERNARDO LIONÇO"
+    },
+    {
+      "played_at": "2026-09-20T15:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 353,
+      "delta": 36,
+      "final": 389,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL LUCAS"
+    },
+    {
+      "played_at": "2026-09-20T12:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 305,
+      "delta": 48,
+      "final": 353,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENTO BOHRER"
+    },
+    {
+      "played_at": "2026-09-20T08:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 197,
+      "delta": 108,
+      "final": 305,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSMAR KNEBEL"
+    },
+    {
+      "played_at": "2026-09-19T09:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 197,
+      "delta": 0,
+      "final": 197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-09-19T08:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 239,
+      "delta": -42,
+      "final": 197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO PADILHA"
+    },
+    {
+      "played_at": "2026-09-18T15:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 239,
+      "delta": 0,
+      "final": 239,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MURILO CANOSA"
+    },
+    {
+      "played_at": "2026-09-18T13:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 239,
+      "delta": 0,
+      "final": 239,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN HILLA"
+    },
+    {
+      "played_at": "2026-09-18T11:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 197,
+      "delta": 42,
+      "final": 239,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BERNARDO ALMEIDA"
+    },
+    {
+      "played_at": "2026-08-16T10:10:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 224,
+      "delta": -27,
+      "final": 197,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNNO JUNKES"
+    },
+    {
+      "played_at": "2026-08-15T16:00:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 80,
+      "delta": 144,
+      "final": 224,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ LIMA"
+    },
+    {
+      "played_at": "2026-08-15T15:10:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 107,
+      "delta": -27,
+      "final": 80,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VINÍCIUS PAES"
+    },
+    {
+      "played_at": "2026-08-14T16:50:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 107,
+      "delta": 0,
+      "final": 107,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO CANOSA"
+    },
+    {
+      "played_at": "2026-08-14T16:25:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 107,
+      "delta": 0,
+      "final": 107,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL CAMPREGHER"
+    },
+    {
+      "played_at": "2026-08-14T10:35:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 107,
+      "delta": 0,
+      "final": 107,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL MULLER"
+    },
+    {
+      "played_at": "2026-08-14T10:10:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 152,
+      "delta": -45,
+      "final": 107,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ STACHON"
+    },
+    {
+      "played_at": "2026-07-11T14:45:00",
+      "event": "TMB ESTADUAL - 4ª ETAPA ESTADUAL CATARINENSE 2026 - BLUMENAU",
+      "initial": 152,
+      "delta": 0,
+      "final": 152,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BENJAMIN HILLA"
+    },
+    {
+      "played_at": "2026-07-11T08:50:00",
+      "event": "TMB ESTADUAL - 4ª ETAPA ESTADUAL CATARINENSE 2026 - BLUMENAU",
+      "initial": 158,
+      "delta": -6,
+      "final": 152,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS LIMA"
+    },
+    {
+      "played_at": "2026-07-11T08:25:00",
+      "event": "TMB ESTADUAL - 4ª ETAPA ESTADUAL CATARINENSE 2026 - BLUMENAU",
+      "initial": 116,
+      "delta": 42,
+      "final": 158,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL NORDT"
+    },
+    {
+      "played_at": "2026-06-26T17:50:00",
+      "event": "TMB ESTADUAL - 3ª ETAPA ESTADUAL CATARINENSE 2026 -São Bento do Sul",
+      "initial": 122,
+      "delta": -6,
+      "final": 116,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LORENZO TRINDADE"
+    },
+    {
+      "played_at": "2026-06-26T17:25:00",
+      "event": "TMB ESTADUAL - 3ª ETAPA ESTADUAL CATARINENSE 2026 -São Bento do Sul",
+      "initial": 140,
+      "delta": -18,
+      "final": 122,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VICENTE KAISER"
+    },
+    {
+      "played_at": "2026-06-26T09:00:00",
+      "event": "TMB ESTADUAL - 3ª ETAPA ESTADUAL CATARINENSE 2026 -São Bento do Sul - ABSOLUTO",
+      "initial": 158,
+      "delta": -18,
+      "final": 140,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROGER FREITAS"
+    },
+    {
+      "played_at": "2026-05-02T15:10:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA",
+      "initial": 158,
+      "delta": 0,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME CHAGAS"
+    },
+    {
+      "played_at": "2026-05-02T08:50:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA",
+      "initial": 167,
+      "delta": -9,
+      "final": 158,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS YU"
+    },
+    {
+      "played_at": "2026-05-02T08:25:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA",
+      "initial": 131,
+      "delta": 36,
+      "final": 167,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERIK PORATH"
+    },
+    {
+      "played_at": "2026-05-01T11:55:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA - ABSOLUTO",
+      "initial": 146,
+      "delta": -15,
+      "final": 131,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO ANJOS"
+    },
+    {
+      "played_at": "2026-05-01T09:50:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA - ABSOLUTO",
+      "initial": 98,
+      "delta": 48,
+      "final": 146,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HEITOR UHLENDORF"
+    },
+    {
+      "played_at": "2026-03-22T09:30:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 116,
+      "delta": -18,
+      "final": 98,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITTOR MAHNIC"
+    },
+    {
+      "played_at": "2026-03-20T18:55:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 116,
+      "delta": 0,
+      "final": 116,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BERNARDO INOUE"
+    },
+    {
+      "played_at": "2026-03-20T18:05:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 206,
+      "delta": -90,
+      "final": 116,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-03-20T16:50:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 215,
+      "delta": -9,
+      "final": 206,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2026-03-20T10:05:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 215,
+      "delta": 0,
+      "final": 215,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL RAMOS"
+    },
+    {
+      "played_at": "2026-03-20T09:15:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 251,
+      "delta": -36,
+      "final": 215,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATHEUS ZIEMBIKIEWICZ"
+    },
+    {
+      "played_at": "2026-03-07T13:55:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 257,
+      "delta": -6,
+      "final": 251,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GUSTAVO DEBUS"
+    },
+    {
+      "played_at": "2026-03-07T09:40:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 209,
+      "delta": 48,
+      "final": 257,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SAMUEL SCHIPMANN"
+    },
+    {
+      "played_at": "2026-03-06T18:25:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 236,
+      "delta": -27,
+      "final": 209,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS LIMA"
+    },
+    {
+      "played_at": "2026-03-06T18:00:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 167,
+      "delta": 69,
+      "final": 236,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EMANUEL KEUNECKE"
+    },
+    {
+      "played_at": "2026-03-06T09:00:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL - ABSOLUTO",
+      "initial": 185,
+      "delta": -18,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLÁUDIO LOPES"
+    },
+    {
+      "played_at": "2025-12-14T10:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 205,
+      "delta": -20,
+      "final": 185,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL MOURA"
+    },
+    {
+      "played_at": "2025-12-13T19:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 45,
+      "delta": 160,
+      "final": 205,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS SCHMITT"
+    },
+    {
+      "played_at": "2025-12-13T10:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 45,
+      "delta": 0,
+      "final": 45,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROGER SHIOZAKI"
+    },
+    {
+      "played_at": "2025-12-09T08:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 45,
+      "delta": 0,
+      "final": 45,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DAVI LEAO"
+    },
+    {
+      "played_at": "2025-12-08T11:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 55,
+      "delta": -10,
+      "final": 45,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ENZO CIABOTTI"
+    },
+    {
+      "played_at": "2025-12-08T10:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 55,
+      "delta": 0,
+      "final": 55,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATIAS ANDRADE"
+    },
+    {
+      "played_at": "2025-10-18T08:25:00",
+      "event": "TMB ESTADUAL - 6º ETAPA CATARINENSE 2025 - LAGES",
+      "initial": 59,
+      "delta": -4,
+      "final": 55,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTUR BITTENCOURT"
+    },
+    {
+      "played_at": "2025-10-18T08:00:00",
+      "event": "TMB ESTADUAL - 6º ETAPA CATARINENSE 2025 - LAGES",
+      "initial": 63,
+      "delta": -4,
+      "final": 59,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL KOHLER"
+    },
+    {
+      "played_at": "2025-09-07T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Concórdia - SC - 2025",
+      "initial": 78,
+      "delta": -15,
+      "final": 63,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAM FAI"
+    },
+    {
+      "played_at": "2025-09-07T12:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Concórdia - SC - 2025",
+      "initial": 88,
+      "delta": -10,
+      "final": 78,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME PADILHA"
+    },
+    {
+      "played_at": "2025-09-06T10:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Concórdia - SC - 2025",
+      "initial": 103,
+      "delta": -15,
+      "final": 88,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATHEUS FRANTZ"
+    },
+    {
+      "played_at": "2025-09-06T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Concórdia - SC - 2025",
+      "initial": 103,
+      "delta": 0,
+      "final": 103,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2025-09-05T15:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Concórdia - SC - 2025",
+      "initial": 118,
+      "delta": -15,
+      "final": 103,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL NAMPO"
+    },
+    {
+      "played_at": "2025-09-05T14:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Concórdia - SC - 2025",
+      "initial": 118,
+      "delta": 0,
+      "final": 118,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2025-08-15T17:40:00",
+      "event": "4ª ETAPA ESTADUAL CATARINENSE 2025 - ESTADUAL DE DUPLAS - FRAIBURGO/SC",
+      "initial": 118,
+      "delta": 0,
+      "final": 118,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME CHAGAS"
+    },
+    {
+      "played_at": "2025-08-15T16:50:00",
+      "event": "4ª ETAPA ESTADUAL CATARINENSE 2025 - ESTADUAL DE DUPLAS - FRAIBURGO/SC",
+      "initial": 94,
+      "delta": 24,
+      "final": 118,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS ZILIOTTO"
+    },
+    {
+      "played_at": "2025-08-15T16:00:00",
+      "event": "4ª ETAPA ESTADUAL CATARINENSE 2025 - ESTADUAL DE DUPLAS - FRAIBURGO/SC",
+      "initial": 94,
+      "delta": 0,
+      "final": 94,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATIAS ANDRADE"
+    },
+    {
+      "played_at": "2025-06-29T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 114,
+      "delta": -20,
+      "final": 94,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KAIQUI FERNANDES"
+    },
+    {
+      "played_at": "2025-06-29T08:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 144,
+      "delta": -30,
+      "final": 114,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTIAN ARAÚJO"
+    },
+    {
+      "played_at": "2025-06-28T08:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 154,
+      "delta": -10,
+      "final": 144,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEX AMARU"
+    },
+    {
+      "played_at": "2025-06-28T08:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 169,
+      "delta": -15,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI LIMA"
+    },
+    {
+      "played_at": "2025-06-27T15:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 184,
+      "delta": -15,
+      "final": 169,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EMANUEL KEUNECKE"
+    },
+    {
+      "played_at": "2025-06-27T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 184,
+      "delta": 0,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO KOSER"
+    },
+    {
+      "played_at": "2025-05-30T09:00:00",
+      "event": "3ª ETAPA ESTADUAL CATARINENSE 2025 - CONCÓRDIA/SC - ABSOLUTO",
+      "initial": 184,
+      "delta": 0,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL MIRANDA"
+    },
+    {
+      "played_at": "2025-04-26T09:40:00",
+      "event": "2ª ETAPA ESTADUAL CATARINENSE 2025 - JARAGUÁ DO SUL/SC",
+      "initial": 194,
+      "delta": -10,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL AGOSTINI"
+    },
+    {
+      "played_at": "2025-04-26T09:15:00",
+      "event": "2ª ETAPA ESTADUAL CATARINENSE 2025 - JARAGUÁ DO SUL/SC",
+      "initial": 198,
+      "delta": -4,
+      "final": 194,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL CAMPREGHER"
+    },
+    {
+      "played_at": "2025-04-25T08:55:00",
+      "event": "2ª ETAPA ESTADUAL CATARINENSE 2025 - ABSOLUTO - JARAGUÁ DO SUL/SC",
+      "initial": 212,
+      "delta": -14,
+      "final": 198,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO TAVEIRA"
+    },
+    {
+      "played_at": "2025-03-29T08:50:00",
+      "event": "1ª ETAPA ESTADUAL CATARINENSE 2025 - BLUMENAU/SC",
+      "initial": 220,
+      "delta": -8,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIAN VALENTINI"
+    },
+    {
+      "played_at": "2025-03-29T08:25:00",
+      "event": "1ª ETAPA ESTADUAL CATARINENSE 2025 - BLUMENAU/SC",
+      "initial": 234,
+      "delta": -14,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO VIANA"
+    },
+    {
+      "played_at": "2025-03-28T09:00:00",
+      "event": "1ª ETAPA ESTADUAL CATARINENSE 2025 - ABSOLUTO - BLUMENAU/SC",
+      "initial": 250,
+      "delta": -16,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PIETRO XAVIER ............."
+    }
+  ]
+}

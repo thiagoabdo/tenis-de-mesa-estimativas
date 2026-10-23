@@ -1,0 +1,667 @@
+{
+  "associate_id": 80379,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=80379&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T09:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 208,
+      "delta": -6,
+      "final": 202,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARTIM AMARAL"
+    },
+    {
+      "played_at": "2026-09-27T08:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 208,
+      "delta": 0,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-08-23T09:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 208,
+      "delta": 0,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2026-08-23T08:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 217,
+      "delta": -9,
+      "final": 208,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2026-08-02T10:55:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 223,
+      "delta": -6,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-08-02T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 223,
+      "delta": 0,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-08-02T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 187,
+      "delta": 36,
+      "final": 223,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL VIGNOLA"
+    },
+    {
+      "played_at": "2026-06-28T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 202,
+      "delta": -15,
+      "final": 187,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "THEO MACHADO"
+    },
+    {
+      "played_at": "2026-06-28T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 202,
+      "delta": 0,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2026-05-10T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 232,
+      "delta": -30,
+      "final": 202,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MOHAMMAD KORYANI"
+    },
+    {
+      "played_at": "2026-05-10T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 199,
+      "delta": 33,
+      "final": 232,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BENJAMIN SCARAMAL"
+    },
+    {
+      "played_at": "2026-05-10T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 199,
+      "delta": 0,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2026-04-19T10:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 166,
+      "delta": 33,
+      "final": 199,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENRICO NOBILI"
+    },
+    {
+      "played_at": "2026-04-19T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 181,
+      "delta": -15,
+      "final": 166,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR GROSSE"
+    },
+    {
+      "played_at": "2026-04-19T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 190,
+      "delta": -9,
+      "final": 181,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEXANDRE GLIZT"
+    },
+    {
+      "played_at": "2025-12-08T18:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 190,
+      "delta": 0,
+      "final": 190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL RAMOS"
+    },
+    {
+      "played_at": "2025-12-08T09:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 290,
+      "delta": -100,
+      "final": 190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOAQUIM DORTA"
+    },
+    {
+      "played_at": "2025-09-14T14:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 312,
+      "delta": -22,
+      "final": 290,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2025-09-14T10:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 296,
+      "delta": 16,
+      "final": 312,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MOHAMMAD KORYANI"
+    },
+    {
+      "played_at": "2025-09-14T09:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 280,
+      "delta": 16,
+      "final": 296,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "THOMAS BEM"
+    },
+    {
+      "played_at": "2025-09-14T08:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 266,
+      "delta": 14,
+      "final": 280,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HENRIQUE ITO"
+    },
+    {
+      "played_at": "2025-08-17T14:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 278,
+      "delta": -12,
+      "final": 266,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2025-08-17T13:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 284,
+      "delta": -6,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2025-08-17T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 264,
+      "delta": 20,
+      "final": 284,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DANIEL MELO"
+    },
+    {
+      "played_at": "2025-07-06T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 280,
+      "delta": -16,
+      "final": 264,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2025-07-06T11:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 308,
+      "delta": -28,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MOHAMMAD KORYANI"
+    },
+    {
+      "played_at": "2025-07-06T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 292,
+      "delta": 16,
+      "final": 308,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENJAMIN MAIA"
+    },
+    {
+      "played_at": "2025-07-06T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 272,
+      "delta": 20,
+      "final": 292,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO SEXTOS"
+    },
+    {
+      "played_at": "2025-05-11T14:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 294,
+      "delta": -22,
+      "final": 272,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2025-05-11T13:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 276,
+      "delta": 18,
+      "final": 294,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GABRIEL NARDI"
+    },
+    {
+      "played_at": "2025-05-11T11:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 240,
+      "delta": 36,
+      "final": 276,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2025-05-11T10:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 218,
+      "delta": 22,
+      "final": 240,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HEITOR MELLO"
+    },
+    {
+      "played_at": "2025-05-11T08:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 190,
+      "delta": 28,
+      "final": 218,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TEODORO DIAS"
+    },
+    {
+      "played_at": "2025-04-27T11:45:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 212,
+      "delta": -22,
+      "final": 190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2025-04-27T10:30:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 234,
+      "delta": -22,
+      "final": 212,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MOHAMMAD KORYANI"
+    },
+    {
+      "played_at": "2025-04-27T08:00:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 210,
+      "delta": 24,
+      "final": 234,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE SILVA"
+    },
+    {
+      "played_at": "2024-10-20T10:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 218,
+      "delta": -8,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2024-10-20T09:40:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 200,
+      "delta": 18,
+      "final": 218,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2024-10-20T08:25:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 210,
+      "delta": -10,
+      "final": 200,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2024-09-29T13:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 218,
+      "delta": -8,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL MATSUMOTO"
+    },
+    {
+      "played_at": "2024-09-29T11:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 226,
+      "delta": -8,
+      "final": 218,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2024-09-29T10:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 194,
+      "delta": 32,
+      "final": 226,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2024-09-08T13:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Cascavel/PR - 2024",
+      "initial": 204,
+      "delta": -10,
+      "final": 194,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SAID CHEHADE"
+    },
+    {
+      "played_at": "2024-09-08T11:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Cascavel/PR - 2024",
+      "initial": 214,
+      "delta": -10,
+      "final": 204,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2024-09-08T10:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Cascavel/PR - 2024",
+      "initial": 182,
+      "delta": 32,
+      "final": 214,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2024-08-18T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 194,
+      "delta": -12,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2024-08-18T10:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 204,
+      "delta": -10,
+      "final": 194,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2024-06-23T11:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 218,
+      "delta": -14,
+      "final": 204,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL MATSUMOTO"
+    },
+    {
+      "played_at": "2024-06-23T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 236,
+      "delta": -18,
+      "final": 218,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRI OLEIRO"
+    },
+    {
+      "played_at": "2024-05-26T13:30:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 250,
+      "delta": -14,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRIAN MUZER"
+    },
+    {
+      "played_at": "2024-05-26T11:45:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 278,
+      "delta": -28,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2024-05-26T10:55:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 258,
+      "delta": 20,
+      "final": 278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRI OLEIRO"
+    },
+    {
+      "played_at": "2024-04-27T16:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 290,
+      "delta": -32,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2024-04-27T13:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 270,
+      "delta": 20,
+      "final": 290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THALES TSUCHIDA"
+    },
+    {
+      "played_at": "2024-04-27T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXANDRE GLIZT ............."
+    }
+  ]
+}

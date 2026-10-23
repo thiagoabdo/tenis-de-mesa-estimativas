@@ -1,0 +1,43 @@
+{
+  "associate_id": 92027,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92027&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T12:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 316,
+      "delta": -27,
+      "final": 289,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL MENEGASSI"
+    },
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 286,
+      "delta": 30,
+      "final": 316,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FELIPE RIBEIRO"
+    },
+    {
+      "played_at": "2026-05-09T08:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 36,
+      "final": 286,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MURILO MALLET ............."
+    }
+  ]
+}

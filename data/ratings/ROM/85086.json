@@ -1,0 +1,415 @@
+{
+  "associate_id": 85086,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85086&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-30T14:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 295,
+      "delta": -15,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IGOR MEDEIROS"
+    },
+    {
+      "played_at": "2026-05-31T15:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Ranking - Cabo de Santo Agostinho/PE - 2026 SÉRIE OURO",
+      "initial": 316,
+      "delta": -21,
+      "final": 295,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RODRIGO DANTAS"
+    },
+    {
+      "played_at": "2026-05-03T12:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 415,
+      "delta": -99,
+      "final": 316,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO BOTELHO DE MELLO"
+    },
+    {
+      "played_at": "2026-05-02T20:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 316,
+      "delta": 99,
+      "final": 415,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DIEGO PERETTI"
+    },
+    {
+      "played_at": "2026-05-02T19:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 262,
+      "delta": 54,
+      "final": 316,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PEDRO PIMENTEL"
+    },
+    {
+      "played_at": "2026-03-15T20:30:00",
+      "event": "TMB Estadual - 1ª Etapa Rating - Recife/PE 2026 - SÉRIE OURO",
+      "initial": 280,
+      "delta": -18,
+      "final": 262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FERNANDO JUNIOR"
+    },
+    {
+      "played_at": "2026-03-15T20:00:00",
+      "event": "TMB Estadual - 1ª Etapa Rating - Recife/PE 2026 - SÉRIE OURO",
+      "initial": 256,
+      "delta": 24,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANTÔNIO ARAÚJO"
+    },
+    {
+      "played_at": "2026-03-15T17:00:00",
+      "event": "TMB Estadual - 1ª Etapa Rating - Recife/PE 2026 - SÉRIE OURO",
+      "initial": 220,
+      "delta": 36,
+      "final": 256,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NILTON FILHO"
+    },
+    {
+      "played_at": "2026-03-15T14:00:00",
+      "event": "TMB Estadual - 1ª Etapa Rating - Recife/PE 2026 - SÉRIE OURO",
+      "initial": 187,
+      "delta": 33,
+      "final": 220,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS FILHO"
+    },
+    {
+      "played_at": "2025-11-23T16:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 187,
+      "delta": 0,
+      "final": 187,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUIZ SOUSA"
+    },
+    {
+      "played_at": "2025-11-23T15:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 187,
+      "delta": 0,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO LEITE"
+    },
+    {
+      "played_at": "2025-11-23T09:30:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 199,
+      "delta": -12,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ VICTOR"
+    },
+    {
+      "played_at": "2025-11-23T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa Ranking - Camocim de São Félix-PE 2025 Série Ouro",
+      "initial": 211,
+      "delta": -12,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUSA"
+    },
+    {
+      "played_at": "2025-10-17T10:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 251,
+      "delta": -40,
+      "final": 211,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS MENEZES"
+    },
+    {
+      "played_at": "2025-10-17T08:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Caruaru/PE - 2025",
+      "initial": 301,
+      "delta": -50,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI VASCONCELOS"
+    },
+    {
+      "played_at": "2025-09-20T17:00:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Prata",
+      "initial": 310,
+      "delta": -9,
+      "final": 301,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MARCELO BOTELHO DE MELLO"
+    },
+    {
+      "played_at": "2025-09-20T16:20:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Prata",
+      "initial": 300,
+      "delta": 10,
+      "final": 310,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "CARLOS LEAL"
+    },
+    {
+      "played_at": "2025-09-20T15:00:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Prata",
+      "initial": 291,
+      "delta": 9,
+      "final": 300,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "EFRAIN SOARES"
+    },
+    {
+      "played_at": "2025-09-20T13:40:00",
+      "event": "Estadual - 3ª Etapa Ranking - Caruaru/PE - 2025 série Prata",
+      "initial": 283,
+      "delta": 8,
+      "final": 291,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "ALBERTO RIBEIRO"
+    },
+    {
+      "played_at": "2025-08-16T16:20:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Prata",
+      "initial": 293,
+      "delta": -10,
+      "final": 283,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "PEDRO SILVA"
+    },
+    {
+      "played_at": "2025-08-16T15:40:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Prata",
+      "initial": 283,
+      "delta": 10,
+      "final": 293,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "FABRÍCIO ALMEIDA"
+    },
+    {
+      "played_at": "2025-08-16T14:20:00",
+      "event": "Estadual - 2ª Etapa de Rating - Camocim de São Félix - PE 2025 - Prata",
+      "initial": 276,
+      "delta": 7,
+      "final": 283,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ANTONIO COUTINHO"
+    },
+    {
+      "played_at": "2025-07-05T16:45:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 - SÉRIE PRATA",
+      "initial": 285,
+      "delta": -9,
+      "final": 276,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "IGOR SILVA"
+    },
+    {
+      "played_at": "2025-07-05T15:30:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 - SÉRIE PRATA",
+      "initial": 275,
+      "delta": 10,
+      "final": 285,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "JEFERSON SILVA"
+    },
+    {
+      "played_at": "2025-07-05T14:15:00",
+      "event": "Estadual - 2ª Etapa Ranking - Caruaru/PE 2025 - SÉRIE PRATA",
+      "initial": 265,
+      "delta": 10,
+      "final": 275,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "IVO NETO"
+    },
+    {
+      "played_at": "2025-05-10T15:15:00",
+      "event": "Estadual - 3ª Etapa - Recife/PE - 2025 Série Prata",
+      "initial": 285,
+      "delta": -20,
+      "final": 265,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "CARLOS ALCÂNTARA"
+    },
+    {
+      "played_at": "2025-05-10T13:30:00",
+      "event": "Estadual - 3ª Etapa - Recife/PE - 2025 Série Prata",
+      "initial": 267,
+      "delta": 18,
+      "final": 285,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "RODRIGO BECHARA"
+    },
+    {
+      "played_at": "2025-04-13T18:10:00",
+      "event": "Estadual - 2ª Etapa - Recife/PE - 2025 - Série Prata",
+      "initial": 275,
+      "delta": -8,
+      "final": 267,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "PEDRO ARAÚJO"
+    },
+    {
+      "played_at": "2025-04-13T17:40:00",
+      "event": "Estadual - 2ª Etapa - Recife/PE - 2025 - Série Prata",
+      "initial": 265,
+      "delta": 10,
+      "final": 275,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ANTONIO COUTINHO"
+    },
+    {
+      "played_at": "2025-04-13T15:25:00",
+      "event": "Estadual - 2ª Etapa - Recife/PE - 2025 - Série Prata",
+      "initial": 255,
+      "delta": 10,
+      "final": 265,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "MATEUS QUEIROZ"
+    },
+    {
+      "played_at": "2025-03-23T13:10:00",
+      "event": "Estadual - 1ª Etapa - Camocim de São Félix - PE - 2025 - PRATA",
+      "initial": 263,
+      "delta": -8,
+      "final": 255,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ARTHUR LIMA"
+    },
+    {
+      "played_at": "2025-03-23T12:50:00",
+      "event": "Estadual - 1ª Etapa - Camocim de São Félix - PE - 2025 - PRATA",
+      "initial": 252,
+      "delta": 11,
+      "final": 263,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "MARCOS SILVA"
+    },
+    {
+      "played_at": "2025-03-23T12:10:00",
+      "event": "Estadual - 1ª Etapa - Camocim de São Félix - PE - 2025 - PRATA",
+      "initial": 260,
+      "delta": -8,
+      "final": 252,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "SYLO ALMEIDA"
+    },
+    {
+      "played_at": "2025-03-23T11:50:00",
+      "event": "Estadual - 1ª Etapa - Camocim de São Félix - PE - 2025 - PRATA",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "HEROS NETO ............."
+    }
+  ]
+}

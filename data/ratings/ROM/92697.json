@@ -1,0 +1,67 @@
+{
+  "associate_id": 92697,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92697&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T11:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 253,
+      "delta": -8,
+      "final": 245,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "MARIA SALVI"
+    },
+    {
+      "played_at": "2026-07-05T10:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 243,
+      "delta": 10,
+      "final": 253,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ISABELLE BROCCO"
+    },
+    {
+      "played_at": "2026-07-05T10:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 253,
+      "delta": -10,
+      "final": 243,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "BEATRIZ ZANARDI"
+    },
+    {
+      "played_at": "2026-06-06T11:45:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 259,
+      "delta": -6,
+      "final": 253,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MARIA COLDEBELLA"
+    },
+    {
+      "played_at": "2026-06-06T11:30:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 250,
+      "delta": 9,
+      "final": 259,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "LARA BREITENBACH ............."
+    }
+  ]
+}

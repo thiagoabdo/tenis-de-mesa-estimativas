@@ -1,0 +1,1303 @@
+{
+  "associate_id": 79003,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=79003&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-12T08:55:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 894,
+      "delta": 0,
+      "final": 894,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-09-12T08:05:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 864,
+      "delta": 30,
+      "final": 894,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2026-08-22T08:05:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 864,
+      "delta": 0,
+      "final": 864,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DAVI LEAO"
+    },
+    {
+      "played_at": "2026-07-04T10:10:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 864,
+      "delta": 0,
+      "final": 864,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ MENDES"
+    },
+    {
+      "played_at": "2026-07-04T08:05:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 834,
+      "delta": 30,
+      "final": 864,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO YAMAMURA"
+    },
+    {
+      "played_at": "2026-06-28T12:30:00",
+      "event": "TMB Regional - 6ª Etapa Liga Digital Table Tennis & TOP SPIN BRASIL - Nível A e Iniciantes A",
+      "initial": 834,
+      "delta": 0,
+      "final": 834,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINÍCIUS SUNAMI"
+    },
+    {
+      "played_at": "2026-06-28T11:30:00",
+      "event": "TMB Regional - 6ª Etapa Liga Digital Table Tennis & TOP SPIN BRASIL - Nível A e Iniciantes A",
+      "initial": 811,
+      "delta": 23,
+      "final": 834,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FELIPE MATTA"
+    },
+    {
+      "played_at": "2026-06-28T09:00:00",
+      "event": "TMB Regional - 6ª Etapa Liga Digital Table Tennis & TOP SPIN BRASIL - Nível A e Iniciantes A",
+      "initial": 806,
+      "delta": 5,
+      "final": 811,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MIGUEL RODRIGUES"
+    },
+    {
+      "played_at": "2026-06-28T08:00:00",
+      "event": "TMB Regional - 6ª Etapa Liga Digital Table Tennis & TOP SPIN BRASIL - Nível A e Iniciantes A",
+      "initial": 811,
+      "delta": -5,
+      "final": 806,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "YIZE ZHAO"
+    },
+    {
+      "played_at": "2026-05-30T09:20:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 811,
+      "delta": 0,
+      "final": 811,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO MARTIN"
+    },
+    {
+      "played_at": "2026-05-30T08:05:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 805,
+      "delta": 6,
+      "final": 811,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE MOURA"
+    },
+    {
+      "played_at": "2026-05-16T10:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 949,
+      "delta": -144,
+      "final": 805,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL BARBOSA"
+    },
+    {
+      "played_at": "2026-05-16T08:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 913,
+      "delta": 36,
+      "final": 949,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ENZO MIYAMOTO"
+    },
+    {
+      "played_at": "2026-04-18T11:25:00",
+      "event": "TMB - Estadual - [2ª Etapa - Votorantim/SP] - 2026",
+      "initial": 913,
+      "delta": 0,
+      "final": 913,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO ARRUDA"
+    },
+    {
+      "played_at": "2026-04-18T09:45:00",
+      "event": "TMB - Estadual - [2ª Etapa - Votorantim/SP] - 2026",
+      "initial": 898,
+      "delta": 15,
+      "final": 913,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THALES MAIA"
+    },
+    {
+      "played_at": "2026-04-12T12:30:00",
+      "event": "TMB Regional - 4ª Etapa Liga Digital Table Tennis & CASA VERDE - Nivel A e Inicante A",
+      "initial": 898,
+      "delta": 0,
+      "final": 898,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINÍCIUS SUNAMI"
+    },
+    {
+      "played_at": "2026-04-12T12:00:00",
+      "event": "TMB Regional - 4ª Etapa Liga Digital Table Tennis & CASA VERDE - Nivel A e Inicante A",
+      "initial": 884,
+      "delta": 14,
+      "final": 898,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABRÍCIO BERTELA"
+    },
+    {
+      "played_at": "2026-04-12T11:00:00",
+      "event": "TMB Regional - 4ª Etapa Liga Digital Table Tennis & CASA VERDE - Nivel A e Inicante A",
+      "initial": 864,
+      "delta": 20,
+      "final": 884,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI ARAUJO"
+    },
+    {
+      "played_at": "2026-04-12T08:30:00",
+      "event": "TMB Regional - 4ª Etapa Liga Digital Table Tennis & CASA VERDE - Nivel A e Inicante A",
+      "initial": 861,
+      "delta": 3,
+      "final": 864,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUSTAVO FERREIRA"
+    },
+    {
+      "played_at": "2026-04-12T08:00:00",
+      "event": "TMB Regional - 4ª Etapa Liga Digital Table Tennis & CASA VERDE - Nivel A e Inicante A",
+      "initial": 873,
+      "delta": -12,
+      "final": 861,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI CORRÊA"
+    },
+    {
+      "played_at": "2026-03-28T12:40:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 927,
+      "delta": -54,
+      "final": 873,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE SIMIONI"
+    },
+    {
+      "played_at": "2026-03-22T12:00:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel A e Iniciantes A (Masc/Fem)",
+      "initial": 929,
+      "delta": -2,
+      "final": 927,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO ISHIOKA"
+    },
+    {
+      "played_at": "2026-03-22T11:00:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel A e Iniciantes A (Masc/Fem)",
+      "initial": 927,
+      "delta": 2,
+      "final": 929,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE MORELLI"
+    },
+    {
+      "played_at": "2026-03-22T09:00:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel A e Iniciantes A (Masc/Fem)",
+      "initial": 925,
+      "delta": 2,
+      "final": 927,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO YAMAMURA"
+    },
+    {
+      "played_at": "2026-03-22T08:00:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel A e Iniciantes A (Masc/Fem)",
+      "initial": 945,
+      "delta": -20,
+      "final": 925,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELIPE OLIVEIRA"
+    },
+    {
+      "played_at": "2026-02-22T11:00:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel A e Iniciantes A",
+      "initial": 965,
+      "delta": -20,
+      "final": 945,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MAURÍCIO VIEIRA"
+    },
+    {
+      "played_at": "2026-02-22T10:00:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel A e Iniciantes A",
+      "initial": 976,
+      "delta": -11,
+      "final": 965,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2025-12-09T13:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 996,
+      "delta": -20,
+      "final": 976,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL RODRIGUES"
+    },
+    {
+      "played_at": "2025-12-09T08:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 976,
+      "delta": 20,
+      "final": 996,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO RIFFEL"
+    },
+    {
+      "played_at": "2025-12-08T11:10:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 986,
+      "delta": -10,
+      "final": 976,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO FERREIRA"
+    },
+    {
+      "played_at": "2025-12-08T08:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 916,
+      "delta": 70,
+      "final": 986,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TULIO REGENSBURGER"
+    },
+    {
+      "played_at": "2025-11-20T14:15:00",
+      "event": "14ª ETAPA NIPPON COUNTRY CLUB - NÍVEL ELITE",
+      "initial": 916,
+      "delta": 0,
+      "final": 916,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS PAULA"
+    },
+    {
+      "played_at": "2025-11-20T13:50:00",
+      "event": "14ª ETAPA NIPPON COUNTRY CLUB - NÍVEL ELITE",
+      "initial": 916,
+      "delta": 0,
+      "final": 916,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LENNON UEHARA"
+    },
+    {
+      "played_at": "2025-10-05T13:25:00",
+      "event": "LIGA NIPO 2025 - 12ª ETAPA UCEG/GUARULHOS - NÍVEL ELITE",
+      "initial": 916,
+      "delta": 0,
+      "final": 916,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HIDEYOSHI TANAKA"
+    },
+    {
+      "played_at": "2025-10-05T12:35:00",
+      "event": "LIGA NIPO 2025 - 12ª ETAPA UCEG/GUARULHOS - NÍVEL ELITE",
+      "initial": 916,
+      "delta": 0,
+      "final": 916,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO SANTOS"
+    },
+    {
+      "played_at": "2025-10-05T12:10:00",
+      "event": "LIGA NIPO 2025 - 12ª ETAPA UCEG/GUARULHOS - NÍVEL ELITE",
+      "initial": 911,
+      "delta": 5,
+      "final": 916,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERICK MAENISHI"
+    },
+    {
+      "played_at": "2025-09-27T13:05:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 947,
+      "delta": -36,
+      "final": 911,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CRISTIAN MARTINELLI"
+    },
+    {
+      "played_at": "2025-09-27T11:50:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 949,
+      "delta": -2,
+      "final": 947,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO LIBERATORI"
+    },
+    {
+      "played_at": "2025-09-13T13:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 949,
+      "delta": 0,
+      "final": 949,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PLÍNIO AOKI"
+    },
+    {
+      "played_at": "2025-09-13T11:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 909,
+      "delta": 40,
+      "final": 949,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL GUEDES"
+    },
+    {
+      "played_at": "2025-09-13T09:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 899,
+      "delta": 10,
+      "final": 909,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO NASCIMENTO"
+    },
+    {
+      "played_at": "2025-09-13T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 889,
+      "delta": 10,
+      "final": 899,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI GAZOLLA"
+    },
+    {
+      "played_at": "2025-09-12T18:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 889,
+      "delta": 0,
+      "final": 889,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINÍCIUS SUNAMI"
+    },
+    {
+      "played_at": "2025-09-12T16:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 879,
+      "delta": 10,
+      "final": 889,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI PEREIRA"
+    },
+    {
+      "played_at": "2025-09-12T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 879,
+      "delta": 0,
+      "final": 879,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO BACALINE"
+    },
+    {
+      "played_at": "2025-08-30T10:10:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 887,
+      "delta": -8,
+      "final": 879,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI LEAO"
+    },
+    {
+      "played_at": "2025-08-30T08:55:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 899,
+      "delta": -12,
+      "final": 887,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LÉO RIBEIRO"
+    },
+    {
+      "played_at": "2025-08-17T19:30:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel B, C e D",
+      "initial": 919,
+      "delta": -20,
+      "final": 899,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATHEUS OLIVEIRA"
+    },
+    {
+      "played_at": "2025-08-17T19:00:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel B, C e D",
+      "initial": 916,
+      "delta": 3,
+      "final": 919,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ARTHUR LOTFI"
+    },
+    {
+      "played_at": "2025-08-17T18:30:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel B, C e D",
+      "initial": 914,
+      "delta": 2,
+      "final": 916,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS SILVA"
+    },
+    {
+      "played_at": "2025-08-17T17:00:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel B, C e D",
+      "initial": 912,
+      "delta": 2,
+      "final": 914,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEANDRO PEDROZO"
+    },
+    {
+      "played_at": "2025-08-17T16:30:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel B, C e D",
+      "initial": 910,
+      "delta": 2,
+      "final": 912,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO JUNIOR"
+    },
+    {
+      "played_at": "2025-08-17T14:15:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel A",
+      "initial": 907,
+      "delta": 3,
+      "final": 910,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE MATTA"
+    },
+    {
+      "played_at": "2025-08-17T13:45:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel A",
+      "initial": 905,
+      "delta": 2,
+      "final": 907,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROQUE KUSHIYAMA"
+    },
+    {
+      "played_at": "2025-08-17T12:15:00",
+      "event": "TMB Regional - 8ª Etapa Liga Digital Table Tennis - Master Pong - Nivel A",
+      "initial": 902,
+      "delta": 3,
+      "final": 905,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FELIPE MATTA"
+    },
+    {
+      "played_at": "2025-08-10T17:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 957,
+      "delta": -55,
+      "final": 902,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JÚLIO PEREIRA"
+    },
+    {
+      "played_at": "2025-08-10T17:15:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 932,
+      "delta": 25,
+      "final": 957,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALAN TAJERO"
+    },
+    {
+      "played_at": "2025-08-10T16:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 912,
+      "delta": 20,
+      "final": 932,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ENZO TOMITA"
+    },
+    {
+      "played_at": "2025-08-10T15:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 892,
+      "delta": 20,
+      "final": 912,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO MIYATAKE"
+    },
+    {
+      "played_at": "2025-08-10T10:35:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 867,
+      "delta": 25,
+      "final": 892,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2025-08-10T08:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 852,
+      "delta": 15,
+      "final": 867,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CARVALHO"
+    },
+    {
+      "played_at": "2025-08-09T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 867,
+      "delta": -15,
+      "final": 852,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO MORAES"
+    },
+    {
+      "played_at": "2025-08-09T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 807,
+      "delta": 60,
+      "final": 867,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HEITOR CRUZ"
+    },
+    {
+      "played_at": "2025-08-09T11:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 692,
+      "delta": 115,
+      "final": 807,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DAVI LEAO"
+    },
+    {
+      "played_at": "2025-08-09T09:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 672,
+      "delta": 20,
+      "final": 692,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2025-08-09T08:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 572,
+      "delta": 100,
+      "final": 672,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUILHERME FERREIRA"
+    },
+    {
+      "played_at": "2025-08-08T12:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 577,
+      "delta": -5,
+      "final": 572,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DAVI LEAO"
+    },
+    {
+      "played_at": "2025-08-08T11:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 427,
+      "delta": 150,
+      "final": 577,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO MORAES"
+    },
+    {
+      "played_at": "2025-08-08T10:35:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 427,
+      "delta": 0,
+      "final": 427,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "IGOR TENGAN"
+    },
+    {
+      "played_at": "2025-08-08T09:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 397,
+      "delta": 30,
+      "final": 427,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO CARDOSO"
+    },
+    {
+      "played_at": "2025-06-21T13:05:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 397,
+      "delta": 0,
+      "final": 397,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR FUKUDA"
+    },
+    {
+      "played_at": "2025-06-21T10:35:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 397,
+      "delta": 0,
+      "final": 397,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LIBERATORI"
+    },
+    {
+      "played_at": "2025-06-01T15:30:00",
+      "event": "LIGA NIPO 2025 - 6ª ETAPA ITAQUERA NIKKEY CLUB - A",
+      "initial": 400,
+      "delta": -3,
+      "final": 397,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO DIAS"
+    },
+    {
+      "played_at": "2025-06-01T15:05:00",
+      "event": "LIGA NIPO 2025 - 6ª ETAPA ITAQUERA NIKKEY CLUB - A",
+      "initial": 386,
+      "delta": 14,
+      "final": 400,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS NEGRETI"
+    },
+    {
+      "played_at": "2025-06-01T14:15:00",
+      "event": "LIGA NIPO 2025 - 6ª ETAPA ITAQUERA NIKKEY CLUB - A",
+      "initial": 375,
+      "delta": 11,
+      "final": 386,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FABRÍCIO BERTELA"
+    },
+    {
+      "played_at": "2025-06-01T13:00:00",
+      "event": "LIGA NIPO 2025 - 6ª ETAPA ITAQUERA NIKKEY CLUB - A",
+      "initial": 367,
+      "delta": 8,
+      "final": 375,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE MATOS"
+    },
+    {
+      "played_at": "2025-06-01T11:20:00",
+      "event": "LIGA NIPO 2025 - 6ª ETAPA ITAQUERA NIKKEY CLUB - A",
+      "initial": 351,
+      "delta": 16,
+      "final": 367,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUSTAVO VAZ"
+    },
+    {
+      "played_at": "2025-06-01T10:55:00",
+      "event": "LIGA NIPO 2025 - 6ª ETAPA ITAQUERA NIKKEY CLUB - A",
+      "initial": 343,
+      "delta": 8,
+      "final": 351,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL RIBEIRO"
+    },
+    {
+      "played_at": "2025-05-01T12:35:00",
+      "event": "LIGA NIPO 2025 - 5ª ETAPA NIPPON COUNTRY CLUB - NÍVEL A",
+      "initial": 352,
+      "delta": -9,
+      "final": 343,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "WALLACE HIGA"
+    },
+    {
+      "played_at": "2025-05-01T10:05:00",
+      "event": "LIGA NIPO 2025 - 5ª ETAPA NIPPON COUNTRY CLUB - NÍVEL A",
+      "initial": 358,
+      "delta": -6,
+      "final": 352,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2025-05-01T09:40:00",
+      "event": "LIGA NIPO 2025 - 5ª ETAPA NIPPON COUNTRY CLUB - NÍVEL A",
+      "initial": 350,
+      "delta": 8,
+      "final": 358,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS SAKAUE"
+    },
+    {
+      "played_at": "2025-02-23T14:00:00",
+      "event": "LIGA NIPO 2025 - 2ª Etapa Cooper Cotia - Nível A",
+      "initial": 359,
+      "delta": -9,
+      "final": 350,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PEDRO YAMAMURA"
+    },
+    {
+      "played_at": "2025-02-23T11:05:00",
+      "event": "LIGA NIPO 2025 - 2ª Etapa Cooper Cotia - Nível A",
+      "initial": 350,
+      "delta": 9,
+      "final": 359,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS NEGRETI"
+    },
+    {
+      "played_at": "2025-02-23T10:40:00",
+      "event": "LIGA NIPO 2025 - 2ª Etapa Cooper Cotia - Nível A",
+      "initial": 362,
+      "delta": -12,
+      "final": 350,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRY TAGAMI"
+    },
+    {
+      "played_at": "2024-11-15T13:10:00",
+      "event": "TMB Regional - 12ª Etapa - Liga Nipo Brasileira de Tênis de Mesa Nível A - São Paulo/SP - 2024 ...",
+      "initial": 366,
+      "delta": -4,
+      "final": 362,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE MARESCA"
+    },
+    {
+      "played_at": "2024-11-15T12:20:00",
+      "event": "TMB Regional - 12ª Etapa - Liga Nipo Brasileira de Tênis de Mesa Nível A - São Paulo/SP - 2024 ...",
+      "initial": 354,
+      "delta": 12,
+      "final": 366,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO OBASE"
+    },
+    {
+      "played_at": "2024-11-15T09:25:00",
+      "event": "TMB Regional - 12ª Etapa - Liga Nipo Brasileira de Tênis de Mesa Nível A - São Paulo/SP - 2024 ...",
+      "initial": 346,
+      "delta": 8,
+      "final": 354,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HENRY TAGAMI"
+    },
+    {
+      "played_at": "2024-11-15T09:00:00",
+      "event": "TMB Regional - 12ª Etapa - Liga Nipo Brasileira de Tênis de Mesa Nível A - São Paulo/SP - 2024 ...",
+      "initial": 330,
+      "delta": 16,
+      "final": 346,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "THIAGO ISHII"
+    },
+    {
+      "played_at": "2024-09-22T12:45:00",
+      "event": "10ª Etapa / 20 ANOS /Liga Nipo Brasileira de Tênis de Mesa - SANTO ANDRÉ - Nível A",
+      "initial": 335,
+      "delta": -5,
+      "final": 330,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO ISHIOKA"
+    },
+    {
+      "played_at": "2024-09-22T11:55:00",
+      "event": "10ª Etapa / 20 ANOS /Liga Nipo Brasileira de Tênis de Mesa - SANTO ANDRÉ - Nível A",
+      "initial": 323,
+      "delta": 12,
+      "final": 335,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO OBASE"
+    },
+    {
+      "played_at": "2024-09-22T09:50:00",
+      "event": "10ª Etapa / 20 ANOS /Liga Nipo Brasileira de Tênis de Mesa - SANTO ANDRÉ - Nível A",
+      "initial": 329,
+      "delta": -6,
+      "final": 323,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO ISHII"
+    },
+    {
+      "played_at": "2024-08-04T12:45:00",
+      "event": "8ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2024 - Nível A",
+      "initial": 335,
+      "delta": -6,
+      "final": 329,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO ISHII"
+    },
+    {
+      "played_at": "2024-08-04T10:40:00",
+      "event": "8ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2024 - Nível A",
+      "initial": 341,
+      "delta": -6,
+      "final": 335,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO ISHIOKA"
+    },
+    {
+      "played_at": "2024-08-04T10:15:00",
+      "event": "8ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2024 - Nível A",
+      "initial": 329,
+      "delta": 12,
+      "final": 341,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO OBASE"
+    },
+    {
+      "played_at": "2024-06-30T15:15:00",
+      "event": "Liga Nipo Brasileira de Tênis de Mesa 20 Anos - 7ª Etapa - ACREPA - Nível B",
+      "initial": 317,
+      "delta": 12,
+      "final": 329,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO YAMAMURA"
+    },
+    {
+      "played_at": "2024-06-30T14:50:00",
+      "event": "Liga Nipo Brasileira de Tênis de Mesa 20 Anos - 7ª Etapa - ACREPA - Nível B",
+      "initial": 299,
+      "delta": 18,
+      "final": 317,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO DIAS"
+    },
+    {
+      "played_at": "2024-06-30T14:25:00",
+      "event": "Liga Nipo Brasileira de Tênis de Mesa 20 Anos - 7ª Etapa - ACREPA - Nível B",
+      "initial": 285,
+      "delta": 14,
+      "final": 299,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2024-06-30T13:35:00",
+      "event": "Liga Nipo Brasileira de Tênis de Mesa 20 Anos - 7ª Etapa - ACREPA - Nível B",
+      "initial": 275,
+      "delta": 10,
+      "final": 285,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMUEL MELO"
+    },
+    {
+      "played_at": "2024-06-30T11:05:00",
+      "event": "Liga Nipo Brasileira de Tênis de Mesa 20 Anos - 7ª Etapa - ACREPA - Nível B",
+      "initial": 265,
+      "delta": 10,
+      "final": 275,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS NEGRETI"
+    },
+    {
+      "played_at": "2024-06-30T10:40:00",
+      "event": "Liga Nipo Brasileira de Tênis de Mesa 20 Anos - 7ª Etapa - ACREPA - Nível B",
+      "initial": 255,
+      "delta": 10,
+      "final": 265,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO.GOUVÊA FERREIRA"
+    },
+    {
+      "played_at": "2024-06-02T14:00:00",
+      "event": "20 Anos da Liga Nipo - 6ª Etapa - Três Coroas/Itaquera - Nível B",
+      "initial": 262,
+      "delta": -7,
+      "final": 255,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALEXANDRE IHA"
+    },
+    {
+      "played_at": "2024-06-02T11:05:00",
+      "event": "20 Anos da Liga Nipo - 6ª Etapa - Três Coroas/Itaquera - Nível B",
+      "initial": 271,
+      "delta": -9,
+      "final": 262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL ARAUJO"
+    },
+    {
+      "played_at": "2024-06-02T10:40:00",
+      "event": "20 Anos da Liga Nipo - 6ª Etapa - Três Coroas/Itaquera - Nível B",
+      "initial": 263,
+      "delta": 8,
+      "final": 271,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME MESQUITA"
+    },
+    {
+      "played_at": "2024-02-25T16:55:00",
+      "event": "TMB Regional - 2ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2023 - Nível B",
+      "initial": 272,
+      "delta": -9,
+      "final": 263,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRY TAGAMI"
+    },
+    {
+      "played_at": "2024-02-25T16:05:00",
+      "event": "TMB Regional - 2ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2023 - Nível B",
+      "initial": 260,
+      "delta": 12,
+      "final": 272,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE HARADA"
+    },
+    {
+      "played_at": "2024-02-25T15:15:00",
+      "event": "TMB Regional - 2ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2023 - Nível B",
+      "initial": 251,
+      "delta": 9,
+      "final": 260,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROQUE KUSHIYAMA"
+    },
+    {
+      "played_at": "2024-02-25T11:05:00",
+      "event": "TMB Regional - 2ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2023 - Nível B",
+      "initial": 259,
+      "delta": -8,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO YAMAMURA"
+    },
+    {
+      "played_at": "2024-02-25T10:40:00",
+      "event": "TMB Regional - 2ª Etapa/Liga Nipo Brasileira de Tênis de Mesa - Cooper Cotia/SP 2023 - Nível B",
+      "initial": 250,
+      "delta": 9,
+      "final": 259,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO BARBOSA ............."
+    }
+  ]
+}

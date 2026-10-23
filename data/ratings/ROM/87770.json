@@ -1,0 +1,727 @@
+{
+  "associate_id": 87770,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87770&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T13:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 1021,
+      "delta": -36,
+      "final": 985,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2026-09-20T13:00:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 949,
+      "delta": 72,
+      "final": 1021,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YUMIKO COUTINHO"
+    },
+    {
+      "played_at": "2026-09-20T12:00:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 829,
+      "delta": 120,
+      "final": 949,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCYENE CARMO"
+    },
+    {
+      "played_at": "2026-09-20T10:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 883,
+      "delta": -54,
+      "final": 829,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CARLA VIEIRA"
+    },
+    {
+      "played_at": "2026-09-19T10:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 859,
+      "delta": 24,
+      "final": 883,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SINDY SANTANA"
+    },
+    {
+      "played_at": "2026-09-19T09:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 889,
+      "delta": -30,
+      "final": 859,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-09-19T08:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 889,
+      "delta": 0,
+      "final": 889,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIELA CARVALHO"
+    },
+    {
+      "played_at": "2026-09-13T15:30:00",
+      "event": "TMB Distrital - 6ª Etapa - Brasília/DF - 2026",
+      "initial": 925,
+      "delta": -36,
+      "final": 889,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-09-13T13:30:00",
+      "event": "TMB Distrital - 6ª Etapa - Brasília/DF - 2026",
+      "initial": 931,
+      "delta": -6,
+      "final": 925,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUANA ANDRADE"
+    },
+    {
+      "played_at": "2026-09-13T13:00:00",
+      "event": "TMB Distrital - 6ª Etapa - Brasília/DF - 2026",
+      "initial": 940,
+      "delta": -9,
+      "final": 931,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DÉBORA DIAMANTINO"
+    },
+    {
+      "played_at": "2026-09-13T10:30:00",
+      "event": "TMB Distrital - 6ª Etapa - Brasília/DF - 2026",
+      "initial": 931,
+      "delta": 9,
+      "final": 940,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA SOUZA"
+    },
+    {
+      "played_at": "2026-09-13T09:30:00",
+      "event": "TMB Distrital - 6ª Etapa - Brasília/DF - 2026",
+      "initial": 937,
+      "delta": -6,
+      "final": 931,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROSEMARY VABO"
+    },
+    {
+      "played_at": "2026-09-13T08:30:00",
+      "event": "TMB Distrital - 6ª Etapa - Brasília/DF - 2026",
+      "initial": 952,
+      "delta": -15,
+      "final": 937,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SANDRA PINHEIRO"
+    },
+    {
+      "played_at": "2026-08-16T15:00:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 967,
+      "delta": -15,
+      "final": 952,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÉBORA DIAMANTINO"
+    },
+    {
+      "played_at": "2026-08-16T14:30:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 943,
+      "delta": 24,
+      "final": 967,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-08-16T14:00:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 937,
+      "delta": 6,
+      "final": 943,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FLÁVIA VIANNA"
+    },
+    {
+      "played_at": "2026-08-16T13:30:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 955,
+      "delta": -18,
+      "final": 937,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2026-08-16T11:30:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 970,
+      "delta": -15,
+      "final": 955,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DÉBORA DIAMANTINO"
+    },
+    {
+      "played_at": "2026-08-16T11:00:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 946,
+      "delta": 24,
+      "final": 970,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-08-16T10:30:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 856,
+      "delta": 90,
+      "final": 946,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROSEMARY VABO"
+    },
+    {
+      "played_at": "2026-08-16T10:00:00",
+      "event": "TMB Distrital - 5ª Etapa Brasília/DF - 2026",
+      "initial": 814,
+      "delta": 42,
+      "final": 856,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IARA DIAS"
+    },
+    {
+      "played_at": "2026-07-18T17:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 784,
+      "delta": 30,
+      "final": 814,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MANUELLA BAZO"
+    },
+    {
+      "played_at": "2026-07-18T15:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 892,
+      "delta": -108,
+      "final": 784,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIANA CARAMORE"
+    },
+    {
+      "played_at": "2026-07-18T09:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 892,
+      "delta": 0,
+      "final": 892,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA BREGANHOLI"
+    },
+    {
+      "played_at": "2026-07-18T08:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 892,
+      "delta": 0,
+      "final": 892,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARA RODRIGUES"
+    },
+    {
+      "played_at": "2026-07-17T16:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 892,
+      "delta": 0,
+      "final": 892,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA ARAÚJO"
+    },
+    {
+      "played_at": "2026-07-17T15:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 712,
+      "delta": 180,
+      "final": 892,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ISABELLA BREGANHOLI"
+    },
+    {
+      "played_at": "2026-07-17T14:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 640,
+      "delta": 72,
+      "final": 712,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2026-07-12T15:00:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2026",
+      "initial": 643,
+      "delta": -3,
+      "final": 640,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DÉBORA DIAMANTINO"
+    },
+    {
+      "played_at": "2026-07-12T14:00:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2026",
+      "initial": 652,
+      "delta": -9,
+      "final": 643,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-07-12T12:30:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2026",
+      "initial": 661,
+      "delta": -9,
+      "final": 652,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2026-07-12T09:30:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2026",
+      "initial": 670,
+      "delta": -9,
+      "final": 661,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2026-07-12T08:30:00",
+      "event": "TMB Distrital - 4ª Etapa Brasília/DF - 2026",
+      "initial": 670,
+      "delta": 0,
+      "final": 670,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VIVIANE MACHADO"
+    },
+    {
+      "played_at": "2026-06-28T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 688,
+      "delta": -18,
+      "final": 670,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ COSTA"
+    },
+    {
+      "played_at": "2026-06-28T09:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 634,
+      "delta": 54,
+      "final": 688,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "AMANDA MARTINS"
+    },
+    {
+      "played_at": "2026-06-28T08:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 400,
+      "delta": 234,
+      "final": 634,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-06-27T11:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 400,
+      "delta": 0,
+      "final": 400,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZA BARRETO"
+    },
+    {
+      "played_at": "2026-06-27T10:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 562,
+      "delta": -162,
+      "final": 400,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANDRESSA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 562,
+      "delta": 0,
+      "final": 562,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA ARAÚJO"
+    },
+    {
+      "played_at": "2026-06-26T19:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 562,
+      "delta": 0,
+      "final": 562,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE PUREZA"
+    },
+    {
+      "played_at": "2026-04-12T19:00:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 565,
+      "delta": -3,
+      "final": 562,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROSEMARY VABO"
+    },
+    {
+      "played_at": "2026-04-12T16:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 496,
+      "delta": 69,
+      "final": 565,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YUMIKO COUTINHO"
+    },
+    {
+      "played_at": "2026-04-12T15:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 406,
+      "delta": 90,
+      "final": 496,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SANDRA PINHEIRO"
+    },
+    {
+      "played_at": "2026-04-12T12:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 424,
+      "delta": -18,
+      "final": 406,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-04-12T12:00:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 370,
+      "delta": 54,
+      "final": 424,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA ZAGO"
+    },
+    {
+      "played_at": "2026-04-12T09:30:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 379,
+      "delta": -9,
+      "final": 370,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2026-04-12T08:00:00",
+      "event": "TMB Distrital - 2ª Etapa Brasília/DF - 2026",
+      "initial": 364,
+      "delta": 15,
+      "final": 379,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELENA BRIGIDO"
+    },
+    {
+      "played_at": "2026-03-15T18:00:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 373,
+      "delta": -9,
+      "final": 364,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2026-03-15T16:30:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 373,
+      "delta": 0,
+      "final": 373,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROSEMARY VABO"
+    },
+    {
+      "played_at": "2026-03-15T15:30:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 373,
+      "delta": 0,
+      "final": 373,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SANDRA PINHEIRO"
+    },
+    {
+      "played_at": "2026-03-15T11:00:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 358,
+      "delta": 15,
+      "final": 373,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELENA BRIGIDO"
+    },
+    {
+      "played_at": "2026-03-15T09:30:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 367,
+      "delta": -9,
+      "final": 358,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIANA ZAGO"
+    },
+    {
+      "played_at": "2026-03-15T09:00:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 346,
+      "delta": 21,
+      "final": 367,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANNA TIAGO"
+    },
+    {
+      "played_at": "2026-03-15T08:30:00",
+      "event": "TMB Distrital - 1ª Etapa Brasília/DF - 2026",
+      "initial": 286,
+      "delta": 60,
+      "final": 346,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAELA SILVA"
+    },
+    {
+      "played_at": "2025-09-07T17:54:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Olímpico - Ranking - Rating",
+      "initial": 268,
+      "delta": 18,
+      "final": 286,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BÁRBARA RESENDE"
+    },
+    {
+      "played_at": "2025-09-07T17:00:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Olímpico - Ranking - Rating",
+      "initial": 268,
+      "delta": 0,
+      "final": 268,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROSANA OLIVEIRA"
+    },
+    {
+      "played_at": "2025-09-07T16:30:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Olímpico - Ranking - Rating",
+      "initial": 246,
+      "delta": 22,
+      "final": 268,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BÁRBARA RESENDE"
+    },
+    {
+      "played_at": "2025-09-07T14:30:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Olímpico - Ranking - Rating",
+      "initial": 224,
+      "delta": 22,
+      "final": 246,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELENA BRIGIDO"
+    },
+    {
+      "played_at": "2025-09-07T14:29:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Olímpico - Ranking - Rating",
+      "initial": 242,
+      "delta": -18,
+      "final": 224,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIANA ZAGO"
+    },
+    {
+      "played_at": "2025-09-07T14:28:00",
+      "event": "TMB Distrital - 6ª Etapa Brasília/DF - 2025 - Olímpico - Ranking - Rating",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAELA SILVA ............."
+    }
+  ]
+}

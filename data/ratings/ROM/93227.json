@@ -1,0 +1,43 @@
+{
+  "associate_id": 93227,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93227&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-13T10:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 181,
+      "delta": -15,
+      "final": 166,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO CERQUEIRA"
+    },
+    {
+      "played_at": "2026-06-13T09:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 208,
+      "delta": -27,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN SOUZA"
+    },
+    {
+      "played_at": "2026-06-13T08:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -42,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OTAVIO LOUREIRO ............."
+    }
+  ]
+}

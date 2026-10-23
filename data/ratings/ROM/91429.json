@@ -1,0 +1,43 @@
+{
+  "associate_id": 91429,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91429&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T10:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 268,
+      "delta": -15,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LIMA"
+    },
+    {
+      "played_at": "2026-03-14T08:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 214,
+      "delta": 54,
+      "final": 268,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS MASSARO"
+    },
+    {
+      "played_at": "2026-03-14T08:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -36,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JEFFERSON LEMOS ............."
+    }
+  ]
+}

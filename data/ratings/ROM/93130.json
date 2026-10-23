@@ -1,0 +1,91 @@
+{
+  "associate_id": 93130,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93130&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-28T11:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 484,
+      "delta": -54,
+      "final": 430,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAIO MEDEIROS"
+    },
+    {
+      "played_at": "2026-06-28T09:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 430,
+      "delta": 54,
+      "final": 484,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KEVEM CARVALHO"
+    },
+    {
+      "played_at": "2026-06-27T17:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 358,
+      "delta": 72,
+      "final": 430,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO PEREIRA"
+    },
+    {
+      "played_at": "2026-06-27T15:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 151,
+      "delta": 207,
+      "final": 358,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ENZO CARVALHO"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": -99,
+      "final": 151,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ELIVAN FAUSTINO"
+    },
+    {
+      "played_at": "2026-06-26T19:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAUÃ VENTURA"
+    },
+    {
+      "played_at": "2026-06-26T18:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS REIS ............."
+    }
+  ]
+}

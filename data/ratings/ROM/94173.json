@@ -1,0 +1,31 @@
+{
+  "associate_id": 94173,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94173&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T09:00:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Pelota/RS - 2026",
+      "initial": 260,
+      "delta": -3,
+      "final": 257,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "SOFIA NEGRINI"
+    },
+    {
+      "played_at": "2026-08-01T08:30:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Pelota/RS - 2026",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "AMANDA ACOSTA ............."
+    }
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "associate_id": 87113,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87113&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-04T10:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 152,
+      "delta": 0,
+      "final": 152,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN HILLA"
+    },
+    {
+      "played_at": "2026-09-04T09:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Olímpico",
+      "initial": 161,
+      "delta": -9,
+      "final": 152,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENRICO LAGES"
+    },
+    {
+      "played_at": "2026-08-30T14:15:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 167,
+      "delta": -6,
+      "final": 161,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KLAUSS BORGES"
+    },
+    {
+      "played_at": "2026-08-30T13:25:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 170,
+      "delta": -3,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ÍTALO CAMPOS"
+    },
+    {
+      "played_at": "2026-08-30T10:05:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 171,
+      "delta": -1,
+      "final": 170,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRE SANTOS"
+    },
+    {
+      "played_at": "2026-08-30T08:25:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 176,
+      "delta": -5,
+      "final": 171,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROMILDO NETO"
+    },
+    {
+      "played_at": "2026-08-15T10:30:00",
+      "event": "TMB Estadual - 4ª Etapa do Campeonato Cearense 2026 - Fortaleza/CE - Olímpico",
+      "initial": 128,
+      "delta": 48,
+      "final": 176,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VINÍCIUS BENEVIDES"
+    },
+    {
+      "played_at": "2026-08-15T09:15:00",
+      "event": "TMB Estadual - 4ª Etapa do Campeonato Cearense 2026 - Fortaleza/CE - Olímpico",
+      "initial": 134,
+      "delta": -6,
+      "final": 128,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI PESSOA"
+    },
+    {
+      "played_at": "2026-08-15T08:25:00",
+      "event": "TMB Estadual - 4ª Etapa do Campeonato Cearense 2026 - Fortaleza/CE - Olímpico",
+      "initial": 140,
+      "delta": -6,
+      "final": 134,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRE SANTOS"
+    },
+    {
+      "played_at": "2026-07-31T14:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 176,
+      "delta": -36,
+      "final": 140,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR SILVA"
+    },
+    {
+      "played_at": "2026-07-31T12:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 194,
+      "delta": -18,
+      "final": 176,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOAQUIM BELLO"
+    },
+    {
+      "played_at": "2026-07-31T09:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 86,
+      "delta": 108,
+      "final": 194,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LORENZO ALMEIDA"
+    },
+    {
+      "played_at": "2026-06-20T10:05:00",
+      "event": "TMB Estadual - Campeonato Cearense 2026 - 3ª Etapa - Fortaleza/CE (Olímpico)",
+      "initial": 53,
+      "delta": 33,
+      "final": 86,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR OLIVEIRA"
+    },
+    {
+      "played_at": "2026-06-20T08:50:00",
+      "event": "TMB Estadual - Campeonato Cearense 2026 - 3ª Etapa - Fortaleza/CE (Olímpico)",
+      "initial": 56,
+      "delta": -3,
+      "final": 53,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR MAGALHÃES"
+    },
+    {
+      "played_at": "2026-06-20T08:00:00",
+      "event": "TMB Estadual - Campeonato Cearense 2026 - 3ª Etapa - Fortaleza/CE (Olímpico)",
+      "initial": 68,
+      "delta": -12,
+      "final": 56,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MOISÉS DANTAS"
+    },
+    {
+      "played_at": "2026-05-16T13:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 68,
+      "delta": 0,
+      "final": 68,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE JACON"
+    },
+    {
+      "played_at": "2026-05-16T11:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 248,
+      "delta": -180,
+      "final": 68,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN CHOI"
+    },
+    {
+      "played_at": "2026-05-02T21:19:00",
+      "event": "TMB Regional - Liga Grilo TM - 4ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 257,
+      "delta": -9,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE MAGALHÃES"
+    },
+    {
+      "played_at": "2026-05-02T15:30:00",
+      "event": "TMB Regional - Liga Grilo TM - 4ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 260,
+      "delta": -3,
+      "final": 257,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR MAGALHÃES"
+    },
+    {
+      "played_at": "2026-05-02T15:05:00",
+      "event": "TMB Regional - Liga Grilo TM - 4ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 265,
+      "delta": -5,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEX SALES"
+    },
+    {
+      "played_at": "2026-05-02T14:46:00",
+      "event": "TMB Regional - Liga Grilo TM - 4ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 255,
+      "delta": 10,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINÍCIUS BENEVIDES"
+    },
+    {
+      "played_at": "2026-05-02T13:25:00",
+      "event": "TMB Regional - Liga Grilo TM - 4ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 249,
+      "delta": 6,
+      "final": 255,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-02T08:09:00",
+      "event": "TMB Regional - Liga Grilo TM - 4ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 252,
+      "delta": -3,
+      "final": 249,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR MAGALHÃES"
+    },
+    {
+      "played_at": "2026-04-25T10:30:00",
+      "event": "TMB Estadual - Campeonato Cearense - 2ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL MATOS"
+    },
+    {
+      "played_at": "2026-04-25T09:15:00",
+      "event": "TMB Estadual - Campeonato Cearense - 2ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOAQUIM AGUIAR"
+    },
+    {
+      "played_at": "2026-04-25T08:00:00",
+      "event": "TMB Estadual - Campeonato Cearense - 2ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-12T12:35:00",
+      "event": "TMB Regional - Liga Grilo TM - 3ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 255,
+      "delta": -3,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL FILHO"
+    },
+    {
+      "played_at": "2026-04-12T10:55:00",
+      "event": "TMB Regional - Liga Grilo TM - 3ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 259,
+      "delta": -4,
+      "final": 255,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR MAGALHÃES"
+    },
+    {
+      "played_at": "2026-04-12T09:15:00",
+      "event": "TMB Regional - Liga Grilo TM - 3ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 268,
+      "delta": -9,
+      "final": 259,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRIQUE MAGALHÃES"
+    },
+    {
+      "played_at": "2026-03-08T13:50:00",
+      "event": "TMB Regional - Liga Grilo TM - 2ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 271,
+      "delta": -3,
+      "final": 268,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL FILHO"
+    },
+    {
+      "played_at": "2026-03-08T11:20:00",
+      "event": "TMB Regional - Liga Grilo TM - 2ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 262,
+      "delta": 9,
+      "final": 271,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LÉO HOLANDA"
+    },
+    {
+      "played_at": "2026-03-08T08:50:00",
+      "event": "TMB Regional - Liga Grilo TM - 2ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 273,
+      "delta": -11,
+      "final": 262,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRIQUE MAGALHÃES"
+    },
+    {
+      "played_at": "2026-02-28T11:45:00",
+      "event": "TMB Estadual - Campeonato Cearense - 1ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 297,
+      "delta": -24,
+      "final": 273,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO SILVA"
+    },
+    {
+      "played_at": "2026-02-28T10:30:00",
+      "event": "TMB Estadual - Campeonato Cearense - 1ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 267,
+      "delta": 30,
+      "final": 297,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LÉO HOLANDA"
+    },
+    {
+      "played_at": "2026-02-28T09:40:00",
+      "event": "TMB Estadual - Campeonato Cearense - 1ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 282,
+      "delta": -15,
+      "final": 267,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL FILHO"
+    },
+    {
+      "played_at": "2026-02-28T08:25:00",
+      "event": "TMB Estadual - Campeonato Cearense - 1ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 264,
+      "delta": 18,
+      "final": 282,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ARTHUR OLIVEIRA"
+    },
+    {
+      "played_at": "2026-02-01T10:55:00",
+      "event": "TMB Regional - Liga Grilo TM - 1ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 275,
+      "delta": -11,
+      "final": 264,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS ANDRADE"
+    },
+    {
+      "played_at": "2026-02-01T09:40:00",
+      "event": "TMB Regional - Liga Grilo TM - 1ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 285,
+      "delta": -10,
+      "final": 275,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR MAGALHÃES"
+    },
+    {
+      "played_at": "2026-02-01T09:15:00",
+      "event": "TMB Regional - Liga Grilo TM - 1ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 280,
+      "delta": 5,
+      "final": 285,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR OLIVEIRA"
+    },
+    {
+      "played_at": "2026-02-01T08:00:00",
+      "event": "TMB Regional - Liga Grilo TM - 1ª Etapa - Individual - Fortaleza/CE 2026",
+      "initial": 291,
+      "delta": -11,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS ANDRADE"
+    },
+    {
+      "played_at": "2025-12-20T22:41:00",
+      "event": "TMB Regional - Liga Grilo TM - 9ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 302,
+      "delta": -11,
+      "final": 291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI PESSOA"
+    },
+    {
+      "played_at": "2025-12-20T16:29:00",
+      "event": "TMB Regional - Liga Grilo TM - 9ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 294,
+      "delta": 8,
+      "final": 302,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GAEL ESTECHE"
+    },
+    {
+      "played_at": "2025-12-20T12:35:00",
+      "event": "TMB Regional - Liga Grilo TM - 9ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 286,
+      "delta": 8,
+      "final": 294,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YAN GANDHI"
+    },
+    {
+      "played_at": "2025-12-20T11:20:00",
+      "event": "TMB Regional - Liga Grilo TM - 9ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 279,
+      "delta": 7,
+      "final": 286,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HENRIQUE MAGALHÃES"
+    },
+    {
+      "played_at": "2025-12-20T08:25:00",
+      "event": "TMB Regional - Liga Grilo TM - 9ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 291,
+      "delta": -12,
+      "final": 279,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DAVI PESSOA"
+    },
+    {
+      "played_at": "2025-11-08T13:50:00",
+      "event": "TMB Regional - Liga Grilo TM - 8ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 302,
+      "delta": -11,
+      "final": 291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATHEUS BECCO"
+    },
+    {
+      "played_at": "2025-11-08T12:10:00",
+      "event": "TMB Regional - Liga Grilo TM - 8ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 293,
+      "delta": 9,
+      "final": 302,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LÉO HOLANDA"
+    },
+    {
+      "played_at": "2025-11-08T09:15:00",
+      "event": "TMB Regional - Liga Grilo TM - 8ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 284,
+      "delta": 9,
+      "final": 293,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE FARIAS"
+    },
+    {
+      "played_at": "2025-10-25T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 298,
+      "delta": -14,
+      "final": 284,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAPHAEL FILHO"
+    },
+    {
+      "played_at": "2025-10-25T10:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 282,
+      "delta": 16,
+      "final": 298,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOAQUIM AGUIAR"
+    },
+    {
+      "played_at": "2025-10-25T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 302,
+      "delta": -20,
+      "final": 282,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL MATOS"
+    },
+    {
+      "played_at": "2025-10-25T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 286,
+      "delta": 16,
+      "final": 302,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FELIPE HOLANDA"
+    },
+    {
+      "played_at": "2025-09-27T15:05:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 288,
+      "delta": -2,
+      "final": 286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL XAVIER"
+    },
+    {
+      "played_at": "2025-09-27T13:50:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 292,
+      "delta": -4,
+      "final": 288,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS CARVALHO"
+    },
+    {
+      "played_at": "2025-09-27T12:10:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 266,
+      "delta": 26,
+      "final": 292,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXSANDRO LIMA"
+    },
+    {
+      "played_at": "2025-09-27T10:55:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 256,
+      "delta": 10,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI MIRANDA"
+    },
+    {
+      "played_at": "2025-09-27T09:15:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 248,
+      "delta": 8,
+      "final": 256,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL SILVA"
+    },
+    {
+      "played_at": "2025-09-27T08:00:00",
+      "event": "TMB Regional - Liga Grilo TM - 7ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 260,
+      "delta": -12,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS ANDRADE"
+    },
+    {
+      "played_at": "2025-08-30T11:20:00",
+      "event": "TMB Regional - Liga Grilo TM - 6ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 246,
+      "delta": 14,
+      "final": 260,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANTÔNIO FREITAS"
+    },
+    {
+      "played_at": "2025-08-30T10:30:00",
+      "event": "TMB Regional - Liga Grilo TM - 6ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 235,
+      "delta": 11,
+      "final": 246,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GAEL ESTECHE"
+    },
+    {
+      "played_at": "2025-08-30T09:40:00",
+      "event": "TMB Regional - Liga Grilo TM - 6ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 226,
+      "delta": 9,
+      "final": 235,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DANIEL MATOS"
+    },
+    {
+      "played_at": "2025-08-30T08:00:00",
+      "event": "TMB Regional - Liga Grilo TM - 6ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 214,
+      "delta": 12,
+      "final": 226,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE MAGALHÃES"
+    },
+    {
+      "played_at": "2025-07-26T20:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 192,
+      "delta": 22,
+      "final": 214,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIEL MATOS"
+    },
+    {
+      "played_at": "2025-07-26T19:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 206,
+      "delta": -14,
+      "final": 192,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELIPE HOLANDA"
+    },
+    {
+      "played_at": "2025-07-26T18:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 218,
+      "delta": -12,
+      "final": 206,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANTÔNIO FREITAS"
+    },
+    {
+      "played_at": "2025-07-26T14:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 234,
+      "delta": -16,
+      "final": 218,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL FILHO"
+    },
+    {
+      "played_at": "2025-06-21T12:10:00",
+      "event": "TMB Regional - Liga Grilo TM - 5ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 241,
+      "delta": -7,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO SERPA"
+    },
+    {
+      "played_at": "2025-06-21T11:45:00",
+      "event": "TMB Regional - Liga Grilo TM - 5ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO HOLANDA"
+    },
+    {
+      "played_at": "2025-06-21T10:30:00",
+      "event": "TMB Regional - Liga Grilo TM - 5ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 240,
+      "delta": 10,
+      "final": 250,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR SARAIVA"
+    },
+    {
+      "played_at": "2025-06-21T08:00:00",
+      "event": "TMB Regional - Liga Grilo TM - 5ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 251,
+      "delta": -11,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TITO ALENCAR"
+    },
+    {
+      "played_at": "2025-06-21T07:36:00",
+      "event": "TMB Regional - Liga Grilo TM - 5ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 242,
+      "delta": 9,
+      "final": 251,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELISEU GOMES"
+    },
+    {
+      "played_at": "2025-06-21T07:35:00",
+      "event": "TMB Regional - Liga Grilo TM - 5ª Etapa - Individual - Fortaleza/CE 2025",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MISINO ............."
+    }
+  ]
+}

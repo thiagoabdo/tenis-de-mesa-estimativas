@@ -1,0 +1,103 @@
+{
+  "associate_id": 94003,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94003&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-28T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 322,
+      "delta": 45,
+      "final": 367,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANCHES"
+    },
+    {
+      "played_at": "2026-06-28T09:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 367,
+      "delta": -45,
+      "final": 322,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LOHANE NASCIMENTO"
+    },
+    {
+      "played_at": "2026-06-28T08:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 412,
+      "delta": -45,
+      "final": 367,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ISADORA LIMA"
+    },
+    {
+      "played_at": "2026-06-26T11:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 412,
+      "delta": 0,
+      "final": 412,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LARA MELONIO"
+    },
+    {
+      "played_at": "2026-06-26T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 340,
+      "delta": 72,
+      "final": 412,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA BOAVENTURA"
+    },
+    {
+      "played_at": "2026-06-26T10:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": 90,
+      "final": 340,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2026-06-26T09:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANGELINA FERRONATO"
+    },
+    {
+      "played_at": "2026-06-26T08:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YUKARI SATO ............."
+    }
+  ]
+}

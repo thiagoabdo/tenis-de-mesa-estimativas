@@ -1,0 +1,895 @@
+{
+  "associate_id": 76475,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=76475&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T15:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 608,
+      "delta": -24,
+      "final": 584,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADÔNIS AZEVEDO"
+    },
+    {
+      "played_at": "2026-09-20T14:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 581,
+      "delta": 27,
+      "final": 608,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EFSON GOMES"
+    },
+    {
+      "played_at": "2026-09-20T14:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 581,
+      "delta": 0,
+      "final": 581,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO GARCIA"
+    },
+    {
+      "played_at": "2026-09-20T13:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 539,
+      "delta": 42,
+      "final": 581,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALEX CUNHA"
+    },
+    {
+      "played_at": "2026-09-20T13:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 539,
+      "delta": 0,
+      "final": 539,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL FURTADO"
+    },
+    {
+      "played_at": "2026-09-20T11:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 506,
+      "delta": 33,
+      "final": 539,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSEIAS BRAGA"
+    },
+    {
+      "played_at": "2026-09-20T11:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 506,
+      "delta": 0,
+      "final": 506,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2026-09-20T10:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 482,
+      "delta": 24,
+      "final": 506,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JANDERSON NECO"
+    },
+    {
+      "played_at": "2026-09-19T13:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 506,
+      "delta": -24,
+      "final": 482,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO COSTA"
+    },
+    {
+      "played_at": "2026-09-19T12:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 479,
+      "delta": 27,
+      "final": 506,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KEYTSON SILVA"
+    },
+    {
+      "played_at": "2026-09-19T11:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 455,
+      "delta": 24,
+      "final": 479,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LINNATO GOMES"
+    },
+    {
+      "played_at": "2026-09-19T10:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 428,
+      "delta": 27,
+      "final": 455,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO FILHO"
+    },
+    {
+      "played_at": "2026-09-19T08:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 461,
+      "delta": -33,
+      "final": 428,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALAN AMARAL"
+    },
+    {
+      "played_at": "2026-06-14T19:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 473,
+      "delta": -12,
+      "final": 461,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OSEIAS BRAGA"
+    },
+    {
+      "played_at": "2026-06-14T18:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 491,
+      "delta": -18,
+      "final": 473,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ADÔNIS AZEVEDO"
+    },
+    {
+      "played_at": "2026-06-14T17:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 491,
+      "delta": 0,
+      "final": 491,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2026-06-14T16:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 467,
+      "delta": 24,
+      "final": 491,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AFONSO FURTADO"
+    },
+    {
+      "played_at": "2026-06-14T16:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 467,
+      "delta": 0,
+      "final": 467,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL FURTADO"
+    },
+    {
+      "played_at": "2026-06-13T10:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 500,
+      "delta": -33,
+      "final": 467,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NEY FRANCO"
+    },
+    {
+      "played_at": "2026-06-13T08:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 530,
+      "delta": -30,
+      "final": 500,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MEDEIROS"
+    },
+    {
+      "played_at": "2026-03-29T14:15:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 557,
+      "delta": -27,
+      "final": 530,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO MEDEIROS"
+    },
+    {
+      "played_at": "2026-03-29T13:25:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 542,
+      "delta": 15,
+      "final": 557,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JANDERSON NECO"
+    },
+    {
+      "played_at": "2026-03-29T11:45:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 542,
+      "delta": 0,
+      "final": 542,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINI CUNHA"
+    },
+    {
+      "played_at": "2026-03-29T10:05:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 542,
+      "delta": 0,
+      "final": 542,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2026-03-29T09:15:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 527,
+      "delta": 15,
+      "final": 542,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAULO BELTRÃO"
+    },
+    {
+      "played_at": "2026-03-28T21:45:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 545,
+      "delta": -18,
+      "final": 527,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO MONTEIRO"
+    },
+    {
+      "played_at": "2026-03-28T21:20:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 512,
+      "delta": 33,
+      "final": 545,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-03-28T20:55:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 464,
+      "delta": 48,
+      "final": 512,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OSEIAS BRAGA"
+    },
+    {
+      "played_at": "2026-03-28T20:05:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 410,
+      "delta": 54,
+      "final": 464,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO MEDEIROS"
+    },
+    {
+      "played_at": "2026-03-28T19:40:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 368,
+      "delta": 42,
+      "final": 410,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIMUNDO SILVA"
+    },
+    {
+      "played_at": "2026-02-22T18:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 389,
+      "delta": -21,
+      "final": 368,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCIO BAIA"
+    },
+    {
+      "played_at": "2026-02-22T17:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 353,
+      "delta": 36,
+      "final": 389,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCIO BAIA"
+    },
+    {
+      "played_at": "2026-02-22T16:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 311,
+      "delta": 42,
+      "final": 353,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CAIO CASTRO"
+    },
+    {
+      "played_at": "2026-02-22T10:55:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 323,
+      "delta": -12,
+      "final": 311,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEX CUNHA"
+    },
+    {
+      "played_at": "2026-02-22T10:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 326,
+      "delta": -3,
+      "final": 323,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO CAMPOS"
+    },
+    {
+      "played_at": "2026-02-22T09:40:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 326,
+      "delta": 0,
+      "final": 326,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2026-02-21T21:30:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 338,
+      "delta": -12,
+      "final": 326,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO CRISCUOLO"
+    },
+    {
+      "played_at": "2026-02-21T21:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 356,
+      "delta": -18,
+      "final": 338,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO CARVALHO"
+    },
+    {
+      "played_at": "2026-02-21T20:00:00",
+      "event": "1º TMB Estadual campeonato Paraense 2026",
+      "initial": 326,
+      "delta": 30,
+      "final": 356,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDIVAL OLIVEIRA"
+    },
+    {
+      "played_at": "2025-11-30T11:20:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 332,
+      "delta": -6,
+      "final": 326,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENILSON MENEZES"
+    },
+    {
+      "played_at": "2025-11-30T09:40:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 348,
+      "delta": -16,
+      "final": 332,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JANDERSON NECO"
+    },
+    {
+      "played_at": "2025-11-30T08:50:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 334,
+      "delta": 14,
+      "final": 348,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAIRO SOUZA"
+    },
+    {
+      "played_at": "2025-11-29T15:58:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 334,
+      "delta": 0,
+      "final": 334,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2025-11-29T11:20:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 346,
+      "delta": -12,
+      "final": 334,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENILSON MENEZES"
+    },
+    {
+      "played_at": "2025-11-29T10:30:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 338,
+      "delta": 8,
+      "final": 346,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO SILVA"
+    },
+    {
+      "played_at": "2025-11-29T09:40:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 356,
+      "delta": -18,
+      "final": 338,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCAS SOUSA"
+    },
+    {
+      "played_at": "2025-11-29T09:15:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 340,
+      "delta": 16,
+      "final": 356,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSÉ PANTALEÃO"
+    },
+    {
+      "played_at": "2025-11-29T08:25:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 340,
+      "delta": 0,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINI CUNHA"
+    },
+    {
+      "played_at": "2025-11-29T08:00:00",
+      "event": "5º Etapa TMB Estadual campeonato Paraense 2025",
+      "initial": 328,
+      "delta": 12,
+      "final": 340,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAUDELINO CALDAS"
+    },
+    {
+      "played_at": "2025-10-05T10:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 338,
+      "delta": -10,
+      "final": 328,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL CAMACHO"
+    },
+    {
+      "played_at": "2025-10-05T09:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 352,
+      "delta": -14,
+      "final": 338,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI CAROLINO"
+    },
+    {
+      "played_at": "2025-10-04T15:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 356,
+      "delta": -4,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO GARCIA"
+    },
+    {
+      "played_at": "2025-10-04T15:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 340,
+      "delta": 16,
+      "final": 356,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAIRO SOUZA"
+    },
+    {
+      "played_at": "2025-10-04T14:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 340,
+      "delta": 0,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL FURTADO"
+    },
+    {
+      "played_at": "2025-10-04T10:52:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 356,
+      "delta": -16,
+      "final": 340,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL CAMACHO"
+    },
+    {
+      "played_at": "2025-10-04T10:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 344,
+      "delta": 12,
+      "final": 356,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THALYS MELO"
+    },
+    {
+      "played_at": "2025-10-04T08:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 334,
+      "delta": 10,
+      "final": 344,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELDO BARBOSA"
+    },
+    {
+      "played_at": "2025-10-04T02:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Campeonato Paraense - Belém/PA - 2025",
+      "initial": 312,
+      "delta": 22,
+      "final": 334,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO MACIEL"
+    },
+    {
+      "played_at": "2025-02-16T14:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 330,
+      "delta": -18,
+      "final": 312,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE NEVES"
+    },
+    {
+      "played_at": "2025-02-16T13:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 314,
+      "delta": 16,
+      "final": 330,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DANIEL RENDEIRO"
+    },
+    {
+      "played_at": "2025-02-16T11:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 304,
+      "delta": 10,
+      "final": 314,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIS PINHEIRO"
+    },
+    {
+      "played_at": "2025-02-16T10:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 288,
+      "delta": 16,
+      "final": 304,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SAMUEL ALMEIDA"
+    },
+    {
+      "played_at": "2025-02-16T09:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 310,
+      "delta": -22,
+      "final": 288,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LEONARDO FLORES"
+    },
+    {
+      "played_at": "2025-02-15T21:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 282,
+      "delta": 28,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI FURTADO"
+    },
+    {
+      "played_at": "2025-02-15T20:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 284,
+      "delta": -2,
+      "final": 282,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO CAMPOS"
+    },
+    {
+      "played_at": "2025-02-15T19:30:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 284,
+      "delta": 0,
+      "final": 284,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2025-02-15T11:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 262,
+      "delta": 22,
+      "final": 284,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELIEL PAIVA"
+    },
+    {
+      "played_at": "2025-02-15T10:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 262,
+      "delta": 0,
+      "final": 262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO CAMPOS"
+    },
+    {
+      "played_at": "2025-02-15T09:00:00",
+      "event": "1º Etapa TMB estadual campeonato Paraense 2025",
+      "initial": 262,
+      "delta": 0,
+      "final": 262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS SOUSA"
+    },
+    {
+      "played_at": "2024-11-23T15:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 266,
+      "delta": -4,
+      "final": 262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL SANTOS"
+    },
+    {
+      "played_at": "2024-11-23T13:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 238,
+      "delta": 28,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAUÃ.ROGÉRIO DE.MIRANDA"
+    },
+    {
+      "played_at": "2024-11-23T09:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 228,
+      "delta": 10,
+      "final": 238,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIS PINHEIRO"
+    },
+    {
+      "played_at": "2024-11-23T05:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 250,
+      "delta": -22,
+      "final": 228,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADRIANO BANDEIRA"
+    },
+    {
+      "played_at": "2024-11-23T05:19:00",
+      "event": "TMB Estadual - 5ª Etapa - Belém/PA - 2024 ...",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EVERTON SOUSA ............."
+    }
+  ]
+}

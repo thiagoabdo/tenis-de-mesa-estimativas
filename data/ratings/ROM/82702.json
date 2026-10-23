@@ -1,0 +1,763 @@
+{
+  "associate_id": 82702,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=82702&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-02T11:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 360,
+      "delta": -15,
+      "final": 345,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSHUA MARTEN"
+    },
+    {
+      "played_at": "2026-08-02T08:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 336,
+      "delta": 24,
+      "final": 360,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BERNARDO LIONÇO"
+    },
+    {
+      "played_at": "2026-08-02T08:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 336,
+      "delta": 0,
+      "final": 336,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-08-01T16:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 366,
+      "delta": -30,
+      "final": 336,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ROMULO SILVA"
+    },
+    {
+      "played_at": "2026-08-01T14:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 339,
+      "delta": 27,
+      "final": 366,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAPHAELL SILVA"
+    },
+    {
+      "played_at": "2026-08-01T11:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 324,
+      "delta": 15,
+      "final": 339,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDERSON REIS"
+    },
+    {
+      "played_at": "2026-08-01T09:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 306,
+      "delta": 18,
+      "final": 324,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO FILHO"
+    },
+    {
+      "played_at": "2026-07-04T08:00:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Vale Real/RS - 2026",
+      "initial": 318,
+      "delta": -12,
+      "final": 306,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "AUGUSTO RODRIGUES"
+    },
+    {
+      "played_at": "2026-04-19T11:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 333,
+      "delta": -15,
+      "final": 318,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "AUGUSTO RODRIGUES"
+    },
+    {
+      "played_at": "2026-04-19T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 306,
+      "delta": 27,
+      "final": 333,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO FORESTI"
+    },
+    {
+      "played_at": "2026-04-19T08:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 306,
+      "delta": 0,
+      "final": 306,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI MANTHEY"
+    },
+    {
+      "played_at": "2026-04-18T14:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 339,
+      "delta": -33,
+      "final": 306,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THEODORO VARGAS"
+    },
+    {
+      "played_at": "2026-04-18T14:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 285,
+      "delta": 54,
+      "final": 339,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MURILO MEZZALIRA"
+    },
+    {
+      "played_at": "2026-04-18T13:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 264,
+      "delta": 21,
+      "final": 285,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2026-04-18T09:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2026",
+      "initial": 300,
+      "delta": -36,
+      "final": 264,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RICARDO MOHR"
+    },
+    {
+      "played_at": "2026-03-29T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 312,
+      "delta": -12,
+      "final": 300,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL SONDA"
+    },
+    {
+      "played_at": "2026-03-29T08:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 321,
+      "delta": -9,
+      "final": 312,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THOMAS KESSLER"
+    },
+    {
+      "played_at": "2026-03-28T18:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 345,
+      "delta": -24,
+      "final": 321,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL SOUZA"
+    },
+    {
+      "played_at": "2026-03-28T16:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 312,
+      "delta": 33,
+      "final": 345,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANTONIO SCHAMANN"
+    },
+    {
+      "played_at": "2026-03-28T12:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 270,
+      "delta": 42,
+      "final": 312,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MURILO MEZZALIRA"
+    },
+    {
+      "played_at": "2026-03-28T10:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 297,
+      "delta": -27,
+      "final": 270,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GABRIEL TEIXEIRA"
+    },
+    {
+      "played_at": "2025-11-16T13:45:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 303,
+      "delta": -6,
+      "final": 297,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DANIEL RIBEIRO"
+    },
+    {
+      "played_at": "2025-11-16T11:45:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 294,
+      "delta": 9,
+      "final": 303,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ANTONIO SCHAMANN"
+    },
+    {
+      "played_at": "2025-11-16T09:30:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 286,
+      "delta": 8,
+      "final": 294,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "NICOLAS MARTINS"
+    },
+    {
+      "played_at": "2025-11-16T09:00:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 277,
+      "delta": 9,
+      "final": 286,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "ENZO WAGNER"
+    },
+    {
+      "played_at": "2025-11-16T08:45:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 286,
+      "delta": -9,
+      "final": 277,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "CHARLES FERREIRA"
+    },
+    {
+      "played_at": "2025-11-16T08:30:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 296,
+      "delta": -10,
+      "final": 286,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "WILLIAN GONÇALVES"
+    },
+    {
+      "played_at": "2025-11-16T08:15:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 288,
+      "delta": 8,
+      "final": 296,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "FERNANDO ZORZETTO"
+    },
+    {
+      "played_at": "2025-10-19T11:30:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 294,
+      "delta": -6,
+      "final": 288,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "RAMON CARMO"
+    },
+    {
+      "played_at": "2025-10-19T11:15:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 302,
+      "delta": -8,
+      "final": 294,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "KAUÊ SPENGLER"
+    },
+    {
+      "played_at": "2025-10-19T10:30:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 293,
+      "delta": 9,
+      "final": 302,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "HENRIQUE BALDISSERA"
+    },
+    {
+      "played_at": "2025-10-19T10:15:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 281,
+      "delta": 12,
+      "final": 293,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "CAIO PEZZINI"
+    },
+    {
+      "played_at": "2025-10-19T09:15:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 269,
+      "delta": 12,
+      "final": 281,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "KAUÊ SPENGLER"
+    },
+    {
+      "played_at": "2025-10-19T09:00:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 280,
+      "delta": -11,
+      "final": 269,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "GUILHERME PAZ"
+    },
+    {
+      "played_at": "2025-10-19T08:45:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 272,
+      "delta": 8,
+      "final": 280,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "RAFAEL CASALI"
+    },
+    {
+      "played_at": "2025-10-19T08:30:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 263,
+      "delta": 9,
+      "final": 272,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "NÍCOLAS SILVA"
+    },
+    {
+      "played_at": "2025-10-19T08:15:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 253,
+      "delta": 10,
+      "final": 263,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "ENZO WAGNER"
+    },
+    {
+      "played_at": "2025-10-19T08:00:00",
+      "event": "TMB Regional - 6ª Etapa - Liga Escolar - Antônio Prado/RS - 2025",
+      "initial": 264,
+      "delta": -11,
+      "final": 253,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "GUILHERME PAZ"
+    },
+    {
+      "played_at": "2025-09-28T12:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 269,
+      "delta": -5,
+      "final": 264,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DANIEL LEITE"
+    },
+    {
+      "played_at": "2025-09-28T12:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 253,
+      "delta": 16,
+      "final": 269,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "AUGUSTO ZANDONAI"
+    },
+    {
+      "played_at": "2025-09-28T11:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 237,
+      "delta": 16,
+      "final": 253,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "DIEGO KUHN"
+    },
+    {
+      "played_at": "2025-09-28T11:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 221,
+      "delta": 16,
+      "final": 237,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "VICTOR KUHN"
+    },
+    {
+      "played_at": "2025-09-28T10:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 226,
+      "delta": -5,
+      "final": 221,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DANIEL LEITE"
+    },
+    {
+      "played_at": "2025-09-28T09:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 214,
+      "delta": 12,
+      "final": 226,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "CRISTIAN CALDAS"
+    },
+    {
+      "played_at": "2025-09-28T09:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 220,
+      "delta": -6,
+      "final": 214,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DANIEL RIBEIRO"
+    },
+    {
+      "played_at": "2025-09-28T08:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 208,
+      "delta": 12,
+      "final": 220,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "VITOR BARBOSA"
+    },
+    {
+      "played_at": "2025-09-28T08:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Porto Alegre/RS - 2025.",
+      "initial": 214,
+      "delta": -6,
+      "final": 208,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DANIEL RIBEIRO"
+    },
+    {
+      "played_at": "2025-07-27T10:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 219,
+      "delta": -5,
+      "final": 214,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "AUGUSTO ZANDONAI"
+    },
+    {
+      "played_at": "2025-07-27T09:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 208,
+      "delta": 11,
+      "final": 219,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "CHARLES FERREIRA"
+    },
+    {
+      "played_at": "2025-07-27T09:00:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 215,
+      "delta": -7,
+      "final": 208,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VILSON RODRIGUES"
+    },
+    {
+      "played_at": "2025-07-27T08:45:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 221,
+      "delta": -6,
+      "final": 215,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "KEVIN FREITAS"
+    },
+    {
+      "played_at": "2025-07-27T08:30:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 211,
+      "delta": 10,
+      "final": 221,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "GUILHERME PAZ"
+    },
+    {
+      "played_at": "2025-07-27T08:15:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 197,
+      "delta": 14,
+      "final": 211,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "MURILO FELDMANN"
+    },
+    {
+      "played_at": "2025-07-27T08:00:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2025.",
+      "initial": 203,
+      "delta": -6,
+      "final": 197,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ERIK WEBER"
+    },
+    {
+      "played_at": "2025-05-04T09:15:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Vale Real/RS - 2025.",
+      "initial": 208,
+      "delta": -5,
+      "final": 203,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ARTHUR ARSEGO"
+    },
+    {
+      "played_at": "2025-05-04T09:00:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Vale Real/RS - 2025.",
+      "initial": 213,
+      "delta": -5,
+      "final": 208,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "ARTHUR ARSEGO"
+    },
+    {
+      "played_at": "2025-05-04T08:45:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Vale Real/RS - 2025.",
+      "initial": 221,
+      "delta": -8,
+      "final": 213,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "ALEX HAHN"
+    },
+    {
+      "played_at": "2025-05-04T08:30:00",
+      "event": "TMB Regional - 2ª Etapa - Liga Escolar - Vale Real/RS - 2025.",
+      "initial": 230,
+      "delta": -9,
+      "final": 221,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "MURYEL VELHO"
+    },
+    {
+      "played_at": "2024-10-20T09:30:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Sapucaia do Sul/RS - 2024.",
+      "initial": 239,
+      "delta": -9,
+      "final": 230,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ELIELSON HERGESELL"
+    },
+    {
+      "played_at": "2024-10-20T09:15:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Sapucaia do Sul/RS - 2024.",
+      "initial": 244,
+      "delta": -5,
+      "final": 239,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VINICIUS SCOPEL"
+    },
+    {
+      "played_at": "2024-10-20T09:00:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Sapucaia do Sul/RS - 2024.",
+      "initial": 254,
+      "delta": -10,
+      "final": 244,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MURILO MEZZALIRA"
+    },
+    {
+      "played_at": "2024-10-20T08:30:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Sapucaia do Sul/RS - 2024.",
+      "initial": 240,
+      "delta": 14,
+      "final": 254,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "AUGUSTO RODRIGUES"
+    },
+    {
+      "played_at": "2024-10-20T08:15:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Sapucaia do Sul/RS - 2024.",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "GERVENSLEY TALON ............."
+    }
+  ]
+}

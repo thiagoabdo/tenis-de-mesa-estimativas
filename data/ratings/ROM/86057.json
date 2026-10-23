@@ -1,0 +1,583 @@
+{
+  "associate_id": 86057,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=86057&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-29T15:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 231,
+      "delta": -7,
+      "final": 224,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-29T14:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 240,
+      "delta": -9,
+      "final": 231,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2026-08-29T13:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 249,
+      "delta": -9,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SORAYA VIEGAS"
+    },
+    {
+      "played_at": "2026-08-29T12:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 256,
+      "delta": -7,
+      "final": 249,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELE FABIANO"
+    },
+    {
+      "played_at": "2026-08-29T11:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 264,
+      "delta": -8,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELE FABIANO"
+    },
+    {
+      "played_at": "2026-08-29T11:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 264,
+      "delta": 0,
+      "final": 264,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2026-08-29T10:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 266,
+      "delta": -2,
+      "final": 264,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2026-04-12T15:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 290,
+      "delta": -24,
+      "final": 266,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MONICA MABUB"
+    },
+    {
+      "played_at": "2026-04-12T14:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 266,
+      "delta": 24,
+      "final": 290,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARÍLIA PRADO"
+    },
+    {
+      "played_at": "2026-04-12T13:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 245,
+      "delta": 21,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VALENTINA NORA"
+    },
+    {
+      "played_at": "2026-04-12T13:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 215,
+      "delta": 30,
+      "final": 245,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-12T12:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 230,
+      "delta": -15,
+      "final": 215,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LETÍCIA BALSAMÃO"
+    },
+    {
+      "played_at": "2026-03-07T17:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 233,
+      "delta": -3,
+      "final": 230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERRIDINA COSTA"
+    },
+    {
+      "played_at": "2026-03-07T15:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 241,
+      "delta": -8,
+      "final": 233,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ISABELA MAURIEL"
+    },
+    {
+      "played_at": "2026-03-07T14:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIA ROCHA"
+    },
+    {
+      "played_at": "2026-03-07T14:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 240,
+      "delta": 10,
+      "final": 250,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARÍLIA PRADO"
+    },
+    {
+      "played_at": "2026-03-07T13:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 228,
+      "delta": 12,
+      "final": 240,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA MAURIEL"
+    },
+    {
+      "played_at": "2026-03-07T09:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 229,
+      "delta": -1,
+      "final": 228,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2026-03-07T08:20:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 229,
+      "delta": 0,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-10-18T22:18:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 240,
+      "delta": -11,
+      "final": 229,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARISSA BAPTISTA"
+    },
+    {
+      "played_at": "2025-10-18T13:00:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 231,
+      "delta": 9,
+      "final": 240,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELE FIRBIDA"
+    },
+    {
+      "played_at": "2025-10-18T12:10:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 236,
+      "delta": -5,
+      "final": 231,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERRIDINA COSTA"
+    },
+    {
+      "played_at": "2025-10-18T11:20:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 240,
+      "delta": -4,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LETÍCIA VALADARES"
+    },
+    {
+      "played_at": "2025-10-18T09:40:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 243,
+      "delta": -3,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARINA VASCONCELOS"
+    },
+    {
+      "played_at": "2025-10-18T08:50:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 243,
+      "delta": 0,
+      "final": 243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA BREGANHOLI"
+    },
+    {
+      "played_at": "2025-10-18T08:00:00",
+      "event": "TMB Regional - COPA MG 5º ETAPA CENTRO",
+      "initial": 244,
+      "delta": -1,
+      "final": 243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2025-09-20T19:01:00",
+      "event": "COPA MG 4º ETAPA CENTRO",
+      "initial": 253,
+      "delta": -9,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MONICA MABUB"
+    },
+    {
+      "played_at": "2025-09-20T09:00:00",
+      "event": "COPA MG 4º ETAPA CENTRO",
+      "initial": 263,
+      "delta": -10,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MONICA MABUB"
+    },
+    {
+      "played_at": "2025-09-20T08:40:00",
+      "event": "COPA MG 4º ETAPA CENTRO",
+      "initial": 264,
+      "delta": -1,
+      "final": 263,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2025-09-20T08:20:00",
+      "event": "COPA MG 4º ETAPA CENTRO",
+      "initial": 254,
+      "delta": 10,
+      "final": 264,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ISABELE FIRBIDA"
+    },
+    {
+      "played_at": "2025-09-20T08:00:00",
+      "event": "COPA MG 4º ETAPA CENTRO",
+      "initial": 257,
+      "delta": -3,
+      "final": 254,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARINA VASCONCELOS"
+    },
+    {
+      "played_at": "2025-09-20T01:11:00",
+      "event": "COPA MG 4º ETAPA CENTRO",
+      "initial": 263,
+      "delta": -6,
+      "final": 257,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LETÍCIA VALADARES"
+    },
+    {
+      "played_at": "2025-08-16T11:20:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 264,
+      "delta": -1,
+      "final": 263,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA PRETE"
+    },
+    {
+      "played_at": "2025-08-16T10:55:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 254,
+      "delta": 10,
+      "final": 264,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BÁRBARA SILVA"
+    },
+    {
+      "played_at": "2025-08-16T10:30:00",
+      "event": "TMB Regional - 3ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 254,
+      "delta": 0,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-07-05T16:00:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 264,
+      "delta": -10,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TACYANA MARTINS"
+    },
+    {
+      "played_at": "2025-07-05T15:00:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 246,
+      "delta": 18,
+      "final": 264,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELE FIRBIDA"
+    },
+    {
+      "played_at": "2025-07-05T14:40:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 258,
+      "delta": -12,
+      "final": 246,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GERRIDINA COSTA"
+    },
+    {
+      "played_at": "2025-07-05T13:20:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 258,
+      "delta": 0,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDA REIS"
+    },
+    {
+      "played_at": "2025-07-05T13:00:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 240,
+      "delta": 18,
+      "final": 258,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMILLY VENÂNCIO"
+    },
+    {
+      "played_at": "2025-07-05T11:40:00",
+      "event": "TMB Estadual - 1ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 240,
+      "delta": 0,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLA BREGANHOLI"
+    },
+    {
+      "played_at": "2025-05-31T16:45:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 248,
+      "delta": -8,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LETÍCIA BALSAMÃO"
+    },
+    {
+      "played_at": "2025-05-31T16:20:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 238,
+      "delta": 10,
+      "final": 248,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PRISCILA LIMA"
+    },
+    {
+      "played_at": "2025-05-31T15:55:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 243,
+      "delta": -5,
+      "final": 238,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA PAULA"
+    },
+    {
+      "played_at": "2025-05-31T15:30:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 232,
+      "delta": 11,
+      "final": 243,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZA SANTOS"
+    },
+    {
+      "played_at": "2025-05-31T11:20:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 240,
+      "delta": -8,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MADALENA ALMEIDA"
+    },
+    {
+      "played_at": "2025-05-31T10:55:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 248,
+      "delta": -8,
+      "final": 240,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA OLIVEIRA"
+    },
+    {
+      "played_at": "2025-05-31T10:30:00",
+      "event": "TMB Regional - 2ª Etapa Copa MG - Centro - Belo Horizonte/MG - 2025",
+      "initial": 250,
+      "delta": -2,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITÓRIA SILVA ............."
+    }
+  ]
+}

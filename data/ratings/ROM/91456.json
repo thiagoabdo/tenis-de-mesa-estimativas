@@ -1,0 +1,103 @@
+{
+  "associate_id": 91456,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91456&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-26T11:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 121,
+      "delta": -99,
+      "final": 22,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NOAH FERRONATO"
+    },
+    {
+      "played_at": "2026-06-26T09:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 121,
+      "delta": 0,
+      "final": 121,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MONTEIRO"
+    },
+    {
+      "played_at": "2026-06-26T08:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 166,
+      "delta": -45,
+      "final": 121,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO MANNO"
+    },
+    {
+      "played_at": "2026-04-11T09:40:00",
+      "event": "Estadual - 2ª Etapa - Palmas/TO - 2026",
+      "initial": 133,
+      "delta": 33,
+      "final": 166,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS MENEGETTI"
+    },
+    {
+      "played_at": "2026-04-11T08:00:00",
+      "event": "Estadual - 2ª Etapa - Palmas/TO - 2026",
+      "initial": 148,
+      "delta": -15,
+      "final": 133,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO MANNO"
+    },
+    {
+      "played_at": "2026-03-07T10:05:00",
+      "event": "Estadual - 1ª Etapa - Palmas/TO - 2026",
+      "initial": 172,
+      "delta": -24,
+      "final": 148,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO SANTIAGO"
+    },
+    {
+      "played_at": "2026-03-07T09:15:00",
+      "event": "Estadual - 1ª Etapa - Palmas/TO - 2026",
+      "initial": 202,
+      "delta": -30,
+      "final": 172,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME CASTRO"
+    },
+    {
+      "played_at": "2026-03-07T08:50:00",
+      "event": "Estadual - 1ª Etapa - Palmas/TO - 2026",
+      "initial": 250,
+      "delta": -48,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL NORONHA ............."
+    }
+  ]
+}

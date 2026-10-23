@@ -1,0 +1,43 @@
+{
+  "associate_id": 90327,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90327&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-22T08:00:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 412,
+      "delta": -54,
+      "final": 358,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO ZAMPIER"
+    },
+    {
+      "played_at": "2026-03-21T20:10:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 322,
+      "delta": 90,
+      "final": 412,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THIAGO ABDO"
+    },
+    {
+      "played_at": "2026-03-21T16:25:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 250,
+      "delta": 72,
+      "final": 322,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCIO MAIDEL ............."
+    }
+  ]
+}

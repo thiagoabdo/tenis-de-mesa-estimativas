@@ -1,0 +1,43 @@
+{
+  "associate_id": 92724,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92724&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T17:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 256,
+      "delta": -12,
+      "final": 244,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ÉVELIN LEMES"
+    },
+    {
+      "played_at": "2026-05-09T10:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 220,
+      "delta": 36,
+      "final": 256,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELLA COSTA"
+    },
+    {
+      "played_at": "2026-05-09T09:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ISABELA OLIVEIRA ............."
+    }
+  ]
+}

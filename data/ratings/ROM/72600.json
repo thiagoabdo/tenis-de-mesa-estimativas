@@ -1,0 +1,679 @@
+{
+  "associate_id": 72600,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=72600&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T18:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 429,
+      "delta": -30,
+      "final": 399,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WILLIAM VECCHI"
+    },
+    {
+      "played_at": "2026-09-26T16:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 399,
+      "delta": 30,
+      "final": 429,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BERNARDO WECKERLIN"
+    },
+    {
+      "played_at": "2026-09-26T14:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 372,
+      "delta": 27,
+      "final": 399,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ENZO FRANÇA"
+    },
+    {
+      "played_at": "2026-09-26T12:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 351,
+      "delta": 21,
+      "final": 372,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDGAR JUNIOR"
+    },
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 327,
+      "delta": 24,
+      "final": 351,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAMERSON DAVID"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 309,
+      "delta": 18,
+      "final": 327,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI MARCARINI"
+    },
+    {
+      "played_at": "2026-08-22T12:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 339,
+      "delta": -30,
+      "final": 309,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GENARO LESME"
+    },
+    {
+      "played_at": "2026-06-27T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 366,
+      "delta": -27,
+      "final": 339,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL REFUNDINI"
+    },
+    {
+      "played_at": "2026-06-27T12:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 348,
+      "delta": 18,
+      "final": 366,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DARCINEI PINTO"
+    },
+    {
+      "played_at": "2026-06-27T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 330,
+      "delta": 18,
+      "final": 348,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TIAGO FERREIRA"
+    },
+    {
+      "played_at": "2026-06-27T09:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 300,
+      "delta": 30,
+      "final": 330,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO VALLE"
+    },
+    {
+      "played_at": "2025-09-13T18:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 316,
+      "delta": -16,
+      "final": 300,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL KREMER"
+    },
+    {
+      "played_at": "2025-09-13T16:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 296,
+      "delta": 20,
+      "final": 316,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR BARBACENA"
+    },
+    {
+      "played_at": "2025-08-16T15:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 314,
+      "delta": -18,
+      "final": 296,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KAIK MORAES"
+    },
+    {
+      "played_at": "2025-08-16T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 296,
+      "delta": 18,
+      "final": 314,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO FERREIRA"
+    },
+    {
+      "played_at": "2025-08-16T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 314,
+      "delta": -18,
+      "final": 296,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ DERETTI"
+    },
+    {
+      "played_at": "2025-08-16T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 300,
+      "delta": 14,
+      "final": 314,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIEL JORGE"
+    },
+    {
+      "played_at": "2025-07-05T15:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 322,
+      "delta": -22,
+      "final": 300,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WILLIAN OLIVEIRA"
+    },
+    {
+      "played_at": "2025-07-05T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 344,
+      "delta": -22,
+      "final": 322,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "KEWIN SILVA"
+    },
+    {
+      "played_at": "2025-07-05T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 328,
+      "delta": 16,
+      "final": 344,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLAUDINEI CASTRO"
+    },
+    {
+      "played_at": "2025-05-10T15:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 336,
+      "delta": -8,
+      "final": 328,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MIGUEL BARBOSA"
+    },
+    {
+      "played_at": "2025-05-10T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2025",
+      "initial": 320,
+      "delta": 16,
+      "final": 336,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE RIBEIRO"
+    },
+    {
+      "played_at": "2025-04-26T10:10:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 336,
+      "delta": -16,
+      "final": 320,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHEL MATSUMOTO"
+    },
+    {
+      "played_at": "2024-12-10T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 336,
+      "delta": 0,
+      "final": 336,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL BERTOLASSI"
+    },
+    {
+      "played_at": "2024-10-19T14:45:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 348,
+      "delta": -12,
+      "final": 336,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO PINTO"
+    },
+    {
+      "played_at": "2024-10-19T13:30:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 352,
+      "delta": -4,
+      "final": 348,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE ROCHA"
+    },
+    {
+      "played_at": "2024-10-19T11:25:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 336,
+      "delta": 16,
+      "final": 352,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LEONARDO BITTENCOURT"
+    },
+    {
+      "played_at": "2024-09-07T13:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Cascavel/PR - 2024",
+      "initial": 340,
+      "delta": -4,
+      "final": 336,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTOR DIAS"
+    },
+    {
+      "played_at": "2024-09-07T11:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Cascavel/PR - 2024",
+      "initial": 308,
+      "delta": 32,
+      "final": 340,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEANDRO FILHO"
+    },
+    {
+      "played_at": "2024-09-07T10:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Cascavel/PR - 2024",
+      "initial": 292,
+      "delta": 16,
+      "final": 308,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR FAEDO"
+    },
+    {
+      "played_at": "2024-08-17T15:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 292,
+      "delta": 0,
+      "final": 292,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAUÃ KNACK"
+    },
+    {
+      "played_at": "2024-08-17T12:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 272,
+      "delta": 20,
+      "final": 292,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERICK ULIANO"
+    },
+    {
+      "played_at": "2024-08-17T08:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 256,
+      "delta": 16,
+      "final": 272,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS BUENO"
+    },
+    {
+      "played_at": "2024-06-22T15:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 260,
+      "delta": -4,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTOR DIAS"
+    },
+    {
+      "played_at": "2024-06-22T10:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 244,
+      "delta": 16,
+      "final": 260,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATTEUS BECKER"
+    },
+    {
+      "played_at": "2024-06-22T08:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 248,
+      "delta": -4,
+      "final": 244,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SAMUEL SILVA"
+    },
+    {
+      "played_at": "2024-05-25T16:50:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 266,
+      "delta": -18,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ URBAN"
+    },
+    {
+      "played_at": "2024-05-25T14:45:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 244,
+      "delta": 22,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDO BUENO"
+    },
+    {
+      "played_at": "2024-05-25T11:25:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 224,
+      "delta": 20,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAUAN OLIVEIRA"
+    },
+    {
+      "played_at": "2024-05-25T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 236,
+      "delta": -12,
+      "final": 224,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL SILVA"
+    },
+    {
+      "played_at": "2024-04-27T13:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 236,
+      "delta": 0,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR PIGNATTI"
+    },
+    {
+      "played_at": "2024-04-27T10:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 212,
+      "delta": 24,
+      "final": 236,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL MAIDEL"
+    },
+    {
+      "played_at": "2024-04-27T08:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 220,
+      "delta": -8,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL SOUZA"
+    },
+    {
+      "played_at": "2023-10-14T15:35:00",
+      "event": "TMB Regional - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 223,
+      "delta": -3,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL MARQUES"
+    },
+    {
+      "played_at": "2023-10-14T14:20:00",
+      "event": "TMB Regional - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 211,
+      "delta": 12,
+      "final": 223,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIO RIVILI"
+    },
+    {
+      "played_at": "2023-10-14T09:45:00",
+      "event": "TMB Regional - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 197,
+      "delta": 14,
+      "final": 211,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERIC BACH"
+    },
+    {
+      "played_at": "2023-10-14T08:30:00",
+      "event": "TMB Regional - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 203,
+      "delta": -6,
+      "final": 197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIO STANKIEVICZ"
+    },
+    {
+      "played_at": "2023-09-09T10:35:00",
+      "event": "TMB Regional - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 209,
+      "delta": -6,
+      "final": 203,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO RODRIGUES"
+    },
+    {
+      "played_at": "2023-09-09T08:55:00",
+      "event": "TMB Regional - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 214,
+      "delta": -5,
+      "final": 209,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WESLEY PINTO"
+    },
+    {
+      "played_at": "2023-06-24T10:10:00",
+      "event": "TMB Regional - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 221,
+      "delta": -7,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NELSON BARRETO"
+    },
+    {
+      "played_at": "2023-06-24T08:55:00",
+      "event": "TMB Regional - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 228,
+      "delta": -7,
+      "final": 221,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL ITO"
+    },
+    {
+      "played_at": "2023-05-13T13:55:00",
+      "event": "TMB Regional - 2ª Etapa - Nikkei-Curitiba/PR - 2023",
+      "initial": 236,
+      "delta": -8,
+      "final": 228,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "TIAGO LEMES"
+    },
+    {
+      "played_at": "2023-05-13T10:10:00",
+      "event": "TMB Regional - 2ª Etapa - Nikkei-Curitiba/PR - 2023",
+      "initial": 225,
+      "delta": 11,
+      "final": 236,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAMES SANTOS"
+    },
+    {
+      "played_at": "2023-05-13T08:55:00",
+      "event": "TMB Regional - 2ª Etapa - Nikkei-Curitiba/PR - 2023",
+      "initial": 233,
+      "delta": -8,
+      "final": 225,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ JUNIOR"
+    },
+    {
+      "played_at": "2023-04-15T11:25:00",
+      "event": "TMB Regional - 1ª Etapa - Toledo/PR - 2023",
+      "initial": 242,
+      "delta": -9,
+      "final": 233,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ MELLO"
+    },
+    {
+      "played_at": "2023-04-15T10:10:00",
+      "event": "TMB Regional - 1ª Etapa - Toledo/PR - 2023",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ROBERTO COSTA ............."
+    }
+  ]
+}

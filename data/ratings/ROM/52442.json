@@ -1,0 +1,79 @@
+{
+  "associate_id": 52442,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=52442&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-15T12:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 379,
+      "delta": -24,
+      "final": 355,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOZIANE LESSA"
+    },
+    {
+      "played_at": "2026-03-15T12:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 355,
+      "delta": 24,
+      "final": 379,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITÓRIA CORDEIRO"
+    },
+    {
+      "played_at": "2026-03-15T10:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 331,
+      "delta": 24,
+      "final": 355,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELLA FONSECA"
+    },
+    {
+      "played_at": "2026-03-15T08:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 310,
+      "delta": 21,
+      "final": 331,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CASSIANE SAMPAIO"
+    },
+    {
+      "played_at": "2026-03-14T11:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 280,
+      "delta": 30,
+      "final": 310,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITÓRIA CORDEIRO"
+    },
+    {
+      "played_at": "2026-03-14T09:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CASSIANE SAMPAIO ............."
+    }
+  ]
+}

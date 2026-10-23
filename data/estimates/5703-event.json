@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "event_id": 5703,
+  "event_name": "5703 - TMB Estadual - 2ª Etapa - Campeonato Mineiro - Pouso Alegre/MG - 2026",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 3,
+  "event_match_count": 6,
+  "estimated_match_count": 6,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5703-2026-001",
+      "event_id": 5703,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "30/05/2026",
+      "time": "08:00",
+      "played_at": "2026-05-30T08:00:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            9,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 921,
+            "rating_change": 6,
+            "rating_after": 927,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 187,
+            "rating_change": 0,
+            "rating_after": 187,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5703-2026-002",
+      "event_id": 5703,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "30/05/2026",
+      "time": "08:00",
+      "played_at": "2026-05-30T08:00:00",
+      "players": [
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            10,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 2,
+          "set_points": [
+            4,
+            14,
+            12,
+            8,
+            4
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "LUIZ CIRINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 596,
+            "rating_change": 12,
+            "rating_after": 608,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 15
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -6,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5703-2026-003",
+      "event_id": 5703,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "30/05/2026",
+      "time": "08:50",
+      "played_at": "2026-05-30T08:50:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            5,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            11,
+            9,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 927,
+            "rating_change": 6,
+            "rating_after": 933,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": 0,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5703-2026-004",
+      "event_id": 5703,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 2,
+      "date": "30/05/2026",
+      "time": "08:50",
+      "played_at": "2026-05-30T08:50:00",
+      "players": [
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            5,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ CIRINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 608,
+            "rating_change": 9,
+            "rating_after": 617,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 187,
+            "rating_change": -3,
+            "rating_after": 184,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5703-2026-005",
+      "event_id": 5703,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "30/05/2026",
+      "time": "09:40",
+      "played_at": "2026-05-30T09:40:00",
+      "players": [
+        {
+          "name": "REINALDO SALES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            14,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ALVARO LACERDA",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            16,
+            2,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "REINALDO SALES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91988,
+            "name": "REINALDO SALES",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": 24,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 15
+          },
+          {
+            "associate_id": 85579,
+            "name": "ALVARO LACERDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 184,
+            "rating_change": -18,
+            "rating_after": 166,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5703-2026-006",
+      "event_id": 5703,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 2,
+      "date": "30/05/2026",
+      "time": "09:40",
+      "played_at": "2026-05-30T09:40:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            6,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "LUIZ CIRINO",
+          "sets_won": 2,
+          "set_points": [
+            12,
+            9,
+            11,
+            4,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 933,
+            "rating_change": 12,
+            "rating_after": 945,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 15
+          },
+          {
+            "associate_id": 29419,
+            "name": "LUIZ CIRINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 617,
+            "rating_change": -6,
+            "rating_after": 611,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    }
+  ]
+}

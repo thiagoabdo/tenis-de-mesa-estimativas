@@ -1,0 +1,5114 @@
+{
+  "schema_version": 1,
+  "event_id": 5448,
+  "event_name": "5448 - TMB Regional - COPA MG - 1ª Etapa ZONA DA MATA",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 1,
+  "event_match_count": 75,
+  "estimated_match_count": 75,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5448-52-007",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 7,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "02:57",
+      "played_at": "2026-03-15T02:57:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            8,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 825,
+            "rating_change": 2,
+            "rating_after": 827,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": 0,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-008",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Semi Final",
+      "game_number": 8,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "02:58",
+      "played_at": "2026-03-15T02:58:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            7,
+            10,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 827,
+            "rating_change": 2,
+            "rating_after": 829,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": 0,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-015",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Final",
+      "game_number": 15,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "05:42",
+      "played_at": "2026-03-15T05:42:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            6,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            7,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 375,
+            "rating_change": 6,
+            "rating_after": 381,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": -4,
+            "rating_after": 213,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-012",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Final",
+      "game_number": 12,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "05:43",
+      "played_at": "2026-03-15T05:43:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            7,
+            11,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 381,
+            "rating_change": 7,
+            "rating_after": 388,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 262,
+            "rating_change": -5,
+            "rating_after": 257,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-001",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Grupo 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "08:00",
+      "played_at": "2026-03-15T08:00:00",
+      "players": [
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            3,
+            11,
+            12,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            11,
+            6,
+            10,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 478,
+            "rating_change": 5,
+            "rating_after": 483,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -3,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-002",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Grupo 02",
+      "game_number": 2,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "08:00",
+      "played_at": "2026-03-15T08:00:00",
+      "players": [
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "RENAN SILVA",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            4,
+            11,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MANASSÉS NEGRÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 361,
+            "rating_change": 5,
+            "rating_after": 366,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 85575,
+            "name": "RENAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 160,
+            "rating_change": -3,
+            "rating_after": 157,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-001",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "08:00",
+      "played_at": "2026-03-15T08:00:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            8,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS CASTRO",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MATHEUS CASTRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 829,
+            "rating_change": -22,
+            "rating_after": 807,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -22
+          },
+          {
+            "associate_id": 91707,
+            "name": "MATHEUS CASTRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 30,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-002",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "08:00",
+      "played_at": "2026-03-15T08:00:00",
+      "players": [
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            4,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PEDRO PRADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 363,
+            "rating_change": 7,
+            "rating_after": 370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 91733,
+            "name": "PEDRO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -5,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-003",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Grupo 01",
+      "game_number": 3,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "08:25",
+      "played_at": "2026-03-15T08:25:00",
+      "players": [
+        {
+          "name": "SAMUEL OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            3,
+            1,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "EVANDRO LEAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91754,
+            "name": "SAMUEL OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": 11,
+            "rating_after": 258,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-004",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Grupo 02",
+      "game_number": 4,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "08:25",
+      "played_at": "2026-03-15T08:25:00",
+      "players": [
+        {
+          "name": "JOSE NETO",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            3,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RENAN SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RENAN SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91743,
+            "name": "JOSE NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -11,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85575,
+            "name": "RENAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 157,
+            "rating_change": 14,
+            "rating_after": 171,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-003",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "08:25",
+      "played_at": "2026-03-15T08:25:00",
+      "players": [
+        {
+          "name": "FELIPE SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            3,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS CASTRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MATHEUS CASTRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91674,
+            "name": "FELIPE SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -7,
+            "rating_after": 243,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 91707,
+            "name": "MATHEUS CASTRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": 9,
+            "rating_after": 289,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-004",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 02",
+      "game_number": 4,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "08:25",
+      "played_at": "2026-03-15T08:25:00",
+      "players": [
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO RIBEIRO",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            7,
+            14,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MURILLO MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": 9,
+            "rating_after": 286,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 91733,
+            "name": "PEDRO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -7,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-005",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Grupo 01",
+      "game_number": 5,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "08:50",
+      "played_at": "2026-03-15T08:50:00",
+      "players": [
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SAMUEL OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 483,
+            "rating_change": 5,
+            "rating_after": 488,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 91754,
+            "name": "SAMUEL OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -3,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-006",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Grupo 02",
+      "game_number": 6,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "08:50",
+      "played_at": "2026-03-15T08:50:00",
+      "players": [
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSE NETO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            2,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MANASSÉS NEGRÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 366,
+            "rating_change": 7,
+            "rating_after": 373,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 91743,
+            "name": "JOSE NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": -5,
+            "rating_after": 234,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-005",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "08:50",
+      "played_at": "2026-03-15T08:50:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            3,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 807,
+            "rating_change": 2,
+            "rating_after": 809,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 91674,
+            "name": "FELIPE SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 243,
+            "rating_change": 0,
+            "rating_after": 243,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-006",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 02",
+      "game_number": 6,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "08:50",
+      "played_at": "2026-03-15T08:50:00",
+      "players": [
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            8,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MURILLO MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 370,
+            "rating_change": -11,
+            "rating_after": 359,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": 14,
+            "rating_after": 300,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-001",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "09:15",
+      "played_at": "2026-03-15T09:15:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 809,
+            "rating_change": 2,
+            "rating_after": 811,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 82853,
+            "name": "FELIPE RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": 0,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-002",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 2,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "09:15",
+      "played_at": "2026-03-15T09:15:00",
+      "players": [
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO DINIZ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PEDRO PRADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 359,
+            "rating_change": 7,
+            "rating_after": 366,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 91795,
+            "name": "JOAO DINIZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -5,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-001",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "09:15",
+      "played_at": "2026-03-15T09:15:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            8,
+            6,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            11,
+            11,
+            7,
+            4
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 388,
+            "rating_change": 7,
+            "rating_after": 395,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -5,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-002",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "09:15",
+      "played_at": "2026-03-15T09:15:00",
+      "players": [
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            17,
+            4,
+            13,
+            null
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            15,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MATEUS CHAGAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 257,
+            "rating_change": 10,
+            "rating_after": 267,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": -8,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-003",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 3,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "09:15",
+      "played_at": "2026-03-15T09:15:00",
+      "players": [
+        {
+          "name": "FELIPE SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            3,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PEDRO RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91674,
+            "name": "FELIPE SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 243,
+            "rating_change": -9,
+            "rating_after": 234,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 91733,
+            "name": "PEDRO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 11,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-003",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 3,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "09:40",
+      "played_at": "2026-03-15T09:40:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO DINIZ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 811,
+            "rating_change": 2,
+            "rating_after": 813,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 91795,
+            "name": "JOAO DINIZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": 0,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-004",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 4,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "09:40",
+      "played_at": "2026-03-15T09:40:00",
+      "players": [
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            9,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MURILLO MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 366,
+            "rating_change": -11,
+            "rating_after": 355,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": 14,
+            "rating_after": 314,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-004",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 4,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "09:40",
+      "played_at": "2026-03-15T09:40:00",
+      "players": [
+        {
+          "name": "MATHEUS CASTRO",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "LUCAS CHEDRAOUI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91707,
+            "name": "MATHEUS CASTRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 289,
+            "rating_change": -10,
+            "rating_after": 279,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": 12,
+            "rating_after": 257,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-005",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 5,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "09:40",
+      "played_at": "2026-03-15T09:40:00",
+      "players": [
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            3,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MATEUS CHAGAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 267,
+            "rating_change": 10,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 91733,
+            "name": "PEDRO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 249,
+            "rating_change": -8,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-006",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 6,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "09:40",
+      "played_at": "2026-03-15T09:40:00",
+      "players": [
+        {
+          "name": "FELIPE SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            2,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "VITOR FIGUEIREDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91674,
+            "name": "FELIPE SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -9,
+            "rating_after": 225,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 231,
+            "rating_change": 11,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-005",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 5,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "10:05",
+      "played_at": "2026-03-15T10:05:00",
+      "players": [
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PEDRO PRADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 355,
+            "rating_change": 7,
+            "rating_after": 362,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 82853,
+            "name": "FELIPE RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": -5,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-006",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 6,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "10:05",
+      "played_at": "2026-03-15T10:05:00",
+      "players": [
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO DINIZ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MURILLO MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 314,
+            "rating_change": 8,
+            "rating_after": 322,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 91795,
+            "name": "JOAO DINIZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -6,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-007",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 7,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "10:05",
+      "played_at": "2026-03-15T10:05:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS CASTRO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            6,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 395,
+            "rating_change": 7,
+            "rating_after": 402,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 91707,
+            "name": "MATHEUS CASTRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 279,
+            "rating_change": -5,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-008",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "10:05",
+      "played_at": "2026-03-15T10:05:00",
+      "players": [
+        {
+          "name": "PEDRO RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            4,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "VITOR FIGUEIREDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91733,
+            "name": "PEDRO RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -8,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": 10,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-009",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 9,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "10:05",
+      "played_at": "2026-03-15T10:05:00",
+      "players": [
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE SOUSA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            5,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MATEUS CHAGAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": 8,
+            "rating_after": 285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 91674,
+            "name": "FELIPE SOUSA",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -6,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-013",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Semi Final",
+      "game_number": 13,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "10:20",
+      "played_at": "2026-03-15T10:20:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            7,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 402,
+            "rating_change": 7,
+            "rating_after": 409,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 285,
+            "rating_change": -5,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-011",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 11,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "10:21",
+      "played_at": "2026-03-15T10:21:00",
+      "players": [
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            10,
+            9,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            12,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "MATEUS CHAGAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 257,
+            "rating_change": -8,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": 10,
+            "rating_after": 290,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-001",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "10:30",
+      "played_at": "2026-03-15T10:30:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            8,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 409,
+            "rating_change": 6,
+            "rating_after": 415,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 213,
+            "rating_change": -4,
+            "rating_after": 209,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-002",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "10:30",
+      "played_at": "2026-03-15T10:30:00",
+      "players": [
+        {
+          "name": "MARCELO FILHO",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            9,
+            11,
+            10,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            7,
+            12,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "HEITOR RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91710,
+            "name": "MARCELO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-003",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 3,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "10:30",
+      "played_at": "2026-03-15T10:30:00",
+      "players": [
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            5,
+            8,
+            11,
+            4
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            11,
+            11,
+            8,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "VITOR FIGUEIREDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 290,
+            "rating_change": -10,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 252,
+            "rating_change": 12,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-004",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 4,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "10:30",
+      "played_at": "2026-03-15T10:30:00",
+      "players": [
+        {
+          "name": "GUILHERME VALENTE",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            6,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "LUCAS CHEDRAOUI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91662,
+            "name": "GUILHERME VALENTE",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 249,
+            "rating_change": 11,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-005",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "10:55",
+      "played_at": "2026-03-15T10:55:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            4,
+            8,
+            11
+          ]
+        },
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            4,
+            11,
+            11,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 415,
+            "rating_change": 6,
+            "rating_after": 421,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -4,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-006",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 6,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "10:55",
+      "played_at": "2026-03-15T10:55:00",
+      "players": [
+        {
+          "name": "MARCELO FILHO",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YAGO COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91710,
+            "name": "MARCELO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": -10,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 209,
+            "rating_change": 12,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-007",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 7,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "10:55",
+      "played_at": "2026-03-15T10:55:00",
+      "players": [
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            14,
+            4,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            12,
+            11,
+            11,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "MATEUS CHAGAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": 10,
+            "rating_after": 290,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -8,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-008",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "10:55",
+      "played_at": "2026-03-15T10:55:00",
+      "players": [
+        {
+          "name": "GUILHERME VALENTE",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            0,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "VITOR FIGUEIREDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91662,
+            "name": "GUILHERME VALENTE",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -8,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 264,
+            "rating_change": 10,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-009",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 9,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "11:20",
+      "played_at": "2026-03-15T11:20:00",
+      "players": [
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            7,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YAGO COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -10,
+            "rating_after": 246,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 221,
+            "rating_change": 12,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-010",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 10,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "11:20",
+      "played_at": "2026-03-15T11:20:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            13,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO FILHO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            11,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 421,
+            "rating_change": 6,
+            "rating_after": 427,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 91710,
+            "name": "MARCELO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": -4,
+            "rating_after": 228,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-011",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 11,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "11:20",
+      "played_at": "2026-03-15T11:20:00",
+      "players": [
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUCAS CHEDRAOUI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 252,
+            "rating_change": 11,
+            "rating_after": 263,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": -9,
+            "rating_after": 265,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-012",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 12,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "11:20",
+      "played_at": "2026-03-15T11:20:00",
+      "players": [
+        {
+          "name": "MATEUS CHAGAS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUILHERME VALENTE",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            6,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MATEUS CHAGAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88272,
+            "name": "MATEUS CHAGAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 290,
+            "rating_change": 8,
+            "rating_after": 298,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 91662,
+            "name": "GUILHERME VALENTE",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": -6,
+            "rating_after": 227,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-007",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Semi Final",
+      "game_number": 7,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "11:45",
+      "played_at": "2026-03-15T11:45:00",
+      "players": [
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "RENAN SILVA",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            5,
+            4,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 488,
+            "rating_change": 4,
+            "rating_after": 492,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 85575,
+            "name": "RENAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 171,
+            "rating_change": -2,
+            "rating_after": 169,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-008",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Semi Final",
+      "game_number": 8,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "11:45",
+      "played_at": "2026-03-15T11:45:00",
+      "players": [
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MANASSÉS NEGRÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 258,
+            "rating_change": -5,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          },
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 373,
+            "rating_change": 7,
+            "rating_after": 380,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-007",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Semi Final",
+      "game_number": 7,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "11:45",
+      "played_at": "2026-03-15T11:45:00",
+      "players": [
+        {
+          "name": "MATHEUS CASTRO",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            8,
+            11,
+            11,
+            8
+          ]
+        },
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            8,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "PEDRO PRADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91707,
+            "name": "MATHEUS CASTRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": -6,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 362,
+            "rating_change": 8,
+            "rating_after": 370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-008",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 8,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "12:10",
+      "played_at": "2026-03-15T12:10:00",
+      "players": [
+        {
+          "name": "JOAO DINIZ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FELIPE RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91795,
+            "name": "JOAO DINIZ",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": -9,
+            "rating_after": 230,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 82853,
+            "name": "FELIPE RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 221,
+            "rating_change": 11,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-53-010",
+      "event_id": 5448,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 10,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "12:17",
+      "played_at": "2026-03-15T12:17:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR FIGUEIREDO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            7,
+            10,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JULIO FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80221,
+            "name": "JULIO FERNANDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 427,
+            "rating_change": 6,
+            "rating_after": 433,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 85797,
+            "name": "VITOR FIGUEIREDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 265,
+            "rating_change": -4,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-009",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 9,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "12:35",
+      "played_at": "2026-03-15T12:35:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            5,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 813,
+            "rating_change": 3,
+            "rating_after": 816,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 370,
+            "rating_change": -1,
+            "rating_after": 369,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-52-010",
+      "event_id": 5448,
+      "category_id": 52,
+      "category": "SUB-09 MAS",
+      "phase": "SUB-09 MAS - Única 01",
+      "game_number": 10,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "12:35",
+      "played_at": "2026-03-15T12:35:00",
+      "players": [
+        {
+          "name": "MURILLO MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MURILLO MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85799,
+            "name": "MURILLO MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": 8,
+            "rating_after": 330,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 82853,
+            "name": "FELIPE RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": -6,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-64-009",
+      "event_id": 5448,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Final",
+      "game_number": 9,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "12:35",
+      "played_at": "2026-03-15T12:35:00",
+      "players": [
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            5,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 492,
+            "rating_change": 7,
+            "rating_after": 499,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 380,
+            "rating_change": -5,
+            "rating_after": 375,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-110-001",
+      "event_id": 5448,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Única 01",
+      "game_number": 1,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "13:00",
+      "played_at": "2026-03-15T13:00:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            2,
+            11,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 895,
+            "rating_change": 2,
+            "rating_after": 897,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 375,
+            "rating_change": 0,
+            "rating_after": 375,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-120-009",
+      "event_id": 5448,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Final",
+      "game_number": 9,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "13:00",
+      "played_at": "2026-03-15T13:00:00",
+      "players": [
+        {
+          "name": "PEDRO PRADO",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            5,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI DOMINGUES",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "DAVI DOMINGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80621,
+            "name": "PEDRO PRADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 369,
+            "rating_change": -1,
+            "rating_after": 368,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          },
+          {
+            "associate_id": 84090,
+            "name": "DAVI DOMINGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 816,
+            "rating_change": 3,
+            "rating_after": 819,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-001",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "13:00",
+      "played_at": "2026-03-15T13:00:00",
+      "players": [
+        {
+          "name": "GUILHERME VALENTE",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            7,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RENAN SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RENAN SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91662,
+            "name": "GUILHERME VALENTE",
+            "associate_id_source": "event_roster",
+            "rating_before": 227,
+            "rating_change": -11,
+            "rating_after": 216,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85575,
+            "name": "RENAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 169,
+            "rating_change": 14,
+            "rating_after": 183,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-002",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 02",
+      "game_number": 2,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "13:00",
+      "played_at": "2026-03-15T13:00:00",
+      "players": [
+        {
+          "name": "MARCELO FILHO",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            8,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "NAICHE MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "NAICHE MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91710,
+            "name": "MARCELO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 228,
+            "rating_change": -10,
+            "rating_after": 218,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 85827,
+            "name": "NAICHE MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 197,
+            "rating_change": 12,
+            "rating_after": 209,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-003",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 03",
+      "game_number": 3,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "13:00",
+      "played_at": "2026-03-15T13:00:00",
+      "players": [
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            9,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YAGO COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 246,
+            "rating_change": -9,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": 11,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-110-002",
+      "event_id": 5448,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Única 01",
+      "game_number": 2,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "13:25",
+      "played_at": "2026-03-15T13:25:00",
+      "players": [
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ADALBERTO LIMA",
+          "sets_won": 1,
+          "set_points": [
+            13,
+            10,
+            7,
+            4,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "THIAGO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 499,
+            "rating_change": 9,
+            "rating_after": 508,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 15100,
+            "name": "ADALBERTO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 457,
+            "rating_change": -7,
+            "rating_after": 450,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-004",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 01",
+      "game_number": 4,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "13:25",
+      "played_at": "2026-03-15T13:25:00",
+      "players": [
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            5,
+            11,
+            10,
+            9
+          ]
+        },
+        {
+          "name": "RENAN SILVA",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            8,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "RENAN SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": -11,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85575,
+            "name": "RENAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 183,
+            "rating_change": 14,
+            "rating_after": 197,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-005",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 02",
+      "game_number": 5,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "13:25",
+      "played_at": "2026-03-15T13:25:00",
+      "players": [
+        {
+          "name": "SAMUEL OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "NAICHE MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "NAICHE MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91754,
+            "name": "SAMUEL OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": -10,
+            "rating_after": 228,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 85827,
+            "name": "NAICHE MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 209,
+            "rating_change": 12,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-006",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 03",
+      "game_number": 6,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "13:25",
+      "played_at": "2026-03-15T13:25:00",
+      "players": [
+        {
+          "name": "JOSE NETO",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YAGO COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91743,
+            "name": "JOSE NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -8,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": 10,
+            "rating_after": 254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-110-003",
+      "event_id": 5448,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "13:50",
+      "played_at": "2026-03-15T13:50:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ADALBERTO LIMA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 897,
+            "rating_change": 3,
+            "rating_after": 900,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 15100,
+            "name": "ADALBERTO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 450,
+            "rating_change": -1,
+            "rating_after": 449,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-110-004",
+      "event_id": 5448,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Única 01",
+      "game_number": 4,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "13:50",
+      "played_at": "2026-03-15T13:50:00",
+      "players": [
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            10,
+            11,
+            7,
+            8
+          ]
+        },
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            12,
+            5,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "MANASSÉS NEGRÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 508,
+            "rating_change": -12,
+            "rating_after": 496,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 375,
+            "rating_change": 16,
+            "rating_after": 391,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-007",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 01",
+      "game_number": 7,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "13:50",
+      "played_at": "2026-03-15T13:50:00",
+      "players": [
+        {
+          "name": "GUILHERME VALENTE",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            6,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "EVANDRO LEAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91662,
+            "name": "GUILHERME VALENTE",
+            "associate_id_source": "event_roster",
+            "rating_before": 216,
+            "rating_change": -7,
+            "rating_after": 209,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": 9,
+            "rating_after": 251,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-008",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 02",
+      "game_number": 8,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "13:50",
+      "played_at": "2026-03-15T13:50:00",
+      "players": [
+        {
+          "name": "MARCELO FILHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SAMUEL OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARCELO FILHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91710,
+            "name": "MARCELO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 218,
+            "rating_change": 11,
+            "rating_after": 229,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 91754,
+            "name": "SAMUEL OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 228,
+            "rating_change": -9,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-009",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 03",
+      "game_number": 9,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "13:50",
+      "played_at": "2026-03-15T13:50:00",
+      "players": [
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSE NETO",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "HEITOR RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": 10,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 91743,
+            "name": "JOSE NETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": -8,
+            "rating_after": 218,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-110-005",
+      "event_id": 5448,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Única 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "14:15",
+      "played_at": "2026-03-15T14:15:00",
+      "players": [
+        {
+          "name": "ADALBERTO LIMA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MANASSÉS NEGRÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MANASSÉS NEGRÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 15100,
+            "name": "ADALBERTO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 449,
+            "rating_change": -11,
+            "rating_after": 438,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85589,
+            "name": "MANASSÉS NEGRÃO",
+            "associate_id_source": "event_roster",
+            "rating_before": 391,
+            "rating_change": 14,
+            "rating_after": 405,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-110-006",
+      "event_id": 5448,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Única 01",
+      "game_number": 6,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "14:15",
+      "played_at": "2026-03-15T14:15:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            10,
+            10,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "THIAGO CAMPOS",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            12,
+            12,
+            8,
+            6
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 900,
+            "rating_change": 3,
+            "rating_after": 903,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 85574,
+            "name": "THIAGO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 496,
+            "rating_change": -1,
+            "rating_after": 495,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-010",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Quartas de Final",
+      "game_number": 10,
+      "table": 3,
+      "date": "15/03/2026",
+      "time": "14:15",
+      "played_at": "2026-03-15T14:15:00",
+      "players": [
+        {
+          "name": "MARCELO FILHO",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            11,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            8,
+            11,
+            13
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "HEITOR RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91710,
+            "name": "MARCELO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 229,
+            "rating_change": -8,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": 10,
+            "rating_after": 257,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-011",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Quartas de Final",
+      "game_number": 11,
+      "table": 4,
+      "date": "15/03/2026",
+      "time": "14:15",
+      "played_at": "2026-03-15T14:15:00",
+      "players": [
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            13,
+            9,
+            11,
+            5
+          ]
+        },
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            9,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "EVANDRO LEAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 254,
+            "rating_change": -9,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 251,
+            "rating_change": 11,
+            "rating_after": 262,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-012",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Semi Final",
+      "game_number": 12,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "14:40",
+      "played_at": "2026-03-15T14:40:00",
+      "players": [
+        {
+          "name": "RENAN SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            10,
+            7,
+            11,
+            9
+          ]
+        },
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            12,
+            11,
+            8,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "HEITOR RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85575,
+            "name": "RENAN SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 197,
+            "rating_change": -6,
+            "rating_after": 191,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 257,
+            "rating_change": 8,
+            "rating_after": 265,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-013",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Semi Final",
+      "game_number": 13,
+      "table": 2,
+      "date": "15/03/2026",
+      "time": "14:40",
+      "played_at": "2026-03-15T14:40:00",
+      "players": [
+        {
+          "name": "EVANDRO LEAL",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            10,
+            6,
+            4,
+            null
+          ]
+        },
+        {
+          "name": "NAICHE MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            3,
+            12,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "NAICHE MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91772,
+            "name": "EVANDRO LEAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 262,
+            "rating_change": -10,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 85827,
+            "name": "NAICHE MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 221,
+            "rating_change": 12,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-310-014",
+      "event_id": 5448,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Final",
+      "game_number": 14,
+      "table": 1,
+      "date": "15/03/2026",
+      "time": "15:05",
+      "played_at": "2026-03-15T15:05:00",
+      "players": [
+        {
+          "name": "HEITOR RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            8,
+            6,
+            8
+          ]
+        },
+        {
+          "name": "NAICHE MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            5,
+            7,
+            11,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "NAICHE MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91725,
+            "name": "HEITOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 265,
+            "rating_change": -10,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 85827,
+            "name": "NAICHE MARTINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": 12,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5448-270-014",
+      "event_id": 5448,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Semi Final",
+      "game_number": 14,
+      "table": 5,
+      "date": "15/03/2026",
+      "time": "18:10",
+      "played_at": "2026-03-15T18:10:00",
+      "players": [
+        {
+          "name": "YAGO COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            13,
+            9,
+            3,
+            11
+          ]
+        },
+        {
+          "name": "LUCAS CHEDRAOUI",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            11,
+            11,
+            4
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "YAGO COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86389,
+            "name": "YAGO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": 11,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 91732,
+            "name": "LUCAS CHEDRAOUI",
+            "associate_id_source": "event_roster",
+            "rating_before": 263,
+            "rating_change": -9,
+            "rating_after": 254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    }
+  ]
+}

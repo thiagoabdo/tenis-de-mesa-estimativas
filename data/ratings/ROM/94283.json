@@ -1,0 +1,67 @@
+{
+  "associate_id": 94283,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94283&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-19T15:20:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 100,
+      "delta": -3,
+      "final": 97,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS MELO"
+    },
+    {
+      "played_at": "2026-09-19T14:20:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 115,
+      "delta": -15,
+      "final": 100,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ LEITE"
+    },
+    {
+      "played_at": "2026-07-31T15:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 142,
+      "delta": -27,
+      "final": 115,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTUR LEAL"
+    },
+    {
+      "played_at": "2026-07-31T14:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 151,
+      "delta": -9,
+      "final": 142,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISAQUE CARVALHO"
+    },
+    {
+      "played_at": "2026-07-31T12:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 250,
+      "delta": -99,
+      "final": 151,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NOAH FERRONATO ............."
+    }
+  ]
+}

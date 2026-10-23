@@ -1,0 +1,67 @@
+{
+  "associate_id": 91288,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91288&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T19:01:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 334,
+      "delta": -9,
+      "final": 325,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO CAMPOS"
+    },
+    {
+      "played_at": "2026-03-14T10:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 298,
+      "delta": 36,
+      "final": 334,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI NUNES"
+    },
+    {
+      "played_at": "2026-03-14T10:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 307,
+      "delta": -9,
+      "final": 298,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO CAMPOS"
+    },
+    {
+      "played_at": "2026-03-14T09:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 280,
+      "delta": 27,
+      "final": 307,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ BEZERRA"
+    },
+    {
+      "played_at": "2026-03-14T08:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE FERRI ............."
+    }
+  ]
+}

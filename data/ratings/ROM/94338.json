@@ -1,0 +1,79 @@
+{
+  "associate_id": 94338,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94338&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T17:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 214,
+      "delta": -42,
+      "final": 172,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DANIEL MELO"
+    },
+    {
+      "played_at": "2026-09-26T15:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 223,
+      "delta": -9,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HEITOR MELLO"
+    },
+    {
+      "played_at": "2026-09-26T13:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 232,
+      "delta": -9,
+      "final": 223,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRIQUE ITO"
+    },
+    {
+      "played_at": "2026-08-01T16:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 256,
+      "delta": -24,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DIEGO OMORI"
+    },
+    {
+      "played_at": "2026-08-01T14:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 271,
+      "delta": -15,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTOFFER VIEIRA"
+    },
+    {
+      "played_at": "2026-08-01T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": 21,
+      "final": 271,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÍTALO RAMIREZ ............."
+    }
+  ]
+}

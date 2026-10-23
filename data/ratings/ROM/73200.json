@@ -1,0 +1,439 @@
+{
+  "associate_id": 73200,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=73200&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-13T14:15:00",
+      "event": "TMB Regional - 7ª Etapa da LIGA PAULISTA - Cat Clube PIRACICABA",
+      "initial": 631,
+      "delta": -8,
+      "final": 623,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SERGIO SAKAI"
+    },
+    {
+      "played_at": "2026-09-13T13:50:00",
+      "event": "TMB Regional - 7ª Etapa da LIGA PAULISTA - Cat Clube PIRACICABA",
+      "initial": 627,
+      "delta": 4,
+      "final": 631,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIO SILVA"
+    },
+    {
+      "played_at": "2026-09-13T12:10:00",
+      "event": "TMB Regional - 7ª Etapa da LIGA PAULISTA - Cat Clube PIRACICABA",
+      "initial": 623,
+      "delta": 4,
+      "final": 627,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DALTON FRANCISCO"
+    },
+    {
+      "played_at": "2026-05-23T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 623,
+      "delta": 0,
+      "final": 623,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHARLES FIRBIDA"
+    },
+    {
+      "played_at": "2026-05-23T09:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 623,
+      "delta": 0,
+      "final": 623,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL ROLDAN"
+    },
+    {
+      "played_at": "2026-05-22T18:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 83,
+      "delta": 540,
+      "final": 623,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBSON OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-20T16:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 209,
+      "delta": -126,
+      "final": 83,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILBERTO NETO"
+    },
+    {
+      "played_at": "2026-05-20T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 407,
+      "delta": -198,
+      "final": 209,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEX MACHADO"
+    },
+    {
+      "played_at": "2026-05-14T11:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 191,
+      "delta": 216,
+      "final": 407,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO PEREIRA"
+    },
+    {
+      "played_at": "2026-05-14T10:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 191,
+      "delta": 0,
+      "final": 191,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO MELO"
+    },
+    {
+      "played_at": "2026-05-14T09:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Paralímpico",
+      "initial": 191,
+      "delta": 0,
+      "final": 191,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO DIAS"
+    },
+    {
+      "played_at": "2024-10-26T15:30:00",
+      "event": "5 ETAPA LIGA REGIONAL TMSP - JAHÚ",
+      "initial": 196,
+      "delta": -5,
+      "final": 191,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO SOUZA"
+    },
+    {
+      "played_at": "2024-10-26T13:50:00",
+      "event": "5 ETAPA LIGA REGIONAL TMSP - JAHÚ",
+      "initial": 182,
+      "delta": 14,
+      "final": 196,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDUARDO MOREIRA"
+    },
+    {
+      "played_at": "2024-10-26T12:50:00",
+      "event": "5 ETAPA LIGA REGIONAL TMSP - JAHÚ",
+      "initial": 188,
+      "delta": -6,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATHEUS HENRIQUE UTHER"
+    },
+    {
+      "played_at": "2024-10-26T09:50:00",
+      "event": "5 ETAPA LIGA REGIONAL TMSP - JAHÚ",
+      "initial": 176,
+      "delta": 12,
+      "final": 188,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DEVANIR CERVI"
+    },
+    {
+      "played_at": "2024-10-26T09:30:00",
+      "event": "5 ETAPA LIGA REGIONAL TMSP - JAHÚ",
+      "initial": 182,
+      "delta": -6,
+      "final": 176,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CIRINEU GRACIOLLA"
+    },
+    {
+      "played_at": "2024-10-26T08:30:00",
+      "event": "5 ETAPA LIGA REGIONAL TMSP - JAHÚ",
+      "initial": 188,
+      "delta": -6,
+      "final": 182,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCIO PASCHILOALINO"
+    },
+    {
+      "played_at": "2024-09-28T15:30:00",
+      "event": "TMB REGIONAL- 4 ETAPA LIGA REGIONAL TMSP",
+      "initial": 194,
+      "delta": -6,
+      "final": 188,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI COROA"
+    },
+    {
+      "played_at": "2024-09-28T14:10:00",
+      "event": "TMB REGIONAL- 4 ETAPA LIGA REGIONAL TMSP",
+      "initial": 180,
+      "delta": 14,
+      "final": 194,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO CARVALHO"
+    },
+    {
+      "played_at": "2024-09-28T13:10:00",
+      "event": "TMB REGIONAL- 4 ETAPA LIGA REGIONAL TMSP",
+      "initial": 186,
+      "delta": -6,
+      "final": 180,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS GODOY"
+    },
+    {
+      "played_at": "2024-09-28T10:50:00",
+      "event": "TMB REGIONAL- 4 ETAPA LIGA REGIONAL TMSP",
+      "initial": 175,
+      "delta": 11,
+      "final": 186,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS JUNIOR"
+    },
+    {
+      "played_at": "2024-09-28T10:10:00",
+      "event": "TMB REGIONAL- 4 ETAPA LIGA REGIONAL TMSP",
+      "initial": 175,
+      "delta": 0,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RUDEMIR PIASSI"
+    },
+    {
+      "played_at": "2024-09-28T09:30:00",
+      "event": "TMB REGIONAL- 4 ETAPA LIGA REGIONAL TMSP",
+      "initial": 175,
+      "delta": 0,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO CERQUEIRA"
+    },
+    {
+      "played_at": "2023-12-03T12:10:00",
+      "event": "TMB Regional - 4 Etapa - Liga Regional - Gavião Peixoto/SP 2023",
+      "initial": 181,
+      "delta": -6,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO MOREIRA"
+    },
+    {
+      "played_at": "2023-12-03T11:30:00",
+      "event": "TMB Regional - 4 Etapa - Liga Regional - Gavião Peixoto/SP 2023",
+      "initial": 187,
+      "delta": -6,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS SILVA"
+    },
+    {
+      "played_at": "2023-12-03T10:10:00",
+      "event": "TMB Regional - 4 Etapa - Liga Regional - Gavião Peixoto/SP 2023",
+      "initial": 193,
+      "delta": -6,
+      "final": 187,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAMUEL LEITE"
+    },
+    {
+      "played_at": "2023-12-03T09:10:00",
+      "event": "TMB Regional - 4 Etapa - Liga Regional - Gavião Peixoto/SP 2023",
+      "initial": 183,
+      "delta": 10,
+      "final": 193,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ FERREIRA"
+    },
+    {
+      "played_at": "2023-12-03T08:50:00",
+      "event": "TMB Regional - 4 Etapa - Liga Regional - Gavião Peixoto/SP 2023",
+      "initial": 190,
+      "delta": -7,
+      "final": 183,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMIR LIMA"
+    },
+    {
+      "played_at": "2023-10-01T11:40:00",
+      "event": "TMB REGIONAL- 2 ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 197,
+      "delta": -7,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE PEREIRA"
+    },
+    {
+      "played_at": "2023-10-01T11:00:00",
+      "event": "TMB REGIONAL- 2 ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 203,
+      "delta": -6,
+      "final": 197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICARDO PASCHOALI"
+    },
+    {
+      "played_at": "2023-10-01T08:40:00",
+      "event": "TMB REGIONAL- 2 ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 210,
+      "delta": -7,
+      "final": 203,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMIR LIMA"
+    },
+    {
+      "played_at": "2023-10-01T08:20:00",
+      "event": "TMB REGIONAL- 2 ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 217,
+      "delta": -7,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DEVANIR CERVI"
+    },
+    {
+      "played_at": "2023-08-27T17:40:00",
+      "event": "TMB REGIONAL I ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 225,
+      "delta": -8,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMIR LIMA"
+    },
+    {
+      "played_at": "2023-08-27T16:00:00",
+      "event": "TMB REGIONAL I ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 233,
+      "delta": -8,
+      "final": 225,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ PERCHE"
+    },
+    {
+      "played_at": "2023-08-27T11:00:00",
+      "event": "TMB REGIONAL I ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 241,
+      "delta": -8,
+      "final": 233,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRE TOMEO"
+    },
+    {
+      "played_at": "2023-08-27T08:30:00",
+      "event": "TMB REGIONAL I ETAPA LIGA REGIONAL TMSP- GAVIÃO PEIXOTO",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DEVANIR CERVI ............."
+    }
+  ]
+}

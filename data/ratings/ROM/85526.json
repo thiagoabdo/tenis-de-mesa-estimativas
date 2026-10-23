@@ -1,0 +1,67 @@
+{
+  "associate_id": 85526,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85526&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-10T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 182,
+      "delta": -18,
+      "final": 164,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BERNARDO COSTA"
+    },
+    {
+      "played_at": "2026-05-10T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 188,
+      "delta": -6,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2025-04-27T11:45:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 206,
+      "delta": -18,
+      "final": 188,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MOHAMMAD KORYANI"
+    },
+    {
+      "played_at": "2025-04-27T10:30:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 230,
+      "delta": -24,
+      "final": 206,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI"
+    },
+    {
+      "played_at": "2025-04-27T08:00:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 250,
+      "delta": -20,
+      "final": 230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI SOUZA ............."
+    }
+  ]
+}

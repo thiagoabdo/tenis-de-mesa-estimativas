@@ -1,0 +1,55 @@
+{
+  "associate_id": 86984,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=86984&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-17T15:36:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 154,
+      "delta": -30,
+      "final": 124,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICENTE SANTOS"
+    },
+    {
+      "played_at": "2026-04-17T14:52:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 190,
+      "delta": -36,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL ASSIS"
+    },
+    {
+      "played_at": "2025-06-29T11:18:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 225,
+      "delta": -35,
+      "final": 190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ATHOS PAULA"
+    },
+    {
+      "played_at": "2025-06-29T09:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 250,
+      "delta": -25,
+      "final": 225,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GABRIEL BOEHM ............."
+    }
+  ]
+}

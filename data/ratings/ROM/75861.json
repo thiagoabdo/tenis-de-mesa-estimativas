@@ -1,0 +1,103 @@
+{
+  "associate_id": 75861,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=75861&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 221,
+      "delta": -18,
+      "final": 203,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ADRIANO BARBACENA"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 257,
+      "delta": -36,
+      "final": 221,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALEXANDRE SCHAFFKA"
+    },
+    {
+      "played_at": "2023-07-15T14:45:00",
+      "event": "TMB Regional - 4ª Etapa - Cascavel/PR - 2023",
+      "initial": 265,
+      "delta": -8,
+      "final": 257,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADSON ISSI"
+    },
+    {
+      "played_at": "2023-07-15T11:00:00",
+      "event": "TMB Regional - 4ª Etapa - Cascavel/PR - 2023",
+      "initial": 255,
+      "delta": 10,
+      "final": 265,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO RODRIGUES"
+    },
+    {
+      "played_at": "2023-07-15T08:30:00",
+      "event": "TMB Regional - 4ª Etapa - Cascavel/PR - 2023",
+      "initial": 245,
+      "delta": 10,
+      "final": 255,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAUA KITAHARA"
+    },
+    {
+      "played_at": "2023-06-24T14:20:00",
+      "event": "TMB Regional - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 251,
+      "delta": -6,
+      "final": 245,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MICHEL MATSUMOTO"
+    },
+    {
+      "played_at": "2023-06-24T11:25:00",
+      "event": "TMB Regional - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 259,
+      "delta": -8,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WESLEY PINTO"
+    },
+    {
+      "played_at": "2023-06-24T10:10:00",
+      "event": "TMB Regional - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 250,
+      "delta": 9,
+      "final": 259,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JAMES SANTOS ............."
+    }
+  ]
+}

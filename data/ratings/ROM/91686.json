@@ -1,0 +1,79 @@
+{
+  "associate_id": 91686,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91686&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 286,
+      "delta": -15,
+      "final": 271,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HUGO CAWASHIMA"
+    },
+    {
+      "played_at": "2026-05-09T12:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 259,
+      "delta": 27,
+      "final": 286,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NICOLAS BARBOSA"
+    },
+    {
+      "played_at": "2026-05-09T11:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 235,
+      "delta": 24,
+      "final": 259,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TIAGO FERREIRA"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 193,
+      "delta": 42,
+      "final": 235,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-04-18T11:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 217,
+      "delta": -24,
+      "final": 193,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL MENEGASSI"
+    },
+    {
+      "played_at": "2026-04-18T10:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL BATISTA ............."
+    }
+  ]
+}

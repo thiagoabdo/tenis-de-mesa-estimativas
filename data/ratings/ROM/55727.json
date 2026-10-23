@@ -1,0 +1,91 @@
+{
+  "associate_id": 55727,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=55727&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-27T17:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 361,
+      "delta": -24,
+      "final": 337,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL ABADE"
+    },
+    {
+      "played_at": "2026-06-27T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 331,
+      "delta": 30,
+      "final": 361,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATHAN CORREA"
+    },
+    {
+      "played_at": "2026-06-27T12:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 307,
+      "delta": 24,
+      "final": 331,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS SILVEIRA"
+    },
+    {
+      "played_at": "2026-05-09T16:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 313,
+      "delta": -6,
+      "final": 307,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GIOVANI JUNIOR"
+    },
+    {
+      "played_at": "2026-05-09T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 298,
+      "delta": 15,
+      "final": 313,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JEAN MALLET"
+    },
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 265,
+      "delta": 33,
+      "final": 298,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUSTAVO FERREIRA"
+    },
+    {
+      "played_at": "2026-05-09T08:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 15,
+      "final": 265,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO SALES ............."
+    }
+  ]
+}

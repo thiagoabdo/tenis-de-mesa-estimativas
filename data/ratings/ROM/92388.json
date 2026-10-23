@@ -1,0 +1,91 @@
+{
+  "associate_id": 92388,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92388&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-12T15:55:00",
+      "event": "4° Etapa TMB Estadual - Paralímpico - Rio de Janeiro",
+      "initial": 415,
+      "delta": -33,
+      "final": 382,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANDRÉ COSTA"
+    },
+    {
+      "played_at": "2026-09-12T15:05:00",
+      "event": "4° Etapa TMB Estadual - Paralímpico - Rio de Janeiro",
+      "initial": 397,
+      "delta": 18,
+      "final": 415,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EVANDRO COSENZA"
+    },
+    {
+      "played_at": "2026-09-12T14:40:00",
+      "event": "4° Etapa TMB Estadual - Paralímpico - Rio de Janeiro",
+      "initial": 382,
+      "delta": 15,
+      "final": 397,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBERTO MORAND"
+    },
+    {
+      "played_at": "2026-08-22T15:30:00",
+      "event": "3ª Etapa TMB Estadual - Rio de Janeiro/RJ 2026",
+      "initial": 418,
+      "delta": -36,
+      "final": 382,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ COSTA"
+    },
+    {
+      "played_at": "2026-08-22T13:50:00",
+      "event": "3ª Etapa TMB Estadual - Rio de Janeiro/RJ 2026",
+      "initial": 403,
+      "delta": 15,
+      "final": 418,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBERTO MORAND"
+    },
+    {
+      "played_at": "2026-07-31T18:00:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 358,
+      "delta": 45,
+      "final": 403,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO MENDES"
+    },
+    {
+      "played_at": "2026-07-31T17:35:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 250,
+      "delta": 108,
+      "final": 358,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ROBERTO MORAND ............."
+    }
+  ]
+}

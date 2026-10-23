@@ -1,0 +1,715 @@
+{
+  "associate_id": 88425,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=88425&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-13T09:40:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 1176,
+      "delta": -27,
+      "final": 1149,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CAIO GOMES"
+    },
+    {
+      "played_at": "2026-09-13T08:50:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 1161,
+      "delta": 15,
+      "final": 1176,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FELIPE DIAS"
+    },
+    {
+      "played_at": "2026-09-12T20:30:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 1143,
+      "delta": 18,
+      "final": 1161,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DIEGO CHAVES"
+    },
+    {
+      "played_at": "2026-09-12T18:50:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 1128,
+      "delta": 15,
+      "final": 1143,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERIC KIRSZBERG"
+    },
+    {
+      "played_at": "2026-09-12T10:30:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 1128,
+      "delta": 0,
+      "final": 1128,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAYME AMARAL"
+    },
+    {
+      "played_at": "2026-09-12T08:50:00",
+      "event": "4° Etapa TMB Estadual - Olímpico - Rio de Janeiro",
+      "initial": 1140,
+      "delta": -12,
+      "final": 1128,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JEAN MARQUES"
+    },
+    {
+      "played_at": "2026-08-23T15:55:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 1158,
+      "delta": -18,
+      "final": 1140,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CAIO GOMES"
+    },
+    {
+      "played_at": "2026-08-23T15:05:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 1176,
+      "delta": -18,
+      "final": 1158,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DANIEL PIERRO"
+    },
+    {
+      "played_at": "2026-08-23T13:25:00",
+      "event": "TMB Estadual - 3ª Etapa TMB Estadual - Rio de Janeiro/RJ - 2026",
+      "initial": 1161,
+      "delta": 15,
+      "final": 1176,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO LUZ"
+    },
+    {
+      "played_at": "2026-08-02T13:00:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 1206,
+      "delta": -45,
+      "final": 1161,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR KIRSZBERG"
+    },
+    {
+      "played_at": "2026-08-02T09:40:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 1098,
+      "delta": 108,
+      "final": 1206,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO NARVAIS"
+    },
+    {
+      "played_at": "2026-08-02T08:50:00",
+      "event": "Copa Brasil Ouro Rio de Janeiro - Vassouras",
+      "initial": 918,
+      "delta": 180,
+      "final": 1098,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GEORGE THIMOTEO"
+    },
+    {
+      "played_at": "2026-04-26T18:50:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 951,
+      "delta": -33,
+      "final": 918,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS AFONSO"
+    },
+    {
+      "played_at": "2026-04-26T18:00:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 936,
+      "delta": 15,
+      "final": 951,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR SANTOS"
+    },
+    {
+      "played_at": "2026-04-26T17:10:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 915,
+      "delta": 21,
+      "final": 936,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO FERNANDES"
+    },
+    {
+      "played_at": "2026-04-26T14:15:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 903,
+      "delta": 12,
+      "final": 915,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO BASUTTO"
+    },
+    {
+      "played_at": "2026-04-25T10:30:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 903,
+      "delta": 0,
+      "final": 903,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JAYME AMARAL"
+    },
+    {
+      "played_at": "2026-04-25T08:50:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 813,
+      "delta": 90,
+      "final": 903,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LEONARDO AFONSO"
+    },
+    {
+      "played_at": "2026-04-25T08:00:00",
+      "event": "2° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 813,
+      "delta": 0,
+      "final": 813,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO VITAL"
+    },
+    {
+      "played_at": "2026-03-08T18:50:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 813,
+      "delta": 0,
+      "final": 813,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MÁRIO CARVALHO"
+    },
+    {
+      "played_at": "2026-03-08T18:00:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 813,
+      "delta": 0,
+      "final": 813,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO VITAL"
+    },
+    {
+      "played_at": "2026-03-08T17:10:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 807,
+      "delta": 6,
+      "final": 813,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCIO SALGADO"
+    },
+    {
+      "played_at": "2026-03-08T13:50:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 837,
+      "delta": -30,
+      "final": 807,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PATRICK OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-08T12:35:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 813,
+      "delta": 24,
+      "final": 837,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANTONIO FERREIRA"
+    },
+    {
+      "played_at": "2026-03-08T11:45:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 789,
+      "delta": 24,
+      "final": 813,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE DIAS"
+    },
+    {
+      "played_at": "2026-03-08T10:55:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 771,
+      "delta": 18,
+      "final": 789,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO PINHO"
+    },
+    {
+      "played_at": "2026-03-08T10:05:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 753,
+      "delta": 18,
+      "final": 771,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-08T09:15:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 720,
+      "delta": 33,
+      "final": 753,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PATRICK OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-08T08:25:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 699,
+      "delta": 21,
+      "final": 720,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GEORGE BARBOSA"
+    },
+    {
+      "played_at": "2025-12-14T16:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 699,
+      "delta": 0,
+      "final": 699,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VIGO CHRISTOPHERSEN"
+    },
+    {
+      "played_at": "2025-12-14T15:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 589,
+      "delta": 110,
+      "final": 699,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR BONECHER"
+    },
+    {
+      "played_at": "2025-12-14T13:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 539,
+      "delta": 50,
+      "final": 589,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRENO PEREIRA"
+    },
+    {
+      "played_at": "2025-12-12T17:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 539,
+      "delta": 0,
+      "final": 539,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EVANDRO NETO"
+    },
+    {
+      "played_at": "2025-12-12T14:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 539,
+      "delta": 0,
+      "final": 539,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RODRIGO CUNHA"
+    },
+    {
+      "played_at": "2025-12-11T22:47:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 489,
+      "delta": 50,
+      "final": 539,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI VIANNA"
+    },
+    {
+      "played_at": "2025-12-11T10:21:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 459,
+      "delta": 30,
+      "final": 489,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ BISPO"
+    },
+    {
+      "played_at": "2025-12-11T05:20:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 259,
+      "delta": 200,
+      "final": 459,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PATRICK OLIVEIRA"
+    },
+    {
+      "played_at": "2025-12-11T05:19:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 279,
+      "delta": -20,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCUS FERNANDES"
+    },
+    {
+      "played_at": "2025-12-11T05:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 329,
+      "delta": -50,
+      "final": 279,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RODRIGO VIANNA"
+    },
+    {
+      "played_at": "2025-10-26T19:40:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 345,
+      "delta": -16,
+      "final": 329,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CARLOS GOMES"
+    },
+    {
+      "played_at": "2025-10-26T18:50:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 329,
+      "delta": 16,
+      "final": 345,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI ESCOCARD"
+    },
+    {
+      "played_at": "2025-10-26T18:00:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 311,
+      "delta": 18,
+      "final": 329,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALLAN KIRSZBERG"
+    },
+    {
+      "played_at": "2025-10-26T17:10:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 335,
+      "delta": -24,
+      "final": 311,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-10-26T14:15:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 321,
+      "delta": 14,
+      "final": 335,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CADINELLI"
+    },
+    {
+      "played_at": "2025-10-25T14:15:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 321,
+      "delta": 0,
+      "final": 321,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BORYEL ANDRADE"
+    },
+    {
+      "played_at": "2025-10-25T13:25:00",
+      "event": "TMB Estadual Finals - Rio de Janeiro",
+      "initial": 321,
+      "delta": 0,
+      "final": 321,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIS FILHO"
+    },
+    {
+      "played_at": "2025-09-14T16:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 361,
+      "delta": -40,
+      "final": 321,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO FERREIRA"
+    },
+    {
+      "played_at": "2025-09-14T13:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 441,
+      "delta": -80,
+      "final": 361,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO TORRES"
+    },
+    {
+      "played_at": "2025-09-12T12:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 496,
+      "delta": -55,
+      "final": 441,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLAUDIO MARAVILHA"
+    },
+    {
+      "played_at": "2025-09-12T11:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 466,
+      "delta": 30,
+      "final": 496,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENTO NAVARRO"
+    },
+    {
+      "played_at": "2025-09-12T09:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 441,
+      "delta": 25,
+      "final": 466,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-09-12T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Rio de Janeiro/RJ - 2025",
+      "initial": 406,
+      "delta": 35,
+      "final": 441,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RUBENS JUNIOR"
+    },
+    {
+      "played_at": "2025-08-31T14:40:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 374,
+      "delta": 32,
+      "final": 406,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR ANDRADE"
+    },
+    {
+      "played_at": "2025-08-31T13:50:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 338,
+      "delta": 36,
+      "final": 374,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LEONARDO CARPILOVSKY"
+    },
+    {
+      "played_at": "2025-08-31T13:00:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 318,
+      "delta": 20,
+      "final": 338,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLAUDIO MARAVILHA"
+    },
+    {
+      "played_at": "2025-08-31T11:20:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 300,
+      "delta": 18,
+      "final": 318,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS OLIVEIRA"
+    },
+    {
+      "played_at": "2025-08-31T09:40:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 286,
+      "delta": 14,
+      "final": 300,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVI GAZOLLA"
+    },
+    {
+      "played_at": "2025-08-31T08:50:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 270,
+      "delta": 16,
+      "final": 286,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RICARDO AQUINO"
+    },
+    {
+      "played_at": "2025-08-31T08:00:00",
+      "event": "2° Etapa - TMB Estadual - Rio de Janeiro/RJ - 2025 ( De 30/08/2025 a 31/08/2025 ) - Olímpico - Ranking",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL BOREL ............."
+    }
+  ]
+}

@@ -1,0 +1,5383 @@
+{
+  "associate_id": 47396,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=47396&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-21T17:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 4158,
+      "delta": -198,
+      "final": 3960,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2026-05-21T16:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 4104,
+      "delta": 54,
+      "final": 4158,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VALESCA MARANHÃO"
+    },
+    {
+      "played_at": "2026-05-21T15:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 4068,
+      "delta": 36,
+      "final": 4104,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TAMYRES FUKASE"
+    },
+    {
+      "played_at": "2026-05-21T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 4050,
+      "delta": 18,
+      "final": 4068,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "REBECA DANIELLO"
+    },
+    {
+      "played_at": "2026-05-20T18:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3924,
+      "delta": 126,
+      "final": 4050,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SABRINA MIYABARA"
+    },
+    {
+      "played_at": "2026-05-20T16:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3888,
+      "delta": 36,
+      "final": 3924,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2026-05-18T10:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3744,
+      "delta": 144,
+      "final": 3888,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2026-05-18T09:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3726,
+      "delta": 18,
+      "final": 3744,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TAINARA HEIDRICH"
+    },
+    {
+      "played_at": "2026-05-18T08:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3672,
+      "delta": 54,
+      "final": 3726,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2026-05-17T19:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3654,
+      "delta": 18,
+      "final": 3672,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALISSA MAIA"
+    },
+    {
+      "played_at": "2026-05-17T17:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3636,
+      "delta": 18,
+      "final": 3654,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BIANCA SANTOS"
+    },
+    {
+      "played_at": "2026-05-17T15:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3618,
+      "delta": 18,
+      "final": 3636,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2026-05-17T14:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3600,
+      "delta": 18,
+      "final": 3618,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GRAZIELA UENO"
+    },
+    {
+      "played_at": "2026-05-17T09:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3582,
+      "delta": 18,
+      "final": 3600,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETÍCIA VALADARES"
+    },
+    {
+      "played_at": "2026-05-16T15:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3618,
+      "delta": -36,
+      "final": 3582,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2026-05-16T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3582,
+      "delta": 36,
+      "final": 3618,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2026-05-16T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3564,
+      "delta": 18,
+      "final": 3582,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMARA SILVA"
+    },
+    {
+      "played_at": "2026-05-16T11:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3546,
+      "delta": 18,
+      "final": 3564,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MODESTO"
+    },
+    {
+      "played_at": "2026-05-15T19:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 3528,
+      "delta": 18,
+      "final": 3546,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-02T17:15:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA",
+      "initial": 3561,
+      "delta": -33,
+      "final": 3528,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2026-05-01T21:20:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA",
+      "initial": 3555,
+      "delta": 6,
+      "final": 3561,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA SOUZA"
+    },
+    {
+      "played_at": "2026-05-01T20:30:00",
+      "event": "TMB ESTADUAL - 2ª ETAPA ESTADUAL CATARINENSE 2026 - CONCÓRDIA",
+      "initial": 3552,
+      "delta": 3,
+      "final": 3555,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TUANI SOARES"
+    },
+    {
+      "played_at": "2026-03-07T19:45:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 3510,
+      "delta": 42,
+      "final": 3552,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ISABEL AMORIM"
+    },
+    {
+      "played_at": "2026-03-07T17:40:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 3498,
+      "delta": 12,
+      "final": 3510,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2026-03-07T10:55:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 3522,
+      "delta": -24,
+      "final": 3498,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2026-03-07T10:30:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 3519,
+      "delta": 3,
+      "final": 3522,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "TUANI SOARES"
+    },
+    {
+      "played_at": "2026-03-07T10:05:00",
+      "event": "TMB ESTADUAL - 1ª ETAPA ESTADUAL CATARINENSE 2026 - JARAGUÁ DO SUL",
+      "initial": 3516,
+      "delta": 3,
+      "final": 3519,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELA GRESCZESCHEN"
+    },
+    {
+      "played_at": "2026-02-07T14:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 3780,
+      "delta": -264,
+      "final": 3516,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ISABEL AMORIM"
+    },
+    {
+      "played_at": "2026-02-07T11:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 3588,
+      "delta": 192,
+      "final": 3780,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2026-02-07T10:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 3576,
+      "delta": 12,
+      "final": 3588,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA IMAI"
+    },
+    {
+      "played_at": "2026-02-06T16:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 3564,
+      "delta": 12,
+      "final": 3576,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GIULIA MARTINELLI"
+    },
+    {
+      "played_at": "2026-02-06T14:30:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 3552,
+      "delta": 12,
+      "final": 3564,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELOÍSA SILVA"
+    },
+    {
+      "played_at": "2025-12-13T20:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3582,
+      "delta": -30,
+      "final": 3552,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2025-12-13T17:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3472,
+      "delta": 110,
+      "final": 3582,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2025-12-13T15:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3422,
+      "delta": 50,
+      "final": 3472,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LÍVIA LIMA"
+    },
+    {
+      "played_at": "2025-12-13T13:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3192,
+      "delta": 230,
+      "final": 3422,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA FERNANDES"
+    },
+    {
+      "played_at": "2025-12-13T10:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3122,
+      "delta": 70,
+      "final": 3192,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2025-12-12T17:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3142,
+      "delta": -20,
+      "final": 3122,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2025-12-12T15:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3132,
+      "delta": 10,
+      "final": 3142,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NIVIN ABDALLAH"
+    },
+    {
+      "played_at": "2025-12-09T20:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3152,
+      "delta": -20,
+      "final": 3132,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2025-12-09T19:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3132,
+      "delta": 20,
+      "final": 3152,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IZZYE ROLIM"
+    },
+    {
+      "played_at": "2025-12-09T18:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3082,
+      "delta": 50,
+      "final": 3132,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMILY KOBAYASHI"
+    },
+    {
+      "played_at": "2025-12-09T17:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3042,
+      "delta": 40,
+      "final": 3082,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MELISSA AOYAMA"
+    },
+    {
+      "played_at": "2025-12-09T16:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3022,
+      "delta": 20,
+      "final": 3042,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2025-12-09T15:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3012,
+      "delta": 10,
+      "final": 3022,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALÍCIA ANDRADE"
+    },
+    {
+      "played_at": "2025-12-09T11:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3002,
+      "delta": 10,
+      "final": 3012,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BIANCA SANTOS"
+    },
+    {
+      "played_at": "2025-12-08T18:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3022,
+      "delta": -20,
+      "final": 3002,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2025-12-08T14:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3242,
+      "delta": -220,
+      "final": 3022,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA ALVES"
+    },
+    {
+      "played_at": "2025-12-08T10:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 3232,
+      "delta": 10,
+      "final": 3242,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZA BARRETO"
+    },
+    {
+      "played_at": "2025-12-06T21:54:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 3222,
+      "delta": 10,
+      "final": 3232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIULIA MARTINELLI"
+    },
+    {
+      "played_at": "2025-12-06T16:23:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 3232,
+      "delta": -10,
+      "final": 3222,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2025-12-06T16:22:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 3202,
+      "delta": 30,
+      "final": 3232,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2025-12-06T09:11:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 3222,
+      "delta": -20,
+      "final": 3202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2024-12-14T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3222,
+      "delta": 0,
+      "final": 3222,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2024-12-14T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3112,
+      "delta": 110,
+      "final": 3222,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SARAH MARTINS"
+    },
+    {
+      "played_at": "2024-12-13T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3002,
+      "delta": 110,
+      "final": 3112,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDIANE BRESCIANI"
+    },
+    {
+      "played_at": "2024-12-13T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3112,
+      "delta": -110,
+      "final": 3002,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA ALVES"
+    },
+    {
+      "played_at": "2024-12-13T11:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3102,
+      "delta": 10,
+      "final": 3112,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMANDA MARQUES"
+    },
+    {
+      "played_at": "2024-12-10T18:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3322,
+      "delta": -220,
+      "final": 3102,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2024-12-10T17:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3312,
+      "delta": 10,
+      "final": 3322,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BIANCA BORGES"
+    },
+    {
+      "played_at": "2024-12-10T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3302,
+      "delta": 10,
+      "final": 3312,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TAINARA HEIDRICH"
+    },
+    {
+      "played_at": "2024-12-10T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3292,
+      "delta": 10,
+      "final": 3302,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATÁLIA YAGYU"
+    },
+    {
+      "played_at": "2024-12-10T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3282,
+      "delta": 10,
+      "final": 3292,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELOAH PRADO"
+    },
+    {
+      "played_at": "2024-12-09T17:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3342,
+      "delta": -60,
+      "final": 3282,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABEL AMORIM"
+    },
+    {
+      "played_at": "2024-12-09T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3262,
+      "delta": 80,
+      "final": 3342,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2024-12-09T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Individual",
+      "initial": 3242,
+      "delta": 20,
+      "final": 3262,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2024-12-08T03:56:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Equipes de Clubes",
+      "initial": 3082,
+      "delta": 160,
+      "final": 3242,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA FERNANDES"
+    },
+    {
+      "played_at": "2024-12-07T11:03:00",
+      "event": "TMB Platinum Brasileiro Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 - Seleção Estadual",
+      "initial": 3042,
+      "delta": 40,
+      "final": 3082,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MELISSA AOYAMA"
+    },
+    {
+      "played_at": "2024-09-28T16:00:00",
+      "event": "42º CAMPEONATO DE EQUIPES E 6ª ETAPA TMB ESTADUAL CHAPECÓ/SC.",
+      "initial": 3078,
+      "delta": -36,
+      "final": 3042,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2024-09-28T15:10:00",
+      "event": "42º CAMPEONATO DE EQUIPES E 6ª ETAPA TMB ESTADUAL CHAPECÓ/SC.",
+      "initial": 3074,
+      "delta": 4,
+      "final": 3078,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TRICIA GOULART"
+    },
+    {
+      "played_at": "2024-09-28T08:50:00",
+      "event": "42º CAMPEONATO DE EQUIPES E 6ª ETAPA TMB ESTADUAL CHAPECÓ/SC.",
+      "initial": 3070,
+      "delta": 4,
+      "final": 3074,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2024-09-28T08:25:00",
+      "event": "42º CAMPEONATO DE EQUIPES E 6ª ETAPA TMB ESTADUAL CHAPECÓ/SC.",
+      "initial": 3068,
+      "delta": 2,
+      "final": 3070,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2024-09-28T08:00:00",
+      "event": "42º CAMPEONATO DE EQUIPES E 6ª ETAPA TMB ESTADUAL CHAPECÓ/SC.",
+      "initial": 3066,
+      "delta": 2,
+      "final": 3068,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2024-09-27T17:50:00",
+      "event": "TMB Estadual - 42º Campeonato de Equipes - 6ª Etapa Estadual - Chapecó/SC - 2024",
+      "initial": 3064,
+      "delta": 2,
+      "final": 3066,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EVELIN KISNER"
+    },
+    {
+      "played_at": "2024-09-27T10:18:00",
+      "event": "TMB Estadual - 42º Campeonato de Equipes - 6ª Etapa Estadual - Chapecó/SC - 2024",
+      "initial": 3062,
+      "delta": 2,
+      "final": 3064,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANA RABELO"
+    },
+    {
+      "played_at": "2024-08-24T18:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3090,
+      "delta": -28,
+      "final": 3062,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2024-08-24T18:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3086,
+      "delta": 4,
+      "final": 3090,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2024-08-24T15:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3130,
+      "delta": -44,
+      "final": 3086,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2024-08-24T15:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3128,
+      "delta": 2,
+      "final": 3130,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA DIAS"
+    },
+    {
+      "played_at": "2024-08-24T14:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3126,
+      "delta": 2,
+      "final": 3128,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2024-08-23T19:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3170,
+      "delta": -44,
+      "final": 3126,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELA PATERNO"
+    },
+    {
+      "played_at": "2024-08-23T16:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3166,
+      "delta": 4,
+      "final": 3170,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2024-08-23T15:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Jaraguá do SUl /SC - 2024",
+      "initial": 3210,
+      "delta": -44,
+      "final": 3166,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LETÍCIA ARAÚJO"
+    },
+    {
+      "played_at": "2024-07-27T20:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3298,
+      "delta": -88,
+      "final": 3210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2024-07-27T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3250,
+      "delta": 48,
+      "final": 3298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2024-07-27T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3242,
+      "delta": 8,
+      "final": 3250,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZA FONTANIVE"
+    },
+    {
+      "played_at": "2024-07-27T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3186,
+      "delta": 56,
+      "final": 3242,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FERNANDES"
+    },
+    {
+      "played_at": "2024-07-27T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3178,
+      "delta": 8,
+      "final": 3186,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MARTINS"
+    },
+    {
+      "played_at": "2024-07-25T19:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3322,
+      "delta": -144,
+      "final": 3178,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ISABEL AMORIM"
+    },
+    {
+      "played_at": "2024-07-25T18:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3298,
+      "delta": 24,
+      "final": 3322,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2024-07-25T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3202,
+      "delta": 96,
+      "final": 3298,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2024-07-25T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3194,
+      "delta": 8,
+      "final": 3202,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA VARGAS"
+    },
+    {
+      "played_at": "2024-07-25T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3186,
+      "delta": 8,
+      "final": 3194,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELA GOMES"
+    },
+    {
+      "played_at": "2024-07-24T18:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3170,
+      "delta": 16,
+      "final": 3186,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2024-07-24T17:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3162,
+      "delta": 8,
+      "final": 3170,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2024-07-24T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3154,
+      "delta": 8,
+      "final": 3162,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VALENTINA SARAVI"
+    },
+    {
+      "played_at": "2024-07-24T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3146,
+      "delta": 8,
+      "final": 3154,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIULIA MARTINELLI"
+    },
+    {
+      "played_at": "2024-07-24T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3138,
+      "delta": 8,
+      "final": 3146,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2024-07-24T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 3130,
+      "delta": 8,
+      "final": 3138,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATÁLIA YAGYU"
+    },
+    {
+      "played_at": "2024-07-13T17:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Blumenau/SC- 2024",
+      "initial": 3120,
+      "delta": 10,
+      "final": 3130,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2024-07-13T16:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Blumenau/SC- 2024",
+      "initial": 3118,
+      "delta": 2,
+      "final": 3120,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2024-07-13T15:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Blumenau/SC- 2024",
+      "initial": 3116,
+      "delta": 2,
+      "final": 3118,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELA GRESCZESCHEN"
+    },
+    {
+      "played_at": "2024-07-12T20:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Blumenau/SC- 2024",
+      "initial": 3112,
+      "delta": 4,
+      "final": 3116,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TRICIA GOULART"
+    },
+    {
+      "played_at": "2024-07-12T20:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Blumenau/SC- 2024",
+      "initial": 3110,
+      "delta": 2,
+      "final": 3112,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITÓRIA PEIXOTO"
+    },
+    {
+      "played_at": "2024-03-16T19:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3150,
+      "delta": -40,
+      "final": 3110,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2024-03-16T18:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3146,
+      "delta": 4,
+      "final": 3150,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TRICIA GOULART"
+    },
+    {
+      "played_at": "2024-03-16T18:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3144,
+      "delta": 2,
+      "final": 3146,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA DIAS"
+    },
+    {
+      "played_at": "2024-03-16T08:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3142,
+      "delta": 2,
+      "final": 3144,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2024-03-16T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3140,
+      "delta": 2,
+      "final": 3142,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2024-03-15T20:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3134,
+      "delta": 6,
+      "final": 3140,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2024-03-15T19:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3122,
+      "delta": 12,
+      "final": 3134,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LHAYS STOLARSKI"
+    },
+    {
+      "played_at": "2024-03-15T11:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3118,
+      "delta": 4,
+      "final": 3122,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TRICIA GOULART"
+    },
+    {
+      "played_at": "2024-03-15T10:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Jaraguá do Sul/SC - 2024",
+      "initial": 3116,
+      "delta": 2,
+      "final": 3118,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2024-03-02T20:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 3244,
+      "delta": -128,
+      "final": 3116,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2024-03-02T12:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 3148,
+      "delta": 96,
+      "final": 3244,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2024-03-02T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 3124,
+      "delta": 24,
+      "final": 3148,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAMILA SERIKAWA"
+    },
+    {
+      "played_at": "2024-03-01T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 3012,
+      "delta": 112,
+      "final": 3124,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SABRINA MIYABARA"
+    },
+    {
+      "played_at": "2024-03-01T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 3004,
+      "delta": 8,
+      "final": 3012,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIS YUTA"
+    },
+    {
+      "played_at": "2024-02-29T18:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 3044,
+      "delta": -40,
+      "final": 3004,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2024-02-29T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2956,
+      "delta": 88,
+      "final": 3044,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2024-02-29T16:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2812,
+      "delta": 144,
+      "final": 2956,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2024-02-29T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2788,
+      "delta": 24,
+      "final": 2812,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNNA ROSA"
+    },
+    {
+      "played_at": "2024-02-29T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2772,
+      "delta": 16,
+      "final": 2788,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2024-02-28T16:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2756,
+      "delta": 16,
+      "final": 2772,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2024-02-28T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2748,
+      "delta": 8,
+      "final": 2756,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VALENTINA SARAVI"
+    },
+    {
+      "played_at": "2024-02-28T14:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2740,
+      "delta": 8,
+      "final": 2748,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA SOUZA"
+    },
+    {
+      "played_at": "2024-02-28T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2732,
+      "delta": 8,
+      "final": 2740,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SOUZA"
+    },
+    {
+      "played_at": "2024-02-28T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2724,
+      "delta": 8,
+      "final": 2732,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALICE JACINTO"
+    },
+    {
+      "played_at": "2024-02-28T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2024",
+      "initial": 2716,
+      "delta": 8,
+      "final": 2724,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BEATRIZ CHOI"
+    },
+    {
+      "played_at": "2023-12-15T20:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2716,
+      "delta": 0,
+      "final": 2716,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANA SHIOZAKI"
+    },
+    {
+      "played_at": "2023-12-15T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2716,
+      "delta": 0,
+      "final": 2716,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIELA GOMES"
+    },
+    {
+      "played_at": "2023-12-13T20:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2716,
+      "delta": 0,
+      "final": 2716,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2023-12-13T19:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2646,
+      "delta": 70,
+      "final": 2716,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ISABEL AMORIM"
+    },
+    {
+      "played_at": "2023-12-13T18:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2566,
+      "delta": 80,
+      "final": 2646,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2023-12-13T17:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2526,
+      "delta": 40,
+      "final": 2566,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2023-12-13T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2506,
+      "delta": 20,
+      "final": 2526,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA PATERNO"
+    },
+    {
+      "played_at": "2023-12-13T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2496,
+      "delta": 10,
+      "final": 2506,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LARA LIMA"
+    },
+    {
+      "played_at": "2023-12-13T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2486,
+      "delta": 10,
+      "final": 2496,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TUANI SOARES"
+    },
+    {
+      "played_at": "2023-12-12T16:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2486,
+      "delta": 0,
+      "final": 2486,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2023-12-12T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 2476,
+      "delta": 10,
+      "final": 2486,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITÓRIA SOARES"
+    },
+    {
+      "played_at": "2023-12-11T15:39:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Equipes de Clubes.",
+      "initial": 2436,
+      "delta": 40,
+      "final": 2476,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNNA ROSA"
+    },
+    {
+      "played_at": "2023-12-11T15:38:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Equipes de Clubes.",
+      "initial": 2436,
+      "delta": 0,
+      "final": 2436,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SARAH MARTINS"
+    },
+    {
+      "played_at": "2023-12-10T20:13:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Seleção Estadual.",
+      "initial": 2596,
+      "delta": -160,
+      "final": 2436,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FERNANDES"
+    },
+    {
+      "played_at": "2023-12-10T20:12:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Seleção Estadual.",
+      "initial": 2656,
+      "delta": -60,
+      "final": 2596,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARAH MARTINS"
+    },
+    {
+      "played_at": "2023-09-09T17:45:00",
+      "event": "TMB Estadual - 5º Etapa - Jaraguá do Sul /Sc - 2023",
+      "initial": 2646,
+      "delta": 10,
+      "final": 2656,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2023-09-09T17:20:00",
+      "event": "TMB Estadual - 5º Etapa - Jaraguá do Sul /Sc - 2023",
+      "initial": 2640,
+      "delta": 6,
+      "final": 2646,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2023-09-09T10:05:00",
+      "event": "TMB Estadual - 5º Etapa - Jaraguá do Sul /Sc - 2023",
+      "initial": 2638,
+      "delta": 2,
+      "final": 2640,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA DIAS"
+    },
+    {
+      "played_at": "2023-09-09T09:15:00",
+      "event": "TMB Estadual - 5º Etapa - Jaraguá do Sul /Sc - 2023",
+      "initial": 2636,
+      "delta": 2,
+      "final": 2638,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITÓRIA PEIXOTO"
+    },
+    {
+      "played_at": "2023-08-19T17:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2680,
+      "delta": -44,
+      "final": 2636,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2023-08-19T11:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2674,
+      "delta": 6,
+      "final": 2680,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2023-08-19T10:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2672,
+      "delta": 2,
+      "final": 2674,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDRESSA ZUFFO"
+    },
+    {
+      "played_at": "2023-08-19T10:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2670,
+      "delta": 2,
+      "final": 2672,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMILLY CASTRO"
+    },
+    {
+      "played_at": "2023-08-18T14:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2714,
+      "delta": -44,
+      "final": 2670,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2023-08-18T09:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2708,
+      "delta": 6,
+      "final": 2714,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2023-08-18T09:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Videira/SC - 2023",
+      "initial": 2702,
+      "delta": 6,
+      "final": 2708,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2023-07-15T16:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SP - 2023",
+      "initial": 2696,
+      "delta": 6,
+      "final": 2702,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2023-07-15T16:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SP - 2023",
+      "initial": 2690,
+      "delta": 6,
+      "final": 2696,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2023-07-15T16:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SP - 2023",
+      "initial": 2684,
+      "delta": 6,
+      "final": 2690,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2023-07-15T11:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SP - 2023",
+      "initial": 2682,
+      "delta": 2,
+      "final": 2684,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA DIAS"
+    },
+    {
+      "played_at": "2023-07-15T10:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SP - 2023",
+      "initial": 2680,
+      "delta": 2,
+      "final": 2682,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITÓRIA PEIXOTO"
+    },
+    {
+      "played_at": "2023-07-08T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2808,
+      "delta": -128,
+      "final": 2680,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANNA FARIA"
+    },
+    {
+      "played_at": "2023-07-08T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2568,
+      "delta": 240,
+      "final": 2808,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2023-07-08T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2552,
+      "delta": 16,
+      "final": 2568,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2023-07-08T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2536,
+      "delta": 16,
+      "final": 2552,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA LIMA"
+    },
+    {
+      "played_at": "2023-07-07T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2528,
+      "delta": 8,
+      "final": 2536,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GIOVANA SILVA"
+    },
+    {
+      "played_at": "2023-07-06T13:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2528,
+      "delta": 0,
+      "final": 2528,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANA SHIOZAKI"
+    },
+    {
+      "played_at": "2023-07-06T11:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2704,
+      "delta": -176,
+      "final": 2528,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2023-07-06T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico E Paralímpico - Ciclo II - Rio De Janeiro/RJ - 2023",
+      "initial": 2696,
+      "delta": 8,
+      "final": 2704,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2023-04-15T19:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2694,
+      "delta": 2,
+      "final": 2696,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2023-04-15T18:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2692,
+      "delta": 2,
+      "final": 2694,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2023-04-15T18:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2690,
+      "delta": 2,
+      "final": 2692,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MUNIZ"
+    },
+    {
+      "played_at": "2023-04-15T14:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2688,
+      "delta": 2,
+      "final": 2690,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FRAGOSO"
+    },
+    {
+      "played_at": "2023-04-15T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2686,
+      "delta": 2,
+      "final": 2688,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA DIAS"
+    },
+    {
+      "played_at": "2023-04-14T19:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2722,
+      "delta": -36,
+      "final": 2686,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PRISCILA SALVADOR"
+    },
+    {
+      "played_at": "2023-04-14T11:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2766,
+      "delta": -44,
+      "final": 2722,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2023-04-14T10:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Fraiburgo/SC - 2023.",
+      "initial": 2764,
+      "delta": 2,
+      "final": 2766,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2023-04-01T12:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2780,
+      "delta": -16,
+      "final": 2764,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2023-04-01T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2652,
+      "delta": 128,
+      "final": 2780,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANNA FARIA"
+    },
+    {
+      "played_at": "2023-03-31T19:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2588,
+      "delta": 64,
+      "final": 2652,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2023-03-31T11:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2572,
+      "delta": 16,
+      "final": 2588,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLA ZAGO"
+    },
+    {
+      "played_at": "2023-03-30T18:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2660,
+      "delta": -88,
+      "final": 2572,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2023-03-30T17:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2596,
+      "delta": 64,
+      "final": 2660,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2023-03-30T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2580,
+      "delta": 16,
+      "final": 2596,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANI TADIMA"
+    },
+    {
+      "played_at": "2023-03-30T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2572,
+      "delta": 8,
+      "final": 2580,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NICOLE SANTOS"
+    },
+    {
+      "played_at": "2023-03-30T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2564,
+      "delta": 8,
+      "final": 2572,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2023-03-30T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2556,
+      "delta": 8,
+      "final": 2564,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TRICIA GOULART"
+    },
+    {
+      "played_at": "2023-03-29T17:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2524,
+      "delta": 32,
+      "final": 2556,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2023-03-29T16:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2508,
+      "delta": 16,
+      "final": 2524,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA ALVES"
+    },
+    {
+      "played_at": "2023-03-29T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2492,
+      "delta": 16,
+      "final": 2508,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2023-03-29T14:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2476,
+      "delta": 16,
+      "final": 2492,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2023-03-29T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2468,
+      "delta": 8,
+      "final": 2476,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA PATERNO"
+    },
+    {
+      "played_at": "2023-03-29T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 2460,
+      "delta": 8,
+      "final": 2468,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABEL AMORIM"
+    },
+    {
+      "played_at": "2023-03-28T10:30:00",
+      "event": "TMB Seletiva - 2ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        1,
+        4
+      ],
+      "opponent": "MELISSA ARAKAKI"
+    },
+    {
+      "played_at": "2023-03-28T08:30:00",
+      "event": "TMB Seletiva - 2ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        4,
+        2
+      ],
+      "opponent": "LAURA WATANABE"
+    },
+    {
+      "played_at": "2023-03-27T19:30:00",
+      "event": "TMB Seletiva - 2ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YUMI ASSAHI"
+    },
+    {
+      "played_at": "2023-03-27T17:00:00",
+      "event": "TMB Seletiva - 2ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SARAH MARTINS"
+    },
+    {
+      "played_at": "2023-03-27T14:30:00",
+      "event": "TMB Seletiva - 2ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2023-03-26T17:40:00",
+      "event": "TMB Seletiva - 1ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        1,
+        4
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2023-03-26T16:00:00",
+      "event": "TMB Seletiva - 1ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SABRINA MIYABARA"
+    },
+    {
+      "played_at": "2023-03-26T14:45:00",
+      "event": "TMB Seletiva - 1ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2023-03-26T13:30:00",
+      "event": "TMB Seletiva - 1ª Vaga - Seletiva Olímpica de Jovens - São Paulo/SP - 2023",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YUMI ASSAHI"
+    },
+    {
+      "played_at": "2022-12-11T19:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2460,
+      "delta": 0,
+      "final": 2460,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNA ALEXANDRE"
+    },
+    {
+      "played_at": "2022-12-11T18:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2340,
+      "delta": 120,
+      "final": 2460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARINA MICHELIN"
+    },
+    {
+      "played_at": "2022-12-07T17:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2380,
+      "delta": -40,
+      "final": 2340,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2022-12-07T16:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2310,
+      "delta": 70,
+      "final": 2380,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2022-12-07T15:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2290,
+      "delta": 20,
+      "final": 2310,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JÚLIA YETIKA"
+    },
+    {
+      "played_at": "2022-12-07T14:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2280,
+      "delta": 10,
+      "final": 2290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TAINÁ OLIVEIRA"
+    },
+    {
+      "played_at": "2022-12-07T11:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2460,
+      "delta": -180,
+      "final": 2280,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2022-12-07T10:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2440,
+      "delta": 20,
+      "final": 2460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANI TADIMA"
+    },
+    {
+      "played_at": "2022-12-07T09:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2430,
+      "delta": 10,
+      "final": 2440,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIULIA MARTINELLI"
+    },
+    {
+      "played_at": "2022-12-06T13:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 2420,
+      "delta": 10,
+      "final": 2430,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA GONZALES"
+    },
+    {
+      "played_at": "2022-12-05T10:30:17",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022 - Seleções Estaduais",
+      "initial": 2480,
+      "delta": -60,
+      "final": 2420,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GIOVANNA FARIA"
+    },
+    {
+      "played_at": "2022-12-05T10:30:10",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022 - Seleções Estaduais",
+      "initial": 2320,
+      "delta": 160,
+      "final": 2480,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SABRINA MIYABARA"
+    },
+    {
+      "played_at": "2022-12-05T08:30:04",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022 - Seleções Estaduais",
+      "initial": 2310,
+      "delta": 10,
+      "final": 2320,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA REIS"
+    },
+    {
+      "played_at": "2022-11-08T18:30:00",
+      "event": "TMB Escolar - CBDE - JEB'S - Rio de Janeiro/RJ - 2022.",
+      "initial": 2310,
+      "delta": 0,
+      "final": 2310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2022-11-08T17:30:00",
+      "event": "TMB Escolar - CBDE - JEB'S - Rio de Janeiro/RJ - 2022.",
+      "initial": 2310,
+      "delta": 0,
+      "final": 2310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2022-11-08T16:30:00",
+      "event": "TMB Escolar - CBDE - JEB'S - Rio de Janeiro/RJ - 2022.",
+      "initial": 2310,
+      "delta": 0,
+      "final": 2310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETICIA JAREMTCHUK"
+    },
+    {
+      "played_at": "2022-11-08T15:00:00",
+      "event": "TMB Escolar - CBDE - JEB'S - Rio de Janeiro/RJ - 2022.",
+      "initial": 2310,
+      "delta": 0,
+      "final": 2310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "STEPHANY COSTA"
+    },
+    {
+      "played_at": "2022-11-08T10:00:00",
+      "event": "TMB Escolar - CBDE - JEB'S - Rio de Janeiro/RJ - 2022.",
+      "initial": 2310,
+      "delta": 0,
+      "final": 2310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALANA DAMASO"
+    },
+    {
+      "played_at": "2022-11-07T14:50:00",
+      "event": "TMB Escolar - CBDE - JEB'S - Rio de Janeiro/RJ - 2022.",
+      "initial": 2310,
+      "delta": 0,
+      "final": 2310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NANDDA SOUZAXX"
+    },
+    {
+      "played_at": "2022-10-14T20:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Criciúma/SC - 2022 .",
+      "initial": 2304,
+      "delta": 6,
+      "final": 2310,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2022-10-14T20:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Criciúma/SC - 2022 .",
+      "initial": 2300,
+      "delta": 4,
+      "final": 2304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-10-14T16:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Criciúma/SC - 2022 .",
+      "initial": 2298,
+      "delta": 2,
+      "final": 2300,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2022-10-14T13:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Criciúma/SC - 2022 .",
+      "initial": 2296,
+      "delta": 2,
+      "final": 2298,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLI MACHADO"
+    },
+    {
+      "played_at": "2022-10-14T11:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Criciúma/SC - 2022 .",
+      "initial": 2294,
+      "delta": 2,
+      "final": 2296,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2022-09-10T18:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2338,
+      "delta": -44,
+      "final": 2294,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2022-09-10T17:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2334,
+      "delta": 4,
+      "final": 2338,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-09-10T17:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2332,
+      "delta": 2,
+      "final": 2334,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2022-09-10T14:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2330,
+      "delta": 2,
+      "final": 2332,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MUNIZ"
+    },
+    {
+      "played_at": "2022-09-10T14:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2328,
+      "delta": 2,
+      "final": 2330,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLI MACHADO"
+    },
+    {
+      "played_at": "2022-09-09T18:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2296,
+      "delta": 32,
+      "final": 2328,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LHAYS STOLARSKI"
+    },
+    {
+      "played_at": "2022-09-09T18:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2290,
+      "delta": 6,
+      "final": 2296,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2022-09-09T15:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2286,
+      "delta": 4,
+      "final": 2290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2022-09-09T14:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Fraiburgo/SC - 2022.",
+      "initial": 2272,
+      "delta": 14,
+      "final": 2286,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PRISCILA SALVADOR"
+    },
+    {
+      "played_at": "2022-08-13T20:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2266,
+      "delta": 6,
+      "final": 2272,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2022-08-13T20:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2262,
+      "delta": 4,
+      "final": 2266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2022-08-13T19:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2260,
+      "delta": 2,
+      "final": 2262,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA MUNIZ"
+    },
+    {
+      "played_at": "2022-08-13T17:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2258,
+      "delta": 2,
+      "final": 2260,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2022-08-13T16:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2256,
+      "delta": 2,
+      "final": 2258,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA OLIVEIRA"
+    },
+    {
+      "played_at": "2022-08-12T20:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2266,
+      "delta": -10,
+      "final": 2256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LHAYS STOLARSKI"
+    },
+    {
+      "played_at": "2022-08-12T20:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2260,
+      "delta": 6,
+      "final": 2266,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MAYARA NEVES"
+    },
+    {
+      "played_at": "2022-08-12T18:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2256,
+      "delta": 4,
+      "final": 2260,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2022-08-12T17:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Jaraguá do Sul/SC - 2022",
+      "initial": 2252,
+      "delta": 4,
+      "final": 2256,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-07-16T16:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Chapecó/SC - 2022.",
+      "initial": 2246,
+      "delta": 6,
+      "final": 2252,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2022-07-16T14:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Chapecó/SC - 2022.",
+      "initial": 2242,
+      "delta": 4,
+      "final": 2246,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2022-07-16T11:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Chapecó/SC - 2022.",
+      "initial": 2240,
+      "delta": 2,
+      "final": 2242,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA MUNIZ"
+    },
+    {
+      "played_at": "2022-07-15T19:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Chapecó/SC - 2022.",
+      "initial": 2238,
+      "delta": 2,
+      "final": 2240,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDA CASTAMANN"
+    },
+    {
+      "played_at": "2022-07-15T18:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Chapecó/SC - 2022.",
+      "initial": 2236,
+      "delta": 2,
+      "final": 2238,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLI MACHADO"
+    },
+    {
+      "played_at": "2022-07-10T10:00:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2292,
+      "delta": -56,
+      "final": 2236,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2022-07-09T19:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2244,
+      "delta": 48,
+      "final": 2292,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NATÁLIA MUNHOZ"
+    },
+    {
+      "played_at": "2022-07-09T11:00:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2228,
+      "delta": 16,
+      "final": 2244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA CHIQUETTO"
+    },
+    {
+      "played_at": "2022-07-07T19:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2252,
+      "delta": -24,
+      "final": 2228,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2022-07-07T18:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2092,
+      "delta": 160,
+      "final": 2252,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2022-07-07T18:00:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2036,
+      "delta": 56,
+      "final": 2092,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANA SHIOZAKI"
+    },
+    {
+      "played_at": "2022-07-07T17:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2012,
+      "delta": 24,
+      "final": 2036,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TAINÁ SANTOS"
+    },
+    {
+      "played_at": "2022-07-07T16:00:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2004,
+      "delta": 8,
+      "final": 2012,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FRAGOSO"
+    },
+    {
+      "played_at": "2022-07-06T18:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2116,
+      "delta": -112,
+      "final": 2004,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2022-07-06T17:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2100,
+      "delta": 16,
+      "final": 2116,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2022-07-06T16:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2092,
+      "delta": 8,
+      "final": 2100,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELA SPILARI"
+    },
+    {
+      "played_at": "2022-07-06T15:00:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2084,
+      "delta": 8,
+      "final": 2092,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BIANCA SOUZA"
+    },
+    {
+      "played_at": "2022-07-06T11:30:00",
+      "event": "TMB Platinum - Ciclo II - Maringá/PR- 2022",
+      "initial": 2076,
+      "delta": 8,
+      "final": 2084,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALÍCIA ANDRADE"
+    },
+    {
+      "played_at": "2022-04-30T19:50:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2066,
+      "delta": 10,
+      "final": 2076,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2022-04-30T19:25:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2064,
+      "delta": 2,
+      "final": 2066,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2022-04-30T18:10:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2060,
+      "delta": 4,
+      "final": 2064,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-04-30T09:20:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2058,
+      "delta": 2,
+      "final": 2060,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLI MACHADO"
+    },
+    {
+      "played_at": "2022-04-30T08:30:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2056,
+      "delta": 2,
+      "final": 2058,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MUNIZ"
+    },
+    {
+      "played_at": "2022-04-29T19:00:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2040,
+      "delta": 16,
+      "final": 2056,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LETÍCIA ARAÚJO"
+    },
+    {
+      "played_at": "2022-04-29T18:35:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2032,
+      "delta": 8,
+      "final": 2040,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JANAINA COSTA"
+    },
+    {
+      "played_at": "2022-04-29T11:05:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2026,
+      "delta": 6,
+      "final": 2032,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-04-29T10:15:00",
+      "event": "Tmb Estadual - 2ª Etapa - Fraiburgo/sc - 2022",
+      "initial": 2016,
+      "delta": 10,
+      "final": 2026,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2022-04-03T10:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 2032,
+      "delta": -16,
+      "final": 2016,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIULIA TAKAHASHI"
+    },
+    {
+      "played_at": "2022-04-03T09:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1960,
+      "delta": 72,
+      "final": 2032,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2022-04-02T12:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1896,
+      "delta": 64,
+      "final": 1960,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JENNYFER PARINOS"
+    },
+    {
+      "played_at": "2022-04-02T08:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1896,
+      "delta": 0,
+      "final": 1896,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA WATANABE"
+    },
+    {
+      "played_at": "2022-03-31T18:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1880,
+      "delta": 16,
+      "final": 1896,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2022-03-31T17:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1864,
+      "delta": 16,
+      "final": 1880,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2022-03-31T15:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1856,
+      "delta": 8,
+      "final": 1864,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY SANTOS"
+    },
+    {
+      "played_at": "2022-03-31T14:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1848,
+      "delta": 8,
+      "final": 1856,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TAINARA HEIDRICH"
+    },
+    {
+      "played_at": "2022-03-31T11:30:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1840,
+      "delta": 8,
+      "final": 1848,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA LAGE"
+    },
+    {
+      "played_at": "2022-03-30T17:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1904,
+      "delta": -64,
+      "final": 1840,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2022-03-30T16:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1872,
+      "delta": 32,
+      "final": 1904,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2022-03-30T15:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1864,
+      "delta": 8,
+      "final": 1872,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2022-03-30T12:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1856,
+      "delta": 8,
+      "final": 1864,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2022-03-30T09:00:00",
+      "event": "TMB Platinum - Ciclo I - Rio de Janeiro/RJ - 2022",
+      "initial": 1848,
+      "delta": 8,
+      "final": 1856,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA SOUZA"
+    },
+    {
+      "played_at": "2022-03-19T18:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1844,
+      "delta": 4,
+      "final": 1848,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2022-03-19T17:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1834,
+      "delta": 10,
+      "final": 1844,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-03-19T16:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1832,
+      "delta": 2,
+      "final": 1834,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAINE CARDOSO"
+    },
+    {
+      "played_at": "2022-03-19T11:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1830,
+      "delta": 2,
+      "final": 1832,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUISE LESCOWICZ"
+    },
+    {
+      "played_at": "2022-03-19T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1828,
+      "delta": 2,
+      "final": 1830,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANNA CACHOEIRA"
+    },
+    {
+      "played_at": "2022-03-18T18:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1788,
+      "delta": 40,
+      "final": 1828,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LETÍCIA ARAÚJO"
+    },
+    {
+      "played_at": "2022-03-18T18:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1742,
+      "delta": 46,
+      "final": 1788,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PRISCILA SALVADOR"
+    },
+    {
+      "played_at": "2022-03-18T15:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1742,
+      "delta": 0,
+      "final": 1742,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LHAYS STOLARSKI"
+    },
+    {
+      "played_at": "2022-03-18T15:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Videira/SC - 2022",
+      "initial": 1730,
+      "delta": 12,
+      "final": 1742,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2022-01-23T17:30:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2022-01-23T15:30:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2022-01-23T14:00:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANI TADIMA"
+    },
+    {
+      "played_at": "2022-01-23T10:00:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2022-01-23T09:00:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2022-01-22T18:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2022-01-22T17:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2022-01-22T16:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2022-01-22T15:00:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTÓRIA STRASSBURGER"
+    },
+    {
+      "played_at": "2022-01-22T13:30:00",
+      "event": "TMB Seletiva - 2ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GIOVANNA FARIA"
+    },
+    {
+      "played_at": "2022-01-22T12:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALÍCIA ANDRADE"
+    },
+    {
+      "played_at": "2022-01-22T10:30:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2022-01-22T09:30:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SOPHIA KELMER"
+    },
+    {
+      "played_at": "2022-01-20T18:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2022-01-20T16:30:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIANE HEIDRICH"
+    },
+    {
+      "played_at": "2022-01-20T16:30:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LANA OZEKI"
+    },
+    {
+      "played_at": "2022-01-20T15:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2022-01-20T14:30:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2022-01-20T13:30:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2022-01-20T10:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA IMAI"
+    },
+    {
+      "played_at": "2022-01-20T09:00:00",
+      "event": "TMB Seletiva - 1ª Etapa - Mirim - Infantil - Juvenil - São Paulo/SP - 2021",
+      "initial": 1730,
+      "delta": 0,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY SANTOS"
+    },
+    {
+      "played_at": "2021-12-11T20:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1620,
+      "delta": 110,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "REBECA DANIELLO"
+    },
+    {
+      "played_at": "2021-12-11T15:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1620,
+      "delta": 0,
+      "final": 1620,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2021-12-11T14:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1620,
+      "delta": 0,
+      "final": 1620,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LHAYS STOLARSKI"
+    },
+    {
+      "played_at": "2021-12-08T15:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1730,
+      "delta": -110,
+      "final": 1620,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GABRIELA GOMES"
+    },
+    {
+      "played_at": "2021-12-08T14:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1710,
+      "delta": 20,
+      "final": 1730,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2021-12-08T12:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1690,
+      "delta": 20,
+      "final": 1710,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2021-12-08T11:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1680,
+      "delta": 10,
+      "final": 1690,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2021-12-08T09:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1670,
+      "delta": 10,
+      "final": 1680,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETICIA JAREMTCHUK"
+    },
+    {
+      "played_at": "2021-12-08T08:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1660,
+      "delta": 10,
+      "final": 1670,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELLE NASCIMENTO"
+    },
+    {
+      "played_at": "2021-12-07T21:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1770,
+      "delta": -110,
+      "final": 1660,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2021-12-07T20:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1750,
+      "delta": 20,
+      "final": 1770,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2021-12-07T19:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1700,
+      "delta": 50,
+      "final": 1750,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2021-12-07T18:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1690,
+      "delta": 10,
+      "final": 1700,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAROLINE GRUCHOSKI"
+    },
+    {
+      "played_at": "2021-12-07T17:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1680,
+      "delta": 10,
+      "final": 1690,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY SANTOS"
+    },
+    {
+      "played_at": "2021-12-07T16:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1670,
+      "delta": 10,
+      "final": 1680,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA IMAI"
+    },
+    {
+      "played_at": "2021-12-07T15:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1660,
+      "delta": 10,
+      "final": 1670,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SOUZA"
+    },
+    {
+      "played_at": "2021-12-05T16:20:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Seleções Estaduais - Joinville/SC-2021",
+      "initial": 1660,
+      "delta": 0,
+      "final": 1660,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2021-12-05T16:15:10",
+      "event": "TMB Platinum - Campeonato Brasileiro - Seleções Estaduais - Joinville/SC-2021",
+      "initial": 1360,
+      "delta": 300,
+      "final": 1660,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2021-12-05T10:45:10",
+      "event": "TMB Platinum - Campeonato Brasileiro - Seleções Estaduais - Joinville/SC-2021",
+      "initial": 1320,
+      "delta": 40,
+      "final": 1360,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA LOPES"
+    },
+    {
+      "played_at": "2021-11-06T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Chapecó/SC - 2021",
+      "initial": 1316,
+      "delta": 4,
+      "final": 1320,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2021-11-05T20:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Chapecó/SC - 2021",
+      "initial": 1310,
+      "delta": 6,
+      "final": 1316,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2021-11-05T16:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Chapecó/SC - 2021",
+      "initial": 1306,
+      "delta": 4,
+      "final": 1310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2021-11-05T15:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Chapecó/SC - 2021",
+      "initial": 1304,
+      "delta": 2,
+      "final": 1306,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAINE CARDOSO"
+    },
+    {
+      "played_at": "2021-11-05T15:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Chapecó/SC - 2021",
+      "initial": 1302,
+      "delta": 2,
+      "final": 1304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MUNIZ"
+    },
+    {
+      "played_at": "2021-09-23T18:00:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 1326,
+      "delta": -24,
+      "final": 1302,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2021-09-23T17:00:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 1310,
+      "delta": 16,
+      "final": 1326,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA PATERNO"
+    },
+    {
+      "played_at": "2021-09-23T16:00:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 1278,
+      "delta": 32,
+      "final": 1310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAIARA ALVES"
+    },
+    {
+      "played_at": "2021-09-23T12:30:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 1270,
+      "delta": 8,
+      "final": 1278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA GOMES"
+    },
+    {
+      "played_at": "2021-09-22T15:00:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 1278,
+      "delta": -8,
+      "final": 1270,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SOFIA KANO"
+    },
+    {
+      "played_at": "2021-09-22T14:00:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 1038,
+      "delta": 240,
+      "final": 1278,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2021-09-11T15:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 1024,
+      "delta": 14,
+      "final": 1038,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2021-09-11T13:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 1020,
+      "delta": 4,
+      "final": 1024,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2021-09-11T11:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 1016,
+      "delta": 4,
+      "final": 1020,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAINE CARDOSO"
+    },
+    {
+      "played_at": "2021-09-11T10:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 1010,
+      "delta": 6,
+      "final": 1016,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2021-09-10T18:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 990,
+      "delta": 20,
+      "final": 1010,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÉRICA PETERS"
+    },
+    {
+      "played_at": "2021-09-10T17:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 1018,
+      "delta": -28,
+      "final": 990,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2021-09-10T17:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 1006,
+      "delta": 12,
+      "final": 1018,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2021-09-10T17:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Concórdia/SC - 2021",
+      "initial": 992,
+      "delta": 14,
+      "final": 1006,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2021-08-07T16:40:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 976,
+      "delta": 16,
+      "final": 992,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2021-08-07T16:00:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 960,
+      "delta": 16,
+      "final": 976,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2021-08-07T15:40:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 948,
+      "delta": 12,
+      "final": 960,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2021-08-07T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 934,
+      "delta": 14,
+      "final": 948,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2021-08-07T12:10:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 928,
+      "delta": 6,
+      "final": 934,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2021-08-07T11:10:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 924,
+      "delta": 4,
+      "final": 928,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAINE CARDOSO"
+    },
+    {
+      "played_at": "2021-08-07T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa Circuito Catarinense - Pinhalzinho/SC - 2021",
+      "initial": 916,
+      "delta": 8,
+      "final": 924,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELE SILVA"
+    },
+    {
+      "played_at": "2021-07-10T14:10:00",
+      "event": "Tmb Estadual - 1ª Etapa Circuito Catarinense - Rio Do Sul/sc - 2021",
+      "initial": 912,
+      "delta": 4,
+      "final": 916,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANALÚ PRUST"
+    },
+    {
+      "played_at": "2021-07-10T12:00:00",
+      "event": "Tmb Estadual - 1ª Etapa Circuito Catarinense - Rio Do Sul/sc - 2021",
+      "initial": 880,
+      "delta": 32,
+      "final": 912,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NATALIE RIBEIRO"
+    },
+    {
+      "played_at": "2021-07-10T08:40:00",
+      "event": "Tmb Estadual - 1ª Etapa Circuito Catarinense - Rio Do Sul/sc - 2021",
+      "initial": 876,
+      "delta": 4,
+      "final": 880,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA DIAS"
+    },
+    {
+      "played_at": "2021-07-10T08:00:00",
+      "event": "Tmb Estadual - 1ª Etapa Circuito Catarinense - Rio Do Sul/sc - 2021",
+      "initial": 872,
+      "delta": 4,
+      "final": 876,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNA FRECH"
+    },
+    {
+      "played_at": "2021-02-13T09:50:00",
+      "event": "TMB Seletiva - U15 e U19 - São Paulo/SP - 2021",
+      "initial": 876,
+      "delta": -4,
+      "final": 872,
+      "score": [
+        1,
+        4
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2021-02-13T08:30:00",
+      "event": "TMB Seletiva - U15 e U19 - São Paulo/SP - 2021",
+      "initial": 844,
+      "delta": 32,
+      "final": 876,
+      "score": [
+        4,
+        0
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2020-12-10T11:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 1004,
+      "delta": -160,
+      "final": 844,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2020-12-10T10:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 984,
+      "delta": 20,
+      "final": 1004,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ABIGAIL ARAÚJO"
+    },
+    {
+      "played_at": "2020-12-09T20:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 964,
+      "delta": 20,
+      "final": 984,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAMILA SANTOS"
+    },
+    {
+      "played_at": "2020-12-09T19:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 944,
+      "delta": 20,
+      "final": 964,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2020-12-09T17:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 934,
+      "delta": 10,
+      "final": 944,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA MARTINS"
+    },
+    {
+      "played_at": "2020-12-07T19:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 884,
+      "delta": 50,
+      "final": 934,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2020-12-07T18:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 834,
+      "delta": 50,
+      "final": 884,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KAROLINE GRUCHOSKI"
+    },
+    {
+      "played_at": "2020-12-07T17:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 804,
+      "delta": 30,
+      "final": 834,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA IMAI"
+    },
+    {
+      "played_at": "2020-12-07T16:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 774,
+      "delta": 30,
+      "final": 804,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA SOUZA"
+    },
+    {
+      "played_at": "2020-12-07T14:30:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 754,
+      "delta": 20,
+      "final": 774,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VALENTINA SARAVI"
+    },
+    {
+      "played_at": "2020-03-14T18:10:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 754,
+      "delta": 0,
+      "final": 754,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2020-03-14T17:30:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 626,
+      "delta": 128,
+      "final": 754,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELLI MACHADO"
+    },
+    {
+      "played_at": "2020-03-14T11:10:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 514,
+      "delta": 112,
+      "final": 626,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FERNANDA CASTAMANN"
+    },
+    {
+      "played_at": "2020-03-14T10:50:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 482,
+      "delta": 32,
+      "final": 514,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2020-03-14T10:30:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 442,
+      "delta": 40,
+      "final": 482,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA OLIVEIRA"
+    },
+    {
+      "played_at": "2020-03-13T21:20:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 482,
+      "delta": -40,
+      "final": 442,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GABRIELLI MACHADO"
+    },
+    {
+      "played_at": "2020-03-13T20:40:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 410,
+      "delta": 72,
+      "final": 482,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDA SCHLOSSER"
+    },
+    {
+      "played_at": "2020-03-13T18:20:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 330,
+      "delta": 80,
+      "final": 410,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2020-03-13T15:00:00",
+      "event": "Tmb_estadual_1ª Etapa Campeonato Catarinense - Videira 2020_sc",
+      "initial": 250,
+      "delta": 80,
+      "final": 330,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "MARIA SOUZA"
+    },
+    {
+      "played_at": "2019-03-29T15:00:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 640,
+      "delta": -88,
+      "final": 552,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA CHIQUETTO"
+    },
+    {
+      "played_at": "2019-03-29T11:55:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 608,
+      "delta": 32,
+      "final": 640,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2019-03-29T10:40:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 560,
+      "delta": 48,
+      "final": 608,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA FERNANDES"
+    },
+    {
+      "played_at": "2019-03-28T17:05:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 400,
+      "delta": 160,
+      "final": 560,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2019-03-28T15:50:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 352,
+      "delta": 48,
+      "final": 400,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TRICIA GOULART"
+    },
+    {
+      "played_at": "2019-03-28T15:00:00",
+      "event": "Copa Brasil Sul Sudeste 1 - São Paulo - Sp - 2019",
+      "initial": 480,
+      "delta": -128,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIELLE PINCERATO"
+    },
+    {
+      "played_at": "2018-06-29T10:55:00",
+      "event": "Copa Brasil - Sul - Sudeste 2 - Toledo - Pr 2018",
+      "initial": 540,
+      "delta": -60,
+      "final": 480,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA CHIQUETTO"
+    },
+    {
+      "played_at": "2018-06-29T09:40:00",
+      "event": "Copa Brasil - Sul - Sudeste 2 - Toledo - Pr 2018",
+      "initial": 558,
+      "delta": -18,
+      "final": 540,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2018-06-29T08:25:00",
+      "event": "Copa Brasil - Sul - Sudeste 2 - Toledo - Pr 2018",
+      "initial": 438,
+      "delta": 120,
+      "final": 558,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2018-06-28T15:55:00",
+      "event": "Copa Brasil - Sul - Sudeste 2 - Toledo - Pr 2018",
+      "initial": 462,
+      "delta": -24,
+      "final": 438,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2018-06-28T14:15:00",
+      "event": "Copa Brasil - Sul - Sudeste 2 - Toledo - Pr 2018",
+      "initial": 468,
+      "delta": -6,
+      "final": 462,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2018-06-28T08:00:00",
+      "event": "Copa Brasil - Sul - Sudeste 2 - Toledo - Pr 2018",
+      "initial": 540,
+      "delta": -72,
+      "final": 468,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FERNANDA CASTAMANN"
+    },
+    {
+      "played_at": "2018-03-30T16:05:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 494,
+      "delta": -6,
+      "final": 488,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2018-03-30T15:15:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 512,
+      "delta": -18,
+      "final": 494,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2018-03-30T11:20:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 488,
+      "delta": 24,
+      "final": 512,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IOHANA OLIVEIRA"
+    },
+    {
+      "played_at": "2018-03-30T10:30:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 458,
+      "delta": 30,
+      "final": 488,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KATHERINE FERREIRA"
+    },
+    {
+      "played_at": "2018-03-29T15:55:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 542,
+      "delta": -84,
+      "final": 458,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2018-03-29T15:05:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 506,
+      "delta": 36,
+      "final": 542,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA TEIXEIRA"
+    },
+    {
+      "played_at": "2018-03-29T13:25:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 464,
+      "delta": 42,
+      "final": 506,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2018-03-29T10:30:00",
+      "event": "Copa Brasil Sul-sudeste I - Concórdia 2018 - Olímpico",
+      "initial": 506,
+      "delta": -42,
+      "final": 464,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ÉRIKA SILVA"
+    },
+    {
+      "played_at": "2018-02-02T19:18:00",
+      "event": "Seletiva 2018",
+      "initial": 515,
+      "delta": -9,
+      "final": 506,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA COMIN"
+    },
+    {
+      "played_at": "2018-02-02T10:35:00",
+      "event": "Seletiva 2018",
+      "initial": 446,
+      "delta": 69,
+      "final": 515,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2018-02-01T16:20:00",
+      "event": "Seletiva 2018",
+      "initial": 455,
+      "delta": 0,
+      "final": 455,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIANA SHINTATE"
+    },
+    {
+      "played_at": "2018-02-01T08:08:00",
+      "event": "Seletiva 2018",
+      "initial": 455,
+      "delta": -6,
+      "final": 449,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2018-02-01T03:51:00",
+      "event": "Seletiva 2018",
+      "initial": 449,
+      "delta": -3,
+      "final": 446,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2018-01-31T16:46:00",
+      "event": "Seletiva 2018",
+      "initial": 458,
+      "delta": -3,
+      "final": 455,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2018-01-31T16:45:00",
+      "event": "Seletiva 2018",
+      "initial": 398,
+      "delta": 60,
+      "final": 458,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAÍS KUROTOBI"
+    },
+    {
+      "played_at": "2018-01-31T16:44:00",
+      "event": "Seletiva 2018",
+      "initial": 428,
+      "delta": -30,
+      "final": 398,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDA REIS"
+    },
+    {
+      "played_at": "2018-01-31T16:43:00",
+      "event": "Seletiva 2018",
+      "initial": 404,
+      "delta": 24,
+      "final": 428,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RUTE SOUZA"
+    },
+    {
+      "played_at": "2017-10-06T14:00:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 374,
+      "delta": 30,
+      "final": 404,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "REBECCA FIGUEIREDO"
+    },
+    {
+      "played_at": "2017-10-06T11:20:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 386,
+      "delta": -12,
+      "final": 374,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-10-06T10:30:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 392,
+      "delta": -6,
+      "final": 386,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2017-10-06T08:25:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 404,
+      "delta": -12,
+      "final": 392,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-10-05T18:30:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 332,
+      "delta": 72,
+      "final": 404,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA TAMURA"
+    },
+    {
+      "played_at": "2017-10-05T17:40:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 284,
+      "delta": 48,
+      "final": 332,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAROLINE GRUCHOSKI"
+    },
+    {
+      "played_at": "2017-10-05T16:50:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 188,
+      "delta": 96,
+      "final": 284,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA CHIQUETTO"
+    },
+    {
+      "played_at": "2017-10-05T16:00:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Olimpico - Ranking",
+      "initial": 188,
+      "delta": 0,
+      "final": 188,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2017-10-04T08:00:22",
+      "event": "51º Camp. Brasileiro De Verão 2017- Equipes Seleções Estaduais Olimpicas",
+      "initial": 194,
+      "delta": -6,
+      "final": 188,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-08-18T11:20:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 194,
+      "delta": -16,
+      "final": 178,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2017-08-18T09:40:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 202,
+      "delta": -8,
+      "final": 194,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2017-08-18T08:00:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 210,
+      "delta": -8,
+      "final": 202,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-08-17T16:20:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 154,
+      "delta": 56,
+      "final": 210,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PETERS"
+    },
+    {
+      "played_at": "2017-08-17T15:30:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 174,
+      "delta": -20,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2017-08-17T08:25:00",
+      "event": "Copa Brasil De Tênis De Mesa \"centenário De Joaçaba - Sc\"",
+      "initial": 198,
+      "delta": -24,
+      "final": 174,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PETERS"
+    },
+    {
+      "played_at": "2017-06-23T11:20:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 198,
+      "delta": -20,
+      "final": 178,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FERNANDA CASTAMANN"
+    },
+    {
+      "played_at": "2017-06-23T10:05:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 218,
+      "delta": -20,
+      "final": 198,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BEATRIZ FIORE"
+    },
+    {
+      "played_at": "2017-06-23T08:50:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 238,
+      "delta": -20,
+      "final": 218,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-06-22T19:15:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 262,
+      "delta": -24,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-06-22T15:05:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 282,
+      "delta": -20,
+      "final": 262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ KANASHIRO"
+    },
+    {
+      "played_at": "2017-06-22T10:05:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Olímpico",
+      "initial": 310,
+      "delta": -28,
+      "final": 282,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAYARA NARDI"
+    },
+    {
+      "played_at": "2017-04-21T11:20:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 310,
+      "delta": 0,
+      "final": 310,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA WATANABE"
+    },
+    {
+      "played_at": "2017-04-21T10:30:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 218,
+      "delta": 92,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MAGAGNIN"
+    },
+    {
+      "played_at": "2017-04-21T08:50:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 154,
+      "delta": 64,
+      "final": 218,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-04-21T08:00:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 154,
+      "delta": 0,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAIRA SILVA"
+    },
+    {
+      "played_at": "2017-04-20T17:25:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 90,
+      "delta": 64,
+      "final": 154,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANTOS"
+    },
+    {
+      "played_at": "2017-04-20T16:35:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Olímpico",
+      "initial": 110,
+      "delta": -20,
+      "final": 90,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KARINA SHIRAY"
+    },
+    {
+      "played_at": "2017-01-15T09:03:00",
+      "event": "Seletiva 2017",
+      "initial": 110,
+      "delta": 0,
+      "final": 110,
+      "score": [
+        0,
+        4
+      ],
+      "opponent": "WANESSA WU"
+    },
+    {
+      "played_at": "2017-01-15T05:51:00",
+      "event": "Seletiva 2017",
+      "initial": 50,
+      "delta": 60,
+      "final": 110,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALLANA MASCHIO"
+    },
+    {
+      "played_at": "2017-01-15T00:30:00",
+      "event": "Seletiva 2017",
+      "initial": 110,
+      "delta": 0,
+      "final": 110,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIANA SHINTATE"
+    },
+    {
+      "played_at": "2016-11-04T09:40:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 82,
+      "delta": -32,
+      "final": 50,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ÉRICA PETERS"
+    },
+    {
+      "played_at": "2016-11-04T08:50:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 90,
+      "delta": -8,
+      "final": 82,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "REBECA DANIELLO"
+    },
+    {
+      "played_at": "2016-11-04T08:00:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 154,
+      "delta": -64,
+      "final": 90,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAYARA DEFAVARI"
+    },
+    {
+      "played_at": "2016-11-03T16:20:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 218,
+      "delta": -64,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDA CASTAMANN"
+    },
+    {
+      "played_at": "2016-11-03T14:40:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Olímpico",
+      "initial": 250,
+      "delta": -32,
+      "final": 218,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAIRA SILVA ............."
+    }
+  ]
+}

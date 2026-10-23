@@ -1,0 +1,283 @@
+{
+  "associate_id": 90002,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90002&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 681,
+      "delta": -9,
+      "final": 672,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO CASTRO"
+    },
+    {
+      "played_at": "2026-09-27T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 705,
+      "delta": -24,
+      "final": 681,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL SALES"
+    },
+    {
+      "played_at": "2026-09-27T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 741,
+      "delta": -36,
+      "final": 705,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL ROCHA"
+    },
+    {
+      "played_at": "2026-09-26T10:05:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 807,
+      "delta": -66,
+      "final": 741,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO CAMPOS"
+    },
+    {
+      "played_at": "2026-09-26T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 801,
+      "delta": 6,
+      "final": 807,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDUARDO FONTES"
+    },
+    {
+      "played_at": "2026-09-26T08:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Campeonato Mineiro - Belo Horizonte/MG",
+      "initial": 711,
+      "delta": 90,
+      "final": 801,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NAOR UEMATU"
+    },
+    {
+      "played_at": "2026-08-29T14:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 695,
+      "delta": 16,
+      "final": 711,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUCA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-29T12:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 705,
+      "delta": -10,
+      "final": 695,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADRIAN GANZ"
+    },
+    {
+      "played_at": "2026-08-29T09:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 703,
+      "delta": 2,
+      "final": 705,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO CAMPOS"
+    },
+    {
+      "played_at": "2026-08-29T08:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 703,
+      "delta": 0,
+      "final": 703,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NAOR UEMATU"
+    },
+    {
+      "played_at": "2026-07-19T12:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 739,
+      "delta": -36,
+      "final": 703,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCCA LIMA"
+    },
+    {
+      "played_at": "2026-07-19T09:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 799,
+      "delta": -60,
+      "final": 739,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LEANDRO BARBOSA"
+    },
+    {
+      "played_at": "2026-07-19T08:00:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 703,
+      "delta": 96,
+      "final": 799,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUSTAVO ROSSI"
+    },
+    {
+      "played_at": "2026-07-18T10:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 727,
+      "delta": -24,
+      "final": 703,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2026-07-18T09:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+      "initial": 703,
+      "delta": 24,
+      "final": 727,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTORIO INOUYE"
+    },
+    {
+      "played_at": "2026-05-23T13:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1027,
+      "delta": -324,
+      "final": 703,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MICHELE GESUALDI"
+    },
+    {
+      "played_at": "2026-05-23T10:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 667,
+      "delta": 360,
+      "final": 1027,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RENATO SIMÕES"
+    },
+    {
+      "played_at": "2026-05-22T18:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 307,
+      "delta": 360,
+      "final": 667,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ADEMIR FONSECA"
+    },
+    {
+      "played_at": "2026-04-11T09:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 289,
+      "delta": 18,
+      "final": 307,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RENATO STORINO"
+    },
+    {
+      "played_at": "2026-04-11T09:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 265,
+      "delta": 24,
+      "final": 289,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAINER BROCKERHOFF"
+    },
+    {
+      "played_at": "2026-03-07T09:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 257,
+      "delta": 8,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "REINALDO LOPES"
+    },
+    {
+      "played_at": "2026-03-07T09:20:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 261,
+      "delta": -4,
+      "final": 257,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NAOR UEMATU"
+    },
+    {
+      "played_at": "2026-03-07T09:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 250,
+      "delta": 11,
+      "final": 261,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAINER BROCKERHOFF ............."
+    }
+  ]
+}

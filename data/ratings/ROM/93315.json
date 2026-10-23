@@ -1,0 +1,79 @@
+{
+  "associate_id": 93315,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93315&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-19T17:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 283,
+      "delta": -9,
+      "final": 274,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DIEGO CUNHA"
+    },
+    {
+      "played_at": "2026-09-19T16:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 256,
+      "delta": 27,
+      "final": 283,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BERNARDO CAVALLERO"
+    },
+    {
+      "played_at": "2026-09-19T14:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 232,
+      "delta": 24,
+      "final": 256,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOSE MAUES"
+    },
+    {
+      "played_at": "2026-09-19T13:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 256,
+      "delta": -24,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR LIMA"
+    },
+    {
+      "played_at": "2026-06-13T11:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 226,
+      "delta": 30,
+      "final": 256,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO SOUZA"
+    },
+    {
+      "played_at": "2026-06-13T10:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO CAVALLERO ............."
+    }
+  ]
+}

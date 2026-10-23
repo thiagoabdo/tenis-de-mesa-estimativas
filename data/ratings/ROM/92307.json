@@ -1,0 +1,151 @@
+{
+  "associate_id": 92307,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92307&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T14:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTOR ITO"
+    },
+    {
+      "played_at": "2026-09-26T12:16:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 217,
+      "delta": 33,
+      "final": 250,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RODRIGO ETO"
+    },
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 175,
+      "delta": 42,
+      "final": 217,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RICARDO VALUS"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 133,
+      "delta": 42,
+      "final": 175,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDREI AMARO"
+    },
+    {
+      "played_at": "2026-08-22T12:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 154,
+      "delta": -21,
+      "final": 133,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS BARBOSA"
+    },
+    {
+      "played_at": "2026-08-01T12:20:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 169,
+      "delta": -15,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO WECKERLIN"
+    },
+    {
+      "played_at": "2026-06-27T12:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 181,
+      "delta": -12,
+      "final": 169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL VAZ"
+    },
+    {
+      "played_at": "2026-05-09T12:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 208,
+      "delta": -27,
+      "final": 181,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HELENO AMARAL"
+    },
+    {
+      "played_at": "2026-05-09T11:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 232,
+      "delta": -24,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTONIO WOLSKI"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 199,
+      "delta": 33,
+      "final": 232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO MANTOANI"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 217,
+      "delta": -18,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HUGO CAWASHIMA"
+    },
+    {
+      "played_at": "2026-04-18T09:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTOR SCHERER ............."
+    }
+  ]
+}

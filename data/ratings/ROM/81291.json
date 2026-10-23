@@ -1,0 +1,619 @@
+{
+  "associate_id": 81291,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=81291&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-21T16:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 129,
+      "delta": -9,
+      "final": 120,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GEOVANA GURGEL"
+    },
+    {
+      "played_at": "2026-06-21T15:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 87,
+      "delta": 42,
+      "final": 129,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EMILLY COSTA"
+    },
+    {
+      "played_at": "2026-06-21T14:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 33,
+      "delta": 54,
+      "final": 87,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LIVIA FRANÇA"
+    },
+    {
+      "played_at": "2026-06-21T13:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 42,
+      "delta": -9,
+      "final": 33,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA SILVA"
+    },
+    {
+      "played_at": "2026-06-20T15:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 54,
+      "delta": -12,
+      "final": 42,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2026-06-20T14:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 72,
+      "delta": -18,
+      "final": 54,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SONIA MARANHAO"
+    },
+    {
+      "played_at": "2026-03-01T15:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 84,
+      "delta": -12,
+      "final": 72,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA MOURA"
+    },
+    {
+      "played_at": "2026-03-01T14:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 93,
+      "delta": -9,
+      "final": 84,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA MEDEIROS"
+    },
+    {
+      "played_at": "2026-03-01T13:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 102,
+      "delta": -9,
+      "final": 93,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLA BAGNOLI"
+    },
+    {
+      "played_at": "2026-02-28T15:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 114,
+      "delta": -12,
+      "final": 102,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLA BAGNOLI"
+    },
+    {
+      "played_at": "2026-02-28T14:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 132,
+      "delta": -18,
+      "final": 114,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SONIA MARANHAO"
+    },
+    {
+      "played_at": "2026-02-28T14:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 132,
+      "delta": 0,
+      "final": 132,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ZULEIDE LIMA"
+    },
+    {
+      "played_at": "2025-11-30T15:30:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 144,
+      "delta": -12,
+      "final": 132,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ SANTOS"
+    },
+    {
+      "played_at": "2025-11-30T14:30:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 154,
+      "delta": -10,
+      "final": 144,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADALGIZA COSTA"
+    },
+    {
+      "played_at": "2025-11-30T14:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 160,
+      "delta": -6,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMMY SILVA"
+    },
+    {
+      "played_at": "2025-11-30T13:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 164,
+      "delta": -4,
+      "final": 160,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOICE SOUZA"
+    },
+    {
+      "played_at": "2025-11-29T19:33:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 184,
+      "delta": -20,
+      "final": 164,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-11-29T15:30:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 196,
+      "delta": -12,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLA BAGNOLI"
+    },
+    {
+      "played_at": "2025-11-29T15:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 220,
+      "delta": -24,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-11-29T14:00:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 236,
+      "delta": -16,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ SANTOS"
+    },
+    {
+      "played_at": "2025-11-29T13:30:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 242,
+      "delta": -6,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOICE SOUZA"
+    },
+    {
+      "played_at": "2025-11-29T00:44:00",
+      "event": "Estadual - 4ª Etapa - Parnamirim/RN – 2025",
+      "initial": 252,
+      "delta": -10,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMMY SILVA"
+    },
+    {
+      "played_at": "2025-07-13T19:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOICE SOUZA"
+    },
+    {
+      "played_at": "2025-07-13T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAMILA MEDEIROS"
+    },
+    {
+      "played_at": "2025-07-13T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLE SOUSA"
+    },
+    {
+      "played_at": "2025-07-12T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 252,
+      "delta": 0,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ZULEIDE LIMA"
+    },
+    {
+      "played_at": "2025-07-12T13:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 262,
+      "delta": -10,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRA PINHEIRO"
+    },
+    {
+      "played_at": "2025-07-11T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - João Pessoa/PB - 2025",
+      "initial": 277,
+      "delta": -15,
+      "final": 262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROSEMARY VABO"
+    },
+    {
+      "played_at": "2025-06-15T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 207,
+      "delta": 70,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLA BAGNOLI"
+    },
+    {
+      "played_at": "2025-06-15T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 222,
+      "delta": -15,
+      "final": 207,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELLE ARAUJO"
+    },
+    {
+      "played_at": "2025-06-15T10:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 222,
+      "delta": 0,
+      "final": 222,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIANE COSTA"
+    },
+    {
+      "played_at": "2025-06-15T09:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 167,
+      "delta": 55,
+      "final": 222,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROSSILENA SOUZA"
+    },
+    {
+      "played_at": "2025-06-15T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 167,
+      "delta": 0,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-06-13T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 97,
+      "delta": 70,
+      "final": 167,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-06-13T16:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 137,
+      "delta": -40,
+      "final": 97,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NATALIA PIRES"
+    },
+    {
+      "played_at": "2025-06-13T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 172,
+      "delta": -35,
+      "final": 137,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA SILVA"
+    },
+    {
+      "played_at": "2025-06-13T12:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Natal/RN - 2025",
+      "initial": 202,
+      "delta": -30,
+      "final": 172,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LETÍCIA VERAS"
+    },
+    {
+      "played_at": "2025-05-10T16:00:00",
+      "event": "Estadual - 2ª Etapa - Parnamirim/RN – 2025",
+      "initial": 226,
+      "delta": -24,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-05-10T14:40:00",
+      "event": "Estadual - 2ª Etapa - Parnamirim/RN – 2025",
+      "initial": 226,
+      "delta": 0,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ZULEIDE LIMA"
+    },
+    {
+      "played_at": "2025-05-10T14:00:00",
+      "event": "Estadual - 2ª Etapa - Parnamirim/RN – 2025",
+      "initial": 238,
+      "delta": -12,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA MEDEIROS"
+    },
+    {
+      "played_at": "2025-05-10T13:40:00",
+      "event": "Estadual - 2ª Etapa - Parnamirim/RN – 2025",
+      "initial": 220,
+      "delta": 18,
+      "final": 238,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAISLA ROCHA"
+    },
+    {
+      "played_at": "2025-05-10T12:00:00",
+      "event": "Estadual - 2ª Etapa - Parnamirim/RN – 2025",
+      "initial": 196,
+      "delta": 24,
+      "final": 220,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BARBARA RODRIGUES"
+    },
+    {
+      "played_at": "2025-05-10T11:20:00",
+      "event": "Estadual - 2ª Etapa - Parnamirim/RN – 2025",
+      "initial": 212,
+      "delta": -16,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "REBECA OLIVEIRA"
+    },
+    {
+      "played_at": "2025-03-30T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 220,
+      "delta": -8,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMMY SILVA"
+    },
+    {
+      "played_at": "2025-03-30T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 196,
+      "delta": 24,
+      "final": 220,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOICE SOUZA"
+    },
+    {
+      "played_at": "2025-03-30T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 224,
+      "delta": -28,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-03-29T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 238,
+      "delta": -14,
+      "final": 224,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADALGIZA COSTA"
+    },
+    {
+      "played_at": "2025-03-29T11:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 252,
+      "delta": -14,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLA BAGNOLI"
+    },
+    {
+      "played_at": "2025-03-29T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 242,
+      "delta": 10,
+      "final": 252,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FREITAS"
+    },
+    {
+      "played_at": "2025-03-29T08:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 262,
+      "delta": -20,
+      "final": 242,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA SILVA"
+    },
+    {
+      "played_at": "2025-03-29T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Parnamirim/RN – 2025",
+      "initial": 250,
+      "delta": 12,
+      "final": 262,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA FREITAS ............."
+    }
+  ]
+}

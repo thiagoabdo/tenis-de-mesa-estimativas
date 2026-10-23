@@ -1,0 +1,31 @@
+{
+  "associate_id": 94386,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94386&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T10:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 217,
+      "delta": -42,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRE SONDA"
+    },
+    {
+      "played_at": "2026-08-01T09:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE ABREU ............."
+    }
+  ]
+}

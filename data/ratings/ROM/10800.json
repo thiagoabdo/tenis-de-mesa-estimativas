@@ -1,0 +1,595 @@
+{
+  "associate_id": 10800,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=10800&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-18T19:08:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1142,
+      "delta": 120,
+      "final": 1262,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2026-04-18T18:24:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1142,
+      "delta": 0,
+      "final": 1142,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SUELEN RAMOS"
+    },
+    {
+      "played_at": "2026-04-18T17:40:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1022,
+      "delta": 120,
+      "final": 1142,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA ARAÚJO"
+    },
+    {
+      "played_at": "2026-04-18T15:28:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1040,
+      "delta": -18,
+      "final": 1022,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAINA RODRIGUES"
+    },
+    {
+      "played_at": "2026-04-18T12:02:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1148,
+      "delta": -108,
+      "final": 1040,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ÂNGELA ROBERTO"
+    },
+    {
+      "played_at": "2026-04-18T10:34:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1142,
+      "delta": 6,
+      "final": 1148,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉIA SILVA"
+    },
+    {
+      "played_at": "2026-04-18T09:06:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1136,
+      "delta": 6,
+      "final": 1142,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROSSILENA SOUZA"
+    },
+    {
+      "played_at": "2026-04-18T08:22:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 1130,
+      "delta": 6,
+      "final": 1136,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIANE QUERINO"
+    },
+    {
+      "played_at": "2025-11-15T18:59:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1114,
+      "delta": 16,
+      "final": 1130,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2025-11-15T18:13:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1118,
+      "delta": -4,
+      "final": 1114,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SARA RAMOS"
+    },
+    {
+      "played_at": "2025-11-15T17:27:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1112,
+      "delta": 6,
+      "final": 1118,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ÂNGELA ROBERTO"
+    },
+    {
+      "played_at": "2025-11-15T16:41:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1110,
+      "delta": 2,
+      "final": 1112,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉIA SILVA"
+    },
+    {
+      "played_at": "2025-11-15T15:09:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1108,
+      "delta": 2,
+      "final": 1110,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROSSILENA SOUZA"
+    },
+    {
+      "played_at": "2025-11-15T14:23:00",
+      "event": "TMB Estadual de Porto Velho/RO - 5ª Etapa - 2025",
+      "initial": 1106,
+      "delta": 2,
+      "final": 1108,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TATIARA PARREIRA"
+    },
+    {
+      "played_at": "2025-06-28T19:08:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 1066,
+      "delta": 40,
+      "final": 1106,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2025-06-28T18:24:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 1041,
+      "delta": 25,
+      "final": 1066,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2025-06-28T15:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 1016,
+      "delta": 25,
+      "final": 1041,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÂNGELA ROBERTO"
+    },
+    {
+      "played_at": "2025-06-28T14:22:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 991,
+      "delta": 25,
+      "final": 1016,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2025-06-28T10:56:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 981,
+      "delta": 10,
+      "final": 991,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA SILVA"
+    },
+    {
+      "played_at": "2025-06-28T10:12:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 971,
+      "delta": 10,
+      "final": 981,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TATIARA PARREIRA"
+    },
+    {
+      "played_at": "2025-06-28T08:22:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 946,
+      "delta": 25,
+      "final": 971,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÂNGELA ROBERTO"
+    },
+    {
+      "played_at": "2025-06-27T17:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 921,
+      "delta": 25,
+      "final": 946,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2025-06-27T16:56:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 891,
+      "delta": 30,
+      "final": 921,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2025-06-27T16:34:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 851,
+      "delta": 40,
+      "final": 891,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÂNGELA ROBERTO"
+    },
+    {
+      "played_at": "2025-06-27T15:06:00",
+      "event": "Copa Brasil de Tênis de Mesa - Porto Velho/RO - 2025",
+      "initial": 811,
+      "delta": 40,
+      "final": 851,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2025-04-12T19:08:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 797,
+      "delta": 14,
+      "final": 811,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ÂNGELA ROBERTO"
+    },
+    {
+      "played_at": "2025-04-12T18:46:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 781,
+      "delta": 16,
+      "final": 797,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2025-04-12T18:24:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 759,
+      "delta": 22,
+      "final": 781,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2025-04-12T17:18:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 755,
+      "delta": 4,
+      "final": 759,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TATIARA PARREIRA"
+    },
+    {
+      "played_at": "2025-04-12T16:34:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 727,
+      "delta": 28,
+      "final": 755,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2025-04-12T08:35:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 727,
+      "delta": 0,
+      "final": 727,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SARA RAMOS"
+    },
+    {
+      "played_at": "2025-04-12T08:34:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 721,
+      "delta": 6,
+      "final": 727,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA SILVA"
+    },
+    {
+      "played_at": "2025-04-12T05:43:00",
+      "event": "TMB Estadual 1ª Etapa - Porto Velho/RO - 2025",
+      "initial": 689,
+      "delta": 32,
+      "final": 721,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2023-12-03T08:40:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 673,
+      "delta": 16,
+      "final": 689,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2023-12-03T08:00:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 683,
+      "delta": -10,
+      "final": 673,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARA RAMOS"
+    },
+    {
+      "played_at": "2023-12-02T17:00:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 673,
+      "delta": 10,
+      "final": 683,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLARICE TOSHIMITSU"
+    },
+    {
+      "played_at": "2023-12-02T15:40:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 663,
+      "delta": 10,
+      "final": 673,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IOLANDA LOBATO"
+    },
+    {
+      "played_at": "2023-12-02T14:00:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 657,
+      "delta": 6,
+      "final": 663,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA LIMA"
+    },
+    {
+      "played_at": "2023-12-02T10:40:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 635,
+      "delta": 22,
+      "final": 657,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2023-12-02T10:20:00",
+      "event": "TMB ESTADUAL - Porto Velho/RO - 2023 - V Rondoniense",
+      "initial": 595,
+      "delta": 40,
+      "final": 635,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SARA RAMOS"
+    },
+    {
+      "played_at": "2023-05-28T10:30:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 650,
+      "delta": -55,
+      "final": 595,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARA RAMOS"
+    },
+    {
+      "played_at": "2023-05-28T09:15:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 650,
+      "delta": 0,
+      "final": 650,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SUELEN RAMOS"
+    },
+    {
+      "played_at": "2023-05-27T11:45:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 625,
+      "delta": 25,
+      "final": 650,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IOLANDA LOBATO"
+    },
+    {
+      "played_at": "2023-05-27T08:25:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 585,
+      "delta": 40,
+      "final": 625,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CLARICE TOSHIMITSU"
+    },
+    {
+      "played_at": "2023-05-26T10:35:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 585,
+      "delta": 0,
+      "final": 585,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SUELEN RAMOS"
+    },
+    {
+      "played_at": "2023-05-26T09:45:00",
+      "event": "TMB Challenger Plus - 9ª Edição - Porto Velho/RO 2023",
+      "initial": 540,
+      "delta": 45,
+      "final": 585,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2023-04-02T09:40:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2023",
+      "initial": 520,
+      "delta": 20,
+      "final": 540,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LIS LEONEL"
+    },
+    {
+      "played_at": "2023-04-02T09:00:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2023",
+      "initial": 510,
+      "delta": 10,
+      "final": 520,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAMILA PEIXOTO"
+    },
+    {
+      "played_at": "2023-04-02T08:20:00",
+      "event": "TMB Estadual - Porto Velho/RO - 2023",
+      "initial": 500,
+      "delta": 10,
+      "final": 510,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PIETRA TAGINO ............."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "associate_id": 92136,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92136&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T15:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 256,
+      "delta": -3,
+      "final": 253,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HENRIQUE KUMAGAI"
+    },
+    {
+      "played_at": "2026-05-09T11:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 262,
+      "delta": -6,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MANSUR JOMAA"
+    },
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 241,
+      "delta": 21,
+      "final": 262,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO ONO"
+    },
+    {
+      "played_at": "2026-04-18T10:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        4
+      ],
+      "opponent": "VITOR SANTOS"
+    },
+    {
+      "played_at": "2026-04-18T09:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR KADLUBISKI ............."
+    }
+  ]
+}

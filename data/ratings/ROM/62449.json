@@ -1,0 +1,859 @@
+{
+  "associate_id": 62449,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=62449&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T10:05:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 906,
+      "delta": -3,
+      "final": 903,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA RIBEIRO"
+    },
+    {
+      "played_at": "2026-09-20T09:15:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 906,
+      "delta": 0,
+      "final": 906,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LETÍCIA LIRA"
+    },
+    {
+      "played_at": "2026-09-20T08:25:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 816,
+      "delta": 90,
+      "final": 906,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2026-09-19T12:35:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 807,
+      "delta": 9,
+      "final": 816,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAMILA MILHOMEM"
+    },
+    {
+      "played_at": "2026-09-19T11:45:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 801,
+      "delta": 6,
+      "final": 807,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ADRIANA LIMA"
+    },
+    {
+      "played_at": "2026-06-07T10:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 822,
+      "delta": -21,
+      "final": 801,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA RIBEIRO"
+    },
+    {
+      "played_at": "2026-06-07T10:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 807,
+      "delta": 15,
+      "final": 822,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA COELHO"
+    },
+    {
+      "played_at": "2026-06-06T14:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 813,
+      "delta": -6,
+      "final": 807,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2026-06-06T13:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 819,
+      "delta": -6,
+      "final": 813,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LETÍCIA LIRA"
+    },
+    {
+      "played_at": "2025-12-14T11:20:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 839,
+      "delta": -20,
+      "final": 819,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA FERRO"
+    },
+    {
+      "played_at": "2025-12-14T10:30:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 811,
+      "delta": 28,
+      "final": 839,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELIANE NASCIMENTO"
+    },
+    {
+      "played_at": "2025-12-14T08:25:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 791,
+      "delta": 20,
+      "final": 811,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RIHANA NASCIMENTO"
+    },
+    {
+      "played_at": "2025-12-14T08:00:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 797,
+      "delta": -6,
+      "final": 791,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2025-12-13T17:45:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 751,
+      "delta": 46,
+      "final": 797,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2025-12-13T17:20:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 741,
+      "delta": 10,
+      "final": 751,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELLA SOUSA"
+    },
+    {
+      "played_at": "2025-12-13T16:55:00",
+      "event": "TMB ESTADUAL - 5ª Etapa -FMATM - SÃO LUÍS - 2025",
+      "initial": 737,
+      "delta": 4,
+      "final": 741,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMMANUELLE COSTA"
+    },
+    {
+      "played_at": "2025-10-05T10:55:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 747,
+      "delta": -10,
+      "final": 737,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ELIANE NASCIMENTO"
+    },
+    {
+      "played_at": "2025-10-05T10:30:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 737,
+      "delta": 10,
+      "final": 747,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2025-10-05T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 759,
+      "delta": -22,
+      "final": 737,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANA FERRO"
+    },
+    {
+      "played_at": "2025-10-04T20:30:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 707,
+      "delta": 52,
+      "final": 759,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LETÍCIA LIRA"
+    },
+    {
+      "played_at": "2025-10-04T18:25:00",
+      "event": "TMB Estadual - 3ª Etapa - São Luís/MA-2025",
+      "initial": 699,
+      "delta": 8,
+      "final": 707,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATA FROTA"
+    },
+    {
+      "played_at": "2025-06-15T19:50:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 685,
+      "delta": 14,
+      "final": 699,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2025-06-15T19:25:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 697,
+      "delta": -12,
+      "final": 685,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2025-06-15T16:30:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 719,
+      "delta": -22,
+      "final": 697,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SOFIA JACOB"
+    },
+    {
+      "played_at": "2025-06-15T14:50:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 747,
+      "delta": -28,
+      "final": 719,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FERNANDA CADUDA"
+    },
+    {
+      "played_at": "2025-06-15T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 701,
+      "delta": 46,
+      "final": 747,
+      "score": [
+        4,
+        1
+      ],
+      "opponent": "ANA NASCIMENTO."
+    },
+    {
+      "played_at": "2025-06-15T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 695,
+      "delta": 6,
+      "final": 701,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAMILA MILHOMEM"
+    },
+    {
+      "played_at": "2025-06-15T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 689,
+      "delta": 6,
+      "final": 695,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ISABELLA SOUSA"
+    },
+    {
+      "played_at": "2025-06-15T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - São Luís/MA-2025",
+      "initial": 685,
+      "delta": 4,
+      "final": 689,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMMANUELLE COSTA"
+    },
+    {
+      "played_at": "2024-09-22T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 669,
+      "delta": 16,
+      "final": 685,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IZABELLA COSTA"
+    },
+    {
+      "played_at": "2024-09-22T10:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 691,
+      "delta": -22,
+      "final": 669,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANA FERRO"
+    },
+    {
+      "played_at": "2024-09-22T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 659,
+      "delta": 32,
+      "final": 691,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ELIANE NASCIMENTO"
+    },
+    {
+      "played_at": "2024-09-21T18:10:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 607,
+      "delta": 52,
+      "final": 659,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2024-09-21T17:20:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 609,
+      "delta": -2,
+      "final": 607,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA REIS"
+    },
+    {
+      "played_at": "2024-09-21T16:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2024",
+      "initial": 601,
+      "delta": 8,
+      "final": 609,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMMILIA SÁ"
+    },
+    {
+      "played_at": "2024-04-28T16:05:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 625,
+      "delta": -24,
+      "final": 601,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JANAINA CARNEIRO"
+    },
+    {
+      "played_at": "2024-04-28T14:25:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 617,
+      "delta": 8,
+      "final": 625,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JAMILA MILHOMEM"
+    },
+    {
+      "played_at": "2024-04-28T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 603,
+      "delta": 14,
+      "final": 617,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JANAINA CARNEIRO"
+    },
+    {
+      "played_at": "2024-04-28T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 593,
+      "delta": 10,
+      "final": 603,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIA COELHO"
+    },
+    {
+      "played_at": "2024-04-27T21:27:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 597,
+      "delta": -4,
+      "final": 593,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2024-04-27T14:40:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 581,
+      "delta": 16,
+      "final": 597,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JANAINA CARNEIRO"
+    },
+    {
+      "played_at": "2024-04-27T13:50:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 529,
+      "delta": 52,
+      "final": 581,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAOLA MORAIS"
+    },
+    {
+      "played_at": "2024-04-27T13:00:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 535,
+      "delta": -6,
+      "final": 529,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2024-04-27T08:00:00",
+      "event": "TMB Estadual - 2ª Etapa - São José de Ribamar/MA - 2024..",
+      "initial": 489,
+      "delta": 46,
+      "final": 535,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANNA FIGUEIREDO"
+    },
+    {
+      "played_at": "2022-10-23T16:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Tuntum/MA-2022",
+      "initial": 493,
+      "delta": -4,
+      "final": 489,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AMANDA SILVA"
+    },
+    {
+      "played_at": "2022-10-23T15:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Tuntum/MA-2022",
+      "initial": 505,
+      "delta": -12,
+      "final": 493,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2022-10-23T14:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Tuntum/MA-2022",
+      "initial": 527,
+      "delta": -22,
+      "final": 505,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARA FONTES"
+    },
+    {
+      "played_at": "2022-10-22T19:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Tuntum/MA-2022",
+      "initial": 507,
+      "delta": 20,
+      "final": 527,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JANAINA CARNEIRO"
+    },
+    {
+      "played_at": "2022-10-22T18:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Tuntum/MA-2022",
+      "initial": 539,
+      "delta": -32,
+      "final": 507,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARINA AZEVEDO"
+    },
+    {
+      "played_at": "2022-10-22T16:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Tuntum/MA-2022",
+      "initial": 575,
+      "delta": -36,
+      "final": 539,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALINE SALES"
+    },
+    {
+      "played_at": "2022-09-11T18:00:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 635,
+      "delta": -60,
+      "final": 575,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2022-09-11T17:35:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 595,
+      "delta": 40,
+      "final": 635,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SINARA DIAS"
+    },
+    {
+      "played_at": "2022-09-11T13:50:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 535,
+      "delta": 60,
+      "final": 595,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YASMIM RAMALHO"
+    },
+    {
+      "played_at": "2022-09-11T09:40:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 515,
+      "delta": 20,
+      "final": 535,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ROSALVINA SILVA"
+    },
+    {
+      "played_at": "2022-09-09T16:45:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 465,
+      "delta": 50,
+      "final": 515,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANNA FIGUEIREDO"
+    },
+    {
+      "played_at": "2022-09-09T15:55:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 435,
+      "delta": 30,
+      "final": 465,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUANNY MOURA"
+    },
+    {
+      "played_at": "2022-09-09T15:05:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 395,
+      "delta": 40,
+      "final": 435,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALISSA MAIA"
+    },
+    {
+      "played_at": "2022-09-09T13:25:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 475,
+      "delta": -80,
+      "final": 395,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JÚLIA CARDOSO"
+    },
+    {
+      "played_at": "2022-09-09T10:05:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 450,
+      "delta": 25,
+      "final": 475,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA SOUSA"
+    },
+    {
+      "played_at": "2022-08-28T19:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 466,
+      "delta": -16,
+      "final": 450,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NARLA VIEIRA"
+    },
+    {
+      "played_at": "2022-08-28T18:50:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 442,
+      "delta": 24,
+      "final": 466,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JENNIFER SILVA"
+    },
+    {
+      "played_at": "2022-08-28T18:25:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 414,
+      "delta": 28,
+      "final": 442,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA FERRO"
+    },
+    {
+      "played_at": "2022-08-28T17:10:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 400,
+      "delta": 14,
+      "final": 414,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALINE SALES"
+    },
+    {
+      "played_at": "2022-08-28T16:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 386,
+      "delta": 14,
+      "final": 400,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANNA PICOLI"
+    },
+    {
+      "played_at": "2022-08-28T10:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 358,
+      "delta": 28,
+      "final": 386,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FERNANDA FERREIRA"
+    },
+    {
+      "played_at": "2022-08-28T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 342,
+      "delta": 16,
+      "final": 358,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANNA FIGUEIREDO"
+    },
+    {
+      "played_at": "2022-08-27T21:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 342,
+      "delta": 0,
+      "final": 342,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA NASCIMENTO."
+    },
+    {
+      "played_at": "2022-08-27T20:55:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 302,
+      "delta": 40,
+      "final": 342,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JANAINA CARNEIRO"
+    },
+    {
+      "played_at": "2022-08-27T20:05:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 270,
+      "delta": 32,
+      "final": 302,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NARLA VIEIRA"
+    },
+    {
+      "played_at": "2022-08-27T19:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 270,
+      "delta": 0,
+      "final": 270,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA NASCIMENTO."
+    },
+    {
+      "played_at": "2022-08-27T18:25:00",
+      "event": "TMB Estadual - 4ª Etapa - São Luís/MA-2022",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANNA PICOLI ............."
+    }
+  ]
+}

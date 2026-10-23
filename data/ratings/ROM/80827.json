@@ -1,0 +1,463 @@
+{
+  "associate_id": 80827,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=80827&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T17:40:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 428,
+      "delta": -18,
+      "final": 410,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERT MARQUES"
+    },
+    {
+      "played_at": "2026-09-26T15:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 401,
+      "delta": 27,
+      "final": 428,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JORGE MORAIS"
+    },
+    {
+      "played_at": "2026-09-26T13:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 401,
+      "delta": 0,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÍLVIO ALBUQUERQUE"
+    },
+    {
+      "played_at": "2026-08-15T17:15:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 401,
+      "delta": 0,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL VAZ"
+    },
+    {
+      "played_at": "2026-08-15T16:50:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 401,
+      "delta": 0,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL TOMIO"
+    },
+    {
+      "played_at": "2026-08-15T09:20:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 401,
+      "delta": 0,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ELCIO MARQUART"
+    },
+    {
+      "played_at": "2026-08-15T08:55:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 401,
+      "delta": 0,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO ARAÚJO"
+    },
+    {
+      "played_at": "2026-08-15T08:30:00",
+      "event": "Copa Brasil Ouro Jaraguá do Sul/SC",
+      "initial": 401,
+      "delta": 0,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERT MARQUES"
+    },
+    {
+      "played_at": "2026-08-01T14:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 419,
+      "delta": -18,
+      "final": 401,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALVARO BINOTTO"
+    },
+    {
+      "played_at": "2026-08-01T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 419,
+      "delta": 0,
+      "final": 419,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OLIDES JÚNIOR"
+    },
+    {
+      "played_at": "2026-03-22T10:30:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 500,
+      "delta": -81,
+      "final": 419,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANI JUNIOR"
+    },
+    {
+      "played_at": "2026-03-22T09:30:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 266,
+      "delta": 234,
+      "final": 500,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BENJAMIN HORST"
+    },
+    {
+      "played_at": "2026-03-21T13:30:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 320,
+      "delta": -54,
+      "final": 266,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAM FAI"
+    },
+    {
+      "played_at": "2026-03-21T11:25:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 320,
+      "delta": 0,
+      "final": 320,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO ARAÚJO"
+    },
+    {
+      "played_at": "2025-09-13T14:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 334,
+      "delta": -14,
+      "final": 320,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUAN MONTEIRO"
+    },
+    {
+      "played_at": "2025-09-13T12:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 344,
+      "delta": -10,
+      "final": 334,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LORENZO HORST"
+    },
+    {
+      "played_at": "2025-09-13T10:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 352,
+      "delta": -8,
+      "final": 344,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANDREW VIEIRA"
+    },
+    {
+      "played_at": "2025-08-16T18:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 370,
+      "delta": -18,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUAN MONTEIRO"
+    },
+    {
+      "played_at": "2025-08-16T18:05:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 350,
+      "delta": 20,
+      "final": 370,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JAMES SANTOS"
+    },
+    {
+      "played_at": "2025-08-16T16:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 330,
+      "delta": 20,
+      "final": 350,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE RIBEIRO"
+    },
+    {
+      "played_at": "2025-08-16T14:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 312,
+      "delta": 18,
+      "final": 330,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCIO GAVENDA"
+    },
+    {
+      "played_at": "2025-07-05T17:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 334,
+      "delta": -22,
+      "final": 312,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME GRILLANDA"
+    },
+    {
+      "played_at": "2025-07-05T16:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 318,
+      "delta": 16,
+      "final": 334,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO RIBEIRO"
+    },
+    {
+      "played_at": "2025-07-05T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 302,
+      "delta": 16,
+      "final": 318,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO MAYER"
+    },
+    {
+      "played_at": "2025-07-05T10:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 286,
+      "delta": 16,
+      "final": 302,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDERSON SANTOS"
+    },
+    {
+      "played_at": "2025-06-29T18:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 301,
+      "delta": -15,
+      "final": 286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINÍCIUS CAMPREGHER"
+    },
+    {
+      "played_at": "2025-06-29T17:15:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 266,
+      "delta": 35,
+      "final": 301,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUILHERME ROTHBARTH"
+    },
+    {
+      "played_at": "2025-06-29T08:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 206,
+      "delta": 60,
+      "final": 266,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOAQUIM LANA"
+    },
+    {
+      "played_at": "2025-06-29T08:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 166,
+      "delta": 40,
+      "final": 206,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SÉRGIO KATO"
+    },
+    {
+      "played_at": "2025-06-28T16:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 196,
+      "delta": -30,
+      "final": 166,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCOS GASPARIN"
+    },
+    {
+      "played_at": "2025-06-28T16:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 196,
+      "delta": 0,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DALVO MERCI"
+    },
+    {
+      "played_at": "2025-06-28T15:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Blumenau - SC - 2025",
+      "initial": 196,
+      "delta": 0,
+      "final": 196,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ OYAMA"
+    },
+    {
+      "played_at": "2025-04-26T09:45:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 214,
+      "delta": -18,
+      "final": 196,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO ZAMPIER"
+    },
+    {
+      "played_at": "2025-04-26T08:30:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 186,
+      "delta": 28,
+      "final": 214,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITOR SANTOS"
+    },
+    {
+      "played_at": "2024-08-17T11:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 200,
+      "delta": -14,
+      "final": 186,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUAN HEY"
+    },
+    {
+      "played_at": "2024-08-17T10:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 212,
+      "delta": -12,
+      "final": 200,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ODAIR JAREMTCHUK"
+    },
+    {
+      "played_at": "2024-05-25T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 228,
+      "delta": -16,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAFAIETE SILVA"
+    },
+    {
+      "played_at": "2024-05-25T08:30:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 250,
+      "delta": -22,
+      "final": 228,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALESSANDRO ALVES ............."
+    }
+  ]
+}

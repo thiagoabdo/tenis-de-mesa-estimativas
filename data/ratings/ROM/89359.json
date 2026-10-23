@@ -1,0 +1,103 @@
+{
+  "associate_id": 89359,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89359&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-22T15:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 358,
+      "delta": -30,
+      "final": 328,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NATHAN CORREA"
+    },
+    {
+      "played_at": "2026-08-22T14:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 322,
+      "delta": 36,
+      "final": 358,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIO MIURA"
+    },
+    {
+      "played_at": "2026-06-27T18:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 340,
+      "delta": -18,
+      "final": 322,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL ABADE"
+    },
+    {
+      "played_at": "2026-06-27T17:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 298,
+      "delta": 42,
+      "final": 340,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RIHAN MARQUES"
+    },
+    {
+      "played_at": "2026-06-27T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 265,
+      "delta": 33,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAULO PIRES"
+    },
+    {
+      "played_at": "2026-06-27T12:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 247,
+      "delta": 18,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRCIO JAMBERSI"
+    },
+    {
+      "played_at": "2026-06-27T09:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 271,
+      "delta": -24,
+      "final": 247,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DANIEL VAZ"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 250,
+      "delta": 21,
+      "final": 271,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEONARDO CAMARGO ............."
+    }
+  ]
+}

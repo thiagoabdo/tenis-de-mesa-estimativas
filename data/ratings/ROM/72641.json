@@ -1,0 +1,1375 @@
+{
+  "associate_id": 72641,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=72641&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T15:20:00",
+      "event": "VI ETAPA - LIGA OESTE PAULISTA (LOP) - Birigui - SP",
+      "initial": 1457,
+      "delta": -14,
+      "final": 1443,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL TSUKAHARA"
+    },
+    {
+      "played_at": "2026-09-20T13:00:00",
+      "event": "VI ETAPA - LIGA OESTE PAULISTA (LOP) - Birigui - SP",
+      "initial": 1456,
+      "delta": 1,
+      "final": 1457,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CAIO GARDENAL"
+    },
+    {
+      "played_at": "2026-09-20T11:00:00",
+      "event": "VI ETAPA - LIGA OESTE PAULISTA (LOP) - Birigui - SP",
+      "initial": 1455,
+      "delta": 1,
+      "final": 1456,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS GONÇALVES"
+    },
+    {
+      "played_at": "2026-08-23T14:00:00",
+      "event": "V ETAPA - LIGA OESTE PAULISTA (LOP) - Araçatuba - SP",
+      "initial": 1477,
+      "delta": -22,
+      "final": 1455,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALAN TAJERO"
+    },
+    {
+      "played_at": "2026-08-23T12:40:00",
+      "event": "V ETAPA - LIGA OESTE PAULISTA (LOP) - Araçatuba - SP",
+      "initial": 1476,
+      "delta": 1,
+      "final": 1477,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS PAIS"
+    },
+    {
+      "played_at": "2026-08-23T11:00:00",
+      "event": "V ETAPA - LIGA OESTE PAULISTA (LOP) - Araçatuba - SP",
+      "initial": 1475,
+      "delta": 1,
+      "final": 1476,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL BALIZARDO"
+    },
+    {
+      "played_at": "2026-08-23T09:00:00",
+      "event": "V ETAPA - LIGA OESTE PAULISTA (LOP) - Araçatuba - SP",
+      "initial": 1474,
+      "delta": 1,
+      "final": 1475,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WAGNER PESCARA"
+    },
+    {
+      "played_at": "2026-05-31T09:45:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 1495,
+      "delta": -21,
+      "final": 1474,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALBERTO FILHO"
+    },
+    {
+      "played_at": "2026-05-31T08:05:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 1480,
+      "delta": 15,
+      "final": 1495,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CAIQUE DUTRA"
+    },
+    {
+      "played_at": "2026-05-21T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1660,
+      "delta": -180,
+      "final": 1480,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JEAN MARQUES"
+    },
+    {
+      "played_at": "2026-05-21T12:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1120,
+      "delta": 540,
+      "final": 1660,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BENJAMIM SOUZA"
+    },
+    {
+      "played_at": "2026-05-20T18:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1192,
+      "delta": -72,
+      "final": 1120,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CRISTIAN MARTINELLI"
+    },
+    {
+      "played_at": "2026-05-20T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1084,
+      "delta": 108,
+      "final": 1192,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL SLEZYNGER"
+    },
+    {
+      "played_at": "2026-05-03T19:15:00",
+      "event": "III ETAPA - LIGA OESTE PAULISTA (LOP) - Bauru - SP",
+      "initial": 1084,
+      "delta": 0,
+      "final": 1084,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE SOUZA"
+    },
+    {
+      "played_at": "2026-05-03T18:00:00",
+      "event": "III ETAPA - LIGA OESTE PAULISTA (LOP) - Bauru - SP",
+      "initial": 1082,
+      "delta": 2,
+      "final": 1084,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL KITAGAVA"
+    },
+    {
+      "played_at": "2026-05-03T14:40:00",
+      "event": "III ETAPA - LIGA OESTE PAULISTA (LOP) - Bauru - SP",
+      "initial": 1080,
+      "delta": 2,
+      "final": 1082,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "WAGNER FONSECA"
+    },
+    {
+      "played_at": "2026-05-03T12:10:00",
+      "event": "III ETAPA - LIGA OESTE PAULISTA (LOP) - Bauru - SP",
+      "initial": 1079,
+      "delta": 1,
+      "final": 1080,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANANIAS MARCONDES"
+    },
+    {
+      "played_at": "2026-05-03T09:40:00",
+      "event": "III ETAPA - LIGA OESTE PAULISTA (LOP) - Bauru - SP",
+      "initial": 1078,
+      "delta": 1,
+      "final": 1079,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS SOUZA"
+    },
+    {
+      "played_at": "2026-04-12T14:00:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 1078,
+      "delta": 0,
+      "final": 1078,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE SOUZA"
+    },
+    {
+      "played_at": "2026-04-12T13:20:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 1068,
+      "delta": 10,
+      "final": 1078,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO ZOCANTE"
+    },
+    {
+      "played_at": "2026-04-12T12:40:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 1066,
+      "delta": 2,
+      "final": 1068,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO SERDAN"
+    },
+    {
+      "played_at": "2026-04-12T10:00:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 1065,
+      "delta": 1,
+      "final": 1066,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAIO MARQUES"
+    },
+    {
+      "played_at": "2026-04-12T08:40:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 1060,
+      "delta": 5,
+      "final": 1065,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL TSUKAHARA"
+    },
+    {
+      "played_at": "2025-10-19T18:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VII - BAURU-SP",
+      "initial": 1060,
+      "delta": 0,
+      "final": 1060,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TM LIGA-SP"
+    },
+    {
+      "played_at": "2025-10-19T17:10:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VII - BAURU-SP",
+      "initial": 1058,
+      "delta": 2,
+      "final": 1060,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WAGNER FONSECA"
+    },
+    {
+      "played_at": "2025-10-19T16:45:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VII - BAURU-SP",
+      "initial": 1048,
+      "delta": 10,
+      "final": 1058,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO ZOCANTE"
+    },
+    {
+      "played_at": "2025-10-19T15:30:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VII - BAURU-SP",
+      "initial": 1045,
+      "delta": 3,
+      "final": 1048,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE SILVEIRA"
+    },
+    {
+      "played_at": "2025-10-19T14:15:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VII - BAURU-SP",
+      "initial": 1043,
+      "delta": 2,
+      "final": 1045,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS PAIS"
+    },
+    {
+      "played_at": "2025-10-19T09:40:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VII - BAURU-SP",
+      "initial": 1042,
+      "delta": 1,
+      "final": 1043,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL URA"
+    },
+    {
+      "played_at": "2025-09-14T15:40:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VI - BIRIGUI",
+      "initial": 1042,
+      "delta": 0,
+      "final": 1042,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TM LIGA-SP"
+    },
+    {
+      "played_at": "2025-09-14T14:40:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VI - BIRIGUI",
+      "initial": 1041,
+      "delta": 1,
+      "final": 1042,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOAO SILVA"
+    },
+    {
+      "played_at": "2025-09-14T13:20:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VI - BIRIGUI",
+      "initial": 1039,
+      "delta": 2,
+      "final": 1041,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS PAIS"
+    },
+    {
+      "played_at": "2025-09-14T09:20:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VI - BIRIGUI",
+      "initial": 1038,
+      "delta": 1,
+      "final": 1039,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME TOMAZINI"
+    },
+    {
+      "played_at": "2025-08-16T16:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa V - São José do Rio Preto-SP",
+      "initial": 1038,
+      "delta": 0,
+      "final": 1038,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TM LIGA-SP"
+    },
+    {
+      "played_at": "2025-08-16T15:20:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa V - São José do Rio Preto-SP",
+      "initial": 1022,
+      "delta": 16,
+      "final": 1038,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO SANCHES"
+    },
+    {
+      "played_at": "2025-08-16T15:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa V - São José do Rio Preto-SP",
+      "initial": 992,
+      "delta": 30,
+      "final": 1022,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE SOUZA"
+    },
+    {
+      "played_at": "2025-08-16T14:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa V - São José do Rio Preto-SP",
+      "initial": 990,
+      "delta": 2,
+      "final": 992,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS AGUIAR"
+    },
+    {
+      "played_at": "2025-08-16T13:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa V - São José do Rio Preto-SP",
+      "initial": 1000,
+      "delta": -10,
+      "final": 990,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JÚLIO PEREIRA"
+    },
+    {
+      "played_at": "2025-08-16T09:20:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa V - São José do Rio Preto-SP",
+      "initial": 999,
+      "delta": 1,
+      "final": 1000,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANE SILVA"
+    },
+    {
+      "played_at": "2025-08-10T16:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 1004,
+      "delta": -5,
+      "final": 999,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCOS JUNIOR"
+    },
+    {
+      "played_at": "2025-08-10T15:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 959,
+      "delta": 45,
+      "final": 1004,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2025-08-10T13:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 939,
+      "delta": 20,
+      "final": 959,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YURI MURAKI"
+    },
+    {
+      "played_at": "2025-08-10T12:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 914,
+      "delta": 25,
+      "final": 939,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SERGIO SAKAI"
+    },
+    {
+      "played_at": "2025-08-10T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 844,
+      "delta": 70,
+      "final": 914,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO ISHIOKA"
+    },
+    {
+      "played_at": "2025-08-09T14:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 859,
+      "delta": -15,
+      "final": 844,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCOS JUNIOR"
+    },
+    {
+      "played_at": "2025-08-09T13:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 859,
+      "delta": 0,
+      "final": 859,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE CAMPOS"
+    },
+    {
+      "played_at": "2025-06-29T19:15:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa IV - Araçatuba-SP",
+      "initial": 859,
+      "delta": 0,
+      "final": 859,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE SOUZA"
+    },
+    {
+      "played_at": "2025-06-29T18:25:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa IV - Araçatuba-SP",
+      "initial": 854,
+      "delta": 5,
+      "final": 859,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS AMARANTE"
+    },
+    {
+      "played_at": "2025-06-29T16:45:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa IV - Araçatuba-SP",
+      "initial": 852,
+      "delta": 2,
+      "final": 854,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL TSUKAHARA"
+    },
+    {
+      "played_at": "2025-06-29T15:05:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa IV - Araçatuba-SP",
+      "initial": 850,
+      "delta": 2,
+      "final": 852,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS AGUIAR"
+    },
+    {
+      "played_at": "2025-06-29T09:40:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa IV - Araçatuba-SP",
+      "initial": 848,
+      "delta": 2,
+      "final": 850,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FABRÍCIO SANTOS"
+    },
+    {
+      "played_at": "2025-06-22T11:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 842,
+      "delta": 6,
+      "final": 848,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO TAMELINI"
+    },
+    {
+      "played_at": "2025-06-22T09:45:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 842,
+      "delta": 0,
+      "final": 842,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RODRIGO RUIZ"
+    },
+    {
+      "played_at": "2025-06-22T08:30:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 842,
+      "delta": 0,
+      "final": 842,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MICHEL SARTORATO"
+    },
+    {
+      "played_at": "2025-04-27T14:15:00",
+      "event": "TMB REGIONAL - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2025",
+      "initial": 860,
+      "delta": -18,
+      "final": 842,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO ZOCANTE"
+    },
+    {
+      "played_at": "2025-04-27T13:50:00",
+      "event": "TMB REGIONAL - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2025",
+      "initial": 858,
+      "delta": 2,
+      "final": 860,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS AGUIAR"
+    },
+    {
+      "played_at": "2025-04-27T11:45:00",
+      "event": "TMB REGIONAL - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2025",
+      "initial": 855,
+      "delta": 3,
+      "final": 858,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RUAN SOUZA"
+    },
+    {
+      "played_at": "2025-04-27T08:50:00",
+      "event": "TMB REGIONAL - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2025",
+      "initial": 853,
+      "delta": 2,
+      "final": 855,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO CARA"
+    },
+    {
+      "played_at": "2024-10-27T17:35:00",
+      "event": "TMB REGIONAL - VII Etapa - Liga Oeste Paulista (LOP) - BIRIGUI/SP - 2024",
+      "initial": 854,
+      "delta": -1,
+      "final": 853,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE SOUZA"
+    },
+    {
+      "played_at": "2024-10-27T16:20:00",
+      "event": "TMB REGIONAL - VII Etapa - Liga Oeste Paulista (LOP) - BIRIGUI/SP - 2024",
+      "initial": 852,
+      "delta": 2,
+      "final": 854,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS PAIS"
+    },
+    {
+      "played_at": "2024-10-27T14:15:00",
+      "event": "TMB REGIONAL - VII Etapa - Liga Oeste Paulista (LOP) - BIRIGUI/SP - 2024",
+      "initial": 848,
+      "delta": 4,
+      "final": 852,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FELIPE SILVEIRA"
+    },
+    {
+      "played_at": "2024-10-27T12:10:00",
+      "event": "TMB REGIONAL - VII Etapa - Liga Oeste Paulista (LOP) - BIRIGUI/SP - 2024",
+      "initial": 846,
+      "delta": 2,
+      "final": 848,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS AGUIAR"
+    },
+    {
+      "played_at": "2024-10-27T09:40:00",
+      "event": "TMB REGIONAL - VII Etapa - Liga Oeste Paulista (LOP) - BIRIGUI/SP - 2024",
+      "initial": 844,
+      "delta": 2,
+      "final": 846,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME TOMAZINI"
+    },
+    {
+      "played_at": "2024-09-29T15:05:00",
+      "event": "TMB REGIONAL - VI Etapa - Liga Oeste Paulista (LOP) - TUPÃ/SP - 2024 (27/08/2024 a 23/09/2024)",
+      "initial": 844,
+      "delta": 0,
+      "final": 844,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILBERTO LOPES"
+    },
+    {
+      "played_at": "2024-09-29T13:50:00",
+      "event": "TMB REGIONAL - VI Etapa - Liga Oeste Paulista (LOP) - TUPÃ/SP - 2024 (27/08/2024 a 23/09/2024)",
+      "initial": 850,
+      "delta": -6,
+      "final": 844,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUÍS VILELA"
+    },
+    {
+      "played_at": "2024-09-29T11:45:00",
+      "event": "TMB REGIONAL - VI Etapa - Liga Oeste Paulista (LOP) - TUPÃ/SP - 2024 (27/08/2024 a 23/09/2024)",
+      "initial": 848,
+      "delta": 2,
+      "final": 850,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "TM LIGA-SP"
+    },
+    {
+      "played_at": "2024-09-29T09:40:00",
+      "event": "TMB REGIONAL - VI Etapa - Liga Oeste Paulista (LOP) - TUPÃ/SP - 2024 (27/08/2024 a 23/09/2024)",
+      "initial": 846,
+      "delta": 2,
+      "final": 848,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WAGNER FONSECA"
+    },
+    {
+      "played_at": "2024-08-18T15:30:00",
+      "event": "TMB REGIONAL - V Etapa - Liga Oeste Paulista (LOP) - SÃO JOSÉ DO RIO PRETO/SP - 2024",
+      "initial": 846,
+      "delta": 0,
+      "final": 846,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE SOUZA"
+    },
+    {
+      "played_at": "2024-08-18T14:15:00",
+      "event": "TMB REGIONAL - V Etapa - Liga Oeste Paulista (LOP) - SÃO JOSÉ DO RIO PRETO/SP - 2024",
+      "initial": 842,
+      "delta": 4,
+      "final": 846,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE SILVEIRA"
+    },
+    {
+      "played_at": "2024-08-18T13:25:00",
+      "event": "TMB REGIONAL - V Etapa - Liga Oeste Paulista (LOP) - SÃO JOSÉ DO RIO PRETO/SP - 2024",
+      "initial": 839,
+      "delta": 3,
+      "final": 842,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL SILVA"
+    },
+    {
+      "played_at": "2024-08-18T11:20:00",
+      "event": "TMB REGIONAL - V Etapa - Liga Oeste Paulista (LOP) - SÃO JOSÉ DO RIO PRETO/SP - 2024",
+      "initial": 837,
+      "delta": 2,
+      "final": 839,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THOMAS CASORLA"
+    },
+    {
+      "played_at": "2024-08-18T09:15:00",
+      "event": "TMB REGIONAL - V Etapa - Liga Oeste Paulista (LOP) - SÃO JOSÉ DO RIO PRETO/SP - 2024",
+      "initial": 835,
+      "delta": 2,
+      "final": 837,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TM LIGA-SP"
+    },
+    {
+      "played_at": "2024-08-11T15:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 880,
+      "delta": -45,
+      "final": 835,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CARLOS SUPLANO"
+    },
+    {
+      "played_at": "2024-08-11T15:00:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 790,
+      "delta": 90,
+      "final": 880,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO VIEIRA"
+    },
+    {
+      "played_at": "2024-08-11T14:00:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 750,
+      "delta": 40,
+      "final": 790,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUCAS YOSHIKAWA"
+    },
+    {
+      "played_at": "2024-08-11T10:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 680,
+      "delta": 70,
+      "final": 750,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUCAS SEGREGIO"
+    },
+    {
+      "played_at": "2024-08-11T09:00:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 640,
+      "delta": 40,
+      "final": 680,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO SANTOS"
+    },
+    {
+      "played_at": "2024-08-10T15:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 585,
+      "delta": 55,
+      "final": 640,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALAN TAJERO"
+    },
+    {
+      "played_at": "2024-08-10T14:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 585,
+      "delta": 0,
+      "final": 585,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "VICTOR ARAKI"
+    },
+    {
+      "played_at": "2024-08-10T13:30:00",
+      "event": "TMB Challenger Plus - 16ª Edição - Marília/SP - 2024",
+      "initial": 585,
+      "delta": 0,
+      "final": 585,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TIAGO KAKEYA"
+    },
+    {
+      "played_at": "2024-06-30T16:40:00",
+      "event": "TMB Regional - IV Etapa - Liga Oeste Paulista (LOP) - ARAÇATUBA/SP - 2024 ( De 03/06/2024 à 24/06/2024 )",
+      "initial": 585,
+      "delta": 0,
+      "final": 585,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO SALINAS"
+    },
+    {
+      "played_at": "2024-06-30T16:20:00",
+      "event": "TMB Regional - IV Etapa - Liga Oeste Paulista (LOP) - ARAÇATUBA/SP - 2024 ( De 03/06/2024 à 24/06/2024 )",
+      "initial": 555,
+      "delta": 30,
+      "final": 585,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDNEI SILVA"
+    },
+    {
+      "played_at": "2024-06-30T15:40:00",
+      "event": "TMB Regional - IV Etapa - Liga Oeste Paulista (LOP) - ARAÇATUBA/SP - 2024 ( De 03/06/2024 à 24/06/2024 )",
+      "initial": 571,
+      "delta": -16,
+      "final": 555,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JÚLIO PEREIRA"
+    },
+    {
+      "played_at": "2024-06-30T14:20:00",
+      "event": "TMB Regional - IV Etapa - Liga Oeste Paulista (LOP) - ARAÇATUBA/SP - 2024 ( De 03/06/2024 à 24/06/2024 )",
+      "initial": 567,
+      "delta": 4,
+      "final": 571,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIO MARTON"
+    },
+    {
+      "played_at": "2024-04-14T12:40:00",
+      "event": "TMB Regional - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2024",
+      "initial": 579,
+      "delta": -12,
+      "final": 567,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO ZOCANTE"
+    },
+    {
+      "played_at": "2024-04-14T11:40:00",
+      "event": "TMB Regional - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2024",
+      "initial": 579,
+      "delta": 0,
+      "final": 579,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDNEI SILVA"
+    },
+    {
+      "played_at": "2024-04-14T08:40:00",
+      "event": "TMB Regional - II Etapa - Liga Oeste Paulista (LOP) - ASSIS/SP - 2024",
+      "initial": 574,
+      "delta": 5,
+      "final": 579,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAIO VALE"
+    },
+    {
+      "played_at": "2024-03-17T12:45:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Oeste Paulista - Marília/SP - 2024",
+      "initial": 574,
+      "delta": 0,
+      "final": 574,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILBERTO LOPES"
+    },
+    {
+      "played_at": "2024-03-17T11:45:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Oeste Paulista - Marília/SP - 2024",
+      "initial": 568,
+      "delta": 6,
+      "final": 574,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE SILVEIRA"
+    },
+    {
+      "played_at": "2024-03-17T10:45:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Oeste Paulista - Marília/SP - 2024",
+      "initial": 538,
+      "delta": 30,
+      "final": 568,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EDNEI SILVA"
+    },
+    {
+      "played_at": "2024-03-17T08:30:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Oeste Paulista - Marília/SP - 2024",
+      "initial": 533,
+      "delta": 5,
+      "final": 538,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDERSON CHAVES"
+    },
+    {
+      "played_at": "2023-12-17T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 583,
+      "delta": -50,
+      "final": 533,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCA KUMAHARA"
+    },
+    {
+      "played_at": "2023-12-17T13:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 483,
+      "delta": 100,
+      "final": 583,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LORENZO AMORIM"
+    },
+    {
+      "played_at": "2023-12-15T20:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 513,
+      "delta": -30,
+      "final": 483,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINICIUS SANTOS"
+    },
+    {
+      "played_at": "2023-12-15T18:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 453,
+      "delta": 60,
+      "final": 513,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS YAMAUCHI"
+    },
+    {
+      "played_at": "2023-11-26T13:40:00",
+      "event": "IX Etapa da Liga Oeste Paulista (LOP) - Birigui SP - 26/11/2023",
+      "initial": 453,
+      "delta": 0,
+      "final": 453,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILBERTO LOPES"
+    },
+    {
+      "played_at": "2023-11-26T12:20:00",
+      "event": "IX Etapa da Liga Oeste Paulista (LOP) - Birigui SP - 26/11/2023",
+      "initial": 423,
+      "delta": 30,
+      "final": 453,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FABIO NAVARRO"
+    },
+    {
+      "played_at": "2023-11-26T11:00:00",
+      "event": "IX Etapa da Liga Oeste Paulista (LOP) - Birigui SP - 26/11/2023",
+      "initial": 393,
+      "delta": 30,
+      "final": 423,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EDNEI SILVA"
+    },
+    {
+      "played_at": "2023-11-12T11:40:00",
+      "event": "TMB Regional - VIII Etapa da Liga Oeste Paulista LOP - TUPÃ/SP - 2023",
+      "initial": 393,
+      "delta": 0,
+      "final": 393,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO SALINAS"
+    },
+    {
+      "played_at": "2023-11-12T11:00:00",
+      "event": "TMB Regional - VIII Etapa da Liga Oeste Paulista LOP - TUPÃ/SP - 2023",
+      "initial": 363,
+      "delta": 30,
+      "final": 393,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUAN SILVA"
+    },
+    {
+      "played_at": "2023-11-12T09:40:00",
+      "event": "TMB Regional - VIII Etapa da Liga Oeste Paulista LOP - TUPÃ/SP - 2023",
+      "initial": 363,
+      "delta": 0,
+      "final": 363,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO TAJERO"
+    },
+    {
+      "played_at": "2023-11-12T09:00:00",
+      "event": "TMB Regional - VIII Etapa da Liga Oeste Paulista LOP - TUPÃ/SP - 2023",
+      "initial": 356,
+      "delta": 7,
+      "final": 363,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS PAIS"
+    },
+    {
+      "played_at": "2023-10-29T08:28:00",
+      "event": "TMB Regional - VII Etapa - Liga Oeste Paulista - Marília/SP - 2023",
+      "initial": 356,
+      "delta": 0,
+      "final": 356,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLAUDIO MASSAD"
+    },
+    {
+      "played_at": "2023-10-29T08:19:00",
+      "event": "TMB Regional - VII Etapa - Liga Oeste Paulista - Marília/SP - 2023",
+      "initial": 344,
+      "delta": 12,
+      "final": 356,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS AMARANTE"
+    },
+    {
+      "played_at": "2023-10-29T08:18:00",
+      "event": "TMB Regional - VII Etapa - Liga Oeste Paulista - Marília/SP - 2023",
+      "initial": 336,
+      "delta": 8,
+      "final": 344,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL MESSIAS"
+    },
+    {
+      "played_at": "2023-10-29T08:16:00",
+      "event": "TMB Regional - VII Etapa - Liga Oeste Paulista - Marília/SP - 2023",
+      "initial": 326,
+      "delta": 10,
+      "final": 336,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS YAMAUCHI"
+    },
+    {
+      "played_at": "2023-08-19T17:30:00",
+      "event": "TMB Estadual - 3ª Etapa - FTMSP - Campinas - 2023.",
+      "initial": 326,
+      "delta": 0,
+      "final": 326,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICARDO INSELSPERGER"
+    },
+    {
+      "played_at": "2023-08-19T15:00:00",
+      "event": "TMB Estadual - 3ª Etapa - FTMSP - Campinas - 2023.",
+      "initial": 302,
+      "delta": 24,
+      "final": 326,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS YAMAUCHI"
+    },
+    {
+      "played_at": "2023-08-19T14:00:00",
+      "event": "TMB Estadual - 3ª Etapa - FTMSP - Campinas - 2023.",
+      "initial": 302,
+      "delta": 0,
+      "final": 302,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO MORAIS"
+    },
+    {
+      "played_at": "2023-05-21T12:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 324,
+      "delta": -22,
+      "final": 302,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEX RODRIGUES"
+    },
+    {
+      "played_at": "2023-05-21T11:30:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 308,
+      "delta": 16,
+      "final": 324,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIEL VASCONCELOS"
+    },
+    {
+      "played_at": "2023-05-21T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 292,
+      "delta": 16,
+      "final": 308,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAULO LIMA"
+    },
+    {
+      "played_at": "2023-05-21T10:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 268,
+      "delta": 24,
+      "final": 292,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO CAMPOS"
+    },
+    {
+      "played_at": "2023-05-21T09:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 250,
+      "delta": 18,
+      "final": 268,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO MARANTE ............."
+    }
+  ]
+}

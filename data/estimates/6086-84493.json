@@ -1,0 +1,7772 @@
+{
+  "schema_version": 1,
+  "event_id": 6086,
+  "event_name": "6086 - TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+  "associate_id": 84493,
+  "athlete_name": "THIAGO JORGE ABDO",
+  "rating": "ROM",
+  "scope": "category",
+  "category_id": 310,
+  "category": "ABSOLUTO G MAS",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 3,
+  "event_match_count": 792,
+  "estimated_match_count": 112,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "6086-310-055",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 55,
+      "table": 4,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "THIAGO ABDO",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS COSTA",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            7,
+            1,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO ABDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84493,
+            "name": "THIAGO ABDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 190,
+            "rating_change": 27,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 64776,
+            "name": "MATHEUS COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 150,
+            "rating_change": -21,
+            "rating_after": 129,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-084",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 84,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "THIAGO ABDO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            9,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUILHERME WERNECK",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GUILHERME WERNECK",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84493,
+            "name": "THIAGO ABDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": -15,
+            "rating_after": 202,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 92287,
+            "name": "GUILHERME WERNECK",
+            "associate_id_source": "event_roster",
+            "rating_before": 361,
+            "rating_change": 21,
+            "rating_after": 382,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    }
+  ],
+  "all_category_matches": [
+    {
+      "match_id": "6086-310-001",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 01",
+      "game_number": 1,
+      "table": 8,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "LINCON GROSSE",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            9,
+            11,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ ZEMPULSKI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            6,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ANDRÉ ZEMPULSKI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92270,
+            "name": "LINCON GROSSE",
+            "associate_id_source": "event_roster",
+            "rating_before": 154,
+            "rating_change": -21,
+            "rating_after": 133,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 92006,
+            "name": "ANDRÉ ZEMPULSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 199,
+            "rating_change": 27,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-002",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 02",
+      "game_number": 2,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "ELIZEU ALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            5,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ANDREI AMARO",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            4,
+            11,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ELIZEU ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92307,
+            "name": "ELIZEU ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 133,
+            "rating_change": 42,
+            "rating_after": 175,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 94472,
+            "name": "ANDREI AMARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 184,
+            "rating_change": -33,
+            "rating_after": 151,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-003",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 03",
+      "game_number": 3,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "LEONARDO CAMARGO",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            11,
+            3,
+            11,
+            7
+          ]
+        },
+        {
+          "name": "THIAGO SUZUKI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            6,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "THIAGO SUZUKI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91438,
+            "name": "LEONARDO CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 130,
+            "rating_change": -21,
+            "rating_after": 109,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 18804,
+            "name": "THIAGO SUZUKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 170,
+            "rating_change": 27,
+            "rating_after": 197,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-004",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 04",
+      "game_number": 4,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "VINICIUS NEGRI",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MARCARINI",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            4,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "VINICIUS NEGRI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 72600,
+            "name": "VINICIUS NEGRI",
+            "associate_id_source": "event_roster",
+            "rating_before": 309,
+            "rating_change": 18,
+            "rating_after": 327,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 80402,
+            "name": "DAVI MARCARINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 123,
+            "rating_change": -12,
+            "rating_after": 111,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-005",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 05",
+      "game_number": 5,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "ANDRÉ KOCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            16,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EMANUEL SILVA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            14,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDRÉ KOCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94365,
+            "name": "ANDRÉ KOCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": 24,
+            "rating_after": 304,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 95660,
+            "name": "EMANUEL SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 190,
+            "rating_change": -18,
+            "rating_after": 172,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-006",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 06",
+      "game_number": 6,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "MAICON RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            12,
+            7,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "CARLOS BOMFIM",
+          "sets_won": 1,
+          "set_points": [
+            10,
+            10,
+            11,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MAICON RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80773,
+            "name": "MAICON RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 240,
+            "rating_change": 42,
+            "rating_after": 282,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 66955,
+            "name": "CARLOS BOMFIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 337,
+            "rating_change": -33,
+            "rating_after": 304,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-007",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 07",
+      "game_number": 7,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "LUCAS PAULA",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS COSTA",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            9,
+            8,
+            4,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "LUCAS PAULA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93099,
+            "name": "LUCAS PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": 24,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 64776,
+            "name": "MATHEUS COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 120,
+            "rating_change": -18,
+            "rating_after": 102,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-008",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 08",
+      "game_number": 8,
+      "table": 15,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "PAULO SILVA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO GARABELI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MARCELO GARABELI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90453,
+            "name": "PAULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 184,
+            "rating_change": -15,
+            "rating_after": 169,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 80751,
+            "name": "MARCELO GARABELI",
+            "associate_id_source": "event_roster",
+            "rating_before": 331,
+            "rating_change": 21,
+            "rating_after": 352,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-009",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 09",
+      "game_number": 9,
+      "table": 16,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "ANTONIO WOLSKI",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            4,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MIGUEL KREMER",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MIGUEL KREMER",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91440,
+            "name": "ANTONIO WOLSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 178,
+            "rating_change": -15,
+            "rating_after": 163,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 59380,
+            "name": "MIGUEL KREMER",
+            "associate_id_source": "event_roster",
+            "rating_before": 325,
+            "rating_change": 21,
+            "rating_after": 346,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-010",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 10",
+      "game_number": 10,
+      "table": 17,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "ALEXANDRE SCHAFFKA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            9,
+            11,
+            13
+          ]
+        },
+        {
+          "name": "RAMON H.M.KLOSTER",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            11,
+            8,
+            11
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "ALEXANDRE SCHAFFKA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91025,
+            "name": "ALEXANDRE SCHAFFKA",
+            "associate_id_source": "event_roster",
+            "rating_before": 139,
+            "rating_change": 48,
+            "rating_after": 187,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 48
+          },
+          {
+            "associate_id": 75861,
+            "name": "RAMON H.M.KLOSTER",
+            "associate_id_source": "event_roster",
+            "rating_before": 257,
+            "rating_change": -36,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-011",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 11",
+      "game_number": 11,
+      "table": 18,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "DARCINEI PINTO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            8,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR MIRANDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ARTHUR MIRANDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57082,
+            "name": "DARCINEI PINTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 138,
+            "rating_change": -15,
+            "rating_after": 123,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 95878,
+            "name": "ARTHUR MIRANDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 21,
+            "rating_after": 271,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-012",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 12",
+      "game_number": 12,
+      "table": 19,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "RAFAEL SILVA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            3,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 95659,
+            "name": "RAFAEL SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 301,
+            "rating_change": -33,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 42,
+            "rating_after": 292,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-013",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 13",
+      "game_number": 13,
+      "table": 20,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "BERNARDO WECKERLIN",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "RENATO FILHO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            8,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "BERNARDO WECKERLIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94340,
+            "name": "BERNARDO WECKERLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 298,
+            "rating_change": 27,
+            "rating_after": 325,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 89030,
+            "name": "RENATO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -21,
+            "rating_after": 229,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-014",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 14",
+      "game_number": 14,
+      "table": 21,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "LEONARDO AMARAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            14,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO BARBOZA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            12,
+            11,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "LEONARDO AMARAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 95638,
+            "name": "LEONARDO AMARAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": 27,
+            "rating_after": 313,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 63360,
+            "name": "EVANDRO BARBOZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": -21,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-015",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 14",
+      "game_number": 15,
+      "table": 22,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "GABRIEL VOLPE",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            9,
+            13,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "JOÃO COSTA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            11,
+            6,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "GABRIEL VOLPE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92082,
+            "name": "GABRIEL VOLPE",
+            "associate_id_source": "event_roster",
+            "rating_before": 175,
+            "rating_change": 42,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 96288,
+            "name": "JOÃO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -33,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-016",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 15",
+      "game_number": 16,
+      "table": 23,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "LUIZ SADA",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            8,
+            11,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE KANNO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "FELIPE KANNO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 59287,
+            "name": "LUIZ SADA",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -33,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 80260,
+            "name": "FELIPE KANNO",
+            "associate_id_source": "event_roster",
+            "rating_before": 196,
+            "rating_change": 42,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-017",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 15",
+      "game_number": 17,
+      "table": 24,
+      "date": "26/09/2026",
+      "time": "08:30",
+      "played_at": "2026-09-26T08:30:00",
+      "players": [
+        {
+          "name": "DAVI MIRANDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FILIPE MARINS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI MIRANDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92710,
+            "name": "DAVI MIRANDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 33,
+            "rating_after": 271,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 96459,
+            "name": "FILIPE MARINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -27,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-018",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 01",
+      "game_number": 18,
+      "table": 8,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "JOSÉ MILLÉO",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            7,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ ZEMPULSKI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ANDRÉ ZEMPULSKI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87766,
+            "name": "JOSÉ MILLÉO",
+            "associate_id_source": "event_roster",
+            "rating_before": 199,
+            "rating_change": -21,
+            "rating_after": 178,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 92006,
+            "name": "ANDRÉ ZEMPULSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": 27,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-019",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 02",
+      "game_number": 19,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "RICARDO VALUS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ANDREI AMARO",
+          "sets_won": 1,
+          "set_points": [
+            13,
+            5,
+            8,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "RICARDO VALUS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 58726,
+            "name": "RICARDO VALUS",
+            "associate_id_source": "event_roster",
+            "rating_before": 208,
+            "rating_change": 24,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 94472,
+            "name": "ANDREI AMARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 151,
+            "rating_change": -18,
+            "rating_after": 133,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-020",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 03",
+      "game_number": 20,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "ROBERTO ANDRE",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO SUZUKI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "THIAGO SUZUKI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 95693,
+            "name": "ROBERTO ANDRE",
+            "associate_id_source": "event_roster",
+            "rating_before": 202,
+            "rating_change": -27,
+            "rating_after": 175,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          },
+          {
+            "associate_id": 18804,
+            "name": "THIAGO SUZUKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 197,
+            "rating_change": 33,
+            "rating_after": 230,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-021",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 04",
+      "game_number": 21,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "JAMERSON DAVID",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MARCARINI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            2,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JAMERSON DAVID",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90709,
+            "name": "JAMERSON DAVID",
+            "associate_id_source": "event_roster",
+            "rating_before": 211,
+            "rating_change": 21,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 80402,
+            "name": "DAVI MARCARINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 111,
+            "rating_change": -15,
+            "rating_after": 96,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-022",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 05",
+      "game_number": 22,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "ÉLIKE VASCO",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            7,
+            11,
+            6
+          ]
+        },
+        {
+          "name": "EMANUEL SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            7,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "EMANUEL SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93128,
+            "name": "ÉLIKE VASCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -33,
+            "rating_after": 190,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 95660,
+            "name": "EMANUEL SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 172,
+            "rating_change": 42,
+            "rating_after": 214,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-023",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 06",
+      "game_number": 23,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "GABRIEL BONAMIGO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            4,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CARLOS BOMFIM",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "CARLOS BOMFIM",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94487,
+            "name": "GABRIEL BONAMIGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": -18,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 66955,
+            "name": "CARLOS BOMFIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 304,
+            "rating_change": 24,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-024",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 07",
+      "game_number": 24,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "PEDRO MULLER",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            6,
+            11,
+            11,
+            4
+          ]
+        },
+        {
+          "name": "MATHEUS COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            8,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "MATHEUS COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89154,
+            "name": "PEDRO MULLER",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -36,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          },
+          {
+            "associate_id": 64776,
+            "name": "MATHEUS COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 102,
+            "rating_change": 48,
+            "rating_after": 150,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 48
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-025",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 08",
+      "game_number": 25,
+      "table": 15,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "EVERALDO GOUVEA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            2,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO GARABELI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MARCELO GARABELI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94436,
+            "name": "EVERALDO GOUVEA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -15,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 80751,
+            "name": "MARCELO GARABELI",
+            "associate_id_source": "event_roster",
+            "rating_before": 352,
+            "rating_change": 21,
+            "rating_after": 373,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-026",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 09",
+      "game_number": 26,
+      "table": 16,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "WAGNER SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MIGUEL KREMER",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MIGUEL KREMER",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94510,
+            "name": "WAGNER SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 271,
+            "rating_change": -18,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 59380,
+            "name": "MIGUEL KREMER",
+            "associate_id_source": "event_roster",
+            "rating_before": 346,
+            "rating_change": 24,
+            "rating_after": 370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-027",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 10",
+      "game_number": 27,
+      "table": 17,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "ADRIANO BARBACENA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            10,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "RAMON H.M.KLOSTER",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            10,
+            12,
+            11,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "ADRIANO BARBACENA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83998,
+            "name": "ADRIANO BARBACENA",
+            "associate_id_source": "event_roster",
+            "rating_before": 318,
+            "rating_change": 24,
+            "rating_after": 342,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 75861,
+            "name": "RAMON H.M.KLOSTER",
+            "associate_id_source": "event_roster",
+            "rating_before": 221,
+            "rating_change": -18,
+            "rating_after": 203,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-028",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 11",
+      "game_number": 28,
+      "table": 18,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "FELIPE RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR MIRANDA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            2,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FELIPE RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 72878,
+            "name": "FELIPE RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 157,
+            "rating_change": 48,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 48
+          },
+          {
+            "associate_id": 95878,
+            "name": "ARTHUR MIRANDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 271,
+            "rating_change": -36,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-029",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 12",
+      "game_number": 29,
+      "table": 19,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "MARCIO MAIDEL",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            9,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 67159,
+            "name": "MARCIO MAIDEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 91,
+            "rating_change": -9,
+            "rating_after": 82,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 292,
+            "rating_change": 15,
+            "rating_after": 307,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-030",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 13",
+      "game_number": 30,
+      "table": 20,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "DAVI KNAPP",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            9,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RENATO FILHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RENATO FILHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93965,
+            "name": "DAVI KNAPP",
+            "associate_id_source": "event_roster",
+            "rating_before": 133,
+            "rating_change": -18,
+            "rating_after": 115,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 89030,
+            "name": "RENATO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 229,
+            "rating_change": 24,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-031",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 14",
+      "game_number": 31,
+      "table": 21,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "LEONARDO AMARAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            14,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO COSTA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            12,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LEONARDO AMARAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 95638,
+            "name": "LEONARDO AMARAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 313,
+            "rating_change": 24,
+            "rating_after": 337,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 96288,
+            "name": "JOÃO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": -18,
+            "rating_after": 199,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-032",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 14",
+      "game_number": 32,
+      "table": 22,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "GABRIEL VOLPE",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            7,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO BARBOZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "EVANDRO BARBOZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92082,
+            "name": "GABRIEL VOLPE",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": -24,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          },
+          {
+            "associate_id": 63360,
+            "name": "EVANDRO BARBOZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": 30,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-033",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 15",
+      "game_number": 33,
+      "table": 23,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "LUIZ SADA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FILIPE MARINS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ SADA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 59287,
+            "name": "LUIZ SADA",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": 30,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 96459,
+            "name": "FILIPE MARINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -24,
+            "rating_after": 199,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-034",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 15",
+      "game_number": 34,
+      "table": 24,
+      "date": "26/09/2026",
+      "time": "09:45",
+      "played_at": "2026-09-26T09:45:00",
+      "players": [
+        {
+          "name": "DAVI MIRANDA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            5,
+            13,
+            8,
+            7
+          ]
+        },
+        {
+          "name": "FELIPE KANNO",
+          "sets_won": 3,
+          "set_points": [
+            5,
+            11,
+            11,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "FELIPE KANNO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92710,
+            "name": "DAVI MIRANDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 271,
+            "rating_change": -30,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          },
+          {
+            "associate_id": 80260,
+            "name": "FELIPE KANNO",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 36,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-035",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 01",
+      "game_number": 35,
+      "table": 8,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "LINCON GROSSE",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            12,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MILLÉO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            14,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "JOSÉ MILLÉO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92270,
+            "name": "LINCON GROSSE",
+            "associate_id_source": "event_roster",
+            "rating_before": 133,
+            "rating_change": -21,
+            "rating_after": 112,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 87766,
+            "name": "JOSÉ MILLÉO",
+            "associate_id_source": "event_roster",
+            "rating_before": 178,
+            "rating_change": 27,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-036",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 02",
+      "game_number": 36,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "ELIZEU ALVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            5,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "RICARDO VALUS",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            11,
+            4,
+            6
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "ELIZEU ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92307,
+            "name": "ELIZEU ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 175,
+            "rating_change": 42,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 58726,
+            "name": "RICARDO VALUS",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": -33,
+            "rating_after": 199,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-037",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 03",
+      "game_number": 37,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "LEONARDO CAMARGO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ROBERTO ANDRE",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LEONARDO CAMARGO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91438,
+            "name": "LEONARDO CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 109,
+            "rating_change": 42,
+            "rating_after": 151,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 95693,
+            "name": "ROBERTO ANDRE",
+            "associate_id_source": "event_roster",
+            "rating_before": 175,
+            "rating_change": -33,
+            "rating_after": 142,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-038",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 04",
+      "game_number": 38,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "VINICIUS NEGRI",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "JAMERSON DAVID",
+          "sets_won": 1,
+          "set_points": [
+            10,
+            7,
+            13,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "VINICIUS NEGRI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 72600,
+            "name": "VINICIUS NEGRI",
+            "associate_id_source": "event_roster",
+            "rating_before": 327,
+            "rating_change": 24,
+            "rating_after": 351,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 90709,
+            "name": "JAMERSON DAVID",
+            "associate_id_source": "event_roster",
+            "rating_before": 232,
+            "rating_change": -18,
+            "rating_after": 214,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-039",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 05",
+      "game_number": 39,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "ANDRÉ KOCHI",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ÉLIKE VASCO",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANDRÉ KOCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94365,
+            "name": "ANDRÉ KOCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 304,
+            "rating_change": 21,
+            "rating_after": 325,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 93128,
+            "name": "ÉLIKE VASCO",
+            "associate_id_source": "event_roster",
+            "rating_before": 190,
+            "rating_change": -15,
+            "rating_after": 175,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-040",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 06",
+      "game_number": 40,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "MAICON RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            7,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL BONAMIGO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GABRIEL BONAMIGO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80773,
+            "name": "MAICON RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 282,
+            "rating_change": -33,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 94487,
+            "name": "GABRIEL BONAMIGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 220,
+            "rating_change": 42,
+            "rating_after": 262,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-041",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 07",
+      "game_number": 41,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "LUCAS PAULA",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            4,
+            11,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "PEDRO MULLER",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            9,
+            6,
+            7
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "LUCAS PAULA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 93099,
+            "name": "LUCAS PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": 27,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 89154,
+            "name": "PEDRO MULLER",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": -21,
+            "rating_after": 184,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-042",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 08",
+      "game_number": 42,
+      "table": 15,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "PAULO SILVA",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "EVERALDO GOUVEA",
+          "sets_won": 1,
+          "set_points": [
+            14,
+            6,
+            7,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "PAULO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90453,
+            "name": "PAULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 169,
+            "rating_change": 42,
+            "rating_after": 211,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 94436,
+            "name": "EVERALDO GOUVEA",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": -33,
+            "rating_after": 202,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-043",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 09",
+      "game_number": 43,
+      "table": 16,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "ANTONIO WOLSKI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WAGNER SANTOS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ANTONIO WOLSKI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91440,
+            "name": "ANTONIO WOLSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 163,
+            "rating_change": 42,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 94510,
+            "name": "WAGNER SANTOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": -33,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-044",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 10",
+      "game_number": 44,
+      "table": 17,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "ALEXANDRE SCHAFFKA",
+          "sets_won": 3,
+          "set_points": [
+            5,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ADRIANO BARBACENA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            8,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ALEXANDRE SCHAFFKA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91025,
+            "name": "ALEXANDRE SCHAFFKA",
+            "associate_id_source": "event_roster",
+            "rating_before": 187,
+            "rating_change": 54,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 54
+          },
+          {
+            "associate_id": 83998,
+            "name": "ADRIANO BARBACENA",
+            "associate_id_source": "event_roster",
+            "rating_before": 342,
+            "rating_change": -42,
+            "rating_after": 300,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-045",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 11",
+      "game_number": 45,
+      "table": 18,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "DARCINEI PINTO",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            9,
+            11,
+            11,
+            7
+          ]
+        },
+        {
+          "name": "FELIPE RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            6,
+            7,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "FELIPE RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 57082,
+            "name": "DARCINEI PINTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 123,
+            "rating_change": -18,
+            "rating_after": 105,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 72878,
+            "name": "FELIPE RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": 24,
+            "rating_after": 229,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-046",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 12",
+      "game_number": 46,
+      "table": 19,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "RAFAEL SILVA",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            6,
+            11
+          ]
+        },
+        {
+          "name": "MARCIO MAIDEL",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            7,
+            7,
+            11,
+            6
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "RAFAEL SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 95659,
+            "name": "RAFAEL SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 268,
+            "rating_change": 18,
+            "rating_after": 286,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 67159,
+            "name": "MARCIO MAIDEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 82,
+            "rating_change": -12,
+            "rating_after": 70,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-047",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 13",
+      "game_number": 47,
+      "table": 20,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "BERNARDO WECKERLIN",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "DAVI KNAPP",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            8,
+            11,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "BERNARDO WECKERLIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94340,
+            "name": "BERNARDO WECKERLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 325,
+            "rating_change": 15,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 15
+          },
+          {
+            "associate_id": 93965,
+            "name": "DAVI KNAPP",
+            "associate_id_source": "event_roster",
+            "rating_before": 115,
+            "rating_change": -9,
+            "rating_after": 106,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-048",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 14",
+      "game_number": 48,
+      "table": 21,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "LEONARDO AMARAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            6,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL VOLPE",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            8,
+            11,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "LEONARDO AMARAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 95638,
+            "name": "LEONARDO AMARAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 337,
+            "rating_change": 21,
+            "rating_after": 358,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 92082,
+            "name": "GABRIEL VOLPE",
+            "associate_id_source": "event_roster",
+            "rating_before": 193,
+            "rating_change": -15,
+            "rating_after": 178,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-049",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 14",
+      "game_number": 49,
+      "table": 22,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "JOÃO COSTA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            5,
+            11,
+            2,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO BARBOZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "EVANDRO BARBOZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 96288,
+            "name": "JOÃO COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 199,
+            "rating_change": -21,
+            "rating_after": 178,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 63360,
+            "name": "EVANDRO BARBOZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": 27,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-050",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 15",
+      "game_number": 50,
+      "table": 23,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "LUIZ SADA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            16,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI MIRANDA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            14,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ SADA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 59287,
+            "name": "LUIZ SADA",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 30,
+            "rating_after": 283,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 92710,
+            "name": "DAVI MIRANDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -24,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-051",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Grupo 15",
+      "game_number": 51,
+      "table": 24,
+      "date": "26/09/2026",
+      "time": "11:00",
+      "played_at": "2026-09-26T11:00:00",
+      "players": [
+        {
+          "name": "FILIPE MARINS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE KANNO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FELIPE KANNO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 96459,
+            "name": "FILIPE MARINS",
+            "associate_id_source": "event_roster",
+            "rating_before": 199,
+            "rating_change": -18,
+            "rating_after": 181,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 80260,
+            "name": "FELIPE KANNO",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": 24,
+            "rating_after": 298,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-052",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 52,
+      "table": 1,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "HELENO AMARAL",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            2,
+            11,
+            8,
+            7
+          ]
+        },
+        {
+          "name": "ANDRÉ ZEMPULSKI",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            8,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "ANDRÉ ZEMPULSKI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92140,
+            "name": "HELENO AMARAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 181,
+            "rating_change": -18,
+            "rating_after": 163,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 92006,
+            "name": "ANDRÉ ZEMPULSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 24,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-053",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 53,
+      "table": 2,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "VITOR BARRATELLA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            20,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIZ SADA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            3,
+            18,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "VITOR BARRATELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90593,
+            "name": "VITOR BARRATELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 46,
+            "rating_change": 60,
+            "rating_after": 106,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 60
+          },
+          {
+            "associate_id": 59287,
+            "name": "LUIZ SADA",
+            "associate_id_source": "event_roster",
+            "rating_before": 283,
+            "rating_change": -48,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -48
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-054",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 54,
+      "table": 3,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "JOÃO RODRIGUES",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            9,
+            11,
+            10
+          ]
+        },
+        {
+          "name": "EVANDRO BARBOZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            5,
+            12
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "EVANDRO BARBOZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 76345,
+            "name": "JOÃO RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 210,
+            "rating_change": -18,
+            "rating_after": 192,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 63360,
+            "name": "EVANDRO BARBOZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": 24,
+            "rating_after": 298,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-055",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 55,
+      "table": 4,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "THIAGO ABDO",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS COSTA",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            7,
+            1,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO ABDO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84493,
+            "name": "THIAGO ABDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 190,
+            "rating_change": 27,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 64776,
+            "name": "MATHEUS COSTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 150,
+            "rating_change": -21,
+            "rating_after": 129,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-056",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 56,
+      "table": 5,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "GUILHERME WERNECK",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MIGUEL KREMER",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            8,
+            7,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "GUILHERME WERNECK",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92287,
+            "name": "GUILHERME WERNECK",
+            "associate_id_source": "event_roster",
+            "rating_before": 325,
+            "rating_change": 36,
+            "rating_after": 361,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 59380,
+            "name": "MIGUEL KREMER",
+            "associate_id_source": "event_roster",
+            "rating_before": 370,
+            "rating_change": -30,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-057",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 57,
+      "table": 6,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "DAVI NOVAES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARCELO GARABELI",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI NOVAES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91547,
+            "name": "DAVI NOVAES",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": 42,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 80751,
+            "name": "MARCELO GARABELI",
+            "associate_id_source": "event_roster",
+            "rating_before": 373,
+            "rating_change": -33,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-058",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 58,
+      "table": 7,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "JOÃO ZAMPIER",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            9,
+            12,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "GABRIEL BONAMIGO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            10,
+            5,
+            9
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "JOÃO ZAMPIER",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81366,
+            "name": "JOÃO ZAMPIER",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": 36,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 94487,
+            "name": "GABRIEL BONAMIGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 262,
+            "rating_change": -30,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-059",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 59,
+      "table": 8,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "SAULO PIRES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEONARDO CAMARGO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            7,
+            1,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "SAULO PIRES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90820,
+            "name": "SAULO PIRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 301,
+            "rating_change": 18,
+            "rating_after": 319,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 91438,
+            "name": "LEONARDO CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 151,
+            "rating_change": -12,
+            "rating_after": 139,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-060",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 60,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "FADEL KORYANI",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            8,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ KOCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ANDRÉ KOCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86010,
+            "name": "FADEL KORYANI",
+            "associate_id_source": "event_roster",
+            "rating_before": 248,
+            "rating_change": -18,
+            "rating_after": 230,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 94365,
+            "name": "ANDRÉ KOCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 325,
+            "rating_change": 24,
+            "rating_after": 349,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-061",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 61,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "FERNANDO YAMAMOTO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            9,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 58719,
+            "name": "FERNANDO YAMAMOTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -18,
+            "rating_after": 238,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 307,
+            "rating_change": 24,
+            "rating_after": 331,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-062",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 62,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "GUSTAVO MALAMIN",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            9,
+            12,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "ADRIANO BARBACENA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            10,
+            9,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "GUSTAVO MALAMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80775,
+            "name": "GUSTAVO MALAMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 303,
+            "rating_change": 30,
+            "rating_after": 333,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 83998,
+            "name": "ADRIANO BARBACENA",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": -24,
+            "rating_after": 276,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-063",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 63,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "VINÍCIUS CHICUTA",
+          "sets_won": 3,
+          "set_points": [
+            2,
+            11,
+            16,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR MIRANDA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            6,
+            14,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "VINÍCIUS CHICUTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83980,
+            "name": "VINÍCIUS CHICUTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 222,
+            "rating_change": 33,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 95878,
+            "name": "ARTHUR MIRANDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": -27,
+            "rating_after": 208,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-064",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 64,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "JOSÉ ROMITTI",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO WECKERLIN",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "BERNARDO WECKERLIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85327,
+            "name": "JOSÉ ROMITTI",
+            "associate_id_source": "event_roster",
+            "rating_before": 263,
+            "rating_change": -18,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 94340,
+            "name": "BERNARDO WECKERLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 340,
+            "rating_change": 24,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-065",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 65,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "EDGAR JUNIOR",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS NEGRI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "VINICIUS NEGRI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92124,
+            "name": "EDGAR JUNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": -15,
+            "rating_after": 211,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 72600,
+            "name": "VINICIUS NEGRI",
+            "associate_id_source": "event_roster",
+            "rating_before": 351,
+            "rating_change": 21,
+            "rating_after": 372,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-066",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 66,
+      "table": 15,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "ENZO FRANÇA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO VALUS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            4,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ENZO FRANÇA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 80433,
+            "name": "ENZO FRANÇA",
+            "associate_id_source": "event_roster",
+            "rating_before": 312,
+            "rating_change": 21,
+            "rating_after": 333,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 58726,
+            "name": "RICARDO VALUS",
+            "associate_id_source": "event_roster",
+            "rating_before": 199,
+            "rating_change": -15,
+            "rating_after": 184,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-067",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 67,
+      "table": 16,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "NATHAN CORREA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            17,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MILLÉO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            9,
+            15,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "NATHAN CORREA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89237,
+            "name": "NATHAN CORREA",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": 21,
+            "rating_after": 349,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 87766,
+            "name": "JOSÉ MILLÉO",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": -15,
+            "rating_after": 190,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-068",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 68,
+      "table": 17,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "JACSSON NASCIMENTO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO SUZUKI",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            9,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JACSSON NASCIMENTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81681,
+            "name": "JACSSON NASCIMENTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 30,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 18804,
+            "name": "THIAGO SUZUKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 230,
+            "rating_change": -24,
+            "rating_after": 206,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-069",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 69,
+      "table": 18,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "PEDRO MONTEIRO",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LEONARDO AMARAL",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            6,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PEDRO MONTEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91385,
+            "name": "PEDRO MONTEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": 36,
+            "rating_after": 358,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 95638,
+            "name": "LEONARDO AMARAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 358,
+            "rating_change": -30,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-070",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 70,
+      "table": 19,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "JOÃO TRZASKOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            13,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "RAFAEL SILVA",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            11,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "JOÃO TRZASKOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83842,
+            "name": "JOÃO TRZASKOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 338,
+            "rating_change": 24,
+            "rating_after": 362,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 95659,
+            "name": "RAFAEL SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": -18,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-071",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 71,
+      "table": 20,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "CAIO BONI",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTONIO WOLSKI",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            5,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "CAIO BONI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92184,
+            "name": "CAIO BONI",
+            "associate_id_source": "event_roster",
+            "rating_before": 332,
+            "rating_change": 21,
+            "rating_after": 353,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 91440,
+            "name": "ANTONIO WOLSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": -15,
+            "rating_after": 190,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-072",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 72,
+      "table": 21,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "LUIZ OLIVEIRA",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            5,
+            11,
+            6,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "FELIPE RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90112,
+            "name": "LUIZ OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 88,
+            "rating_change": -15,
+            "rating_after": 73,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 72878,
+            "name": "FELIPE RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 229,
+            "rating_change": 21,
+            "rating_after": 250,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-073",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 73,
+      "table": 22,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "LUIZ JUSTINA",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            11,
+            8,
+            15,
+            8
+          ]
+        },
+        {
+          "name": "CARLOS BOMFIM",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            4,
+            11,
+            13,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "CARLOS BOMFIM",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82531,
+            "name": "LUIZ JUSTINA",
+            "associate_id_source": "event_roster",
+            "rating_before": 294,
+            "rating_change": -21,
+            "rating_after": 273,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 66955,
+            "name": "CARLOS BOMFIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": 27,
+            "rating_after": 355,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-074",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 74,
+      "table": 23,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "RENAN ALMEIDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JAMERSON DAVID",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            0,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RENAN ALMEIDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90667,
+            "name": "RENAN ALMEIDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 27,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 90709,
+            "name": "JAMERSON DAVID",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": -21,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-075",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 75,
+      "table": 24,
+      "date": "26/09/2026",
+      "time": "12:15",
+      "played_at": "2026-09-26T12:15:00",
+      "players": [
+        {
+          "name": "DANIEL MENEGASSI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EMANUEL SILVA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            5,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DANIEL MENEGASSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90961,
+            "name": "DANIEL MENEGASSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 298,
+            "rating_change": 24,
+            "rating_after": 322,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 95660,
+            "name": "EMANUEL SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": -18,
+            "rating_after": 196,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-076",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 76,
+      "table": 8,
+      "date": "26/09/2026",
+      "time": "12:16",
+      "played_at": "2026-09-26T12:16:00",
+      "players": [
+        {
+          "name": "RAFAEL PIMENTEL",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            10,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS PAULA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            6,
+            12,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "LUCAS PAULA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94466,
+            "name": "RAFAEL PIMENTEL",
+            "associate_id_source": "event_roster",
+            "rating_before": 304,
+            "rating_change": -30,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          },
+          {
+            "associate_id": 93099,
+            "name": "LUCAS PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 268,
+            "rating_change": 36,
+            "rating_after": 304,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-077",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 77,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "12:16",
+      "played_at": "2026-09-26T12:16:00",
+      "players": [
+        {
+          "name": "FABIO RIVILI",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            7,
+            4,
+            null
+          ]
+        },
+        {
+          "name": "ALEXANDRE SCHAFFKA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ALEXANDRE SCHAFFKA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78190,
+            "name": "FABIO RIVILI",
+            "associate_id_source": "event_roster",
+            "rating_before": 330,
+            "rating_change": -33,
+            "rating_after": 297,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 91025,
+            "name": "ALEXANDRE SCHAFFKA",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": 42,
+            "rating_after": 283,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-078",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 78,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "12:16",
+      "played_at": "2026-09-26T12:16:00",
+      "players": [
+        {
+          "name": "VITOR LESSI",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            10,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "PAULO SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            12,
+            9,
+            6
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "VITOR LESSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85471,
+            "name": "VITOR LESSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 135,
+            "rating_change": 42,
+            "rating_after": 177,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 90453,
+            "name": "PAULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 211,
+            "rating_change": -33,
+            "rating_after": 178,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-079",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 79,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "12:16",
+      "played_at": "2026-09-26T12:16:00",
+      "players": [
+        {
+          "name": "ERIC TAKESHITA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            14,
+            7,
+            11
+          ]
+        },
+        {
+          "name": "RENATO FILHO",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            9,
+            16,
+            11,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "ERIC TAKESHITA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90147,
+            "name": "ERIC TAKESHITA",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": 33,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 89030,
+            "name": "RENATO FILHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": -27,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-080",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 80,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "12:16",
+      "played_at": "2026-09-26T12:16:00",
+      "players": [
+        {
+          "name": "RIHAN MARQUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "FELIPE KANNO",
+          "sets_won": 2,
+          "set_points": [
+            4,
+            8,
+            15,
+            11,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "RIHAN MARQUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90792,
+            "name": "RIHAN MARQUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 337,
+            "rating_change": 27,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 80260,
+            "name": "FELIPE KANNO",
+            "associate_id_source": "event_roster",
+            "rating_before": 298,
+            "rating_change": -21,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-081",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 32",
+      "game_number": 81,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "12:16",
+      "played_at": "2026-09-26T12:16:00",
+      "players": [
+        {
+          "name": "RODRIGO ETO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            9
+          ]
+        },
+        {
+          "name": "ELIZEU ALVES",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            2,
+            4,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "ELIZEU ALVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85562,
+            "name": "RODRIGO ETO",
+            "associate_id_source": "event_roster",
+            "rating_before": 228,
+            "rating_change": -27,
+            "rating_after": 201,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          },
+          {
+            "associate_id": 92307,
+            "name": "ELIZEU ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": 33,
+            "rating_after": 250,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-082",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 82,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "SAMUEL SOBRAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ ZEMPULSKI",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            11,
+            5,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "SAMUEL SOBRAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85280,
+            "name": "SAMUEL SOBRAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 343,
+            "rating_change": 24,
+            "rating_after": 367,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 92006,
+            "name": "ANDRÉ ZEMPULSKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": -18,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-083",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 83,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "VITOR BARRATELLA",
+          "sets_won": 2,
+          "set_points": [
+            3,
+            8,
+            11,
+            11,
+            6
+          ]
+        },
+        {
+          "name": "EVANDRO BARBOZA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            3,
+            4,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "EVANDRO BARBOZA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90593,
+            "name": "VITOR BARRATELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 106,
+            "rating_change": -12,
+            "rating_after": 94,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 63360,
+            "name": "EVANDRO BARBOZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 298,
+            "rating_change": 18,
+            "rating_after": 316,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-084",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 84,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "THIAGO ABDO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            9,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUILHERME WERNECK",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "GUILHERME WERNECK",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 84493,
+            "name": "THIAGO ABDO",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": -15,
+            "rating_after": 202,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 92287,
+            "name": "GUILHERME WERNECK",
+            "associate_id_source": "event_roster",
+            "rating_before": 361,
+            "rating_change": 21,
+            "rating_after": 382,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-085",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 85,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "DAVI NOVAES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO ZAMPIER",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            3,
+            11,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "DAVI NOVAES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91547,
+            "name": "DAVI NOVAES",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": 21,
+            "rating_after": 385,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 81366,
+            "name": "JOÃO ZAMPIER",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": -15,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-086",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 86,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "SAULO PIRES",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            6,
+            11,
+            6,
+            null
+          ]
+        },
+        {
+          "name": "ANDRÉ KOCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            4,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ANDRÉ KOCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90820,
+            "name": "SAULO PIRES",
+            "associate_id_source": "event_roster",
+            "rating_before": 319,
+            "rating_change": -21,
+            "rating_after": 298,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 94365,
+            "name": "ANDRÉ KOCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 349,
+            "rating_change": 27,
+            "rating_after": 376,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-087",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 87,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GUSTAVO MALAMIN",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            6,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 331,
+            "rating_change": 33,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 80775,
+            "name": "GUSTAVO MALAMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 333,
+            "rating_change": -27,
+            "rating_after": 306,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-088",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 88,
+      "table": 15,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "VINÍCIUS CHICUTA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            10,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO WECKERLIN",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            12,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "BERNARDO WECKERLIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83980,
+            "name": "VINÍCIUS CHICUTA",
+            "associate_id_source": "event_roster",
+            "rating_before": 255,
+            "rating_change": -15,
+            "rating_after": 240,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          },
+          {
+            "associate_id": 94340,
+            "name": "BERNARDO WECKERLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": 21,
+            "rating_after": 385,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-089",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 89,
+      "table": 16,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "VINICIUS NEGRI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            10,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ENZO FRANÇA",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            8,
+            12,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "VINICIUS NEGRI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 72600,
+            "name": "VINICIUS NEGRI",
+            "associate_id_source": "event_roster",
+            "rating_before": 372,
+            "rating_change": 27,
+            "rating_after": 399,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          },
+          {
+            "associate_id": 80433,
+            "name": "ENZO FRANÇA",
+            "associate_id_source": "event_roster",
+            "rating_before": 333,
+            "rating_change": -21,
+            "rating_after": 312,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-090",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 90,
+      "table": 17,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "NATHAN CORREA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            4,
+            7,
+            14,
+            7
+          ]
+        },
+        {
+          "name": "JACSSON NASCIMENTO",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            11,
+            12,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "JACSSON NASCIMENTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89237,
+            "name": "NATHAN CORREA",
+            "associate_id_source": "event_roster",
+            "rating_before": 349,
+            "rating_change": -33,
+            "rating_after": 316,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 81681,
+            "name": "JACSSON NASCIMENTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": 42,
+            "rating_after": 322,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-091",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 91,
+      "table": 18,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "PEDRO MONTEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            13,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "JOÃO TRZASKOS",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            11,
+            11,
+            11,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "PEDRO MONTEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91385,
+            "name": "PEDRO MONTEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 358,
+            "rating_change": 33,
+            "rating_after": 391,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 83842,
+            "name": "JOÃO TRZASKOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 362,
+            "rating_change": -27,
+            "rating_after": 335,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-092",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 92,
+      "table": 19,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "CAIO BONI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            5,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "FELIPE RIBEIRO",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            9,
+            11,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "CAIO BONI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92184,
+            "name": "CAIO BONI",
+            "associate_id_source": "event_roster",
+            "rating_before": 353,
+            "rating_change": 21,
+            "rating_after": 374,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 72878,
+            "name": "FELIPE RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -15,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-093",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 93,
+      "table": 20,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "CARLOS BOMFIM",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            6,
+            7,
+            11,
+            5
+          ]
+        },
+        {
+          "name": "RENAN ALMEIDA",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            9,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "RENAN ALMEIDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 66955,
+            "name": "CARLOS BOMFIM",
+            "associate_id_source": "event_roster",
+            "rating_before": 355,
+            "rating_change": -33,
+            "rating_after": 322,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 90667,
+            "name": "RENAN ALMEIDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": 42,
+            "rating_after": 322,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-094",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 94,
+      "table": 21,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "DANIEL MENEGASSI",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            11,
+            7,
+            11
+          ]
+        },
+        {
+          "name": "LUCAS PAULA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            6,
+            8,
+            11,
+            6
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "DANIEL MENEGASSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90961,
+            "name": "DANIEL MENEGASSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": 30,
+            "rating_after": 352,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 93099,
+            "name": "LUCAS PAULA",
+            "associate_id_source": "event_roster",
+            "rating_before": 304,
+            "rating_change": -24,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-095",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 95,
+      "table": 22,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "ALEXANDRE SCHAFFKA",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            8,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR LESSI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "VITOR LESSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91025,
+            "name": "ALEXANDRE SCHAFFKA",
+            "associate_id_source": "event_roster",
+            "rating_before": 283,
+            "rating_change": -36,
+            "rating_after": 247,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -36
+          },
+          {
+            "associate_id": 85471,
+            "name": "VITOR LESSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 177,
+            "rating_change": 48,
+            "rating_after": 225,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 48
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-096",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 96,
+      "table": 23,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "ERIC TAKESHITA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            1,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RIHAN MARQUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RIHAN MARQUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90147,
+            "name": "ERIC TAKESHITA",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": -18,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 90792,
+            "name": "RIHAN MARQUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": 24,
+            "rating_after": 388,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-097",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Fase 16",
+      "game_number": 97,
+      "table": 24,
+      "date": "26/09/2026",
+      "time": "14:45",
+      "played_at": "2026-09-26T14:45:00",
+      "players": [
+        {
+          "name": "VICTOR ITO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ELIZEU ALVES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            1,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "VICTOR ITO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90582,
+            "name": "VICTOR ITO",
+            "associate_id_source": "event_roster",
+            "rating_before": 180,
+            "rating_change": 42,
+            "rating_after": 222,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          },
+          {
+            "associate_id": 92307,
+            "name": "ELIZEU ALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -33,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-098",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 98,
+      "table": 9,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "SAMUEL SOBRAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EVANDRO BARBOZA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "SAMUEL SOBRAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85280,
+            "name": "SAMUEL SOBRAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 367,
+            "rating_change": 24,
+            "rating_after": 391,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          },
+          {
+            "associate_id": 63360,
+            "name": "EVANDRO BARBOZA",
+            "associate_id_source": "event_roster",
+            "rating_before": 316,
+            "rating_change": -18,
+            "rating_after": 298,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-099",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 99,
+      "table": 10,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "GUILHERME WERNECK",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            10,
+            9,
+            4
+          ]
+        },
+        {
+          "name": "DAVI NOVAES",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            7,
+            12,
+            11,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "DAVI NOVAES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92287,
+            "name": "GUILHERME WERNECK",
+            "associate_id_source": "event_roster",
+            "rating_before": 382,
+            "rating_change": -24,
+            "rating_after": 358,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          },
+          {
+            "associate_id": 91547,
+            "name": "DAVI NOVAES",
+            "associate_id_source": "event_roster",
+            "rating_before": 385,
+            "rating_change": 30,
+            "rating_after": 415,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-100",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 100,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "ANDRÉ KOCHI",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94365,
+            "name": "ANDRÉ KOCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 376,
+            "rating_change": -27,
+            "rating_after": 349,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          },
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": 33,
+            "rating_after": 397,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-101",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 101,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "BERNARDO WECKERLIN",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS NEGRI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "VINICIUS NEGRI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 94340,
+            "name": "BERNARDO WECKERLIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 385,
+            "rating_change": -24,
+            "rating_after": 361,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          },
+          {
+            "associate_id": 72600,
+            "name": "VINICIUS NEGRI",
+            "associate_id_source": "event_roster",
+            "rating_before": 399,
+            "rating_change": 30,
+            "rating_after": 429,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-102",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 102,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "JACSSON NASCIMENTO",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            4,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO MONTEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PEDRO MONTEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81681,
+            "name": "JACSSON NASCIMENTO",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": -18,
+            "rating_after": 304,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 91385,
+            "name": "PEDRO MONTEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 391,
+            "rating_change": 24,
+            "rating_after": 415,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 24
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-103",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 103,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "CAIO BONI",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            5,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "RENAN ALMEIDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "RENAN ALMEIDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92184,
+            "name": "CAIO BONI",
+            "associate_id_source": "event_roster",
+            "rating_before": 374,
+            "rating_change": -33,
+            "rating_after": 341,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 90667,
+            "name": "RENAN ALMEIDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 322,
+            "rating_change": 42,
+            "rating_after": 364,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-104",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 104,
+      "table": 15,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "DANIEL MENEGASSI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            13,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "VITOR LESSI",
+          "sets_won": 2,
+          "set_points": [
+            4,
+            14,
+            15,
+            9,
+            9
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "DANIEL MENEGASSI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90961,
+            "name": "DANIEL MENEGASSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 352,
+            "rating_change": 21,
+            "rating_after": 373,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 21
+          },
+          {
+            "associate_id": 85471,
+            "name": "VITOR LESSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -15,
+            "rating_after": 210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -15
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-105",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Oitavas de Final",
+      "game_number": 105,
+      "table": 16,
+      "date": "26/09/2026",
+      "time": "16:25",
+      "played_at": "2026-09-26T16:25:00",
+      "players": [
+        {
+          "name": "RIHAN MARQUES",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "VICTOR ITO",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            9,
+            8,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "RIHAN MARQUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90792,
+            "name": "RIHAN MARQUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 388,
+            "rating_change": 18,
+            "rating_after": 406,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          },
+          {
+            "associate_id": 90582,
+            "name": "VICTOR ITO",
+            "associate_id_source": "event_roster",
+            "rating_before": 222,
+            "rating_change": -12,
+            "rating_after": 210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-106",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Quartas de Final",
+      "game_number": 106,
+      "table": 11,
+      "date": "26/09/2026",
+      "time": "18:05",
+      "played_at": "2026-09-26T18:05:00",
+      "players": [
+        {
+          "name": "SAMUEL SOBRAL",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            9,
+            12,
+            11
+          ]
+        },
+        {
+          "name": "DAVI NOVAES",
+          "sets_won": 2,
+          "set_points": [
+            8,
+            11,
+            11,
+            10,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "SAMUEL SOBRAL",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85280,
+            "name": "SAMUEL SOBRAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 391,
+            "rating_change": 33,
+            "rating_after": 424,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 33
+          },
+          {
+            "associate_id": 91547,
+            "name": "DAVI NOVAES",
+            "associate_id_source": "event_roster",
+            "rating_before": 415,
+            "rating_change": -27,
+            "rating_after": 388,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-107",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Quartas de Final",
+      "game_number": 107,
+      "table": 12,
+      "date": "26/09/2026",
+      "time": "18:05",
+      "played_at": "2026-09-26T18:05:00",
+      "players": [
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            5,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS NEGRI",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            3,
+            11,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 397,
+            "rating_change": 36,
+            "rating_after": 433,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 72600,
+            "name": "VINICIUS NEGRI",
+            "associate_id_source": "event_roster",
+            "rating_before": 429,
+            "rating_change": -30,
+            "rating_after": 399,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-108",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Quartas de Final",
+      "game_number": 108,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "18:05",
+      "played_at": "2026-09-26T18:05:00",
+      "players": [
+        {
+          "name": "PEDRO MONTEIRO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            9,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RENAN ALMEIDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RENAN ALMEIDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91385,
+            "name": "PEDRO MONTEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 415,
+            "rating_change": -33,
+            "rating_after": 382,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -33
+          },
+          {
+            "associate_id": 90667,
+            "name": "RENAN ALMEIDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": 42,
+            "rating_after": 406,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 42
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-109",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Quartas de Final",
+      "game_number": 109,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "18:05",
+      "played_at": "2026-09-26T18:05:00",
+      "players": [
+        {
+          "name": "DANIEL MENEGASSI",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            4,
+            6,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "RIHAN MARQUES",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "RIHAN MARQUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90961,
+            "name": "DANIEL MENEGASSI",
+            "associate_id_source": "event_roster",
+            "rating_before": 373,
+            "rating_change": -21,
+            "rating_after": 352,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -21
+          },
+          {
+            "associate_id": 90792,
+            "name": "RIHAN MARQUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 406,
+            "rating_change": 27,
+            "rating_after": 433,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 27
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-110",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Semi Final",
+      "game_number": 110,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "19:20",
+      "played_at": "2026-09-26T19:20:00",
+      "players": [
+        {
+          "name": "SAMUEL SOBRAL",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            10,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85280,
+            "name": "SAMUEL SOBRAL",
+            "associate_id_source": "event_roster",
+            "rating_before": 424,
+            "rating_change": -24,
+            "rating_after": 400,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          },
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 433,
+            "rating_change": 30,
+            "rating_after": 463,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-111",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Semi Final",
+      "game_number": 111,
+      "table": 14,
+      "date": "26/09/2026",
+      "time": "19:20",
+      "played_at": "2026-09-26T19:20:00",
+      "players": [
+        {
+          "name": "RENAN ALMEIDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RIHAN MARQUES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            7,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RENAN ALMEIDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90667,
+            "name": "RENAN ALMEIDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 406,
+            "rating_change": 36,
+            "rating_after": 442,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 36
+          },
+          {
+            "associate_id": 90792,
+            "name": "RIHAN MARQUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 433,
+            "rating_change": -30,
+            "rating_after": 403,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "6086-310-112",
+      "event_id": 6086,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Final",
+      "game_number": 112,
+      "table": 13,
+      "date": "26/09/2026",
+      "time": "20:10",
+      "played_at": "2026-09-26T20:10:00",
+      "players": [
+        {
+          "name": "WILLIAM VECCHI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            6,
+            11,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "RENAN ALMEIDA",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            7,
+            11,
+            1
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "WILLIAM VECCHI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 3,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 96256,
+            "name": "WILLIAM VECCHI",
+            "associate_id_source": "event_roster",
+            "rating_before": 463,
+            "rating_change": 30,
+            "rating_after": 493,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          },
+          {
+            "associate_id": 90667,
+            "name": "RENAN ALMEIDA",
+            "associate_id_source": "event_roster",
+            "rating_before": 442,
+            "rating_change": -24,
+            "rating_after": 418,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -24
+          }
+        ]
+      }
+    }
+  ]
+}

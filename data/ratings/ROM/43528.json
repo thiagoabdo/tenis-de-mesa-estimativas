@@ -1,0 +1,631 @@
+{
+  "associate_id": 43528,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=43528&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T15:20:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 765,
+      "delta": -27,
+      "final": 738,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO GOMES"
+    },
+    {
+      "played_at": "2026-09-20T15:00:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 735,
+      "delta": 30,
+      "final": 765,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DEYDSON COSTA"
+    },
+    {
+      "played_at": "2026-09-20T10:00:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 759,
+      "delta": -24,
+      "final": 735,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOAQUIM NETO"
+    },
+    {
+      "played_at": "2026-09-18T19:40:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 753,
+      "delta": 6,
+      "final": 759,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MATHEUS MONTE"
+    },
+    {
+      "played_at": "2026-09-18T18:40:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 801,
+      "delta": -48,
+      "final": 753,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FLÁVIO SOARES"
+    },
+    {
+      "played_at": "2026-09-18T17:40:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 792,
+      "delta": 9,
+      "final": 801,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCISCO MIGUEL"
+    },
+    {
+      "played_at": "2026-08-02T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 846,
+      "delta": -54,
+      "final": 792,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LEONARDO RIBAMAR"
+    },
+    {
+      "played_at": "2026-08-02T12:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 612,
+      "delta": 234,
+      "final": 846,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VINICIUS GOMES"
+    },
+    {
+      "played_at": "2026-08-02T08:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 558,
+      "delta": 54,
+      "final": 612,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENJAMIN SOUSA"
+    },
+    {
+      "played_at": "2026-08-01T20:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 639,
+      "delta": -81,
+      "final": 558,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO ALBUQUERQUE"
+    },
+    {
+      "played_at": "2026-08-01T15:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 639,
+      "delta": 0,
+      "final": 639,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VENILTON JUNIOR"
+    },
+    {
+      "played_at": "2026-08-01T14:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 639,
+      "delta": 0,
+      "final": 639,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILLIAM SILVA"
+    },
+    {
+      "played_at": "2023-12-03T10:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 641,
+      "delta": -2,
+      "final": 639,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAYRON SOUSA"
+    },
+    {
+      "played_at": "2023-12-03T09:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 647,
+      "delta": -6,
+      "final": 641,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LEMOS"
+    },
+    {
+      "played_at": "2023-12-02T10:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 627,
+      "delta": 20,
+      "final": 647,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FRANCISCO SILVA"
+    },
+    {
+      "played_at": "2023-12-02T09:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 629,
+      "delta": -2,
+      "final": 627,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAYRON SOUSA"
+    },
+    {
+      "played_at": "2023-12-02T09:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 637,
+      "delta": -8,
+      "final": 629,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KLEBERT SILVA"
+    },
+    {
+      "played_at": "2023-12-02T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 645,
+      "delta": -8,
+      "final": 637,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LEMOS"
+    },
+    {
+      "played_at": "2023-12-01T17:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 667,
+      "delta": -22,
+      "final": 645,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ.AFONSO FILHO"
+    },
+    {
+      "played_at": "2023-12-01T17:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Teresina/PI - 2023",
+      "initial": 667,
+      "delta": 0,
+      "final": 667,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FLAVIO OLIVEIRA"
+    },
+    {
+      "played_at": "2023-11-12T14:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 717,
+      "delta": -50,
+      "final": 667,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRCIO FERREIRA"
+    },
+    {
+      "played_at": "2023-11-12T10:30:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 657,
+      "delta": 60,
+      "final": 717,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ULYSSES FILHO"
+    },
+    {
+      "played_at": "2023-11-10T17:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 702,
+      "delta": -45,
+      "final": 657,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ADRIANO OLIVEIRA"
+    },
+    {
+      "played_at": "2023-10-14T21:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 716,
+      "delta": -14,
+      "final": 702,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FRANCISCO SILVA"
+    },
+    {
+      "played_at": "2023-10-14T21:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 722,
+      "delta": -6,
+      "final": 716,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAYRON SOUSA"
+    },
+    {
+      "played_at": "2023-10-14T20:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 736,
+      "delta": -14,
+      "final": 722,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KLEBERT SILVA"
+    },
+    {
+      "played_at": "2023-10-14T20:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 748,
+      "delta": -12,
+      "final": 736,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LEMOS"
+    },
+    {
+      "played_at": "2023-10-14T17:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 776,
+      "delta": -28,
+      "final": 748,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LORENZO SANTANA"
+    },
+    {
+      "played_at": "2023-10-14T16:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 792,
+      "delta": -16,
+      "final": 776,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KLEBERT SILVA"
+    },
+    {
+      "played_at": "2023-10-14T16:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Teresina/PI - 2023",
+      "initial": 780,
+      "delta": 12,
+      "final": 792,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO LOPES"
+    },
+    {
+      "played_at": "2023-08-06T19:00:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 740,
+      "delta": 40,
+      "final": 780,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "JOÃO DANTAS"
+    },
+    {
+      "played_at": "2023-08-06T18:00:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 705,
+      "delta": 35,
+      "final": 740,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO LOPES"
+    },
+    {
+      "played_at": "2023-08-06T17:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 655,
+      "delta": 50,
+      "final": 705,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SANDRO FORTES"
+    },
+    {
+      "played_at": "2023-08-06T16:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 625,
+      "delta": 30,
+      "final": 655,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SAYMON LIMA"
+    },
+    {
+      "played_at": "2023-08-06T15:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 600,
+      "delta": 25,
+      "final": 625,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITOR PEREIRA"
+    },
+    {
+      "played_at": "2023-08-06T14:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 575,
+      "delta": 25,
+      "final": 600,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS LIMA"
+    },
+    {
+      "played_at": "2023-08-06T08:00:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 535,
+      "delta": 40,
+      "final": 575,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO NETO"
+    },
+    {
+      "played_at": "2023-08-04T18:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 475,
+      "delta": 60,
+      "final": 535,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SANDRO FORTES"
+    },
+    {
+      "played_at": "2023-08-04T17:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 420,
+      "delta": 55,
+      "final": 475,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDMAR MENEZES"
+    },
+    {
+      "played_at": "2023-08-04T16:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 385,
+      "delta": 35,
+      "final": 420,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO MINDÊLLO"
+    },
+    {
+      "played_at": "2023-08-04T11:30:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 340,
+      "delta": 45,
+      "final": 385,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO FILHO"
+    },
+    {
+      "played_at": "2023-08-04T09:00:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Teresina/PI - 2023",
+      "initial": 280,
+      "delta": 60,
+      "final": 340,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS.SANTOS SOUZA"
+    },
+    {
+      "played_at": "2023-03-19T13:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 290,
+      "delta": -10,
+      "final": 280,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ISRAEL JÚNIOR"
+    },
+    {
+      "played_at": "2023-03-19T12:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 306,
+      "delta": -16,
+      "final": 290,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL VINDO"
+    },
+    {
+      "played_at": "2023-03-19T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 290,
+      "delta": 16,
+      "final": 306,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAILTON LIMA"
+    },
+    {
+      "played_at": "2023-03-19T09:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 274,
+      "delta": 16,
+      "final": 290,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FLÁVIO PAIVA"
+    },
+    {
+      "played_at": "2023-03-18T23:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 292,
+      "delta": -18,
+      "final": 274,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAPHAEL VINDO"
+    },
+    {
+      "played_at": "2023-03-18T22:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 276,
+      "delta": 16,
+      "final": 292,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FLÁVIO PAIVA"
+    },
+    {
+      "played_at": "2023-03-18T21:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 254,
+      "delta": 22,
+      "final": 276,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KAILTON LIMA"
+    },
+    {
+      "played_at": "2023-03-18T12:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 234,
+      "delta": 20,
+      "final": 254,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO TORRES"
+    },
+    {
+      "played_at": "2023-03-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 250,
+      "delta": -16,
+      "final": 234,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "KAIO RIBEIRO"
+    },
+    {
+      "played_at": "2023-03-18T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Teresina/PI - 2023.",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FLAVIO OLIVEIRA ............."
+    }
+  ]
+}

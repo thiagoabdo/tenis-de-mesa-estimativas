@@ -1,0 +1,43 @@
+{
+  "associate_id": 89712,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89712&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-04T16:48:00",
+      "event": "TMB Regional 2026 - I Liga Metropolitana - Porto Velho/RO",
+      "initial": 233,
+      "delta": -1,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO CAMPOS"
+    },
+    {
+      "played_at": "2026-07-04T16:00:00",
+      "event": "TMB Regional 2026 - I Liga Metropolitana - Porto Velho/RO",
+      "initial": 240,
+      "delta": -7,
+      "final": 233,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAUÃ QUERINO"
+    },
+    {
+      "played_at": "2026-07-04T15:12:00",
+      "event": "TMB Regional 2026 - I Liga Metropolitana - Porto Velho/RO",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NATAN RANCONI ............."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "event_id": 5650,
+  "event_name": "5650 - TMB - Copa Brasil Prata de Tênis de mesa - Feira de Santana -BA Individual Paralímpico",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 6,
+  "event_match_count": 3,
+  "estimated_match_count": 3,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5650-2026-001",
+      "event_id": 5650,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 1,
+      "table": 10,
+      "date": "05/06/2026",
+      "time": "08:30",
+      "played_at": "2026-06-05T08:30:00",
+      "players": [
+        {
+          "name": "EVERTON MELO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CÍCERO BARACHO",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            3,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "EVERTON MELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 45733,
+            "name": "EVERTON MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1348,
+            "rating_change": 6,
+            "rating_after": 1354,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 66407,
+            "name": "CÍCERO BARACHO",
+            "associate_id_source": "event_roster",
+            "rating_before": -124,
+            "rating_change": 0,
+            "rating_after": -124,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5650-2026-002",
+      "event_id": 5650,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 2,
+      "table": 10,
+      "date": "05/06/2026",
+      "time": "09:30",
+      "played_at": "2026-06-05T09:30:00",
+      "players": [
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CÍCERO BARACHO",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            1,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 897,
+            "rating_change": 6,
+            "rating_after": 903,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 66407,
+            "name": "CÍCERO BARACHO",
+            "associate_id_source": "event_roster",
+            "rating_before": -124,
+            "rating_change": 0,
+            "rating_after": -124,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5650-2026-003",
+      "event_id": 5650,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 3,
+      "table": 10,
+      "date": "05/06/2026",
+      "time": "10:30",
+      "played_at": "2026-06-05T10:30:00",
+      "players": [
+        {
+          "name": "EVERTON MELO",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "THIAGO FONSECA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            7,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "EVERTON MELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 45733,
+            "name": "EVERTON MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1354,
+            "rating_change": 18,
+            "rating_after": 1372,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 85652,
+            "name": "THIAGO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 903,
+            "rating_change": -6,
+            "rating_after": 897,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f8f4">
+    <meta name="description" content="Explore resultados de tênis de mesa, torneios e estimativas de rating partida a partida.">
+    <title>Ratings em jogo — tênis de mesa</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="donation.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="wordmark" href="./index.html" aria-label="Página inicial de tênis de mesa"><span class="mark" aria-hidden="true">T</span> TÊNIS DE MESA <span class="wordmark-muted">RATINGS</span></a>
+      <nav class="site-nav" aria-label="Navegação principal"><a href="./index.html" aria-current="page">Início</a><a href="./pesquisa.html">Pesquisa</a></nav>
+      <span class="topbar-note">Tênis de mesa, em dados.</span>
+    </header>
+    <main class="home-page">
+      <section class="home-hero" aria-labelledby="page-title">
+        <div class="home-copy">
+          <p class="eyebrow"><span class="live-dot"></span> RESULTADOS · RATINGS · PESQUISA</p>
+          <h1 id="page-title">Cada partida<br>conta uma <span>história.</span></h1>
+          <p class="hero-description">Explore os resultados dos torneios de tênis de mesa e acompanhe como as partidas podem influenciar o rating de cada atleta.</p>
+          <a class="primary-link" href="./pesquisa.html">Explorar a pesquisa <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="hero-art" aria-hidden="true"><div class="court court-back"></div><div class="court court-front"></div><span class="court-ball"></span></div>
+      </section>
+
+      <section class="about-section" aria-labelledby="about-title">
+        <div class="about-intro"><p class="eyebrow">SOBRE O PROJETO</p><h2 id="about-title">O jogo, além do placar.</h2><p>Esta pesquisa reúne dados de torneios e apresenta estimativas de rating partida a partida. A ideia é tornar os resultados mais fáceis de explorar e ajudar a entender como cada jogo pode alterar a pontuação de um atleta.</p></div>
+        <div class="about-cards">
+          <article class="about-card"><span class="about-number">01</span><h3>Resultados organizados</h3><p>Consulte partidas por atleta, categoria, etapa e placar, começando pelo torneio mais recente disponível.</p></article>
+          <article class="about-card"><span class="about-number">02</span><h3>Ratings com contexto</h3><p>Veja o rating oficial quando há histórico publicado e compare com a estimativa após as partidas.</p></article>
+          <article class="about-card"><span class="about-number">03</span><h3>Estimativas, não promessas</h3><p>Quando não há rating inicial publicado, o cálculo usa uma base estimada, identificada no perfil. As estimativas ajudam a acompanhar cada atleta, mas não substituem os ratings oficiais.</p></article>
+        </div>
+      </section>
+
+      <section class="home-cta" aria-labelledby="cta-title"><div><p class="eyebrow">PRÓXIMO PASSO</p><h2 id="cta-title">Encontre um atleta. Acompanhe cada jogo.</h2></div><div class="home-actions"><a class="primary-link" href="./pesquisa.html">Ir para a pesquisa <span aria-hidden="true">↗</span></a><button id="pix-open" class="pix-open-button" type="button">Apoie o projeto</button></div></section>
+      <dialog id="pix-dialog" class="pix-dialog" aria-labelledby="pix-title">
+        <div class="pix-dialog-content">
+          <button id="pix-close" class="pix-close" type="button" aria-label="Fechar janela">×</button>
+          <div class="pix-qr-frame"><img src="./pix-qr.svg" alt="QR Pix para apoiar a pesquisa com qualquer valor."></div>
+          <div class="pix-dialog-copy">
+            <p class="eyebrow">APOIO VOLUNTÁRIO · PIX</p>
+            <h2 id="pix-title">Apoie a pesquisa</h2>
+            <p class="pix-desktop-hint">Escaneie o QR code ou copie o Pix copia e cola. Escolha qualquer valor no app do seu banco.</p>
+            <p class="pix-mobile-hint">Copie o Pix copia e cola e cole no app do seu banco. Escolha qualquer valor.</p>
+            <button id="pix-copy" class="pix-button" type="button">Copiar Pix copia e cola</button>
+            <p id="pix-status" class="pix-status" role="status" aria-live="polite">A confirmação e os dados do destinatário aparecem no app do banco antes do pagamento.</p>
+          </div>
+        </div>
+      </dialog>
+      <footer><span>Projeto independente para acompanhar o tênis de mesa; estimativas informativas.</span></footer>
+    </main>
+  </body>
+</html>

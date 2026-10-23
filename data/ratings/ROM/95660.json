@@ -1,0 +1,67 @@
+{
+  "associate_id": 95660,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=95660&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T12:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 214,
+      "delta": -18,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL MENEGASSI"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 172,
+      "delta": 42,
+      "final": 214,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ÉLIKE VASCO"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 190,
+      "delta": -18,
+      "final": 172,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ KOCHI"
+    },
+    {
+      "played_at": "2026-08-22T09:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 226,
+      "delta": -36,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL DIPOLD"
+    },
+    {
+      "played_at": "2026-08-22T08:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI MIRANDA ............."
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "associate_id": 84104,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=84104&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T16:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 353,
+      "delta": -24,
+      "final": 329,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA GLADUN"
+    },
+    {
+      "played_at": "2026-09-20T14:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 329,
+      "delta": 24,
+      "final": 353,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VIVIANE LUNARDELLI"
+    },
+    {
+      "played_at": "2026-09-20T13:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 365,
+      "delta": -36,
+      "final": 329,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SUSANA SCHIPMANN"
+    },
+    {
+      "played_at": "2026-09-19T12:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 365,
+      "delta": 0,
+      "final": 365,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TANIRA TANAKA"
+    },
+    {
+      "played_at": "2026-09-19T10:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 365,
+      "delta": 0,
+      "final": 365,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRENDA ARENAS"
+    },
+    {
+      "played_at": "2026-03-28T19:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 383,
+      "delta": -18,
+      "final": 365,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SOFIA GUINDANI"
+    },
+    {
+      "played_at": "2026-03-28T18:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 356,
+      "delta": 27,
+      "final": 383,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA KOERBER"
+    },
+    {
+      "played_at": "2026-03-28T15:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 326,
+      "delta": 30,
+      "final": 356,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARION CREUTZBERG"
+    },
+    {
+      "played_at": "2026-03-28T12:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 296,
+      "delta": 30,
+      "final": 326,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA TEIXEIRA"
+    },
+    {
+      "played_at": "2025-11-15T17:20:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 296,
+      "delta": 0,
+      "final": 296,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA NASCIMENTO"
+    },
+    {
+      "played_at": "2025-11-15T16:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 296,
+      "delta": 0,
+      "final": 296,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TANIRA TANAKA"
+    },
+    {
+      "played_at": "2025-11-15T15:15:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 306,
+      "delta": -10,
+      "final": 296,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIELA ROCHA"
+    },
+    {
+      "played_at": "2025-11-15T14:50:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 270,
+      "delta": 36,
+      "final": 306,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALESSANDRA SANTOS"
+    },
+    {
+      "played_at": "2025-11-15T13:10:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 278,
+      "delta": -8,
+      "final": 270,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERIKA GARCIA"
+    },
+    {
+      "played_at": "2025-11-15T12:20:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 258,
+      "delta": 20,
+      "final": 278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIELE SOUZA"
+    },
+    {
+      "played_at": "2025-10-19T15:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 258,
+      "delta": 0,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KALLYNA FERNANDES"
+    },
+    {
+      "played_at": "2025-10-19T11:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 276,
+      "delta": -18,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIA GARCIA"
+    },
+    {
+      "played_at": "2025-10-18T18:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 288,
+      "delta": -12,
+      "final": 276,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIELA ROCHA"
+    },
+    {
+      "played_at": "2025-10-18T17:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 296,
+      "delta": -8,
+      "final": 288,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LIJANE BELUSSO"
+    },
+    {
+      "played_at": "2025-10-18T15:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": 280,
+      "delta": 16,
+      "final": 296,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAQUEL RAMOS"
+    },
+    {
+      "played_at": "2025-09-28T15:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 280,
+      "delta": 0,
+      "final": 280,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA NASCIMENTO"
+    },
+    {
+      "played_at": "2025-09-28T13:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 262,
+      "delta": 18,
+      "final": 280,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "AMANDA SOUZA"
+    },
+    {
+      "played_at": "2025-09-28T13:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 266,
+      "delta": -4,
+      "final": 262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TANIRA TANAKA"
+    },
+    {
+      "played_at": "2025-09-27T16:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 276,
+      "delta": -10,
+      "final": 266,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERIKA GARCIA"
+    },
+    {
+      "played_at": "2025-09-27T15:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 236,
+      "delta": 40,
+      "final": 276,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALESSANDRA SANTOS"
+    },
+    {
+      "played_at": "2025-09-27T13:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 214,
+      "delta": 22,
+      "final": 236,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMANDA SOUZA"
+    },
+    {
+      "played_at": "2025-09-27T12:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 178,
+      "delta": 36,
+      "final": 214,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SOFIA NEGRINI"
+    },
+    {
+      "played_at": "2025-09-27T10:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 182,
+      "delta": -4,
+      "final": 178,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUÍSA GONÇALVES"
+    },
+    {
+      "played_at": "2025-07-27T12:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 182,
+      "delta": 0,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KALLYNA FERNANDES"
+    },
+    {
+      "played_at": "2025-07-27T11:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 190,
+      "delta": -8,
+      "final": 182,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ERIKA GARCIA"
+    },
+    {
+      "played_at": "2025-07-26T19:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 196,
+      "delta": -6,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍSA GONÇALVES"
+    },
+    {
+      "played_at": "2025-07-26T18:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 212,
+      "delta": -16,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA PIGATTO"
+    },
+    {
+      "played_at": "2025-07-26T17:42:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Santa Maria/RS - 2025.",
+      "initial": 212,
+      "delta": 0,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KETLYN SILVA"
+    },
+    {
+      "played_at": "2025-07-26T01:41:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Santa Maria/RS - 2025.",
+      "initial": 180,
+      "delta": 32,
+      "final": 212,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALESSANDRA SANTOS"
+    },
+    {
+      "played_at": "2025-06-08T10:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 190,
+      "delta": -10,
+      "final": 180,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AMANDA MOHR"
+    },
+    {
+      "played_at": "2025-06-08T09:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 196,
+      "delta": -6,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍSA GONÇALVES"
+    },
+    {
+      "played_at": "2025-06-08T09:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 200,
+      "delta": -4,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRENDA ARENAS"
+    },
+    {
+      "played_at": "2025-06-07T16:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 212,
+      "delta": -12,
+      "final": 200,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALESSANDRA SANTOS"
+    },
+    {
+      "played_at": "2025-06-07T16:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 220,
+      "delta": -8,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍSA GONÇALVES"
+    },
+    {
+      "played_at": "2025-06-07T15:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 234,
+      "delta": -14,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉIA GIACOMETTI"
+    },
+    {
+      "played_at": "2025-03-23T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 246,
+      "delta": -12,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRENDA ARENAS"
+    },
+    {
+      "played_at": "2025-03-23T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 246,
+      "delta": 0,
+      "final": 246,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA NASCIMENTO"
+    },
+    {
+      "played_at": "2025-03-22T16:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 262,
+      "delta": -16,
+      "final": 246,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALESSANDRA SANTOS"
+    },
+    {
+      "played_at": "2025-03-22T15:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 244,
+      "delta": 18,
+      "final": 262,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARISA SILVEIRA"
+    },
+    {
+      "played_at": "2025-03-22T14:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TANIRA TANAKA ............."
+    }
+  ]
+}

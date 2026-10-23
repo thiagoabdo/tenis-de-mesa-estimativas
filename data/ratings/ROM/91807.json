@@ -1,0 +1,127 @@
+{
+  "associate_id": 91807,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91807&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T09:50:00",
+      "event": "Circuito Open Para Clube / Team Rodrigues",
+      "initial": 196,
+      "delta": -10,
+      "final": 186,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "HELOÍSA GOMES"
+    },
+    {
+      "played_at": "2026-09-27T09:10:00",
+      "event": "Circuito Open Para Clube / Team Rodrigues",
+      "initial": 199,
+      "delta": -3,
+      "final": 196,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ALANA BORGES"
+    },
+    {
+      "played_at": "2026-06-13T15:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 208,
+      "delta": -9,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALANA BORGES"
+    },
+    {
+      "played_at": "2026-06-13T14:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 244,
+      "delta": -36,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALICE SOUZA"
+    },
+    {
+      "played_at": "2026-06-13T09:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 256,
+      "delta": -12,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PIETRA MIRANDA"
+    },
+    {
+      "played_at": "2026-06-13T08:00:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 274,
+      "delta": -18,
+      "final": 256,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALANA BORGES"
+    },
+    {
+      "played_at": "2026-03-28T11:20:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 253,
+      "delta": 21,
+      "final": 274,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PEROLA MORAIS"
+    },
+    {
+      "played_at": "2026-03-28T10:55:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 262,
+      "delta": -9,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALANA BORGES"
+    },
+    {
+      "played_at": "2026-03-28T09:40:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 238,
+      "delta": 24,
+      "final": 262,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEROLA MORAIS"
+    },
+    {
+      "played_at": "2026-03-28T09:15:00",
+      "event": "2º TMB Estadual campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALANA BORGES ............."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "associate_id": 92336,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92336&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-19T10:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 235,
+      "delta": -33,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS SHIMADA"
+    },
+    {
+      "played_at": "2026-04-19T08:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -15,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS NOGUTI ............."
+    }
+  ]
+}

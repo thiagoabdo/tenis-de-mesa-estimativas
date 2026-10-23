@@ -1,0 +1,7494 @@
+{
+  "schema_version": 1,
+  "event_id": 5559,
+  "event_name": "5559 - TMB Regional - 3ª Etapa - Liga Escolar - Carazinho/RS - 2026",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 1,
+  "event_match_count": 110,
+  "estimated_match_count": 110,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5559-53-001",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "AUGUSTO ZANDONAI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS CAMARGO",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            2,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO ZANDONAI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86482,
+            "name": "AUGUSTO ZANDONAI",
+            "associate_id_source": "event_roster",
+            "rating_before": 324,
+            "rating_change": 8,
+            "rating_after": 332,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 92115,
+            "name": "VINICIUS CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -6,
+            "rating_after": 244,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-002",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 5,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE FARIAS",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            1,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": 8,
+            "rating_after": 308,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 88940,
+            "name": "VICENTE FARIAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -6,
+            "rating_after": 228,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-003",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 03",
+      "game_number": 3,
+      "table": 6,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "DAVI SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86571,
+            "name": "DAVI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": 9,
+            "rating_after": 283,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": -7,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-004",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 04",
+      "game_number": 4,
+      "table": 7,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR SILVA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "WELLINTON LOPES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": 9,
+            "rating_after": 279,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88444,
+            "name": "ARTHUR SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -7,
+            "rating_after": 227,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-005",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 5,
+      "table": 8,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "DAVI BIACHINI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            7,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO VEIGA",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            11,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DAVI BIACHINI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86568,
+            "name": "DAVI BIACHINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 269,
+            "rating_change": 9,
+            "rating_after": 278,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86565,
+            "name": "BERNARDO VEIGA",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -7,
+            "rating_after": 216,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-006",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 6,
+      "table": 9,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BENJAMIN DENARDI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "RICARDO BREITENBACH",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 267,
+            "rating_change": 9,
+            "rating_after": 276,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 89082,
+            "name": "BENJAMIN DENARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 230,
+            "rating_change": -7,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-001",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Grupo 01",
+      "game_number": 1,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ELISA CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 398,
+            "rating_change": 6,
+            "rating_after": 404,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 89626,
+            "name": "ELISA CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -4,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-002",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Grupo 02",
+      "game_number": 2,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY ZANDONA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            1,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ISADORA BERNARDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 369,
+            "rating_change": 6,
+            "rating_after": 375,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 88974,
+            "name": "ISABELLY ZANDONA",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": -4,
+            "rating_after": 215,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-001",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "DANIEL RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS BARROS",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            2,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DANIEL RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86479,
+            "name": "DANIEL RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 360,
+            "rating_change": 7,
+            "rating_after": 367,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 89660,
+            "name": "MATEUS BARROS",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -5,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-002",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "WILLIAN GONÇALVES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO LUCAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "BERNARDO LUCAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88445,
+            "name": "WILLIAN GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 359,
+            "rating_change": -16,
+            "rating_after": 343,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -16
+          },
+          {
+            "associate_id": 67849,
+            "name": "BERNARDO LUCAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 159,
+            "rating_change": 20,
+            "rating_after": 179,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 20
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-003",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 3,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "IGOR RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "RÔMULO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86323,
+            "name": "IGOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 268,
+            "rating_change": -9,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": 11,
+            "rating_after": 258,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-004",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 03",
+      "game_number": 4,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GERVENSLEY TALON",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            2,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": 9,
+            "rating_after": 286,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 79792,
+            "name": "GERVENSLEY TALON",
+            "associate_id_source": "event_roster",
+            "rating_before": 240,
+            "rating_change": -7,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-005",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 03",
+      "game_number": 5,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "CAUÃ JUNQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 10,
+            "rating_after": 263,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 86567,
+            "name": "VITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 249,
+            "rating_change": -8,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-271-001",
+      "event_id": 5559,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Única 01",
+      "game_number": 1,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "09:00",
+      "played_at": "2026-04-18T09:00:00",
+      "players": [
+        {
+          "name": "ALICE SUTORILLO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EDUARDA RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ALICE SUTORILLO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 65133,
+            "name": "ALICE SUTORILLO",
+            "associate_id_source": "event_roster",
+            "rating_before": 338,
+            "rating_change": 7,
+            "rating_after": 345,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 86322,
+            "name": "EDUARDA RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -5,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-007",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 7,
+      "table": 4,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "ALIFE OLIVEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS CAMARGO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ALIFE OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92039,
+            "name": "ALIFE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 92115,
+            "name": "VINICIUS CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 244,
+            "rating_change": -8,
+            "rating_after": 236,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-008",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 5,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "AFFONSO ANDRADE",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            12,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE FARIAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            10,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "VICENTE FARIAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92038,
+            "name": "AFFONSO ANDRADE",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 88940,
+            "name": "VICENTE FARIAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 228,
+            "rating_change": 11,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-009",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 03",
+      "game_number": 9,
+      "table": 6,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "LUCAS HOPPEN",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            10,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            12,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "JOAO COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92026,
+            "name": "LUCAS HOPPEN",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -9,
+            "rating_after": 241,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": 11,
+            "rating_after": 246,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-010",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 04",
+      "game_number": 10,
+      "table": 7,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR SILVA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 265,
+            "rating_change": 9,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88444,
+            "name": "ARTHUR SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 227,
+            "rating_change": -7,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-011",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 11,
+      "table": 8,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "DAVI BIACHINI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            15,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BENJAMIN DENARDI",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            13,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI BIACHINI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86568,
+            "name": "DAVI BIACHINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 278,
+            "rating_change": 8,
+            "rating_after": 286,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 89082,
+            "name": "BENJAMIN DENARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -6,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-012",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 12,
+      "table": 9,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO VEIGA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "RICARDO BREITENBACH",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 276,
+            "rating_change": 8,
+            "rating_after": 284,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 86565,
+            "name": "BERNARDO VEIGA",
+            "associate_id_source": "event_roster",
+            "rating_before": 216,
+            "rating_change": -6,
+            "rating_after": 210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-003",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Grupo 01",
+      "game_number": 3,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "BEATRIZ ZANARDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ELISA CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "BEATRIZ ZANARDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89364,
+            "name": "BEATRIZ ZANARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 247,
+            "rating_change": 10,
+            "rating_after": 257,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89626,
+            "name": "ELISA CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -8,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-004",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Grupo 02",
+      "game_number": 4,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "MARIA COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY ZANDONA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            2,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARIA COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88485,
+            "name": "MARIA COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 263,
+            "rating_change": 9,
+            "rating_after": 272,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88974,
+            "name": "ISABELLY ZANDONA",
+            "associate_id_source": "event_roster",
+            "rating_before": 215,
+            "rating_change": -7,
+            "rating_after": 208,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-006",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 6,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS BARROS",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": 8,
+            "rating_after": 308,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 89660,
+            "name": "MATEUS BARROS",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -6,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-007",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 7,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "WILLIAN GONÇALVES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "RÔMULO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88445,
+            "name": "WILLIAN GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 343,
+            "rating_change": -11,
+            "rating_after": 332,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 258,
+            "rating_change": 14,
+            "rating_after": 272,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-008",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "IGOR RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO LUCAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "BERNARDO LUCAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86323,
+            "name": "IGOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": -11,
+            "rating_after": 248,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 67849,
+            "name": "BERNARDO LUCAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 179,
+            "rating_change": 14,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-009",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 03",
+      "game_number": 9,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": 9,
+            "rating_after": 295,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86567,
+            "name": "VITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -7,
+            "rating_after": 234,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-010",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 03",
+      "game_number": 10,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GERVENSLEY TALON",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "CAUÃ JUNQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 263,
+            "rating_change": 9,
+            "rating_after": 272,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 79792,
+            "name": "GERVENSLEY TALON",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": -7,
+            "rating_after": 226,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-271-002",
+      "event_id": 5559,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Única 01",
+      "game_number": 2,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "09:15",
+      "played_at": "2026-04-18T09:15:00",
+      "players": [
+        {
+          "name": "MONALISA SIQUEIRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "EDUARDA RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "EDUARDA RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88943,
+            "name": "MONALISA SIQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 224,
+            "rating_change": -9,
+            "rating_after": 215,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86322,
+            "name": "EDUARDA RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 220,
+            "rating_change": 11,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-013",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 01",
+      "game_number": 13,
+      "table": 4,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "AUGUSTO ZANDONAI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALIFE OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO ZANDONAI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86482,
+            "name": "AUGUSTO ZANDONAI",
+            "associate_id_source": "event_roster",
+            "rating_before": 332,
+            "rating_change": 8,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 92039,
+            "name": "ALIFE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -6,
+            "rating_after": 254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-014",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 02",
+      "game_number": 14,
+      "table": 5,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AFFONSO ANDRADE",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 308,
+            "rating_change": 8,
+            "rating_after": 316,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 92038,
+            "name": "AFFONSO ANDRADE",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -6,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-015",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 03",
+      "game_number": 15,
+      "table": 6,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "DAVI SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS HOPPEN",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            9,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86571,
+            "name": "DAVI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 283,
+            "rating_change": 9,
+            "rating_after": 292,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 92026,
+            "name": "LUCAS HOPPEN",
+            "associate_id_source": "event_roster",
+            "rating_before": 241,
+            "rating_change": -7,
+            "rating_after": 234,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-016",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 04",
+      "game_number": 16,
+      "table": 7,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "AUGUSTO SAVOLDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 279,
+            "rating_change": -9,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": 11,
+            "rating_after": 285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-017",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 17,
+      "table": 8,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "DAVI BIACHINI",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "RICARDO BREITENBACH",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86568,
+            "name": "DAVI BIACHINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": -9,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 284,
+            "rating_change": 11,
+            "rating_after": 295,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-018",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Grupo 05",
+      "game_number": 18,
+      "table": 9,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "BENJAMIN DENARDI",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            2,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO VEIGA",
+          "sets_won": 2,
+          "set_points": [
+            12,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "BERNARDO VEIGA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89082,
+            "name": "BENJAMIN DENARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": -9,
+            "rating_after": 208,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86565,
+            "name": "BERNARDO VEIGA",
+            "associate_id_source": "event_roster",
+            "rating_before": 210,
+            "rating_change": 11,
+            "rating_after": 221,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-005",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Grupo 01",
+      "game_number": 5,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BEATRIZ ZANARDI",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 404,
+            "rating_change": 7,
+            "rating_after": 411,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 89364,
+            "name": "BEATRIZ ZANARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 257,
+            "rating_change": -5,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-006",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Grupo 02",
+      "game_number": 6,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            12,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIA COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            14,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "MARIA COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 375,
+            "rating_change": -12,
+            "rating_after": 363,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 88485,
+            "name": "MARIA COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 272,
+            "rating_change": 16,
+            "rating_after": 288,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-011",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 01",
+      "game_number": 11,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "DANIEL RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            7,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DANIEL RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86479,
+            "name": "DANIEL RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 367,
+            "rating_change": 8,
+            "rating_after": 375,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 308,
+            "rating_change": -6,
+            "rating_after": 302,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-012",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 12,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "WILLIAN GONÇALVES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IGOR RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "IGOR RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88445,
+            "name": "WILLIAN GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 332,
+            "rating_change": -11,
+            "rating_after": 321,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 86323,
+            "name": "IGOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 248,
+            "rating_change": 14,
+            "rating_after": 262,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-013",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 02",
+      "game_number": 13,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            10,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO LUCAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            5,
+            12,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "BERNARDO LUCAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 272,
+            "rating_change": -11,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 67849,
+            "name": "BERNARDO LUCAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 193,
+            "rating_change": 14,
+            "rating_after": 207,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-014",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 03",
+      "game_number": 14,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            10,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 1,
+          "set_points": [
+            2,
+            12,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 295,
+            "rating_change": 10,
+            "rating_after": 305,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 272,
+            "rating_change": -8,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-015",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Grupo 03",
+      "game_number": 15,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "VITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            6,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GERVENSLEY TALON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "GERVENSLEY TALON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86567,
+            "name": "VITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -9,
+            "rating_after": 225,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 79792,
+            "name": "GERVENSLEY TALON",
+            "associate_id_source": "event_roster",
+            "rating_before": 226,
+            "rating_change": 11,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-271-003",
+      "event_id": 5559,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Única 01",
+      "game_number": 3,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "09:30",
+      "played_at": "2026-04-18T09:30:00",
+      "players": [
+        {
+          "name": "ALICE SUTORILLO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MONALISA SIQUEIRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            2,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ALICE SUTORILLO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 65133,
+            "name": "ALICE SUTORILLO",
+            "associate_id_source": "event_roster",
+            "rating_before": 345,
+            "rating_change": 7,
+            "rating_after": 352,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 88943,
+            "name": "MONALISA SIQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 215,
+            "rating_change": -5,
+            "rating_after": 210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-019",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Oitavas de Final",
+      "game_number": 19,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "09:45",
+      "played_at": "2026-04-18T09:45:00",
+      "players": [
+        {
+          "name": "VICENTE FARIAS",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            5,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "JOAO COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88940,
+            "name": "VICENTE FARIAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": -8,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 246,
+            "rating_change": 10,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-020",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Oitavas de Final",
+      "game_number": 20,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "09:45",
+      "played_at": "2026-04-18T09:45:00",
+      "players": [
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALIFE OLIVEIRA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "WELLINTON LOPES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": 10,
+            "rating_after": 280,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 92039,
+            "name": "ALIFE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 254,
+            "rating_change": -8,
+            "rating_after": 246,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-007",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Semi Final",
+      "game_number": 7,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "09:45",
+      "played_at": "2026-04-18T09:45:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 411,
+            "rating_change": 9,
+            "rating_after": 420,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 363,
+            "rating_change": -7,
+            "rating_after": 356,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-008",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Semi Final",
+      "game_number": 8,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "09:45",
+      "played_at": "2026-04-18T09:45:00",
+      "players": [
+        {
+          "name": "BEATRIZ ZANARDI",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIA COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "MARIA COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89364,
+            "name": "BEATRIZ ZANARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 252,
+            "rating_change": -7,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 88485,
+            "name": "MARIA COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 288,
+            "rating_change": 9,
+            "rating_after": 297,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-016",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Quartas de Final",
+      "game_number": 16,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "09:45",
+      "played_at": "2026-04-18T09:45:00",
+      "players": [
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "CAUÃ JUNQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 261,
+            "rating_change": -8,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 264,
+            "rating_change": 10,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-017",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Quartas de Final",
+      "game_number": 17,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "09:45",
+      "played_at": "2026-04-18T09:45:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            11,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 305,
+            "rating_change": 10,
+            "rating_after": 315,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 302,
+            "rating_change": -8,
+            "rating_after": 294,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-021",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 21,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "AUGUSTO ZANDONAI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO ZANDONAI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86482,
+            "name": "AUGUSTO ZANDONAI",
+            "associate_id_source": "event_roster",
+            "rating_before": 340,
+            "rating_change": 8,
+            "rating_after": 348,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -6,
+            "rating_after": 250,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-022",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 22,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            10,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 2,
+          "set_points": [
+            12,
+            12,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "RICARDO BREITENBACH",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 285,
+            "rating_change": -8,
+            "rating_after": 277,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 295,
+            "rating_change": 10,
+            "rating_after": 305,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-023",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 23,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "DAVI SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI BIACHINI",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            3,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86571,
+            "name": "DAVI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 292,
+            "rating_change": 10,
+            "rating_after": 302,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 86568,
+            "name": "DAVI BIACHINI",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": -8,
+            "rating_after": 269,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-024",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Quartas de Final",
+      "game_number": 24,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 316,
+            "rating_change": 9,
+            "rating_after": 325,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 280,
+            "rating_change": -7,
+            "rating_after": 273,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-66-009",
+      "event_id": 5559,
+      "category_id": 66,
+      "category": "SUB-13 FEM",
+      "phase": "SUB-13 FEM - Final",
+      "game_number": 9,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            13,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MARIA COLDEBELLA",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 420,
+            "rating_change": 7,
+            "rating_after": 427,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 88485,
+            "name": "MARIA COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 297,
+            "rating_change": -5,
+            "rating_after": 292,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-018",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Semi Final",
+      "game_number": 18,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "DANIEL RIBEIRO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            17,
+            15,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ JUNQUEIRA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            15,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DANIEL RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86479,
+            "name": "DANIEL RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 375,
+            "rating_change": 7,
+            "rating_after": 382,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 90887,
+            "name": "CAUÃ JUNQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": -5,
+            "rating_after": 269,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-019",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Semi Final",
+      "game_number": 19,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "10:00",
+      "played_at": "2026-04-18T10:00:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            11,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO LUCAS",
+          "sets_won": 2,
+          "set_points": [
+            13,
+            6,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "BERNARDO LUCAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 315,
+            "rating_change": -12,
+            "rating_after": 303,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 67849,
+            "name": "BERNARDO LUCAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 207,
+            "rating_change": 16,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-001",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "WILLIAN GONÇALVES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS CAMARGO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "VINICIUS CAMARGO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88445,
+            "name": "WILLIAN GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 321,
+            "rating_change": -11,
+            "rating_after": 310,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 92115,
+            "name": "VINICIUS CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 236,
+            "rating_change": 14,
+            "rating_after": 250,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-002",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILO FELDMANN",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 303,
+            "rating_change": 8,
+            "rating_after": 311,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 86973,
+            "name": "MURILO FELDMANN",
+            "associate_id_source": "event_roster",
+            "rating_before": 251,
+            "rating_change": -6,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-003",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 03",
+      "game_number": 3,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            7,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ERIK WEBER",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ERIK WEBER",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 273,
+            "rating_change": -10,
+            "rating_after": 263,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 86490,
+            "name": "ERIK WEBER",
+            "associate_id_source": "event_roster",
+            "rating_before": 238,
+            "rating_change": 12,
+            "rating_after": 250,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-004",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 04",
+      "game_number": 4,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "IGOR RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "RÔMULO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86323,
+            "name": "IGOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 262,
+            "rating_change": -9,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 11,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-005",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 05",
+      "game_number": 5,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 294,
+            "rating_change": 8,
+            "rating_after": 302,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 86567,
+            "name": "VITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -6,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-001",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 01",
+      "game_number": 1,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BENJAMIN DENARDI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 325,
+            "rating_change": 7,
+            "rating_after": 332,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 89082,
+            "name": "BENJAMIN DENARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 208,
+            "rating_change": -5,
+            "rating_after": 203,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-002",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 02",
+      "game_number": 2,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "BERNARDO GREGOREKI",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO VEIGA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "BERNARDO VEIGA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87505,
+            "name": "BERNARDO GREGOREKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": -11,
+            "rating_after": 275,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 86565,
+            "name": "BERNARDO VEIGA",
+            "associate_id_source": "event_roster",
+            "rating_before": 221,
+            "rating_change": 14,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-003",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 03",
+      "game_number": 3,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "10:15",
+      "played_at": "2026-04-18T10:15:00",
+      "players": [
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 1,
+          "set_points": [
+            4,
+            11,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DIEGO SOTELO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "DIEGO SOTELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 305,
+            "rating_change": -11,
+            "rating_after": 294,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 86564,
+            "name": "DIEGO SOTELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 251,
+            "rating_change": 14,
+            "rating_after": 265,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-010",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Quartas de Final",
+      "game_number": 10,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "10:27",
+      "played_at": "2026-04-18T10:27:00",
+      "players": [
+        {
+          "name": "VICENTE FARIAS",
+          "sets_won": 1,
+          "set_points": [
+            13,
+            7,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "RICARDO BREITENBACH",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88940,
+            "name": "VICENTE FARIAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 231,
+            "rating_change": -6,
+            "rating_after": 225,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 294,
+            "rating_change": 8,
+            "rating_after": 302,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-025",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 25,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "10:28",
+      "played_at": "2026-04-18T10:28:00",
+      "players": [
+        {
+          "name": "AUGUSTO ZANDONAI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "AUGUSTO ZANDONAI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86482,
+            "name": "AUGUSTO ZANDONAI",
+            "associate_id_source": "event_roster",
+            "rating_before": 348,
+            "rating_change": 9,
+            "rating_after": 357,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 302,
+            "rating_change": -7,
+            "rating_after": 295,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-006",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 6,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "ENZO CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            6,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VINICIUS CAMARGO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "VINICIUS CAMARGO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92114,
+            "name": "ENZO CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -8,
+            "rating_after": 242,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 92115,
+            "name": "VINICIUS CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-007",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 7,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "ALIFE OLIVEIRA",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MURILO FELDMANN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            6,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "MURILO FELDMANN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92039,
+            "name": "ALIFE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 246,
+            "rating_change": -9,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86973,
+            "name": "MURILO FELDMANN",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": 11,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-008",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 03",
+      "game_number": 8,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "AFFONSO ANDRADE",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            3,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ERIK WEBER",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ERIK WEBER",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92038,
+            "name": "AFFONSO ANDRADE",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": -8,
+            "rating_after": 227,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86490,
+            "name": "ERIK WEBER",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 10,
+            "rating_after": 260,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-009",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 04",
+      "game_number": 9,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "LUCAS HOPPEN",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "RÔMULO SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92026,
+            "name": "LUCAS HOPPEN",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -7,
+            "rating_after": 227,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 264,
+            "rating_change": 9,
+            "rating_after": 273,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-010",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 05",
+      "game_number": 10,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "MATEUS BARROS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VITOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MATEUS BARROS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89660,
+            "name": "MATEUS BARROS",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": 10,
+            "rating_after": 249,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 86567,
+            "name": "VITOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 219,
+            "rating_change": -8,
+            "rating_after": 211,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-004",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 01",
+      "game_number": 4,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BENJAMIN DENARDI",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "JOAO COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": 9,
+            "rating_after": 259,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 89082,
+            "name": "BENJAMIN DENARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 203,
+            "rating_change": -7,
+            "rating_after": 196,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-005",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 02",
+      "game_number": 5,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "VICENTE FARIAS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO VEIGA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "BERNARDO VEIGA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88940,
+            "name": "VICENTE FARIAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 225,
+            "rating_change": -8,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 86565,
+            "name": "BERNARDO VEIGA",
+            "associate_id_source": "event_roster",
+            "rating_before": 235,
+            "rating_change": 10,
+            "rating_after": 245,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-006",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 03",
+      "game_number": 6,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "10:30",
+      "played_at": "2026-04-18T10:30:00",
+      "players": [
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            9,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DIEGO SOTELO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "DIEGO SOTELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 277,
+            "rating_change": -9,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 86564,
+            "name": "DIEGO SOTELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 265,
+            "rating_change": 11,
+            "rating_after": 276,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-011",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 01",
+      "game_number": 11,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "WILLIAN GONÇALVES",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ENZO CASARIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ENZO CASARIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88445,
+            "name": "WILLIAN GONÇALVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 310,
+            "rating_change": -11,
+            "rating_after": 299,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 92114,
+            "name": "ENZO CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 242,
+            "rating_change": 14,
+            "rating_after": 256,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-012",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 02",
+      "game_number": 12,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ALIFE OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 311,
+            "rating_change": 8,
+            "rating_after": 319,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 92039,
+            "name": "ALIFE OLIVEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 237,
+            "rating_change": -6,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-013",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 03",
+      "game_number": 13,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AFFONSO ANDRADE",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            8,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "WELLINTON LOPES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 263,
+            "rating_change": 9,
+            "rating_after": 272,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 92038,
+            "name": "AFFONSO ANDRADE",
+            "associate_id_source": "event_roster",
+            "rating_before": 227,
+            "rating_change": -7,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-014",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 04",
+      "game_number": 14,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "IGOR RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS HOPPEN",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "IGOR RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86323,
+            "name": "IGOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 9,
+            "rating_after": 262,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 92026,
+            "name": "LUCAS HOPPEN",
+            "associate_id_source": "event_roster",
+            "rating_before": 227,
+            "rating_change": -7,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-015",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Grupo 05",
+      "game_number": 15,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            12,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS BARROS",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            14,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 302,
+            "rating_change": 8,
+            "rating_after": 310,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 89660,
+            "name": "MATEUS BARROS",
+            "associate_id_source": "event_roster",
+            "rating_before": 249,
+            "rating_change": -6,
+            "rating_after": 243,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-007",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 01",
+      "game_number": 7,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            7,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 332,
+            "rating_change": 8,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 259,
+            "rating_change": -6,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-008",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 02",
+      "game_number": 8,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "BERNARDO GREGOREKI",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICENTE FARIAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "VICENTE FARIAS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87505,
+            "name": "BERNARDO GREGOREKI",
+            "associate_id_source": "event_roster",
+            "rating_before": 275,
+            "rating_change": -11,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 88940,
+            "name": "VICENTE FARIAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 217,
+            "rating_change": 14,
+            "rating_after": 231,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-009",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Grupo 03",
+      "game_number": 9,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "10:45",
+      "played_at": "2026-04-18T10:45:00",
+      "players": [
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 2,
+          "set_points": [
+            13,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AUGUSTO SAVOLDI",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "RICARDO BREITENBACH",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 295,
+            "rating_change": 9,
+            "rating_after": 304,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 89651,
+            "name": "AUGUSTO SAVOLDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 268,
+            "rating_change": -7,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-026",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 26,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "11:00",
+      "played_at": "2026-04-18T11:00:00",
+      "players": [
+        {
+          "name": "DAVI SILVA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            4,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86571,
+            "name": "DAVI SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 302,
+            "rating_change": -7,
+            "rating_after": 295,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 340,
+            "rating_change": 9,
+            "rating_after": 349,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-016",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 16,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "11:00",
+      "played_at": "2026-04-18T11:00:00",
+      "players": [
+        {
+          "name": "MURILO FELDMANN",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "WELLINTON LOPES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86973,
+            "name": "MURILO FELDMANN",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": -8,
+            "rating_after": 248,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 272,
+            "rating_change": 10,
+            "rating_after": 282,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-017",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Oitavas de Final",
+      "game_number": 17,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "11:00",
+      "played_at": "2026-04-18T11:00:00",
+      "players": [
+        {
+          "name": "IGOR RIBEIRO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ENZO CASARIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ENZO CASARIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86323,
+            "name": "IGOR RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 262,
+            "rating_change": -9,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 92114,
+            "name": "ENZO CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 256,
+            "rating_change": 11,
+            "rating_after": 267,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-001",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 1,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "11:00",
+      "played_at": "2026-04-18T11:00:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY ZANDONA",
+          "sets_won": 0,
+          "set_points": [
+            1,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 427,
+            "rating_change": 5,
+            "rating_after": 432,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 88974,
+            "name": "ISABELLY ZANDONA",
+            "associate_id_source": "event_roster",
+            "rating_before": 208,
+            "rating_change": -3,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-002",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 2,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "11:00",
+      "played_at": "2026-04-18T11:00:00",
+      "players": [
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MONALISA SIQUEIRA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ISADORA BERNARDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 356,
+            "rating_change": 7,
+            "rating_after": 363,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 88943,
+            "name": "MONALISA SIQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 210,
+            "rating_change": -5,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-011",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Quartas de Final",
+      "game_number": 11,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "11:00",
+      "played_at": "2026-04-18T11:00:00",
+      "players": [
+        {
+          "name": "DIEGO SOTELO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            4,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "JOAO COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86564,
+            "name": "DIEGO SOTELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 276,
+            "rating_change": -9,
+            "rating_after": 267,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 253,
+            "rating_change": 11,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-018",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 18,
+      "table": 10,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "VINICIUS CAMARGO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            1,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "WELLINTON LOPES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92115,
+            "name": "VINICIUS CAMARGO",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": -8,
+            "rating_after": 252,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 282,
+            "rating_change": 10,
+            "rating_after": 292,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-019",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 19,
+      "table": 11,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            7,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RÔMULO SILVA",
+          "sets_won": 1,
+          "set_points": [
+            3,
+            11,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 310,
+            "rating_change": 9,
+            "rating_after": 319,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86494,
+            "name": "RÔMULO SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 273,
+            "rating_change": -7,
+            "rating_after": 266,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-020",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 20,
+      "table": 12,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "ERIK WEBER",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            10,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATEUS BARROS",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            12,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "ERIK WEBER",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86490,
+            "name": "ERIK WEBER",
+            "associate_id_source": "event_roster",
+            "rating_before": 260,
+            "rating_change": 10,
+            "rating_after": 270,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89660,
+            "name": "MATEUS BARROS",
+            "associate_id_source": "event_roster",
+            "rating_before": 243,
+            "rating_change": -8,
+            "rating_after": 235,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-021",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Quartas de Final",
+      "game_number": 21,
+      "table": 13,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ENZO CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            4,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 319,
+            "rating_change": 8,
+            "rating_after": 327,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 92114,
+            "name": "ENZO CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 267,
+            "rating_change": -6,
+            "rating_after": 261,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-003",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 3,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MONALISA SIQUEIRA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            3,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 432,
+            "rating_change": 5,
+            "rating_after": 437,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 88943,
+            "name": "MONALISA SIQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": -3,
+            "rating_after": 202,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-004",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 4,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ELISA CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            7,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ISADORA BERNARDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 363,
+            "rating_change": 7,
+            "rating_after": 370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 89626,
+            "name": "ELISA CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": -5,
+            "rating_after": 228,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-012",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Semi Final",
+      "game_number": 12,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            13,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO BREITENBACH",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 349,
+            "rating_change": 9,
+            "rating_after": 358,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 86390,
+            "name": "RICARDO BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 304,
+            "rating_change": -7,
+            "rating_after": 297,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-013",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Semi Final",
+      "game_number": 13,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "11:15",
+      "played_at": "2026-04-18T11:15:00",
+      "players": [
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            10,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO VEIGA",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            8,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "JOAO COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 264,
+            "rating_change": 10,
+            "rating_after": 274,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 86565,
+            "name": "BERNARDO VEIGA",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": -8,
+            "rating_after": 237,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-53-027",
+      "event_id": 5559,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Final",
+      "game_number": 27,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "11:30",
+      "played_at": "2026-04-18T11:30:00",
+      "players": [
+        {
+          "name": "AUGUSTO ZANDONAI",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "AUGUSTO ZANDONAI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86482,
+            "name": "AUGUSTO ZANDONAI",
+            "associate_id_source": "event_roster",
+            "rating_before": 357,
+            "rating_change": 11,
+            "rating_after": 368,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 358,
+            "rating_change": -9,
+            "rating_after": 349,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-005",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 5,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "11:30",
+      "played_at": "2026-04-18T11:30:00",
+      "players": [
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY ZANDONA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ISADORA BERNARDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 370,
+            "rating_change": 6,
+            "rating_after": 376,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 88974,
+            "name": "ISABELLY ZANDONA",
+            "associate_id_source": "event_roster",
+            "rating_before": 205,
+            "rating_change": -4,
+            "rating_after": 201,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-006",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 6,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "11:30",
+      "played_at": "2026-04-18T11:30:00",
+      "players": [
+        {
+          "name": "ELISA CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            10,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MONALISA SIQUEIRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            12,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "MONALISA SIQUEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89626,
+            "name": "ELISA CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 228,
+            "rating_change": -10,
+            "rating_after": 218,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 88943,
+            "name": "MONALISA SIQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 202,
+            "rating_change": 12,
+            "rating_after": 214,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-270-020",
+      "event_id": 5559,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Final",
+      "game_number": 20,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "11:30",
+      "played_at": "2026-04-18T11:30:00",
+      "players": [
+        {
+          "name": "DANIEL RIBEIRO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO LUCAS",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "DANIEL RIBEIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86479,
+            "name": "DANIEL RIBEIRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 382,
+            "rating_change": 6,
+            "rating_after": 388,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 67849,
+            "name": "BERNARDO LUCAS",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -4,
+            "rating_after": 219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-022",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 22,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "11:45",
+      "played_at": "2026-04-18T11:45:00",
+      "players": [
+        {
+          "name": "WELLINTON LOPES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            9,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88631,
+            "name": "WELLINTON LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 292,
+            "rating_change": -7,
+            "rating_after": 285,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 319,
+            "rating_change": 9,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-023",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 23,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "11:45",
+      "played_at": "2026-04-18T11:45:00",
+      "players": [
+        {
+          "name": "ERIK WEBER",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            6,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "PEDRO GUGLIEMIN",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86490,
+            "name": "ERIK WEBER",
+            "associate_id_source": "event_roster",
+            "rating_before": 270,
+            "rating_change": -6,
+            "rating_after": 264,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 327,
+            "rating_change": 8,
+            "rating_after": 335,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-007",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 7,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "11:45",
+      "played_at": "2026-04-18T11:45:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ELISA CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            3,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 437,
+            "rating_change": 5,
+            "rating_after": 442,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 89626,
+            "name": "ELISA CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 218,
+            "rating_change": -3,
+            "rating_after": 215,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-008",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 8,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "11:45",
+      "played_at": "2026-04-18T11:45:00",
+      "players": [
+        {
+          "name": "MONALISA SIQUEIRA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            10,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY ZANDONA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            4,
+            12,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        2
+      ],
+      "winner": "ISABELLY ZANDONA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88943,
+            "name": "MONALISA SIQUEIRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 214,
+            "rating_change": -9,
+            "rating_after": 205,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 88974,
+            "name": "ISABELLY ZANDONA",
+            "associate_id_source": "event_roster",
+            "rating_before": 201,
+            "rating_change": 11,
+            "rating_after": 212,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-009",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 9,
+      "table": 14,
+      "date": "18/04/2026",
+      "time": "12:00",
+      "played_at": "2026-04-18T12:00:00",
+      "players": [
+        {
+          "name": "MARINA SCARPARO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISADORA BERNARDI",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            2,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARINA SCARPARO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87554,
+            "name": "MARINA SCARPARO",
+            "associate_id_source": "event_roster",
+            "rating_before": 442,
+            "rating_change": 8,
+            "rating_after": 450,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 88976,
+            "name": "ISADORA BERNARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 376,
+            "rating_change": -6,
+            "rating_after": 370,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-67-010",
+      "event_id": 5559,
+      "category_id": 67,
+      "category": "SUB-15 FEM",
+      "phase": "SUB-15 FEM - Única 01",
+      "game_number": 10,
+      "table": 15,
+      "date": "18/04/2026",
+      "time": "12:00",
+      "played_at": "2026-04-18T12:00:00",
+      "players": [
+        {
+          "name": "ELISA CASARIN",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            9,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ISABELLY ZANDONA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        2
+      ],
+      "winner": "ISABELLY ZANDONA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89626,
+            "name": "ELISA CASARIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 215,
+            "rating_change": -9,
+            "rating_after": 206,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          },
+          {
+            "associate_id": 88974,
+            "name": "ISABELLY ZANDONA",
+            "associate_id_source": "event_roster",
+            "rating_before": 212,
+            "rating_change": 11,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-113-001",
+      "event_id": 5559,
+      "category_id": 113,
+      "category": "SUB-11 FEM",
+      "phase": "SUB-11 FEM - Única 01",
+      "game_number": 1,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "12:00",
+      "played_at": "2026-04-18T12:00:00",
+      "players": [
+        {
+          "name": "MARIA COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LARA BREITENBACH",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            3,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "MARIA COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88485,
+            "name": "MARIA COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 292,
+            "rating_change": 8,
+            "rating_after": 300,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 88652,
+            "name": "LARA BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 234,
+            "rating_change": -6,
+            "rating_after": 228,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-120-014",
+      "event_id": 5559,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Final",
+      "game_number": 14,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "12:00",
+      "played_at": "2026-04-18T12:00:00",
+      "players": [
+        {
+          "name": "ANTONY MENEGON",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOAO COLDEBELLA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "ANTONY MENEGON",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 87552,
+            "name": "ANTONY MENEGON",
+            "associate_id_source": "event_roster",
+            "rating_before": 349,
+            "rating_change": 8,
+            "rating_after": 357,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 88486,
+            "name": "JOAO COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 274,
+            "rating_change": -6,
+            "rating_after": 268,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-54-024",
+      "event_id": 5559,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Final",
+      "game_number": 24,
+      "table": 16,
+      "date": "18/04/2026",
+      "time": "12:15",
+      "played_at": "2026-04-18T12:15:00",
+      "players": [
+        {
+          "name": "DAVI CHAVES",
+          "sets_won": 2,
+          "set_points": [
+            12,
+            9,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PEDRO GUGLIEMIN",
+          "sets_won": 1,
+          "set_points": [
+            10,
+            11,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "DAVI CHAVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90932,
+            "name": "DAVI CHAVES",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": 11,
+            "rating_after": 339,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 11
+          },
+          {
+            "associate_id": 86488,
+            "name": "PEDRO GUGLIEMIN",
+            "associate_id_source": "event_roster",
+            "rating_before": 335,
+            "rating_change": -9,
+            "rating_after": 326,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-113-002",
+      "event_id": 5559,
+      "category_id": 113,
+      "category": "SUB-11 FEM",
+      "phase": "SUB-11 FEM - Única 01",
+      "game_number": 2,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "12:15",
+      "played_at": "2026-04-18T12:15:00",
+      "players": [
+        {
+          "name": "BEATRIZ ZANARDI",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LARA BREITENBACH",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            6,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        0
+      ],
+      "winner": "BEATRIZ ZANARDI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89364,
+            "name": "BEATRIZ ZANARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 245,
+            "rating_change": 10,
+            "rating_after": 255,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 88652,
+            "name": "LARA BREITENBACH",
+            "associate_id_source": "event_roster",
+            "rating_before": 228,
+            "rating_change": -8,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5559-113-003",
+      "event_id": 5559,
+      "category_id": 113,
+      "category": "SUB-11 FEM",
+      "phase": "SUB-11 FEM - Única 01",
+      "game_number": 3,
+      "table": 17,
+      "date": "18/04/2026",
+      "time": "12:30",
+      "played_at": "2026-04-18T12:30:00",
+      "players": [
+        {
+          "name": "MARIA COLDEBELLA",
+          "sets_won": 2,
+          "set_points": [
+            6,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BEATRIZ ZANARDI",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            3,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        2,
+        1
+      ],
+      "winner": "MARIA COLDEBELLA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 88485,
+            "name": "MARIA COLDEBELLA",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": 9,
+            "rating_after": 309,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          },
+          {
+            "associate_id": 89364,
+            "name": "BEATRIZ ZANARDI",
+            "associate_id_source": "event_roster",
+            "rating_before": 255,
+            "rating_change": -7,
+            "rating_after": 248,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          }
+        ]
+      }
+    }
+  ]
+}

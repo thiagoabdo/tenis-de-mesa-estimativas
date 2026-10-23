@@ -1,0 +1,91 @@
+{
+  "associate_id": 89064,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89064&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T20:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 478,
+      "delta": -3,
+      "final": 475,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIS RIBEIRO"
+    },
+    {
+      "played_at": "2026-05-09T19:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 418,
+      "delta": 60,
+      "final": 478,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GIOVANI JUNIOR"
+    },
+    {
+      "played_at": "2026-05-09T18:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 376,
+      "delta": 42,
+      "final": 418,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITOR LORETO"
+    },
+    {
+      "played_at": "2026-05-09T16:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 334,
+      "delta": 42,
+      "final": 376,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITTOR MAHNIC"
+    },
+    {
+      "played_at": "2026-05-09T14:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 316,
+      "delta": 18,
+      "final": 334,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-09T11:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 280,
+      "delta": 36,
+      "final": 316,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO ETO"
+    },
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL STERN ............."
+    }
+  ]
+}

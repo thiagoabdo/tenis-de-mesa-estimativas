@@ -1,0 +1,703 @@
+{
+  "associate_id": 82310,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=82310&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T08:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 585,
+      "delta": -12,
+      "final": 573,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUCCA LIMA"
+    },
+    {
+      "played_at": "2026-09-27T08:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 585,
+      "delta": 0,
+      "final": 585,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO HAMAMOTO"
+    },
+    {
+      "played_at": "2026-08-23T08:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 591,
+      "delta": -6,
+      "final": 585,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JACOBO TABORDA"
+    },
+    {
+      "played_at": "2026-08-23T08:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 591,
+      "delta": 0,
+      "final": 591,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTOR DIAS"
+    },
+    {
+      "played_at": "2026-08-02T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 591,
+      "delta": 0,
+      "final": 591,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI MATTOS"
+    },
+    {
+      "played_at": "2026-08-02T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 591,
+      "delta": 0,
+      "final": 591,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO AVELAR"
+    },
+    {
+      "played_at": "2026-06-28T10:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 600,
+      "delta": -9,
+      "final": 591,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL BARBOSA"
+    },
+    {
+      "played_at": "2026-06-28T09:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 600,
+      "delta": 0,
+      "final": 600,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME FREITAS"
+    },
+    {
+      "played_at": "2026-06-28T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 546,
+      "delta": 54,
+      "final": 600,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO KADLUBISKI"
+    },
+    {
+      "played_at": "2026-05-10T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 549,
+      "delta": -3,
+      "final": 546,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GUILHERME OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-10T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 549,
+      "delta": 0,
+      "final": 549,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL RODRIGUES"
+    },
+    {
+      "played_at": "2026-05-10T08:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 489,
+      "delta": 60,
+      "final": 549,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HENRIQUE ROCHA"
+    },
+    {
+      "played_at": "2026-04-19T11:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 492,
+      "delta": -3,
+      "final": 489,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAUÃ MATHEUS"
+    },
+    {
+      "played_at": "2026-04-19T09:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 402,
+      "delta": 90,
+      "final": 492,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDO MIRANDA"
+    },
+    {
+      "played_at": "2026-04-19T08:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 381,
+      "delta": 21,
+      "final": 402,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NICOLAS OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-21T20:35:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 507,
+      "delta": -126,
+      "final": 381,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BENJAMIM REFUNDINI"
+    },
+    {
+      "played_at": "2026-03-21T16:50:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 615,
+      "delta": -108,
+      "final": 507,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATHEUS GOMES"
+    },
+    {
+      "played_at": "2026-03-20T19:45:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 678,
+      "delta": -63,
+      "final": 615,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICOLAS ANDRADE"
+    },
+    {
+      "played_at": "2026-03-20T18:05:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 588,
+      "delta": 90,
+      "final": 678,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO GOLEMBA"
+    },
+    {
+      "played_at": "2026-03-20T17:15:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 588,
+      "delta": 0,
+      "final": 588,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RICCARDO MACIEL"
+    },
+    {
+      "played_at": "2026-03-20T11:20:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 588,
+      "delta": 0,
+      "final": 588,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MANOLO GARCIA"
+    },
+    {
+      "played_at": "2026-03-20T09:40:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 444,
+      "delta": 144,
+      "final": 588,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LORENZO COSTA"
+    },
+    {
+      "played_at": "2026-03-20T08:50:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 390,
+      "delta": 54,
+      "final": 444,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OLAVO FIRINO"
+    },
+    {
+      "played_at": "2025-08-10T13:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 425,
+      "delta": -35,
+      "final": 390,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GUILHERME SILVEIRA"
+    },
+    {
+      "played_at": "2025-08-10T12:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 455,
+      "delta": -30,
+      "final": 425,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR SANTOS"
+    },
+    {
+      "played_at": "2025-08-10T08:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 415,
+      "delta": 40,
+      "final": 455,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO NAVARRO"
+    },
+    {
+      "played_at": "2025-08-09T10:35:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 430,
+      "delta": -15,
+      "final": 415,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO OBASE"
+    },
+    {
+      "played_at": "2025-08-09T09:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 500,
+      "delta": -70,
+      "final": 430,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS MELO"
+    },
+    {
+      "played_at": "2025-06-15T15:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 555,
+      "delta": -55,
+      "final": 500,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO MANDARINO"
+    },
+    {
+      "played_at": "2025-06-15T14:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 505,
+      "delta": 50,
+      "final": 555,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HEITOR SILVA"
+    },
+    {
+      "played_at": "2025-06-15T11:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 465,
+      "delta": 40,
+      "final": 505,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BERNARDO INOUE"
+    },
+    {
+      "played_at": "2025-06-15T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 435,
+      "delta": 30,
+      "final": 465,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EMANUEL TESCHE"
+    },
+    {
+      "played_at": "2025-06-14T13:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 435,
+      "delta": 0,
+      "final": 435,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAUÊ MARTINS"
+    },
+    {
+      "played_at": "2025-06-14T11:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 380,
+      "delta": 55,
+      "final": 435,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO MANDARINO"
+    },
+    {
+      "played_at": "2025-06-14T09:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 290,
+      "delta": 90,
+      "final": 380,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATHEUS NASCIMENTO"
+    },
+    {
+      "played_at": "2025-06-14T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 295,
+      "delta": -5,
+      "final": 290,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO ESSER"
+    },
+    {
+      "played_at": "2025-05-24T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 295,
+      "delta": 0,
+      "final": 295,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GIOVANNI DIAS"
+    },
+    {
+      "played_at": "2025-05-24T11:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 325,
+      "delta": -30,
+      "final": 295,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO TOYOTANI"
+    },
+    {
+      "played_at": "2025-04-27T10:30:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 341,
+      "delta": -16,
+      "final": 325,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LORENZO HORST"
+    },
+    {
+      "played_at": "2025-04-27T09:15:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 365,
+      "delta": -24,
+      "final": 341,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS MAEDA"
+    },
+    {
+      "played_at": "2025-04-27T08:00:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 393,
+      "delta": -28,
+      "final": 365,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ JUSTINA"
+    },
+    {
+      "played_at": "2025-04-26T10:35:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 407,
+      "delta": -14,
+      "final": 393,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RONALDO COROTEL"
+    },
+    {
+      "played_at": "2025-04-26T09:20:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 419,
+      "delta": -12,
+      "final": 407,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZER MATTOS"
+    },
+    {
+      "played_at": "2025-03-16T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 474,
+      "delta": -55,
+      "final": 419,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JORGE NATUME"
+    },
+    {
+      "played_at": "2025-03-16T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 444,
+      "delta": 30,
+      "final": 474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL BARBOSA"
+    },
+    {
+      "played_at": "2025-03-16T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 374,
+      "delta": 70,
+      "final": 444,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDUARDO MIYATAKE"
+    },
+    {
+      "played_at": "2025-03-16T08:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 349,
+      "delta": 25,
+      "final": 374,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO MALAMIN"
+    },
+    {
+      "played_at": "2025-03-14T20:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 384,
+      "delta": -35,
+      "final": 349,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO ITARUCZAK"
+    },
+    {
+      "played_at": "2025-03-14T18:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 314,
+      "delta": 70,
+      "final": 384,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO KOSCHEL"
+    },
+    {
+      "played_at": "2025-03-14T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 244,
+      "delta": 70,
+      "final": 314,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DIESLEY NEVES"
+    },
+    {
+      "played_at": "2025-03-14T09:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 254,
+      "delta": -10,
+      "final": 244,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAMUEL MITSUI"
+    },
+    {
+      "played_at": "2025-03-14T08:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 254,
+      "delta": 0,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO HAMAMOTO"
+    },
+    {
+      "played_at": "2024-09-29T10:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 256,
+      "delta": -2,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS KASUGA"
+    },
+    {
+      "played_at": "2024-09-29T09:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 242,
+      "delta": 14,
+      "final": 256,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAEL LUBIAN"
+    },
+    {
+      "played_at": "2024-09-29T08:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 252,
+      "delta": -10,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO MANDARINO"
+    },
+    {
+      "played_at": "2024-09-28T13:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 264,
+      "delta": -12,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO MATTOS"
+    },
+    {
+      "played_at": "2024-09-28T10:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 244,
+      "delta": 20,
+      "final": 264,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDUARDO RODRIGUES"
+    },
+    {
+      "played_at": "2024-09-28T08:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL SILVA ............."
+    }
+  ]
+}

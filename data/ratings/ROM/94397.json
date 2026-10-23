@@ -1,0 +1,43 @@
+{
+  "associate_id": 94397,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94397&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-25T16:48:00",
+      "event": "TMB Estadual de Rolim de Moura/RO - 3ª Etapa - 2026",
+      "initial": 259,
+      "delta": -15,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIELA COSTA"
+    },
+    {
+      "played_at": "2026-07-25T15:12:00",
+      "event": "TMB Estadual de Rolim de Moura/RO - 3ª Etapa - 2026",
+      "initial": 241,
+      "delta": 18,
+      "final": 259,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIANE QUERINO"
+    },
+    {
+      "played_at": "2026-07-25T14:24:00",
+      "event": "TMB Estadual de Rolim de Moura/RO - 3ª Etapa - 2026",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KETHELYN FERREIRA ............."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "associate_id": 91430,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91430&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T10:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 307,
+      "delta": -3,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIANA LOPES"
+    },
+    {
+      "played_at": "2026-03-14T10:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 280,
+      "delta": 27,
+      "final": 307,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATA BUENO"
+    },
+    {
+      "played_at": "2026-03-14T08:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SONIA BEZERRA ............."
+    }
+  ]
+}

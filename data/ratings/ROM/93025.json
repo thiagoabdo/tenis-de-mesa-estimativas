@@ -1,0 +1,91 @@
+{
+  "associate_id": 93025,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93025&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T10:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 148,
+      "delta": -12,
+      "final": 136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RUAN FREITAS"
+    },
+    {
+      "played_at": "2026-09-20T09:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 181,
+      "delta": -33,
+      "final": 148,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PEDRO MENDES"
+    },
+    {
+      "played_at": "2026-09-19T16:30:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 190,
+      "delta": -9,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALESSANDRO SOUSA"
+    },
+    {
+      "played_at": "2026-09-19T15:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 196,
+      "delta": -6,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENILSON MENEZES"
+    },
+    {
+      "played_at": "2026-09-19T14:00:00",
+      "event": "TMB Estadual - 4º Etapa do Campeonato Paraense 2026",
+      "initial": 196,
+      "delta": 0,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO NASCIMENTO"
+    },
+    {
+      "played_at": "2026-06-14T13:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 214,
+      "delta": -18,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTONIO MATOS"
+    },
+    {
+      "played_at": "2026-06-14T09:30:00",
+      "event": "3º Etapa do TMB Estadual Campeonato Paraense 2026",
+      "initial": 250,
+      "delta": -36,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HUGO BARROS ............."
+    }
+  ]
+}

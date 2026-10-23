@@ -1,0 +1,55 @@
+{
+  "associate_id": 90922,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90922&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-01T09:45:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 228,
+      "delta": -6,
+      "final": 222,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VICENTE MOUSSALLE"
+    },
+    {
+      "played_at": "2026-03-01T09:30:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 237,
+      "delta": -9,
+      "final": 228,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "RÔMULO SILVA"
+    },
+    {
+      "played_at": "2026-03-01T08:15:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 245,
+      "delta": -8,
+      "final": 237,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUCAS COSTA"
+    },
+    {
+      "played_at": "2026-03-01T08:00:00",
+      "event": "TMB Regional - 1ª Etapa - Liga Escolar - Três Coroas/RS - 2026",
+      "initial": 250,
+      "delta": -5,
+      "final": 245,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VICTOR KUHN ............."
+    }
+  ]
+}

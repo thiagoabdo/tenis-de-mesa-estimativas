@@ -1,0 +1,79 @@
+{
+  "associate_id": 91557,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91557&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T15:36:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 175,
+      "delta": -24,
+      "final": 151,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALOM LESSA"
+    },
+    {
+      "played_at": "2026-03-14T14:48:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 223,
+      "delta": -48,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME SOUZA"
+    },
+    {
+      "played_at": "2026-03-14T11:36:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 253,
+      "delta": -30,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO LOPES"
+    },
+    {
+      "played_at": "2026-03-14T10:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 223,
+      "delta": 30,
+      "final": 253,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE FERRI"
+    },
+    {
+      "played_at": "2026-03-14T09:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 244,
+      "delta": -21,
+      "final": 223,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI PERONDI"
+    },
+    {
+      "played_at": "2026-03-14T08:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO CAMPOS ............."
+    }
+  ]
+}

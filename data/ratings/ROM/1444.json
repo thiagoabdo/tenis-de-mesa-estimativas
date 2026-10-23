@@ -1,0 +1,835 @@
+{
+  "associate_id": 1444,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=1444&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-29T16:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1184,
+      "delta": -11,
+      "final": 1173,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAFAEL RIBEIRO"
+    },
+    {
+      "played_at": "2026-08-29T15:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1177,
+      "delta": 7,
+      "final": 1184,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDERSON BARBOSA"
+    },
+    {
+      "played_at": "2026-08-29T15:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1173,
+      "delta": 4,
+      "final": 1177,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCAS AZEVEDO"
+    },
+    {
+      "played_at": "2026-08-29T14:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1165,
+      "delta": 8,
+      "final": 1173,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL RIBEIRO"
+    },
+    {
+      "played_at": "2026-08-29T13:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1155,
+      "delta": 10,
+      "final": 1165,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS COSTA"
+    },
+    {
+      "played_at": "2026-08-29T11:20:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1154,
+      "delta": 1,
+      "final": 1155,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO HERCULANO"
+    },
+    {
+      "played_at": "2026-08-29T10:40:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1168,
+      "delta": -14,
+      "final": 1154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDERSON BARBOSA"
+    },
+    {
+      "played_at": "2026-08-29T10:00:00",
+      "event": "TMB Regional - COPA MG - 2ª Etapa Centro",
+      "initial": 1188,
+      "delta": -20,
+      "final": 1168,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "AYSSER LAIZO"
+    },
+    {
+      "played_at": "2026-04-12T14:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 1218,
+      "delta": -30,
+      "final": 1188,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HENRY SATO"
+    },
+    {
+      "played_at": "2026-04-12T14:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 1170,
+      "delta": 48,
+      "final": 1218,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO RAMOS"
+    },
+    {
+      "played_at": "2026-04-12T13:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 1155,
+      "delta": 15,
+      "final": 1170,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEANDRO NEVES"
+    },
+    {
+      "played_at": "2026-04-12T12:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 1140,
+      "delta": 15,
+      "final": 1155,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EMERSON PEREIRA"
+    },
+    {
+      "played_at": "2026-04-12T12:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 1161,
+      "delta": -21,
+      "final": 1140,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAUL MACEDO"
+    },
+    {
+      "played_at": "2026-04-12T11:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campeonato Mineiro - Belo Horizonte/MG - 2026",
+      "initial": 1137,
+      "delta": 24,
+      "final": 1161,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HENRY SATO"
+    },
+    {
+      "played_at": "2026-03-07T16:24:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1146,
+      "delta": -9,
+      "final": 1137,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO RAMOS"
+    },
+    {
+      "played_at": "2026-03-07T16:23:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1142,
+      "delta": 4,
+      "final": 1146,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDERSON BARBOSA"
+    },
+    {
+      "played_at": "2026-03-07T15:26:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1138,
+      "delta": 4,
+      "final": 1142,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANDERSON BARBOSA"
+    },
+    {
+      "played_at": "2026-03-07T15:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1136,
+      "delta": 2,
+      "final": 1138,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ AMARAL"
+    },
+    {
+      "played_at": "2026-03-07T14:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1134,
+      "delta": 2,
+      "final": 1136,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITOR SCARPATTI"
+    },
+    {
+      "played_at": "2026-03-07T13:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1133,
+      "delta": 1,
+      "final": 1134,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JACKSON FERNANDES"
+    },
+    {
+      "played_at": "2026-03-07T09:52:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1127,
+      "delta": 6,
+      "final": 1133,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL SANTOS"
+    },
+    {
+      "played_at": "2026-03-07T09:51:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 1126,
+      "delta": 1,
+      "final": 1127,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IGOR ATELA"
+    },
+    {
+      "played_at": "2025-11-23T11:20:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 1132,
+      "delta": -6,
+      "final": 1126,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME SIMÃO"
+    },
+    {
+      "played_at": "2025-11-23T11:00:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 1134,
+      "delta": -2,
+      "final": 1132,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITOR FARIA"
+    },
+    {
+      "played_at": "2025-11-22T18:00:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 1138,
+      "delta": -4,
+      "final": 1134,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LEANDRO NASCIMENTO"
+    },
+    {
+      "played_at": "2025-11-22T17:20:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 1178,
+      "delta": -40,
+      "final": 1138,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOSÉ SANTOS"
+    },
+    {
+      "played_at": "2025-11-22T16:40:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 1174,
+      "delta": 4,
+      "final": 1178,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TIAGO RODRIGUES"
+    },
+    {
+      "played_at": "2025-11-22T16:00:00",
+      "event": "TMB Estadual - 2ª Etapa Campeonato Mineiro - Contagem/MG - 2025",
+      "initial": 1172,
+      "delta": 2,
+      "final": 1174,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAERCIO SCHNEIDER"
+    },
+    {
+      "played_at": "2020-12-13T14:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 1192,
+      "delta": -20,
+      "final": 1172,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ WLODARCZYK"
+    },
+    {
+      "played_at": "2020-12-13T13:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 1192,
+      "delta": 0,
+      "final": 1192,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO VITAL"
+    },
+    {
+      "played_at": "2020-12-13T11:00:00",
+      "event": "Tmb Platinum Campeonato Brasileiro - Ranking - Rio De Janeiro/rj - 2020",
+      "initial": 1122,
+      "delta": 70,
+      "final": 1192,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2020-12-12T08:30:02",
+      "event": "TMB Platinum Campeonato Brasileiro - Seleção Estadual - Rio de Janeiro/RJ - 2020",
+      "initial": 1122,
+      "delta": 0,
+      "final": 1122,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNO VITAL"
+    },
+    {
+      "played_at": "2020-12-11T18:32:00",
+      "event": "TMB Platinum Campeonato Brasileiro - Seleção Estadual - Rio de Janeiro/RJ - 2020",
+      "initial": 1342,
+      "delta": -220,
+      "final": 1122,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JORGE LEITE"
+    },
+    {
+      "played_at": "2020-12-11T18:30:10",
+      "event": "TMB Platinum Campeonato Brasileiro - Seleção Estadual - Rio de Janeiro/RJ - 2020",
+      "initial": 1332,
+      "delta": 10,
+      "final": 1342,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINÍCIUS BUENO"
+    },
+    {
+      "played_at": "2020-12-11T10:47:00",
+      "event": "TMB Platinum Campeonato Brasileiro - Equipes de Clubes - Rio de Janeiro/RJ - 2020",
+      "initial": 1392,
+      "delta": -60,
+      "final": 1332,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ WLODARCZYK"
+    },
+    {
+      "played_at": "2020-12-11T10:45:17",
+      "event": "TMB Platinum Campeonato Brasileiro - Equipes de Clubes - Rio de Janeiro/RJ - 2020",
+      "initial": 1432,
+      "delta": -40,
+      "final": 1392,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "THIAGO ALMEIDA"
+    },
+    {
+      "played_at": "2020-12-11T08:31:00",
+      "event": "TMB Platinum Campeonato Brasileiro - Equipes de Clubes - Rio de Janeiro/RJ - 2020",
+      "initial": 1272,
+      "delta": 160,
+      "final": 1432,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS FUJIHARA"
+    },
+    {
+      "played_at": "2020-12-11T08:30:00",
+      "event": "TMB Platinum Campeonato Brasileiro - Equipes de Clubes - Rio de Janeiro/RJ - 2020",
+      "initial": 1262,
+      "delta": 10,
+      "final": 1272,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ROBSON ESPERANÇA"
+    },
+    {
+      "played_at": "2020-03-07T17:35:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1342,
+      "delta": -80,
+      "final": 1262,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ SILVA"
+    },
+    {
+      "played_at": "2020-03-07T16:45:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1442,
+      "delta": -100,
+      "final": 1342,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LEANDRO ROSSINI"
+    },
+    {
+      "played_at": "2020-03-07T15:55:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1437,
+      "delta": 5,
+      "final": 1442,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE TELES"
+    },
+    {
+      "played_at": "2020-03-06T18:10:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1397,
+      "delta": 40,
+      "final": 1437,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "THIAGO UIEDA"
+    },
+    {
+      "played_at": "2020-03-06T16:55:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1357,
+      "delta": 40,
+      "final": 1397,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUSTAVO RIBEIRO"
+    },
+    {
+      "played_at": "2020-03-06T15:40:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1297,
+      "delta": 60,
+      "final": 1357,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "THIAGO UIEDA"
+    },
+    {
+      "played_at": "2020-03-06T14:00:00",
+      "event": "TMB_Challenger PLUS_BELO HORIZONTE 2020_MG",
+      "initial": 1352,
+      "delta": -55,
+      "final": 1297,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NICOLAS ANDRADE"
+    },
+    {
+      "played_at": "2016-02-20T17:26:00",
+      "event": "5º Bh Open De Tênis De Mesa 2016 - Olimpico",
+      "initial": 1348,
+      "delta": 4,
+      "final": 1352,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOEL DORNAS"
+    },
+    {
+      "played_at": "2016-02-20T17:25:00",
+      "event": "5º Bh Open De Tênis De Mesa 2016 - Olimpico",
+      "initial": 1346,
+      "delta": 2,
+      "final": 1348,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CAIO MELLO"
+    },
+    {
+      "played_at": "2016-02-20T17:24:00",
+      "event": "5º Bh Open De Tênis De Mesa 2016 - Olimpico",
+      "initial": 1344,
+      "delta": 2,
+      "final": 1346,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO PROVEZANO"
+    },
+    {
+      "played_at": "2016-02-20T17:23:00",
+      "event": "5º Bh Open De Tênis De Mesa 2016 - Olimpico",
+      "initial": 1342,
+      "delta": 2,
+      "final": 1344,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVID PEREZ"
+    },
+    {
+      "played_at": "2016-02-20T17:22:00",
+      "event": "5º Bh Open De Tênis De Mesa 2016 - Olimpico",
+      "initial": 1356,
+      "delta": -14,
+      "final": 1342,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MICHAEL KLEEFELDT"
+    },
+    {
+      "played_at": "2016-02-20T17:21:00",
+      "event": "5º Bh Open De Tênis De Mesa 2016 - Olimpico",
+      "initial": 1358,
+      "delta": -2,
+      "final": 1356,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDUARDO MARCOS"
+    },
+    {
+      "played_at": "2014-11-01T08:00:17",
+      "event": "46º Campeonato Brasileiro - Equipes De Seleções Estaduais",
+      "initial": 1368,
+      "delta": -10,
+      "final": 1358,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "AUGUSTO CORREA"
+    },
+    {
+      "played_at": "2014-10-30T08:00:18",
+      "event": "46º Campeonato Brasileiro - Equipes De Clubes",
+      "initial": 1368,
+      "delta": 0,
+      "final": 1368,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HUMBERTO JÚNIOR"
+    },
+    {
+      "played_at": "2014-10-30T08:00:10",
+      "event": "46º Campeonato Brasileiro - Equipes De Clubes",
+      "initial": 1288,
+      "delta": 80,
+      "final": 1368,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO MAGAGNIN"
+    },
+    {
+      "played_at": "2013-11-02T08:00:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 1288,
+      "delta": 0,
+      "final": 1288,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIULIANO PEIXOTO"
+    },
+    {
+      "played_at": "2013-10-31T21:10:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 1253,
+      "delta": 35,
+      "final": 1288,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ADILSON ALCÂNTARA"
+    },
+    {
+      "played_at": "2013-10-31T16:00:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 1243,
+      "delta": 10,
+      "final": 1253,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ARTHUR CONCIANI"
+    },
+    {
+      "played_at": "2013-10-31T13:20:00",
+      "event": "44º Campeonato Brasileiro Individual Ranking E Ranking Especial",
+      "initial": 1208,
+      "delta": 35,
+      "final": 1243,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOAQUIM JUNIOR"
+    },
+    {
+      "played_at": "2013-10-30T00:00:00",
+      "event": "44º Campeonato Brasileiro De Equipes Seleções Estaduais 2013",
+      "initial": 1163,
+      "delta": 45,
+      "final": 1208,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ SILVA"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1062,
+      "delta": 1,
+      "final": 1063,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANGELO REIS"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1063,
+      "delta": 3,
+      "final": 1066,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCO MANCINI"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1066,
+      "delta": 2,
+      "final": 1068,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRENO LOPES"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1068,
+      "delta": 23,
+      "final": 1091,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MICHAEL KLEEFELDT"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1091,
+      "delta": 1,
+      "final": 1092,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1092,
+      "delta": 2,
+      "final": 1094,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CASSIO SADDI"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1094,
+      "delta": 3,
+      "final": 1097,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FÁBIO MENDES"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1097,
+      "delta": 3,
+      "final": 1100,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCO MANCINI"
+    },
+    {
+      "played_at": "2008-03-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1100,
+      "delta": 3,
+      "final": 1103,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIO SOUZA"
+    },
+    {
+      "played_at": "2008-01-17T00:00:00",
+      "event": "COPA MINAS GERAIS - ETAPA BH",
+      "initial": 1058,
+      "delta": 4,
+      "final": 1062,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CHARLES FIRBIDA ............."
+    }
+  ]
+}

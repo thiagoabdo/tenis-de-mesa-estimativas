@@ -1,0 +1,55 @@
+{
+  "associate_id": 85624,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=85624&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-21T10:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 166,
+      "delta": -12,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO CIRNE"
+    },
+    {
+      "played_at": "2026-06-21T09:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 187,
+      "delta": -21,
+      "final": 166,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO LUCENA"
+    },
+    {
+      "played_at": "2026-03-01T11:00:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 220,
+      "delta": -33,
+      "final": 187,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "AMAURI FELINTO"
+    },
+    {
+      "played_at": "2026-03-01T08:30:00",
+      "event": "TMB Estadual 2026 - 1ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HEITOR VARELLA ............."
+    }
+  ]
+}

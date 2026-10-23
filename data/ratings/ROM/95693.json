@@ -1,0 +1,55 @@
+{
+  "associate_id": 95693,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=95693&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 175,
+      "delta": -33,
+      "final": 142,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO CAMARGO"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 202,
+      "delta": -27,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO SUZUKI"
+    },
+    {
+      "played_at": "2026-08-22T09:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 229,
+      "delta": -27,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ ROMITTI"
+    },
+    {
+      "played_at": "2026-08-22T08:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 250,
+      "delta": -21,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIO MIURA ............."
+    }
+  ]
+}

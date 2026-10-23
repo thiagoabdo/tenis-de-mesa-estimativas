@@ -1,0 +1,919 @@
+{
+  "associate_id": 88556,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=88556&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T12:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 915,
+      "delta": -18,
+      "final": 897,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABRÍCIO ABREU"
+    },
+    {
+      "played_at": "2026-09-20T10:00:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 891,
+      "delta": 24,
+      "final": 915,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CALDUN SALHA"
+    },
+    {
+      "played_at": "2026-09-19T18:00:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 861,
+      "delta": 30,
+      "final": 891,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SAMUEL COSTA"
+    },
+    {
+      "played_at": "2026-09-19T12:00:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 861,
+      "delta": 0,
+      "final": 861,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO SILVA"
+    },
+    {
+      "played_at": "2026-09-19T10:30:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 849,
+      "delta": 12,
+      "final": 861,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCOS ARAUJO"
+    },
+    {
+      "played_at": "2026-09-19T08:00:00",
+      "event": "TMB - Copa Brasil de Tênis de mesa Goiânia- GO",
+      "initial": 849,
+      "delta": 0,
+      "final": 849,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO RUSSO"
+    },
+    {
+      "played_at": "2026-08-02T17:10:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 885,
+      "delta": -36,
+      "final": 849,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PEDRO GONÇALVES"
+    },
+    {
+      "played_at": "2026-08-02T16:45:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 861,
+      "delta": 24,
+      "final": 885,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ORLANDO JUNIOR"
+    },
+    {
+      "played_at": "2026-08-02T16:20:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 849,
+      "delta": 12,
+      "final": 861,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBERTO MAIA"
+    },
+    {
+      "played_at": "2026-08-02T15:55:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 825,
+      "delta": 24,
+      "final": 849,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GABRIEL FARIA"
+    },
+    {
+      "played_at": "2026-08-02T15:05:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 816,
+      "delta": 9,
+      "final": 825,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NÍCOLAS FERREIRA"
+    },
+    {
+      "played_at": "2026-08-01T16:20:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 816,
+      "delta": 0,
+      "final": 816,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JHEAN TOVO"
+    },
+    {
+      "played_at": "2026-08-01T15:30:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 849,
+      "delta": -33,
+      "final": 816,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCO SILVA"
+    },
+    {
+      "played_at": "2026-08-01T15:05:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 915,
+      "delta": -66,
+      "final": 849,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS MACHADO"
+    },
+    {
+      "played_at": "2026-08-01T14:40:00",
+      "event": "TBM - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 951,
+      "delta": -36,
+      "final": 915,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LINDEVALDO CAMARGO"
+    },
+    {
+      "played_at": "2026-06-28T11:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 879,
+      "delta": 72,
+      "final": 951,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELDER PEREIRA"
+    },
+    {
+      "played_at": "2026-06-28T11:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 789,
+      "delta": 90,
+      "final": 879,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL MELLI"
+    },
+    {
+      "played_at": "2026-06-27T20:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 753,
+      "delta": 36,
+      "final": 789,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EMERSON LIMA"
+    },
+    {
+      "played_at": "2026-06-27T18:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 591,
+      "delta": 162,
+      "final": 753,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PEDRO MEDEIROS"
+    },
+    {
+      "played_at": "2026-06-27T16:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 528,
+      "delta": 63,
+      "final": 591,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL PAIVA"
+    },
+    {
+      "played_at": "2026-06-27T12:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 528,
+      "delta": 0,
+      "final": 528,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CÁSSIO LIANDRO"
+    },
+    {
+      "played_at": "2026-06-27T11:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 420,
+      "delta": 108,
+      "final": 528,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE ARAGÃO"
+    },
+    {
+      "played_at": "2026-06-27T10:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 474,
+      "delta": -54,
+      "final": 420,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LINDEVALDO CAMARGO"
+    },
+    {
+      "played_at": "2026-05-31T15:30:00",
+      "event": "TMB - ESTADUAL - 3ª COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 486,
+      "delta": -12,
+      "final": 474,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CANNON DIAS"
+    },
+    {
+      "played_at": "2026-05-31T14:40:00",
+      "event": "TMB - ESTADUAL - 3ª COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 486,
+      "delta": 0,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADRYAN SANTANA"
+    },
+    {
+      "played_at": "2026-05-31T14:15:00",
+      "event": "TMB - ESTADUAL - 3ª COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 486,
+      "delta": 0,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILSON OZAWA"
+    },
+    {
+      "played_at": "2026-05-30T10:59:00",
+      "event": "TMB - ESTADUAL - 3ª COPA GOIANA DE TÊNIS DE MESA - 2026",
+      "initial": 486,
+      "delta": 0,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JHEAN TOVO"
+    },
+    {
+      "played_at": "2026-05-22T19:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 486,
+      "delta": 0,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WALLISON SANTOS"
+    },
+    {
+      "played_at": "2026-05-22T18:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 486,
+      "delta": 0,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO CLARET"
+    },
+    {
+      "played_at": "2026-05-20T18:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 576,
+      "delta": -90,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIANO MACIEL"
+    },
+    {
+      "played_at": "2026-05-20T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 702,
+      "delta": -126,
+      "final": 576,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DAVI CORRÊA"
+    },
+    {
+      "played_at": "2026-04-26T20:35:00",
+      "event": "TMB ESTADUAL - 2ª COPA GOIANA DE TÊNIS DE MESA 2026",
+      "initial": 711,
+      "delta": -9,
+      "final": 702,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WELDER FERNANDES"
+    },
+    {
+      "played_at": "2026-04-26T20:27:00",
+      "event": "TMB ESTADUAL - 2ª COPA GOIANA DE TÊNIS DE MESA 2026",
+      "initial": 687,
+      "delta": 24,
+      "final": 711,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KENSLEY NASCIMENTO"
+    },
+    {
+      "played_at": "2026-04-26T20:26:00",
+      "event": "TMB ESTADUAL - 2ª COPA GOIANA DE TÊNIS DE MESA 2026",
+      "initial": 660,
+      "delta": 27,
+      "final": 687,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ROBERTO MAIA"
+    },
+    {
+      "played_at": "2026-04-26T17:14:00",
+      "event": "TMB ESTADUAL - 2ª COPA GOIANA DE TÊNIS DE MESA 2026",
+      "initial": 606,
+      "delta": 54,
+      "final": 660,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ORLANDO JUNIOR"
+    },
+    {
+      "played_at": "2026-04-25T23:00:00",
+      "event": "TMB ESTADUAL - 2ª COPA GOIANA DE TÊNIS DE MESA 2026",
+      "initial": 666,
+      "delta": -60,
+      "final": 606,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS MACHADO"
+    },
+    {
+      "played_at": "2026-04-25T15:37:00",
+      "event": "TMB ESTADUAL - 2ª COPA GOIANA DE TÊNIS DE MESA 2026",
+      "initial": 666,
+      "delta": 0,
+      "final": 666,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JHEAN TOVO"
+    },
+    {
+      "played_at": "2026-03-21T21:25:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 702,
+      "delta": -36,
+      "final": 666,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE TOPOROSKI"
+    },
+    {
+      "played_at": "2026-03-21T19:20:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 792,
+      "delta": -90,
+      "final": 702,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCO FILHO"
+    },
+    {
+      "played_at": "2026-03-21T11:00:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 792,
+      "delta": 0,
+      "final": 792,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATHEUS OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-21T09:45:00",
+      "event": "TMB Copa Brasil Ouro de Tênis de Mesa - Paranaguá-PR - 2026 Individual Masculino",
+      "initial": 882,
+      "delta": -90,
+      "final": 792,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RÉGULO BONFIGLIO"
+    },
+    {
+      "played_at": "2026-03-14T16:58:00",
+      "event": "TMB ESTADUAL - 1º COPA GOIANA - 2026",
+      "initial": 882,
+      "delta": 0,
+      "final": 882,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ROBSON AMARAL"
+    },
+    {
+      "played_at": "2026-03-14T16:57:00",
+      "event": "TMB ESTADUAL - 1º COPA GOIANA - 2026",
+      "initial": 882,
+      "delta": 0,
+      "final": 882,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KENZO DOMINGUES"
+    },
+    {
+      "played_at": "2026-02-15T23:23:00",
+      "event": "TMB ESTADUAL - 1º COPA GOIANA - 2026",
+      "initial": 870,
+      "delta": 12,
+      "final": 882,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO PEREIRA"
+    },
+    {
+      "played_at": "2026-02-15T13:38:00",
+      "event": "TMB ESTADUAL - 1º COPA GOIANA - 2026",
+      "initial": 858,
+      "delta": 12,
+      "final": 870,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KENSLEY NASCIMENTO"
+    },
+    {
+      "played_at": "2026-02-15T13:37:00",
+      "event": "TMB ESTADUAL - 1º COPA GOIANA - 2026",
+      "initial": 846,
+      "delta": 12,
+      "final": 858,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KENSLEY NASCIMENTO"
+    },
+    {
+      "played_at": "2026-02-15T08:55:00",
+      "event": "TMB ESTADUAL - 1º COPA GOIANA - 2026",
+      "initial": 840,
+      "delta": 6,
+      "final": 846,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATHAN VELOSO"
+    },
+    {
+      "played_at": "2025-12-14T16:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 900,
+      "delta": -60,
+      "final": 840,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE LUZ"
+    },
+    {
+      "played_at": "2025-12-14T16:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 820,
+      "delta": 80,
+      "final": 900,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ARTHUR LUNARDELLI"
+    },
+    {
+      "played_at": "2025-12-14T15:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 780,
+      "delta": 40,
+      "final": 820,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO NAVARRO"
+    },
+    {
+      "played_at": "2025-12-14T12:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 740,
+      "delta": 40,
+      "final": 780,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE SCHIPMANN"
+    },
+    {
+      "played_at": "2025-12-12T10:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 740,
+      "delta": 0,
+      "final": 740,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JEFERSON RANK"
+    },
+    {
+      "played_at": "2025-12-12T08:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 740,
+      "delta": 0,
+      "final": 740,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL BECKER"
+    },
+    {
+      "played_at": "2025-11-30T15:32:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 732,
+      "delta": 8,
+      "final": 740,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATEUS GARCIA"
+    },
+    {
+      "played_at": "2025-11-30T14:44:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 724,
+      "delta": 8,
+      "final": 732,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMUEL JUNIOR"
+    },
+    {
+      "played_at": "2025-11-30T14:43:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 714,
+      "delta": 10,
+      "final": 724,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "KENSLEY NASCIMENTO"
+    },
+    {
+      "played_at": "2025-11-30T14:42:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 708,
+      "delta": 6,
+      "final": 714,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIO LOPES"
+    },
+    {
+      "played_at": "2025-11-30T14:41:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 702,
+      "delta": 6,
+      "final": 708,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATHAN VELOSO"
+    },
+    {
+      "played_at": "2025-11-30T14:27:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 696,
+      "delta": 6,
+      "final": 702,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO NETTO"
+    },
+    {
+      "played_at": "2025-11-29T21:56:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 714,
+      "delta": -18,
+      "final": 696,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEXANDRE SILVA"
+    },
+    {
+      "played_at": "2025-11-29T21:55:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 714,
+      "delta": 0,
+      "final": 714,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VALDINEIS MEDEIROS"
+    },
+    {
+      "played_at": "2025-11-29T08:07:00",
+      "event": "TMB ESTADUAL- 5º COPA GOIANA DE TÊNIS DE MESA",
+      "initial": 706,
+      "delta": 8,
+      "final": 714,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SAMUEL JUNIOR"
+    },
+    {
+      "played_at": "2025-10-19T19:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 626,
+      "delta": 80,
+      "final": 706,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE SILVA"
+    },
+    {
+      "played_at": "2025-10-19T19:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 556,
+      "delta": 70,
+      "final": 626,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAIKON SILVA"
+    },
+    {
+      "played_at": "2025-10-19T18:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 476,
+      "delta": 80,
+      "final": 556,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CRISTIANO ALVES"
+    },
+    {
+      "played_at": "2025-10-19T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 431,
+      "delta": 45,
+      "final": 476,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "IVAN NOGUEIRA"
+    },
+    {
+      "played_at": "2025-10-19T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 381,
+      "delta": 50,
+      "final": 431,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "JOÃO REIS"
+    },
+    {
+      "played_at": "2025-10-19T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 326,
+      "delta": 55,
+      "final": 381,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO BERTANZIN"
+    },
+    {
+      "played_at": "2025-10-19T12:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 286,
+      "delta": 40,
+      "final": 326,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO CHAVES"
+    },
+    {
+      "played_at": "2025-09-14T16:05:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 302,
+      "delta": -16,
+      "final": 286,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MÁRCIO SILVA"
+    },
+    {
+      "played_at": "2025-09-14T15:40:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 282,
+      "delta": 20,
+      "final": 302,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTOR VALADÃO"
+    },
+    {
+      "played_at": "2025-09-14T14:50:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 288,
+      "delta": -6,
+      "final": 282,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WELDER FERNANDES"
+    },
+    {
+      "played_at": "2025-09-14T14:25:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 264,
+      "delta": 24,
+      "final": 288,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SAMUEL JUNIOR"
+    },
+    {
+      "played_at": "2025-09-13T15:15:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 270,
+      "delta": -6,
+      "final": 264,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JHEAN TOVO"
+    },
+    {
+      "played_at": "2025-09-13T14:25:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCESCO ARENAS"
+    },
+    {
+      "played_at": "2025-09-13T14:00:00",
+      "event": "TMB - ESTADUAL 4º COPA GOIANA DE TÊNIS DE MESA 2025",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO JÚNIOR ............."
+    }
+  ]
+}

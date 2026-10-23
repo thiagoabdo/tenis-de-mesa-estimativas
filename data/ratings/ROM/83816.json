@@ -1,0 +1,955 @@
+{
+  "associate_id": 83816,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=83816&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-02T16:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 870,
+      "delta": -108,
+      "final": 762,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS MOURA"
+    },
+    {
+      "played_at": "2026-08-02T13:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 708,
+      "delta": 162,
+      "final": 870,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SEBASTIÃO FILHO"
+    },
+    {
+      "played_at": "2026-08-02T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 807,
+      "delta": -99,
+      "final": 708,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOAQUIM NETO"
+    },
+    {
+      "played_at": "2026-08-01T20:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 771,
+      "delta": 36,
+      "final": 807,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ EVANGELISTA"
+    },
+    {
+      "played_at": "2026-08-01T19:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 708,
+      "delta": 63,
+      "final": 771,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO FREITAS"
+    },
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 726,
+      "delta": -18,
+      "final": 708,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO SANTOS"
+    },
+    {
+      "played_at": "2026-08-01T10:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 546,
+      "delta": 180,
+      "final": 726,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO EVANGELISTA"
+    },
+    {
+      "played_at": "2026-08-01T08:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 546,
+      "delta": 0,
+      "final": 546,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO LIMA"
+    },
+    {
+      "played_at": "2026-07-31T19:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 456,
+      "delta": 90,
+      "final": 546,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BENJAMIN SOUSA"
+    },
+    {
+      "played_at": "2026-07-31T13:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 456,
+      "delta": 0,
+      "final": 456,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI VIDAL"
+    },
+    {
+      "played_at": "2026-07-31T10:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 483,
+      "delta": -27,
+      "final": 456,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "WENDER JÚNIOR"
+    },
+    {
+      "played_at": "2026-06-07T15:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 510,
+      "delta": -27,
+      "final": 483,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL RODRIGUES"
+    },
+    {
+      "played_at": "2026-06-07T14:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 474,
+      "delta": 36,
+      "final": 510,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PEDRO PESSOA"
+    },
+    {
+      "played_at": "2026-06-07T10:40:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 444,
+      "delta": 30,
+      "final": 474,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RICHARD SOUSA"
+    },
+    {
+      "played_at": "2026-06-06T20:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 456,
+      "delta": -12,
+      "final": 444,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS SANTOS"
+    },
+    {
+      "played_at": "2026-06-06T19:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 474,
+      "delta": -18,
+      "final": 456,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO RIBAMAR"
+    },
+    {
+      "played_at": "2026-06-06T18:00:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 459,
+      "delta": 15,
+      "final": 474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MICAEL ROCHA"
+    },
+    {
+      "played_at": "2026-06-06T16:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 441,
+      "delta": 18,
+      "final": 459,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LENILSON VIANA"
+    },
+    {
+      "played_at": "2026-06-06T11:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 459,
+      "delta": -18,
+      "final": 441,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THEODORO ARREY"
+    },
+    {
+      "played_at": "2026-06-06T11:00:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 459,
+      "delta": 0,
+      "final": 459,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO BERTOLDO"
+    },
+    {
+      "played_at": "2026-06-06T10:20:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 441,
+      "delta": 18,
+      "final": 459,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELTON FILHO"
+    },
+    {
+      "played_at": "2026-06-06T10:00:00",
+      "event": "TMB Estadual [ 2ª Etapa - Teresina ]",
+      "initial": 450,
+      "delta": -9,
+      "final": 441,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SANMIEL FILHO"
+    },
+    {
+      "played_at": "2026-03-08T11:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 465,
+      "delta": -15,
+      "final": 450,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARTHUR NEVES"
+    },
+    {
+      "played_at": "2026-03-08T09:20:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 474,
+      "delta": -9,
+      "final": 465,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR GONÇALVES"
+    },
+    {
+      "played_at": "2026-03-07T18:40:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 492,
+      "delta": -18,
+      "final": 474,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR NEVES"
+    },
+    {
+      "played_at": "2026-03-07T18:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 450,
+      "delta": 42,
+      "final": 492,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PEDRO PESSOA"
+    },
+    {
+      "played_at": "2026-03-07T16:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 438,
+      "delta": 12,
+      "final": 450,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO BOAVISTA"
+    },
+    {
+      "played_at": "2026-03-07T11:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 465,
+      "delta": -27,
+      "final": 438,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YURI FONTES"
+    },
+    {
+      "played_at": "2026-03-07T10:40:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 450,
+      "delta": 15,
+      "final": 465,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO BATISTA"
+    },
+    {
+      "played_at": "2026-03-07T10:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 423,
+      "delta": 27,
+      "final": 450,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CRISTIAN ALVES"
+    },
+    {
+      "played_at": "2026-03-07T09:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Teresina/PI] - 2026",
+      "initial": 456,
+      "delta": -33,
+      "final": 423,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANMIEL FILHO"
+    },
+    {
+      "played_at": "2025-11-16T14:40:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 476,
+      "delta": -20,
+      "final": 456,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAMON CEZAR"
+    },
+    {
+      "played_at": "2025-11-16T14:20:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 466,
+      "delta": 10,
+      "final": 476,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO ANDRADE"
+    },
+    {
+      "played_at": "2025-11-16T14:00:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 456,
+      "delta": 10,
+      "final": 466,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO LEITE"
+    },
+    {
+      "played_at": "2025-11-16T10:40:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 446,
+      "delta": 10,
+      "final": 456,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL LEITE"
+    },
+    {
+      "played_at": "2025-11-16T08:20:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 438,
+      "delta": 8,
+      "final": 446,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS SEGUNDO"
+    },
+    {
+      "played_at": "2025-11-15T19:00:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 420,
+      "delta": 18,
+      "final": 438,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2025-11-15T18:40:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 404,
+      "delta": 16,
+      "final": 420,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FLÁVIO PAIVA"
+    },
+    {
+      "played_at": "2025-11-15T18:00:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 390,
+      "delta": 14,
+      "final": 404,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ PESSOA"
+    },
+    {
+      "played_at": "2025-11-15T16:20:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 376,
+      "delta": 14,
+      "final": 390,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LENILSON VIANA"
+    },
+    {
+      "played_at": "2025-11-15T14:40:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 386,
+      "delta": -10,
+      "final": 376,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARTHUR GONÇALVES"
+    },
+    {
+      "played_at": "2025-11-15T11:40:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 390,
+      "delta": -4,
+      "final": 386,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LOURENÇO SILVA"
+    },
+    {
+      "played_at": "2025-11-15T11:20:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 376,
+      "delta": 14,
+      "final": 390,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE MANGUEIRA"
+    },
+    {
+      "played_at": "2025-11-15T10:20:00",
+      "event": "TMB ESTADUAL - 4ª etapa Piauiense",
+      "initial": 348,
+      "delta": 28,
+      "final": 376,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "THEODORO ARREY"
+    },
+    {
+      "played_at": "2025-09-12T15:30:00",
+      "event": "Escolar COB - Jogos da Juventude - Brasília/DF - 2025",
+      "initial": 348,
+      "delta": 0,
+      "final": 348,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FLÁVIO SEIXAS"
+    },
+    {
+      "played_at": "2025-09-12T14:00:00",
+      "event": "Escolar COB - Jogos da Juventude - Brasília/DF - 2025",
+      "initial": 348,
+      "delta": 0,
+      "final": 348,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO KUROKAWA"
+    },
+    {
+      "played_at": "2025-07-06T11:00:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 366,
+      "delta": -18,
+      "final": 348,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARTHUR NEVES"
+    },
+    {
+      "played_at": "2025-07-06T10:20:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 350,
+      "delta": 16,
+      "final": 366,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXANDRE SILVA"
+    },
+    {
+      "played_at": "2025-07-06T08:40:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 334,
+      "delta": 16,
+      "final": 350,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BENJAMIM NUNES"
+    },
+    {
+      "played_at": "2025-07-05T13:40:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 352,
+      "delta": -18,
+      "final": 334,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO BAIA"
+    },
+    {
+      "played_at": "2025-07-05T10:00:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 352,
+      "delta": 0,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO SANTOS"
+    },
+    {
+      "played_at": "2025-07-05T09:40:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 356,
+      "delta": -4,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS FILHO"
+    },
+    {
+      "played_at": "2025-07-05T08:40:00",
+      "event": "TMB ESTADUAL 3ª Etapa Piauiense",
+      "initial": 344,
+      "delta": 12,
+      "final": 356,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YURI FONTES"
+    },
+    {
+      "played_at": "2025-06-14T14:30:00",
+      "event": "Escolar - Seletiva Sinepe - Teresina/PI - 2025",
+      "initial": 354,
+      "delta": -10,
+      "final": 344,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "MATHEUS LIMA"
+    },
+    {
+      "played_at": "2025-06-14T14:15:00",
+      "event": "Escolar - Seletiva Sinepe - Teresina/PI - 2025",
+      "initial": 346,
+      "delta": 8,
+      "final": 354,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "LUIS SANTOS"
+    },
+    {
+      "played_at": "2025-06-14T13:45:00",
+      "event": "Escolar - Seletiva Sinepe - Teresina/PI - 2025",
+      "initial": 338,
+      "delta": 8,
+      "final": 346,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "FRANCISCO NETO"
+    },
+    {
+      "played_at": "2025-06-14T11:30:00",
+      "event": "Escolar - Seletiva Sinepe - Teresina/PI - 2025",
+      "initial": 330,
+      "delta": 8,
+      "final": 338,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ISAIAS FERREIRA"
+    },
+    {
+      "played_at": "2025-04-27T09:40:00",
+      "event": "TMB ESTADUAL 2ª Etapa Piauiense - Teresina - PI",
+      "initial": 340,
+      "delta": -10,
+      "final": 330,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PRENTICE TELES"
+    },
+    {
+      "played_at": "2025-04-27T08:40:00",
+      "event": "TMB ESTADUAL 2ª Etapa Piauiense - Teresina - PI",
+      "initial": 348,
+      "delta": -8,
+      "final": 340,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ELIAS NETO"
+    },
+    {
+      "played_at": "2025-04-26T16:40:00",
+      "event": "TMB ESTADUAL 2ª Etapa Piauiense - Teresina - PI",
+      "initial": 366,
+      "delta": -18,
+      "final": 348,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATHEUS MIRANDA"
+    },
+    {
+      "played_at": "2025-04-26T14:20:00",
+      "event": "TMB ESTADUAL 2ª Etapa Piauiense - Teresina - PI",
+      "initial": 376,
+      "delta": -10,
+      "final": 366,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS FILHO"
+    },
+    {
+      "played_at": "2025-04-26T10:00:00",
+      "event": "TMB ESTADUAL 2ª Etapa Piauiense - Teresina - PI",
+      "initial": 408,
+      "delta": -32,
+      "final": 376,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINÍCIUS VIEIRA"
+    },
+    {
+      "played_at": "2025-04-26T08:40:00",
+      "event": "TMB ESTADUAL 2ª Etapa Piauiense - Teresina - PI",
+      "initial": 394,
+      "delta": 14,
+      "final": 408,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VINICIUS SOUZA"
+    },
+    {
+      "played_at": "2025-03-22T15:15:00",
+      "event": "TMb Escolar - 1ª Etapa - Liga Escolar Piauiense - PI 2025",
+      "initial": 394,
+      "delta": 0,
+      "final": 394,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "RAMSÉS SOUSA"
+    },
+    {
+      "played_at": "2025-03-22T15:00:00",
+      "event": "TMb Escolar - 1ª Etapa - Liga Escolar Piauiense - PI 2025",
+      "initial": 394,
+      "delta": 0,
+      "final": 394,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "KAIO MOURA"
+    },
+    {
+      "played_at": "2025-03-22T14:00:00",
+      "event": "TMb Escolar - 1ª Etapa - Liga Escolar Piauiense - PI 2025",
+      "initial": 394,
+      "delta": 0,
+      "final": 394,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "SAMUEL MIRANDA"
+    },
+    {
+      "played_at": "2025-02-23T18:00:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 366,
+      "delta": 28,
+      "final": 394,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LEONARDO RIBAMAR"
+    },
+    {
+      "played_at": "2025-02-23T17:35:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 346,
+      "delta": 20,
+      "final": 366,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR MARTINS"
+    },
+    {
+      "played_at": "2025-02-23T17:10:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 330,
+      "delta": 16,
+      "final": 346,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-02-23T16:45:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 298,
+      "delta": 32,
+      "final": 330,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MOISÉS FRANÇA"
+    },
+    {
+      "played_at": "2025-02-23T15:55:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 282,
+      "delta": 16,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMUEL CRUZ"
+    },
+    {
+      "played_at": "2025-02-23T11:20:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 266,
+      "delta": 16,
+      "final": 282,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HUGO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-02-23T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 282,
+      "delta": -16,
+      "final": 266,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CRISTIAN ALVES"
+    },
+    {
+      "played_at": "2025-02-22T20:30:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 304,
+      "delta": -22,
+      "final": 282,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR GONÇALVES"
+    },
+    {
+      "played_at": "2025-02-22T18:25:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 292,
+      "delta": 12,
+      "final": 304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO SILVA"
+    },
+    {
+      "played_at": "2025-02-22T15:05:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 304,
+      "delta": -12,
+      "final": 292,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ELIAS NETO"
+    },
+    {
+      "played_at": "2025-02-22T14:15:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 268,
+      "delta": 36,
+      "final": 304,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GEYSON BRANDAO"
+    },
+    {
+      "played_at": "2025-02-22T13:25:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 270,
+      "delta": -2,
+      "final": 268,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO SANTOS"
+    },
+    {
+      "played_at": "2025-02-22T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa Piauiense - Teresina/PI",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SAMUEL MIRANDA ............."
+    }
+  ]
+}

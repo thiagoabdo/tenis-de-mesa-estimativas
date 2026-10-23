@@ -1,0 +1,79 @@
+{
+  "associate_id": 91346,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91346&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-21T09:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 37,
+      "delta": -99,
+      "final": -62,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENÍCIO SOARES"
+    },
+    {
+      "played_at": "2026-06-20T19:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 199,
+      "delta": -162,
+      "final": 37,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RODRIGO MAIA"
+    },
+    {
+      "played_at": "2026-06-20T17:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 226,
+      "delta": -27,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO PAULA"
+    },
+    {
+      "played_at": "2026-06-20T12:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 226,
+      "delta": 0,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMANNUEL LOIOLA"
+    },
+    {
+      "played_at": "2026-06-20T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 226,
+      "delta": 0,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAYO AIZAWA"
+    },
+    {
+      "played_at": "2026-03-08T11:20:00",
+      "event": "1° Etapa do TMB Estadual - Rio de Janeiro - Olímpico",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL GAMA ............."
+    }
+  ]
+}

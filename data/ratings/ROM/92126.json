@@ -1,0 +1,103 @@
+{
+  "associate_id": 92126,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92126&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 109,
+      "delta": -15,
+      "final": 94,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ÉLIKE VASCO"
+    },
+    {
+      "played_at": "2026-08-01T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 124,
+      "delta": -15,
+      "final": 109,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BERNARDO WECKERLIN"
+    },
+    {
+      "played_at": "2026-06-27T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 136,
+      "delta": -12,
+      "final": 124,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS NEGRI"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 151,
+      "delta": -15,
+      "final": 136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO VALLE"
+    },
+    {
+      "played_at": "2026-05-09T11:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 169,
+      "delta": -18,
+      "final": 151,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS OLIVEIRA"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 193,
+      "delta": -24,
+      "final": 169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-04-18T11:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 220,
+      "delta": -27,
+      "final": 193,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAULO PIRES"
+    },
+    {
+      "played_at": "2026-04-18T10:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -30,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO MALLET ............."
+    }
+  ]
+}

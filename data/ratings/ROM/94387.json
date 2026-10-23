@@ -1,0 +1,43 @@
+{
+  "associate_id": 94387,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94387&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-02T13:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 241,
+      "delta": 24,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTHUR LIMA"
+    },
+    {
+      "played_at": "2026-08-02T13:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 271,
+      "delta": -30,
+      "final": 241,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ENZO DORNELLES"
+    },
+    {
+      "played_at": "2026-08-02T11:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 250,
+      "delta": 21,
+      "final": 271,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICENTE WENTZ ............."
+    }
+  ]
+}

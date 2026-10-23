@@ -1,0 +1,67 @@
+{
+  "associate_id": 91324,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91324&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-25T17:15:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 403,
+      "delta": -12,
+      "final": 391,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE BECCARDI"
+    },
+    {
+      "played_at": "2026-04-25T15:35:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 361,
+      "delta": 42,
+      "final": 403,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ENRICO REZENDE"
+    },
+    {
+      "played_at": "2026-04-25T15:10:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 337,
+      "delta": 24,
+      "final": 361,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VICTOR SILVA"
+    },
+    {
+      "played_at": "2026-04-25T09:40:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 304,
+      "delta": 33,
+      "final": 337,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPE MIRANDA"
+    },
+    {
+      "played_at": "2026-04-25T08:00:00",
+      "event": "TMB Estadual 2026 - II Copa Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 250,
+      "delta": 54,
+      "final": 304,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITOR SANTOS ............."
+    }
+  ]
+}

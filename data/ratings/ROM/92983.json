@@ -1,0 +1,67 @@
+{
+  "associate_id": 92983,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92983&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T12:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 199,
+      "delta": -18,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NATHAN CORREA"
+    },
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 172,
+      "delta": 27,
+      "final": 199,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO PIPINO"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 190,
+      "delta": -18,
+      "final": 172,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "WAGNER SANTOS"
+    },
+    {
+      "played_at": "2026-06-27T09:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 232,
+      "delta": -42,
+      "final": 190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENAN ALMEIDA"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI MIRANDA ............."
+    }
+  ]
+}

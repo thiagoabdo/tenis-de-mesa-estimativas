@@ -1,0 +1,439 @@
+{
+  "associate_id": 87290,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=87290&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-18T10:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 242,
+      "delta": -6,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITHOR LUCIA"
+    },
+    {
+      "played_at": "2026-09-18T09:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 278,
+      "delta": -36,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PIETRO MELLO"
+    },
+    {
+      "played_at": "2026-08-02T12:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 290,
+      "delta": -12,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL HUNG"
+    },
+    {
+      "played_at": "2026-08-02T08:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 254,
+      "delta": 36,
+      "final": 290,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VICTOR KUHN"
+    },
+    {
+      "played_at": "2026-08-02T08:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 254,
+      "delta": 0,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO SILVA"
+    },
+    {
+      "played_at": "2026-08-01T13:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 266,
+      "delta": -12,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSHUA MARTEN"
+    },
+    {
+      "played_at": "2026-08-01T11:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 266,
+      "delta": 0,
+      "final": 266,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-08-01T08:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 245,
+      "delta": 21,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL ALMEIDA"
+    },
+    {
+      "played_at": "2026-06-07T09:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 260,
+      "delta": -15,
+      "final": 245,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL HUNG"
+    },
+    {
+      "played_at": "2026-06-07T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 260,
+      "delta": 0,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-06-06T14:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 275,
+      "delta": -15,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DIEGO KUHN"
+    },
+    {
+      "played_at": "2026-06-06T13:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 275,
+      "delta": 0,
+      "final": 275,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-06-06T11:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 239,
+      "delta": 36,
+      "final": 275,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KAUÊ SPENGLER"
+    },
+    {
+      "played_at": "2026-03-29T13:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 248,
+      "delta": -9,
+      "final": 239,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL SONDA"
+    },
+    {
+      "played_at": "2026-03-29T10:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 158,
+      "delta": 90,
+      "final": 248,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARTUR CANDIDO"
+    },
+    {
+      "played_at": "2026-03-29T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 158,
+      "delta": 0,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS MOREIRA"
+    },
+    {
+      "played_at": "2026-03-28T15:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 158,
+      "delta": 0,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FRICK"
+    },
+    {
+      "played_at": "2026-03-28T14:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 167,
+      "delta": -9,
+      "final": 158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DIEGO KUHN"
+    },
+    {
+      "played_at": "2026-03-01T10:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 173,
+      "delta": -6,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THOMAS KESSLER"
+    },
+    {
+      "played_at": "2026-03-01T09:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 173,
+      "delta": 0,
+      "final": 173,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2026-02-28T13:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 173,
+      "delta": 0,
+      "final": 173,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FRICK"
+    },
+    {
+      "played_at": "2026-02-28T12:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 182,
+      "delta": -9,
+      "final": 173,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KEVIN FREITAS"
+    },
+    {
+      "played_at": "2025-11-16T13:00:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 188,
+      "delta": -6,
+      "final": 182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THOMAS KESSLER"
+    },
+    {
+      "played_at": "2025-11-16T10:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 188,
+      "delta": 0,
+      "final": 188,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FRICK"
+    },
+    {
+      "played_at": "2025-11-15T12:45:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 196,
+      "delta": -8,
+      "final": 188,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO NOZARI"
+    },
+    {
+      "played_at": "2025-11-15T11:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": 200,
+      "delta": -4,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI PAN"
+    },
+    {
+      "played_at": "2025-09-28T14:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 212,
+      "delta": -12,
+      "final": 200,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ ORESTES"
+    },
+    {
+      "played_at": "2025-09-28T12:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 212,
+      "delta": 0,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2025-09-28T11:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 218,
+      "delta": -6,
+      "final": 212,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FRICK"
+    },
+    {
+      "played_at": "2025-09-27T12:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 238,
+      "delta": -20,
+      "final": 218,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITHOR LUCIA"
+    },
+    {
+      "played_at": "2025-09-27T11:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": 248,
+      "delta": -10,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO FRICK"
+    },
+    {
+      "played_at": "2025-07-27T14:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 254,
+      "delta": -6,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO SOUZA"
+    },
+    {
+      "played_at": "2025-07-27T11:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 274,
+      "delta": -20,
+      "final": 254,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL SONDA"
+    },
+    {
+      "played_at": "2025-07-27T09:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 228,
+      "delta": 46,
+      "final": 274,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HENRIQUE DORNELES"
+    },
+    {
+      "played_at": "2025-07-26T19:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 234,
+      "delta": -6,
+      "final": 228,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI PAN"
+    },
+    {
+      "played_at": "2025-07-26T18:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 250,
+      "delta": -16,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THOMAS KESSLER ............."
+    }
+  ]
+}

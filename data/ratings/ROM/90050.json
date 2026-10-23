@@ -1,0 +1,67 @@
+{
+  "associate_id": 90050,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90050&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-07T17:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 227,
+      "delta": -8,
+      "final": 219,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EDUARDO VALENÇA"
+    },
+    {
+      "played_at": "2026-03-07T15:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 236,
+      "delta": -9,
+      "final": 227,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO PRADO"
+    },
+    {
+      "played_at": "2026-03-07T14:40:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 246,
+      "delta": -10,
+      "final": 236,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVID KLEEFELDT"
+    },
+    {
+      "played_at": "2026-03-07T14:00:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 248,
+      "delta": -2,
+      "final": 246,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAERCIO SCHNEIDER"
+    },
+    {
+      "played_at": "2026-03-07T13:20:00",
+      "event": "TMB Regional - COPA MG - 1ª Etapa CENTRO",
+      "initial": 250,
+      "delta": -2,
+      "final": 248,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO ARAUJO ............."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "associate_id": 89588,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=89588&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T10:15:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 286,
+      "delta": -9,
+      "final": 277,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "HENRIQUE MARCON"
+    },
+    {
+      "played_at": "2026-07-05T10:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 276,
+      "delta": 10,
+      "final": 286,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "MIGUEL BARROS"
+    },
+    {
+      "played_at": "2026-07-05T09:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 267,
+      "delta": 9,
+      "final": 276,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "JOAQUIM COLDEBELLA"
+    },
+    {
+      "played_at": "2026-07-05T09:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 258,
+      "delta": 9,
+      "final": 267,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ARTHUR ZANDONAI"
+    },
+    {
+      "played_at": "2026-06-06T11:00:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 247,
+      "delta": 11,
+      "final": 258,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ARTHUR ZANDONAI"
+    },
+    {
+      "played_at": "2026-06-06T10:45:00",
+      "event": "TMB Regional - 4ª Etapa - Liga Escolar - Santa Maria/RS - 2026",
+      "initial": 236,
+      "delta": 11,
+      "final": 247,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ENZO SEGANFREDO"
+    },
+    {
+      "played_at": "2025-11-16T15:30:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 245,
+      "delta": -9,
+      "final": 236,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2025-11-16T11:15:00",
+      "event": "TMB Regional - 7ª Etapa - Liga Escolar - Bento Gonçalves/RS - 2025.",
+      "initial": 250,
+      "delta": -5,
+      "final": 245,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "BENJAMIN GARCIA ............."
+    }
+  ]
+}

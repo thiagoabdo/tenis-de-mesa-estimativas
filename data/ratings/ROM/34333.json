@@ -1,0 +1,1483 @@
+{
+  "associate_id": 34333,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=34333&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-04T16:40:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Paralímpico",
+      "initial": 1322,
+      "delta": 9,
+      "final": 1331,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA MAIA"
+    },
+    {
+      "played_at": "2026-09-04T15:40:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Paralímpico",
+      "initial": 1214,
+      "delta": 108,
+      "final": 1322,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2026-09-04T14:40:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Fortaleza/CE 2026 - Individual Paralímpico",
+      "initial": 1205,
+      "delta": 9,
+      "final": 1214,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2026-07-31T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 1187,
+      "delta": 18,
+      "final": 1205,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDREIA PORFÍRIO"
+    },
+    {
+      "played_at": "2026-07-31T14:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 1169,
+      "delta": 18,
+      "final": 1187,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROSSILENA SOUZA"
+    },
+    {
+      "played_at": "2026-02-28T19:40:00",
+      "event": "TMB Estadual - Campeonato Cearense - 1ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 1196,
+      "delta": -27,
+      "final": 1169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2026-02-28T16:45:00",
+      "event": "TMB Estadual - Campeonato Cearense - 1ª Etapa - Fortaleza/CE - Olímpico",
+      "initial": 1262,
+      "delta": -66,
+      "final": 1196,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JESSICA MARINHO"
+    },
+    {
+      "played_at": "2025-12-07T15:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1262,
+      "delta": 0,
+      "final": 1262,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2025-12-07T14:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1242,
+      "delta": 20,
+      "final": 1262,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATA BENEVIDES"
+    },
+    {
+      "played_at": "2025-12-07T11:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1232,
+      "delta": 10,
+      "final": 1242,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA QUEIROZ"
+    },
+    {
+      "played_at": "2025-12-07T08:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1222,
+      "delta": 10,
+      "final": 1232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROBERTA MARTINS"
+    },
+    {
+      "played_at": "2025-11-22T17:35:00",
+      "event": "Copa Brasil de Tênis de Mesa - Cuiabá/MT - 2025",
+      "initial": 1332,
+      "delta": -110,
+      "final": 1222,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROSSILENA SOUZA"
+    },
+    {
+      "played_at": "2025-11-22T14:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Cuiabá/MT - 2025",
+      "initial": 1442,
+      "delta": -110,
+      "final": 1332,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA MORAES"
+    },
+    {
+      "played_at": "2025-10-25T18:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 1478,
+      "delta": -36,
+      "final": 1442,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA ALVES"
+    },
+    {
+      "played_at": "2025-10-25T18:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 1522,
+      "delta": -44,
+      "final": 1478,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "INGRYD CASTRO"
+    },
+    {
+      "played_at": "2025-10-25T16:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 1566,
+      "delta": -44,
+      "final": 1522,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROSÂNGELA DANTAS"
+    },
+    {
+      "played_at": "2025-10-25T15:05:00",
+      "event": "TMB Estadual - 4ª Etapa - Fortaleza/CE - 2025 (Olímpico)",
+      "initial": 1564,
+      "delta": 2,
+      "final": 1566,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ROBÉRIA MORAIS"
+    },
+    {
+      "played_at": "2025-09-07T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Fortaleza/CE - 2025",
+      "initial": 1494,
+      "delta": 70,
+      "final": 1564,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2025-09-07T09:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Fortaleza/CE - 2025",
+      "initial": 1484,
+      "delta": 10,
+      "final": 1494,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2025-05-16T15:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1504,
+      "delta": -20,
+      "final": 1484,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2025-05-16T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1494,
+      "delta": 10,
+      "final": 1504,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLARICE FREITAS"
+    },
+    {
+      "played_at": "2025-05-16T13:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Paralímpico",
+      "initial": 1444,
+      "delta": 50,
+      "final": 1494,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2024-12-07T19:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 Individual",
+      "initial": 1474,
+      "delta": -30,
+      "final": 1444,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2024-12-07T17:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 Individual",
+      "initial": 1464,
+      "delta": 10,
+      "final": 1474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ROSSILENA SOUZA"
+    },
+    {
+      "played_at": "2024-12-07T16:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 Individual",
+      "initial": 1414,
+      "delta": 50,
+      "final": 1464,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2024-12-07T14:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico – Ciclo IV - Chapecó/SC - 2024 Individual",
+      "initial": 1404,
+      "delta": 10,
+      "final": 1414,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLARICE FREITAS"
+    },
+    {
+      "played_at": "2024-09-13T15:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1372,
+      "delta": 32,
+      "final": 1404,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2024-09-13T14:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1404,
+      "delta": -32,
+      "final": 1372,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2024-09-13T13:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2024",
+      "initial": 1388,
+      "delta": 16,
+      "final": 1404,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2024-09-08T10:55:00",
+      "event": "TMB Challenger Plus - 20ª Edição - Fortaleza/CE - 2024",
+      "initial": 1273,
+      "delta": 115,
+      "final": 1388,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2024-09-08T09:15:00",
+      "event": "TMB Challenger Plus - 20ª Edição - Fortaleza/CE - 2024",
+      "initial": 1263,
+      "delta": 10,
+      "final": 1273,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDREIA PORFÍRIO"
+    },
+    {
+      "played_at": "2024-07-26T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 1287,
+      "delta": -24,
+      "final": 1263,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2024-07-26T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2024",
+      "initial": 1287,
+      "delta": 0,
+      "final": 1287,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2023-12-10T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 1297,
+      "delta": -10,
+      "final": 1287,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2023-12-10T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 1037,
+      "delta": 260,
+      "final": 1297,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2023-12-10T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 1157,
+      "delta": -120,
+      "final": 1037,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2023-12-10T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Paralímpico – Ciclo IV - São Paulo/SP - 2023 - Individual.",
+      "initial": 997,
+      "delta": 160,
+      "final": 1157,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2023-11-10T11:30:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2023",
+      "initial": 1097,
+      "delta": -100,
+      "final": 997,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAQUEL SANTOS"
+    },
+    {
+      "played_at": "2023-11-10T09:30:00",
+      "event": "TMB Challenger Plus - 23ª Edição - Imperatriz/MA - 2023",
+      "initial": 1207,
+      "delta": -110,
+      "final": 1097,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCA OLIVEIRA"
+    },
+    {
+      "played_at": "2023-11-04T13:50:00",
+      "event": "TBM Estadual - 4ª Etapa - Fortaleza/CE - 2023",
+      "initial": 1203,
+      "delta": 4,
+      "final": 1207,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCISCA OLIVEIRA"
+    },
+    {
+      "played_at": "2023-09-15T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 1211,
+      "delta": -8,
+      "final": 1203,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2023-09-15T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 1355,
+      "delta": -144,
+      "final": 1211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2023-09-15T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo III - Uberlândia/MG - 2023.",
+      "initial": 1355,
+      "delta": 0,
+      "final": 1355,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2023-09-10T10:30:00",
+      "event": "TMB Challenger Plus - 19ª Edição - Fortaleza/CE - 2023",
+      "initial": 1275,
+      "delta": 80,
+      "final": 1355,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2023-09-10T09:30:00",
+      "event": "TMB Challenger Plus - 19ª Edição - Fortaleza/CE - 2023",
+      "initial": 1270,
+      "delta": 5,
+      "final": 1275,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FRANCISCA OLIVEIRA"
+    },
+    {
+      "played_at": "2023-07-07T10:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2023",
+      "initial": 1230,
+      "delta": 40,
+      "final": 1270,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2023-07-07T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo II - Rio de Janeiro/RJ - 2023",
+      "initial": 1230,
+      "delta": 0,
+      "final": 1230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2022-12-04T17:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 1250,
+      "delta": -20,
+      "final": 1230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2022-12-04T16:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 1240,
+      "delta": 10,
+      "final": 1250,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NICOLE SANTOS"
+    },
+    {
+      "played_at": "2022-12-04T15:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 1240,
+      "delta": 0,
+      "final": 1240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2022-12-04T13:30:00",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022",
+      "initial": 1100,
+      "delta": 140,
+      "final": 1240,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2022-09-11T11:20:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 1095,
+      "delta": 5,
+      "final": 1100,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDREIA PORFÍRIO"
+    },
+    {
+      "played_at": "2022-09-11T09:40:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Fortaleza/CE - 2022",
+      "initial": 1090,
+      "delta": 5,
+      "final": 1095,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FRANCISCA OLIVEIRA"
+    },
+    {
+      "played_at": "2022-04-01T11:30:00",
+      "event": "Tmb Platinum - Ciclo I - Rio De Janeiro/RJ - 2022",
+      "initial": 1090,
+      "delta": 0,
+      "final": 1090,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2022-04-01T10:30:00",
+      "event": "Tmb Platinum - Ciclo I - Rio De Janeiro/RJ - 2022",
+      "initial": 1090,
+      "delta": 0,
+      "final": 1090,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2022-04-01T09:30:00",
+      "event": "Tmb Platinum - Ciclo I - Rio De Janeiro/RJ - 2022",
+      "initial": 1034,
+      "delta": 56,
+      "final": 1090,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2021-12-04T18:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 1034,
+      "delta": 0,
+      "final": 1034,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2021-12-04T17:30:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 894,
+      "delta": 140,
+      "final": 1034,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2021-12-04T16:00:00",
+      "event": "Tmb Platinum - Campeonato Brasileiro - Joinville/sc-2021",
+      "initial": 894,
+      "delta": 0,
+      "final": 894,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2021-12-04T08:30:02",
+      "event": "TMB Platinum - Campeonato Brasileiro - Seleções Estaduais - Joinville/SC - 2021",
+      "initial": 814,
+      "delta": 80,
+      "final": 894,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2021-10-02T14:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Fortaleza/CE - 2021",
+      "initial": 810,
+      "delta": 4,
+      "final": 814,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCISCA OLIVEIRA"
+    },
+    {
+      "played_at": "2021-09-24T10:30:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 866,
+      "delta": -56,
+      "final": 810,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2021-09-24T08:30:00",
+      "event": "Tmb Platinum - Ciclo Ii - Uberlândia/mg - 2021",
+      "initial": 978,
+      "delta": -112,
+      "final": 866,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2021-07-23T11:00:00",
+      "event": "Tmb Platinum - Ciclo I - Rio De Janeiro/rj - 2021",
+      "initial": 962,
+      "delta": 16,
+      "final": 978,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2021-07-23T10:00:00",
+      "event": "Tmb Platinum - Ciclo I - Rio De Janeiro/rj - 2021",
+      "initial": 938,
+      "delta": 24,
+      "final": 962,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2021-07-23T09:00:00",
+      "event": "Tmb Platinum - Ciclo I - Rio De Janeiro/rj - 2021",
+      "initial": 938,
+      "delta": 0,
+      "final": 938,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THAÍS SEVERO"
+    },
+    {
+      "played_at": "2019-12-13T10:55:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Paralímpico",
+      "initial": 938,
+      "delta": 0,
+      "final": 938,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2019-12-13T08:25:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Paralímpico",
+      "initial": 1100,
+      "delta": -162,
+      "final": 938,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2019-12-11T16:00:00",
+      "event": "Campeonato Brasileiro Seleções Estaduais Paralímpicas 2019",
+      "initial": 1136,
+      "delta": -36,
+      "final": 1100,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CÁTIA OLIVEIRA"
+    },
+    {
+      "played_at": "2019-09-28T12:20:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste - Cuiabá - Mt 2019",
+      "initial": 1136,
+      "delta": 0,
+      "final": 1136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2019-09-28T11:30:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste - Cuiabá - Mt 2019",
+      "initial": 1091,
+      "delta": 45,
+      "final": 1136,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SORAIA ALVARENGA"
+    },
+    {
+      "played_at": "2019-09-28T09:00:00",
+      "event": "Super Copa Brasil Centro Norte Nordeste - Cuiabá - Mt 2019",
+      "initial": 1046,
+      "delta": 45,
+      "final": 1091,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2019-05-25T11:50:00",
+      "event": "Copa Brasil Centro Norte Nordeste 1 - Brasília - Df - 2019",
+      "initial": 1006,
+      "delta": 40,
+      "final": 1046,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2019-05-25T11:00:00",
+      "event": "Copa Brasil Centro Norte Nordeste 1 - Brasília - Df - 2019",
+      "initial": 878,
+      "delta": 128,
+      "final": 1006,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "AUZENI SILVA"
+    },
+    {
+      "played_at": "2019-04-27T13:00:00",
+      "event": "Copa Das Federações - Etapa Fortaleza - Ce Paralímpico",
+      "initial": 862,
+      "delta": 16,
+      "final": 878,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIANA SILVA"
+    },
+    {
+      "played_at": "2019-04-27T12:10:00",
+      "event": "Copa Das Federações - Etapa Fortaleza - Ce Paralímpico",
+      "initial": 852,
+      "delta": 10,
+      "final": 862,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2019-04-27T09:15:00",
+      "event": "Copa Das Federações - Etapa Fortaleza - Ce Paralímpico",
+      "initial": 872,
+      "delta": -20,
+      "final": 852,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIANA SILVA"
+    },
+    {
+      "played_at": "2018-12-10T16:30:00",
+      "event": "Seletiva Paralímpica 2019",
+      "initial": 872,
+      "delta": 0,
+      "final": 872,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2018-12-10T09:00:00",
+      "event": "Seletiva Paralímpica 2019",
+      "initial": 872,
+      "delta": 0,
+      "final": 872,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2018-11-29T11:20:00",
+      "event": "52º Brasileiro De Tm 2018 - Individual - Classes Paralímpicas",
+      "initial": 880,
+      "delta": -8,
+      "final": 872,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2018-11-29T08:50:00",
+      "event": "52º Brasileiro De Tm 2018 - Individual - Classes Paralímpicas",
+      "initial": 880,
+      "delta": 0,
+      "final": 880,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2018-11-27T13:00:02",
+      "event": "52º Brasileiro De Tm 2018 - Seleções Estaduais Paralímpicas",
+      "initial": 784,
+      "delta": 96,
+      "final": 880,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2018-09-07T15:05:00",
+      "event": "3ª Copa Nacional Do Estado De Alagoas-2018",
+      "initial": 796,
+      "delta": -12,
+      "final": 784,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2018-09-07T14:15:00",
+      "event": "3ª Copa Nacional Do Estado De Alagoas-2018",
+      "initial": 904,
+      "delta": -108,
+      "final": 796,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2018-05-26T12:10:00",
+      "event": "Copa Nacional De Tênis De Mesa De Pernambuco",
+      "initial": 928,
+      "delta": -24,
+      "final": 904,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOANA PALMEIRA"
+    },
+    {
+      "played_at": "2018-05-26T10:55:00",
+      "event": "Copa Nacional De Tênis De Mesa De Pernambuco",
+      "initial": 1036,
+      "delta": -108,
+      "final": 928,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SIMONE VIEIRA"
+    },
+    {
+      "played_at": "2018-05-25T13:25:00",
+      "event": "1ª Copa Nacional De Tênis De Mesa De Pe 2018",
+      "initial": 1012,
+      "delta": 24,
+      "final": 1036,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2018-05-25T12:35:00",
+      "event": "1ª Copa Nacional De Tênis De Mesa De Pe 2018",
+      "initial": 970,
+      "delta": 42,
+      "final": 1012,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CIBELE MORAIS"
+    },
+    {
+      "played_at": "2017-10-07T10:05:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Paralimpico - Classes",
+      "initial": 982,
+      "delta": -12,
+      "final": 970,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2017-10-07T09:15:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Paralimpico - Classes",
+      "initial": 964,
+      "delta": 18,
+      "final": 982,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELIANE CORREA"
+    },
+    {
+      "played_at": "2017-10-07T08:25:00",
+      "event": "51º Camp. Brasileiro De Verão 2017 - Individual Paralimpico - Classes",
+      "initial": 940,
+      "delta": 24,
+      "final": 964,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2017-08-04T08:50:00",
+      "event": "Copa Brasil Centro-norte-nordeste I - Cuiabá- Mt",
+      "initial": 940,
+      "delta": 0,
+      "final": 940,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2017-08-04T08:00:00",
+      "event": "Copa Brasil Centro-norte-nordeste I - Cuiabá- Mt",
+      "initial": 958,
+      "delta": -18,
+      "final": 940,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2017-06-24T10:55:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Paralímpico",
+      "initial": 958,
+      "delta": 0,
+      "final": 958,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2017-06-24T10:05:00",
+      "event": "Copa Brasil Sul-sudeste 1 - Maringá - Pr - 2017 - Paralímpico",
+      "initial": 970,
+      "delta": -12,
+      "final": 958,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2017-04-22T15:55:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Paralímpico",
+      "initial": 850,
+      "delta": 120,
+      "final": 970,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATA BENEVIDES"
+    },
+    {
+      "played_at": "2017-04-22T14:15:00",
+      "event": "Copa Brasil Centro-norte-nordeste 1 - Brasília - Df - 2017 - Paralímpico",
+      "initial": 850,
+      "delta": 0,
+      "final": 850,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOYCE QUINZOTE"
+    },
+    {
+      "played_at": "2016-11-03T17:35:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Paralímpico",
+      "initial": 874,
+      "delta": -24,
+      "final": 850,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2016-11-03T15:55:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Paralímpico",
+      "initial": 834,
+      "delta": 40,
+      "final": 874,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2016-11-03T14:15:00",
+      "event": "50º Campeonato Brasileiro San-ei 2016 De Verão - Ranking Paralímpico",
+      "initial": 738,
+      "delta": 96,
+      "final": 834,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2016-09-03T10:30:00",
+      "event": "1ª Copa Nacional Do Estado De Alagoas 2016 - Competição Paralímpica",
+      "initial": 726,
+      "delta": 12,
+      "final": 738,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2016-09-03T09:15:00",
+      "event": "1ª Copa Nacional Do Estado De Alagoas 2016 - Competição Paralímpica",
+      "initial": 714,
+      "delta": 12,
+      "final": 726,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2016-09-03T08:00:00",
+      "event": "1ª Copa Nacional Do Estado De Alagoas 2016 - Competição Paralímpica",
+      "initial": 708,
+      "delta": 6,
+      "final": 714,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VALERIA SCHMIDT"
+    },
+    {
+      "played_at": "2016-05-19T15:30:00",
+      "event": "49º Campeonato Brasileiro Inverno Individual 2016 - Paralímpico",
+      "initial": 636,
+      "delta": 72,
+      "final": 708,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2016-05-19T13:50:00",
+      "event": "49º Campeonato Brasileiro Inverno Individual 2016 - Paralímpico",
+      "initial": 744,
+      "delta": -108,
+      "final": 636,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2015-10-31T18:00:00",
+      "event": "48º Campeonato Brasileiro 2015 - Classes Paralímpicas",
+      "initial": 744,
+      "delta": 0,
+      "final": 744,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2015-10-31T10:55:00",
+      "event": "48º Campeonato Brasileiro 2015 - Classes Paralímpicas",
+      "initial": 504,
+      "delta": 240,
+      "final": 744,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2015-10-31T10:05:00",
+      "event": "48º Campeonato Brasileiro 2015 - Classes Paralímpicas",
+      "initial": 464,
+      "delta": 40,
+      "final": 504,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLARICE FREITASxxx"
+    },
+    {
+      "played_at": "2015-10-31T08:50:00",
+      "event": "48º Campeonato Brasileiro 2015 - Classes Paralímpicas",
+      "initial": 520,
+      "delta": -56,
+      "final": 464,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SORAIA ALVARENGA"
+    },
+    {
+      "played_at": "2015-09-25T09:40:00",
+      "event": "Copa Brasil Sul Sudeste Ii - Jundiaí - Sp 2015 - Paralímpico",
+      "initial": 520,
+      "delta": 0,
+      "final": 520,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2015-09-25T08:50:00",
+      "event": "Copa Brasil Sul Sudeste Ii - Jundiaí - Sp 2015 - Paralímpico",
+      "initial": 564,
+      "delta": -44,
+      "final": 520,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARLIANE SANTOS"
+    },
+    {
+      "played_at": "2015-07-04T14:40:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Al 2015 - Paralímpico",
+      "initial": 572,
+      "delta": -8,
+      "final": 564,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NAÍLA SANTOS"
+    },
+    {
+      "played_at": "2015-07-04T10:05:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Al 2015 - Paralímpico",
+      "initial": 516,
+      "delta": 56,
+      "final": 572,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FABIULA PINTO"
+    },
+    {
+      "played_at": "2015-07-04T08:00:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Al 2015 - Paralímpico",
+      "initial": 500,
+      "delta": 16,
+      "final": 516,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VALERIA SCHMIDT"
+    },
+    {
+      "played_at": "2015-05-29T09:40:00",
+      "event": "47º Campeonato Brasileiro De Classes Paralímpicas 2015",
+      "initial": 500,
+      "delta": 0,
+      "final": 500,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA PASSOS"
+    },
+    {
+      "played_at": "2015-05-28T13:35:00",
+      "event": "47º Campeonato Brasileiro De Classes Paralímpicas 2015",
+      "initial": 380,
+      "delta": 120,
+      "final": 500,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SORAIA ALVARENGA"
+    },
+    {
+      "played_at": "2015-05-28T10:30:00",
+      "event": "47º Campeonato Brasileiro De Classes Paralímpicas 2015",
+      "initial": 260,
+      "delta": 120,
+      "final": 380,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAIZA SILVA"
+    },
+    {
+      "played_at": "2015-05-28T08:50:00",
+      "event": "47º Campeonato Brasileiro De Classes Paralímpicas 2015",
+      "initial": 260,
+      "delta": 0,
+      "final": 260,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA"
+    },
+    {
+      "played_at": "2014-10-30T14:45:02",
+      "event": "46º Campeonato Brasileiro - Equipes De Clubes - Paralímpico",
+      "initial": 265,
+      "delta": -5,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCIANA MOURA"
+    },
+    {
+      "played_at": "2014-10-30T08:00:02",
+      "event": "46º Campeonato Brasileiro - Equipes De Clubes - Paralímpico",
+      "initial": 210,
+      "delta": 55,
+      "final": 265,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALANA CARDOSO"
+    },
+    {
+      "played_at": "2014-05-23T13:25:00",
+      "event": "45º Campeonato Brasileiro - Classes Paralímpicas",
+      "initial": 215,
+      "delta": -5,
+      "final": 210,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SORAIA ALVARENGA"
+    },
+    {
+      "played_at": "2014-05-23T10:55:00",
+      "event": "45º Campeonato Brasileiro - Classes Paralímpicas",
+      "initial": 215,
+      "delta": 0,
+      "final": 215,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MYLENA CORDEIRO"
+    },
+    {
+      "played_at": "2014-05-23T08:50:00",
+      "event": "45º Campeonato Brasileiro - Classes Paralímpicas",
+      "initial": 215,
+      "delta": 0,
+      "final": 215,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÔNIA OLIVEIRA ............."
+    }
+  ]
+}

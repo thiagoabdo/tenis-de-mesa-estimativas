@@ -1,0 +1,79 @@
+{
+  "associate_id": 94410,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94410&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T11:00:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 85,
+      "delta": -9,
+      "final": 76,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ EVANGELISTA"
+    },
+    {
+      "played_at": "2026-09-20T09:00:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 118,
+      "delta": -33,
+      "final": 85,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PEDRO BOAVISTA"
+    },
+    {
+      "played_at": "2026-09-19T08:40:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 136,
+      "delta": -18,
+      "final": 118,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS PIRES"
+    },
+    {
+      "played_at": "2026-09-19T08:00:00",
+      "event": "TMB Estadual [ 3ª Etapa Piauiense]",
+      "initial": 151,
+      "delta": -15,
+      "final": 136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BERNARDO.JUCÁ COSTA"
+    },
+    {
+      "played_at": "2026-07-31T09:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 196,
+      "delta": -45,
+      "final": 151,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS ARAUJO"
+    },
+    {
+      "played_at": "2026-07-31T08:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Teresina/PI - 2026",
+      "initial": 250,
+      "delta": -54,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CALEB HOSSOE ............."
+    }
+  ]
+}

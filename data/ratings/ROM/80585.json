@@ -1,0 +1,679 @@
+{
+  "associate_id": 80585,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=80585&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-28T15:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 87,
+      "delta": -5,
+      "final": 82,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "PAULO JUNIOR"
+    },
+    {
+      "played_at": "2026-03-28T15:15:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 93,
+      "delta": -6,
+      "final": 87,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "GABRIEL ADAM"
+    },
+    {
+      "played_at": "2026-03-28T15:00:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 75,
+      "delta": 18,
+      "final": 93,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "JÓSE GENELHU"
+    },
+    {
+      "played_at": "2026-03-28T14:15:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 57,
+      "delta": 18,
+      "final": 75,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "EDUARDO LIMA"
+    },
+    {
+      "played_at": "2026-03-28T12:00:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 59,
+      "delta": -2,
+      "final": 57,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-28T11:45:00",
+      "event": "TMB Regional 2026 - I Liga Mato Grosso - Sinop/MT",
+      "initial": 59,
+      "delta": 0,
+      "final": 59,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "CHRISTIANO ALMEIDA"
+    },
+    {
+      "played_at": "2025-10-19T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 79,
+      "delta": -20,
+      "final": 59,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS MARTINS"
+    },
+    {
+      "played_at": "2025-10-19T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 99,
+      "delta": -20,
+      "final": 79,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL PEREIRA"
+    },
+    {
+      "played_at": "2025-10-18T18:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 99,
+      "delta": 0,
+      "final": 99,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARDEY BARATA"
+    },
+    {
+      "played_at": "2025-10-18T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 119,
+      "delta": -20,
+      "final": 99,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KENSLEY NASCIMENTO"
+    },
+    {
+      "played_at": "2025-10-17T11:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 139,
+      "delta": -20,
+      "final": 119,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO PEREIRA"
+    },
+    {
+      "played_at": "2025-10-17T10:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Goiânia/GO - 2025",
+      "initial": 194,
+      "delta": -55,
+      "final": 139,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO CARDOSO"
+    },
+    {
+      "played_at": "2025-09-21T07:25:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 200,
+      "delta": -6,
+      "final": 194,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIM PRESTES"
+    },
+    {
+      "played_at": "2025-09-20T10:45:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 216,
+      "delta": -16,
+      "final": 200,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EVANDRO FANTIN"
+    },
+    {
+      "played_at": "2025-09-20T09:55:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 192,
+      "delta": 24,
+      "final": 216,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIEL JUNIOR"
+    },
+    {
+      "played_at": "2025-09-20T07:50:00",
+      "event": "TMB Estadual - IV COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 206,
+      "delta": -14,
+      "final": 192,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE RIDOLFI"
+    },
+    {
+      "played_at": "2025-08-24T12:00:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 216,
+      "delta": -10,
+      "final": 206,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VINÍCIUS GRIGGI"
+    },
+    {
+      "played_at": "2025-08-24T11:10:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 180,
+      "delta": 36,
+      "final": 216,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL JESUS"
+    },
+    {
+      "played_at": "2025-08-23T15:30:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 148,
+      "delta": 32,
+      "final": 180,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ELIABE RAUAN"
+    },
+    {
+      "played_at": "2025-08-23T14:15:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 176,
+      "delta": -28,
+      "final": 148,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCOS AMARAL"
+    },
+    {
+      "played_at": "2025-08-23T11:45:00",
+      "event": "TMB Estadual - III COPA MATO GROSSO - Cuiabá/MT - 2025",
+      "initial": 176,
+      "delta": 0,
+      "final": 176,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WELINGTON WEBBER"
+    },
+    {
+      "played_at": "2025-06-01T10:30:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 188,
+      "delta": -12,
+      "final": 176,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO BONGIOLO"
+    },
+    {
+      "played_at": "2025-05-31T16:20:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 208,
+      "delta": -20,
+      "final": 188,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EVANDRO FANTIN"
+    },
+    {
+      "played_at": "2025-05-31T14:40:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 222,
+      "delta": -14,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO BONGIOLO"
+    },
+    {
+      "played_at": "2025-05-31T11:45:00",
+      "event": "TMB Estadual - II COPA MATO GROSSO - Lucas do Rio Verde/MT - 2025",
+      "initial": 194,
+      "delta": 28,
+      "final": 222,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PABLO SILVA"
+    },
+    {
+      "played_at": "2024-11-24T10:00:00",
+      "event": "TMB - Estadual - 4ª Etapa - Sorriso/MT",
+      "initial": 204,
+      "delta": -10,
+      "final": 194,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2024-11-24T09:30:00",
+      "event": "TMB - Estadual - 4ª Etapa - Sorriso/MT",
+      "initial": 214,
+      "delta": -10,
+      "final": 204,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINÍCIUS ALVES"
+    },
+    {
+      "played_at": "2024-11-24T09:00:00",
+      "event": "TMB - Estadual - 4ª Etapa - Sorriso/MT",
+      "initial": 198,
+      "delta": 16,
+      "final": 214,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PIETRO OLIVEIRA"
+    },
+    {
+      "played_at": "2024-11-23T10:30:00",
+      "event": "TMB - Estadual - 4ª Etapa - Sorriso/MT",
+      "initial": 210,
+      "delta": -12,
+      "final": 198,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2024-11-23T10:00:00",
+      "event": "TMB - Estadual - 4ª Etapa - Sorriso/MT",
+      "initial": 198,
+      "delta": 12,
+      "final": 210,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATAN SILVA"
+    },
+    {
+      "played_at": "2024-11-23T08:45:00",
+      "event": "TMB - Estadual - 4ª Etapa - Sorriso/MT",
+      "initial": 176,
+      "delta": 22,
+      "final": 198,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EVANDRO FANTIN"
+    },
+    {
+      "played_at": "2024-09-28T16:30:00",
+      "event": "TMB Regional - 3ª Etapa - Rondonopolis/MT - 2024",
+      "initial": 180,
+      "delta": -4,
+      "final": 176,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "VINÍCIUS ALVES"
+    },
+    {
+      "played_at": "2024-09-28T15:15:00",
+      "event": "TMB Regional - 3ª Etapa - Rondonopolis/MT - 2024",
+      "initial": 186,
+      "delta": -6,
+      "final": 180,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JOÃO SANTOS"
+    },
+    {
+      "played_at": "2024-09-28T10:00:00",
+      "event": "TMB Regional - 3ª Etapa - Rondonopolis/MT - 2024",
+      "initial": 191,
+      "delta": -5,
+      "final": 186,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "JOSÉ NETO"
+    },
+    {
+      "played_at": "2024-09-28T09:15:00",
+      "event": "TMB Regional - 3ª Etapa - Rondonopolis/MT - 2024",
+      "initial": 180,
+      "delta": 11,
+      "final": 191,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "MARCELO GRUBERT"
+    },
+    {
+      "played_at": "2024-09-28T08:15:00",
+      "event": "TMB Regional - 3ª Etapa - Rondonopolis/MT - 2024",
+      "initial": 184,
+      "delta": -4,
+      "final": 180,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "THYAGO PELANDA"
+    },
+    {
+      "played_at": "2024-08-31T18:05:00",
+      "event": "TMB - Estadual - 3ª Etapa - Lucas do Rio Verde/MT",
+      "initial": 170,
+      "delta": 14,
+      "final": 184,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JONATAN SILVA"
+    },
+    {
+      "played_at": "2024-08-31T16:50:00",
+      "event": "TMB - Estadual - 3ª Etapa - Lucas do Rio Verde/MT",
+      "initial": 142,
+      "delta": 28,
+      "final": 170,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EVANDRO FANTIN"
+    },
+    {
+      "played_at": "2024-08-31T15:35:00",
+      "event": "TMB - Estadual - 3ª Etapa - Lucas do Rio Verde/MT",
+      "initial": 154,
+      "delta": -12,
+      "final": 142,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2024-08-31T11:45:00",
+      "event": "TMB - Estadual - 3ª Etapa - Lucas do Rio Verde/MT",
+      "initial": 162,
+      "delta": -8,
+      "final": 154,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RICARDO MULLER"
+    },
+    {
+      "played_at": "2024-08-31T10:30:00",
+      "event": "TMB - Estadual - 3ª Etapa - Lucas do Rio Verde/MT",
+      "initial": 178,
+      "delta": -16,
+      "final": 162,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABRÍCIO SPECHT"
+    },
+    {
+      "played_at": "2024-08-31T09:15:00",
+      "event": "TMB - Estadual - 3ª Etapa - Lucas do Rio Verde/MT",
+      "initial": 154,
+      "delta": 24,
+      "final": 178,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PIETRO OLIVEIRA"
+    },
+    {
+      "played_at": "2024-07-27T15:00:00",
+      "event": "TMB Regional - 2 Etapa - Sinop/MT",
+      "initial": 160,
+      "delta": -6,
+      "final": 154,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "PEDRO MOCELIN"
+    },
+    {
+      "played_at": "2024-07-27T14:15:00",
+      "event": "TMB Regional - 2 Etapa - Sinop/MT",
+      "initial": 165,
+      "delta": -5,
+      "final": 160,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUIS SANTANA"
+    },
+    {
+      "played_at": "2024-07-27T12:00:00",
+      "event": "TMB Regional - 2 Etapa - Sinop/MT",
+      "initial": 173,
+      "delta": -8,
+      "final": 165,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2024-07-27T01:55:00",
+      "event": "TMB Regional - 2 Etapa - Sinop/MT",
+      "initial": 165,
+      "delta": 8,
+      "final": 173,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "JONATAN SILVA"
+    },
+    {
+      "played_at": "2024-07-27T01:54:00",
+      "event": "TMB Regional - 2 Etapa - Sinop/MT",
+      "initial": 167,
+      "delta": -2,
+      "final": 165,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "SILMAR DOMANSKI"
+    },
+    {
+      "played_at": "2024-06-29T19:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Primavera do Leste/MT - 2024",
+      "initial": 179,
+      "delta": -12,
+      "final": 167,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO NOVAES"
+    },
+    {
+      "played_at": "2024-06-29T17:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Primavera do Leste/MT - 2024",
+      "initial": 193,
+      "delta": -14,
+      "final": 179,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITO JUREWISKI"
+    },
+    {
+      "played_at": "2024-06-29T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Primavera do Leste/MT - 2024",
+      "initial": 209,
+      "delta": -16,
+      "final": 193,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JORGE OLIVEIRA"
+    },
+    {
+      "played_at": "2024-06-29T08:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Primavera do Leste/MT - 2024",
+      "initial": 225,
+      "delta": -16,
+      "final": 209,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO JESUS"
+    },
+    {
+      "played_at": "2024-04-27T17:10:00",
+      "event": "TMB Regional - 1ª Etapa - Sorriso/MT - 2024",
+      "initial": 230,
+      "delta": -5,
+      "final": 225,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "PAULO NETO"
+    },
+    {
+      "played_at": "2024-04-27T16:30:00",
+      "event": "TMB Regional - 1ª Etapa - Sorriso/MT - 2024",
+      "initial": 239,
+      "delta": -9,
+      "final": 230,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "FILIPE NEVES"
+    },
+    {
+      "played_at": "2024-04-27T11:40:00",
+      "event": "TMB Regional - 1ª Etapa - Sorriso/MT - 2024",
+      "initial": 247,
+      "delta": -8,
+      "final": 239,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "SILMAR DOMANSKI"
+    },
+    {
+      "played_at": "2024-04-27T11:00:00",
+      "event": "TMB Regional - 1ª Etapa - Sorriso/MT - 2024",
+      "initial": 239,
+      "delta": 8,
+      "final": 247,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "JONATAN SILVA"
+    },
+    {
+      "played_at": "2024-04-27T10:00:00",
+      "event": "TMB Regional - 1ª Etapa - Sorriso/MT - 2024",
+      "initial": 250,
+      "delta": -11,
+      "final": 239,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "JORGE OLIVEIRA ............."
+    }
+  ]
+}

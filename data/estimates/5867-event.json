@@ -1,0 +1,4162 @@
+{
+  "schema_version": 1,
+  "event_id": 5867,
+  "event_name": "5867 - TMB Regional 2026 - I Liga Metropolitana - Porto Velho/RO",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 1,
+  "event_match_count": 61,
+  "estimated_match_count": 61,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5867-54-001",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "08:00",
+      "played_at": "2026-07-04T08:00:00",
+      "players": [
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            6
+          ]
+        },
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 3,
+          "set_points": [
+            7,
+            11,
+            6,
+            13,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "SAMUEL MAIA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1021,
+            "rating_change": -22,
+            "rating_after": 999,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -22
+          },
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 511,
+            "rating_change": 30,
+            "rating_after": 541,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 30
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-002",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "08:00",
+      "played_at": "2026-07-04T08:00:00",
+      "players": [
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 3,
+          "set_points": [
+            4,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "IAN MENDES",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            2,
+            5,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ARTHUR AGRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 629,
+            "rating_change": 3,
+            "rating_after": 632,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 184,
+            "rating_change": -1,
+            "rating_after": 183,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-53-001",
+      "event_id": 5867,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "08:22",
+      "played_at": "2026-07-04T08:22:00",
+      "players": [
+        {
+          "name": "GUSTAVO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ QUERINO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            4,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GUSTAVO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81091,
+            "name": "GUSTAVO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 674,
+            "rating_change": 4,
+            "rating_after": 678,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 85866,
+            "name": "CAUÃ QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 288,
+            "rating_change": -2,
+            "rating_after": 286,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-53-002",
+      "event_id": 5867,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Única 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "08:22",
+      "played_at": "2026-07-04T08:22:00",
+      "players": [
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            9,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IAN MENDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "IAN MENDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 342,
+            "rating_change": -14,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -14
+          },
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 183,
+            "rating_change": 18,
+            "rating_after": 201,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-003",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "08:44",
+      "played_at": "2026-07-04T08:44:00",
+      "players": [
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IAN MENDES",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            2,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "YOSEF CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 999,
+            "rating_change": 1,
+            "rating_after": 1000,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 201,
+            "rating_change": 0,
+            "rating_after": 201,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-004",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 4,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "08:44",
+      "played_at": "2026-07-04T08:44:00",
+      "players": [
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 2,
+          "set_points": [
+            5,
+            11,
+            7,
+            11,
+            8
+          ]
+        },
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            9,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "JOÃO LOPES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 632,
+            "rating_change": -18,
+            "rating_after": 614,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          },
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": 23,
+            "rating_after": 351,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 23
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-258-001",
+      "event_id": 5867,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "09:06",
+      "played_at": "2026-07-04T09:06:00",
+      "players": [
+        {
+          "name": "VALTER JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO DAVID",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            4,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "VALTER JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 10818,
+            "name": "VALTER JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 932,
+            "rating_change": 2,
+            "rating_after": 934,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 53462,
+            "name": "RICARDO DAVID",
+            "associate_id_source": "event_roster",
+            "rating_before": 350,
+            "rating_change": 0,
+            "rating_after": 350,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-258-002",
+      "event_id": 5867,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Única 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "09:06",
+      "played_at": "2026-07-04T09:06:00",
+      "players": [
+        {
+          "name": "JOÃO JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MICHEL WATANABE",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            5,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 237,
+            "name": "JOÃO JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 692,
+            "rating_change": 8,
+            "rating_after": 700,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 33951,
+            "name": "MICHEL WATANABE",
+            "associate_id_source": "event_roster",
+            "rating_before": 616,
+            "rating_change": -6,
+            "rating_after": 610,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-53-003",
+      "event_id": 5867,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "09:28",
+      "played_at": "2026-07-04T09:28:00",
+      "players": [
+        {
+          "name": "GUSTAVO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "IAN MENDES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            8,
+            9,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GUSTAVO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81091,
+            "name": "GUSTAVO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 678,
+            "rating_change": 3,
+            "rating_after": 681,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 201,
+            "rating_change": -1,
+            "rating_after": 200,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-53-004",
+      "event_id": 5867,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Única 01",
+      "game_number": 4,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "09:28",
+      "played_at": "2026-07-04T09:28:00",
+      "players": [
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            8,
+            11,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ QUERINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            4,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "CAUÃ QUERINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 351,
+            "rating_change": -11,
+            "rating_after": 340,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          },
+          {
+            "associate_id": 85866,
+            "name": "CAUÃ QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 286,
+            "rating_change": 14,
+            "rating_after": 300,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-258-003",
+      "event_id": 5867,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "09:50",
+      "played_at": "2026-07-04T09:50:00",
+      "players": [
+        {
+          "name": "VALTER JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            9,
+            11,
+            11,
+            14
+          ]
+        },
+        {
+          "name": "MICHEL WATANABE",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            4,
+            7,
+            12
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "VALTER JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 10818,
+            "name": "VALTER JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 934,
+            "rating_change": 4,
+            "rating_after": 938,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 33951,
+            "name": "MICHEL WATANABE",
+            "associate_id_source": "event_roster",
+            "rating_before": 610,
+            "rating_change": -2,
+            "rating_after": 608,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-258-004",
+      "event_id": 5867,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Única 01",
+      "game_number": 4,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "09:50",
+      "played_at": "2026-07-04T09:50:00",
+      "players": [
+        {
+          "name": "JOÃO JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            4,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO DAVID",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            3,
+            5,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "JOÃO JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 237,
+            "name": "JOÃO JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 700,
+            "rating_change": 4,
+            "rating_after": 704,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 53462,
+            "name": "RICARDO DAVID",
+            "associate_id_source": "event_roster",
+            "rating_before": 350,
+            "rating_change": -2,
+            "rating_after": 348,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-005",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "10:12",
+      "played_at": "2026-07-04T10:12:00",
+      "players": [
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            16,
+            13,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            14,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ARTHUR AGRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 614,
+            "rating_change": 8,
+            "rating_after": 622,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 541,
+            "rating_change": -6,
+            "rating_after": 535,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-006",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 6,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "10:12",
+      "played_at": "2026-07-04T10:12:00",
+      "players": [
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "IAN MENDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            0,
+            11,
+            13,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "IAN MENDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 340,
+            "rating_change": -12,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -12
+          },
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 200,
+            "rating_change": 16,
+            "rating_after": 216,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-55-001",
+      "event_id": 5867,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Única 01",
+      "game_number": 1,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "10:34",
+      "played_at": "2026-07-04T10:34:00",
+      "players": [
+        {
+          "name": "YGOR ARAÚJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "IGOR RODRIGUES",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            8,
+            4,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "YGOR ARAÚJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78575,
+            "name": "YGOR ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1643,
+            "rating_change": 1,
+            "rating_after": 1644,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 64007,
+            "name": "IGOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 698,
+            "rating_change": 0,
+            "rating_after": 698,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-258-005",
+      "event_id": 5867,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Única 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "10:34",
+      "played_at": "2026-07-04T10:34:00",
+      "players": [
+        {
+          "name": "MICHEL WATANABE",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            7,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "RICARDO DAVID",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            4,
+            11,
+            2,
+            9
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "MICHEL WATANABE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 33951,
+            "name": "MICHEL WATANABE",
+            "associate_id_source": "event_roster",
+            "rating_before": 608,
+            "rating_change": 5,
+            "rating_after": 613,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 53462,
+            "name": "RICARDO DAVID",
+            "associate_id_source": "event_roster",
+            "rating_before": 348,
+            "rating_change": -3,
+            "rating_after": 345,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-007",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 7,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "10:56",
+      "played_at": "2026-07-04T10:56:00",
+      "players": [
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 1,
+          "set_points": [
+            2,
+            8,
+            11,
+            2,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "YOSEF CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1000,
+            "rating_change": 2,
+            "rating_after": 1002,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": 0,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-008",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 8,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "10:56",
+      "played_at": "2026-07-04T10:56:00",
+      "players": [
+        {
+          "name": "IAN MENDES",
+          "sets_won": 3,
+          "set_points": [
+            2,
+            11,
+            11,
+            8,
+            12
+          ]
+        },
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            9,
+            11,
+            10
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "IAN MENDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 216,
+            "rating_change": 23,
+            "rating_after": 239,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 23
+          },
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 535,
+            "rating_change": -18,
+            "rating_after": 517,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -18
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-55-002",
+      "event_id": 5867,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Única 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "11:18",
+      "played_at": "2026-07-04T11:18:00",
+      "players": [
+        {
+          "name": "VICTOR BARROSO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            8,
+            9,
+            4,
+            null
+          ]
+        },
+        {
+          "name": "IGOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "IGOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89219,
+            "name": "VICTOR BARROSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 540,
+            "rating_change": -4,
+            "rating_after": 536,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          },
+          {
+            "associate_id": 64007,
+            "name": "IGOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 698,
+            "rating_change": 6,
+            "rating_after": 704,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-258-006",
+      "event_id": 5867,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Única 01",
+      "game_number": 6,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "11:18",
+      "played_at": "2026-07-04T11:18:00",
+      "players": [
+        {
+          "name": "VALTER JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO JÚNIOR",
+          "sets_won": 1,
+          "set_points": [
+            8,
+            8,
+            11,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "VALTER JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 10818,
+            "name": "VALTER JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 938,
+            "rating_change": 5,
+            "rating_after": 943,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 237,
+            "name": "JOÃO JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 704,
+            "rating_change": -3,
+            "rating_after": 701,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-53-005",
+      "event_id": 5867,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Única 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "11:40",
+      "played_at": "2026-07-04T11:40:00",
+      "players": [
+        {
+          "name": "IAN MENDES",
+          "sets_won": 3,
+          "set_points": [
+            2,
+            12,
+            15,
+            12,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ QUERINO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            10,
+            13,
+            10,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "IAN MENDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90436,
+            "name": "IAN MENDES",
+            "associate_id_source": "event_roster",
+            "rating_before": 239,
+            "rating_change": 14,
+            "rating_after": 253,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 14
+          },
+          {
+            "associate_id": 85866,
+            "name": "CAUÃ QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 300,
+            "rating_change": -11,
+            "rating_after": 289,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -11
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-53-006",
+      "event_id": 5867,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Única 01",
+      "game_number": 6,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "11:40",
+      "played_at": "2026-07-04T11:40:00",
+      "players": [
+        {
+          "name": "GUSTAVO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            12,
+            10,
+            16
+          ]
+        },
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 2,
+          "set_points": [
+            12,
+            5,
+            10,
+            12,
+            14
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "GUSTAVO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81091,
+            "name": "GUSTAVO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 681,
+            "rating_change": 4,
+            "rating_after": 685,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 328,
+            "rating_change": -2,
+            "rating_after": 326,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-55-003",
+      "event_id": 5867,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Única 01",
+      "game_number": 3,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "12:02",
+      "played_at": "2026-07-04T12:02:00",
+      "players": [
+        {
+          "name": "YGOR ARAÚJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "VICTOR BARROSO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            3,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "YGOR ARAÚJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78575,
+            "name": "YGOR ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1644,
+            "rating_change": 1,
+            "rating_after": 1645,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 89219,
+            "name": "VICTOR BARROSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 536,
+            "rating_change": 0,
+            "rating_after": 536,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-009",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 9,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "12:24",
+      "played_at": "2026-07-04T12:24:00",
+      "players": [
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            5,
+            11,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            9,
+            5,
+            14,
+            11
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "YOSEF CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1002,
+            "rating_change": 4,
+            "rating_after": 1006,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 622,
+            "rating_change": -2,
+            "rating_after": 620,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-54-010",
+      "event_id": 5867,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Única 01",
+      "game_number": 10,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "12:24",
+      "played_at": "2026-07-04T12:24:00",
+      "players": [
+        {
+          "name": "JOÃO LOPES",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            5,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "SAMUEL MAIA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89680,
+            "name": "JOÃO LOPES",
+            "associate_id_source": "event_roster",
+            "rating_before": 326,
+            "rating_change": -4,
+            "rating_after": 322,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -4
+          },
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 517,
+            "rating_change": 6,
+            "rating_after": 523,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-64-001",
+      "event_id": 5867,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-04T14:00:00",
+      "players": [
+        {
+          "name": "GUNNAR MELO",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            3,
+            3,
+            null
+          ]
+        },
+        {
+          "name": "MANOEL JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "MANOEL JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86904,
+            "name": "GUNNAR MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 543,
+            "rating_change": -3,
+            "rating_after": 540,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 73242,
+            "name": "MANOEL JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 797,
+            "rating_change": 5,
+            "rating_after": 802,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-001",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-04T14:00:00",
+      "players": [
+        {
+          "name": "JESSÉ SILVA",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MACHADO",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            2,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JESSÉ SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 33365,
+            "name": "JESSÉ SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1851,
+            "rating_change": 1,
+            "rating_after": 1852,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 78804,
+            "name": "JOSÉ MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 472,
+            "rating_change": 0,
+            "rating_after": 472,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-002",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 02",
+      "game_number": 2,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-04T14:00:00",
+      "players": [
+        {
+          "name": "MARCIO LIMA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JEAN SÁ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARCIO LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62792,
+            "name": "MARCIO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 985,
+            "rating_change": 1,
+            "rating_after": 986,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 90445,
+            "name": "JEAN SÁ",
+            "associate_id_source": "event_roster",
+            "rating_before": 196,
+            "rating_change": 0,
+            "rating_after": 196,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-003",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 02",
+      "game_number": 3,
+      "table": 5,
+      "date": "04/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-04T14:00:00",
+      "players": [
+        {
+          "name": "YURE ZANATA",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            1,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FÉLIX SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FÉLIX SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 64304,
+            "name": "YURE ZANATA",
+            "associate_id_source": "event_roster",
+            "rating_before": 336,
+            "rating_change": 0,
+            "rating_after": 336,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 27603,
+            "name": "FÉLIX SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1211,
+            "rating_change": 1,
+            "rating_after": 1212,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-120-001",
+      "event_id": 5867,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Única 01",
+      "game_number": 1,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "14:24",
+      "played_at": "2026-07-04T14:24:00",
+      "players": [
+        {
+          "name": "GUSTAVO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            7,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ QUERINO",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            10,
+            11,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "GUSTAVO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81091,
+            "name": "GUSTAVO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 685,
+            "rating_change": 4,
+            "rating_after": 689,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 85866,
+            "name": "CAUÃ QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 289,
+            "rating_change": -2,
+            "rating_after": 287,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-262-001",
+      "event_id": 5867,
+      "category_id": 262,
+      "category": "MASTER 60MAS",
+      "phase": "MASTER 60MAS - Única 01",
+      "game_number": 1,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "14:24",
+      "played_at": "2026-07-04T14:24:00",
+      "players": [
+        {
+          "name": "ALMIR ALBUQUERQUE",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MAURO GANAHA",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            7,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALMIR ALBUQUERQUE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21808,
+            "name": "ALMIR ALBUQUERQUE",
+            "associate_id_source": "event_roster",
+            "rating_before": 524,
+            "rating_change": 4,
+            "rating_after": 528,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 62986,
+            "name": "MAURO GANAHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 212,
+            "rating_change": -2,
+            "rating_after": 210,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-270-001",
+      "event_id": 5867,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 1,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "14:24",
+      "played_at": "2026-07-04T14:24:00",
+      "players": [
+        {
+          "name": "IGOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            7,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "IGOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 64007,
+            "name": "IGOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 704,
+            "rating_change": 8,
+            "rating_after": 712,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          },
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 620,
+            "rating_change": -6,
+            "rating_after": 614,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-270-002",
+      "event_id": 5867,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 2,
+      "table": 5,
+      "date": "04/07/2026",
+      "time": "14:24",
+      "played_at": "2026-07-04T14:24:00",
+      "players": [
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            5,
+            9,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YOSEF CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 523,
+            "rating_change": -1,
+            "rating_after": 522,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          },
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1006,
+            "rating_change": 3,
+            "rating_after": 1009,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-271-001",
+      "event_id": 5867,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Única 01",
+      "game_number": 1,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "14:24",
+      "played_at": "2026-07-04T14:24:00",
+      "players": [
+        {
+          "name": "LETICIA TAGINO",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            12,
+            8,
+            11
+          ]
+        },
+        {
+          "name": "PIETRA TAGINO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            8,
+            10,
+            11,
+            9
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "LETICIA TAGINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 73743,
+            "name": "LETICIA TAGINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1100,
+            "rating_change": 3,
+            "rating_after": 1103,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 69471,
+            "name": "PIETRA TAGINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 623,
+            "rating_change": -1,
+            "rating_after": 622,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-64-002",
+      "event_id": 5867,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 2,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "14:48",
+      "played_at": "2026-07-04T14:48:00",
+      "players": [
+        {
+          "name": "YGOR ARAÚJO",
+          "sets_won": 3,
+          "set_points": [
+            2,
+            11,
+            11,
+            13,
+            null
+          ]
+        },
+        {
+          "name": "VICTOR BARROSO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            6,
+            9,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "YGOR ARAÚJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78575,
+            "name": "YGOR ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1645,
+            "rating_change": 1,
+            "rating_after": 1646,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 89219,
+            "name": "VICTOR BARROSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 536,
+            "rating_change": 0,
+            "rating_after": 536,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-004",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 01",
+      "game_number": 4,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "14:48",
+      "played_at": "2026-07-04T14:48:00",
+      "players": [
+        {
+          "name": "CARLOS QUERINO",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            11,
+            10,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOSÉ MACHADO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            13,
+            12,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "JOSÉ MACHADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62942,
+            "name": "CARLOS QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 196,
+            "rating_change": -3,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 78804,
+            "name": "JOSÉ MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 472,
+            "rating_change": 5,
+            "rating_after": 477,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-005",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 02",
+      "game_number": 5,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "14:48",
+      "played_at": "2026-07-04T14:48:00",
+      "players": [
+        {
+          "name": "MARCIO LIMA",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            9,
+            8,
+            null
+          ]
+        },
+        {
+          "name": "FÉLIX SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "FÉLIX SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62792,
+            "name": "MARCIO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 986,
+            "rating_change": -3,
+            "rating_after": 983,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 27603,
+            "name": "FÉLIX SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1212,
+            "rating_change": 5,
+            "rating_after": 1217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-006",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 02",
+      "game_number": 6,
+      "table": 5,
+      "date": "04/07/2026",
+      "time": "14:48",
+      "played_at": "2026-07-04T14:48:00",
+      "players": [
+        {
+          "name": "YURE ZANATA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JEAN SÁ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "YURE ZANATA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 64304,
+            "name": "YURE ZANATA",
+            "associate_id_source": "event_roster",
+            "rating_before": 336,
+            "rating_change": 7,
+            "rating_after": 343,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 7
+          },
+          {
+            "associate_id": 90445,
+            "name": "JEAN SÁ",
+            "associate_id_source": "event_roster",
+            "rating_before": 196,
+            "rating_change": -5,
+            "rating_after": 191,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-120-002",
+      "event_id": 5867,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Única 01",
+      "game_number": 2,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "15:12",
+      "played_at": "2026-07-04T15:12:00",
+      "players": [
+        {
+          "name": "DANIEL LIMA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            2,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "NATAN RANCONI",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "NATAN RANCONI",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89712,
+            "name": "DANIEL LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -10,
+            "rating_after": 240,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -10
+          },
+          {
+            "associate_id": 89316,
+            "name": "NATAN RANCONI",
+            "associate_id_source": "event_roster",
+            "rating_before": 212,
+            "rating_change": 12,
+            "rating_after": 224,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-262-002",
+      "event_id": 5867,
+      "category_id": 262,
+      "category": "MASTER 60MAS",
+      "phase": "MASTER 60MAS - Única 01",
+      "game_number": 2,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "15:12",
+      "played_at": "2026-07-04T15:12:00",
+      "players": [
+        {
+          "name": "JOESER SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MAURO GANAHA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MAURO GANAHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 90431,
+            "name": "JOESER SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 208,
+            "rating_change": -8,
+            "rating_after": 200,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          },
+          {
+            "associate_id": 62986,
+            "name": "MAURO GANAHA",
+            "associate_id_source": "event_roster",
+            "rating_before": 210,
+            "rating_change": 10,
+            "rating_after": 220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-270-003",
+      "event_id": 5867,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 3,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "15:12",
+      "played_at": "2026-07-04T15:12:00",
+      "players": [
+        {
+          "name": "IGOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            11,
+            6,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            7,
+            11,
+            3,
+            8
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "IGOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 64007,
+            "name": "IGOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 712,
+            "rating_change": 20,
+            "rating_after": 732,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 20
+          },
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1009,
+            "rating_change": -16,
+            "rating_after": 993,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -16
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-270-004",
+      "event_id": 5867,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 4,
+      "table": 5,
+      "date": "04/07/2026",
+      "time": "15:12",
+      "played_at": "2026-07-04T15:12:00",
+      "players": [
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            8,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ARTHUR AGRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 522,
+            "rating_change": -6,
+            "rating_after": 516,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 614,
+            "rating_change": 8,
+            "rating_after": 622,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-271-002",
+      "event_id": 5867,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Única 01",
+      "game_number": 2,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "15:12",
+      "played_at": "2026-07-04T15:12:00",
+      "players": [
+        {
+          "name": "LUIZA MAIA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            5,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PIETRA TAGINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PIETRA TAGINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 92863,
+            "name": "LUIZA MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 412,
+            "rating_change": -3,
+            "rating_after": 409,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 69471,
+            "name": "PIETRA TAGINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 622,
+            "rating_change": 5,
+            "rating_after": 627,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-007",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 01",
+      "game_number": 7,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "15:36",
+      "played_at": "2026-07-04T15:36:00",
+      "players": [
+        {
+          "name": "JESSÉ SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CARLOS QUERINO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JESSÉ SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 33365,
+            "name": "JESSÉ SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1852,
+            "rating_change": 1,
+            "rating_after": 1853,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 62942,
+            "name": "CARLOS QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 193,
+            "rating_change": 0,
+            "rating_after": 193,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-008",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 02",
+      "game_number": 8,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "15:36",
+      "played_at": "2026-07-04T15:36:00",
+      "players": [
+        {
+          "name": "FÉLIX SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JEAN SÁ",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FÉLIX SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 27603,
+            "name": "FÉLIX SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1217,
+            "rating_change": 1,
+            "rating_after": 1218,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 90445,
+            "name": "JEAN SÁ",
+            "associate_id_source": "event_roster",
+            "rating_before": 191,
+            "rating_change": 0,
+            "rating_after": 191,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-009",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Grupo 02",
+      "game_number": 9,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "15:36",
+      "played_at": "2026-07-04T15:36:00",
+      "players": [
+        {
+          "name": "MARCIO LIMA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YURE ZANATA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "MARCIO LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 62792,
+            "name": "MARCIO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 983,
+            "rating_change": 2,
+            "rating_after": 985,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 64304,
+            "name": "YURE ZANATA",
+            "associate_id_source": "event_roster",
+            "rating_before": 343,
+            "rating_change": 0,
+            "rating_after": 343,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-120-003",
+      "event_id": 5867,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Única 01",
+      "game_number": 3,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-04T16:00:00",
+      "players": [
+        {
+          "name": "GUSTAVO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "NATAN RANCONI",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            8,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GUSTAVO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81091,
+            "name": "GUSTAVO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 689,
+            "rating_change": 3,
+            "rating_after": 692,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 89316,
+            "name": "NATAN RANCONI",
+            "associate_id_source": "event_roster",
+            "rating_before": 224,
+            "rating_change": -1,
+            "rating_after": 223,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-120-004",
+      "event_id": 5867,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Única 01",
+      "game_number": 4,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-04T16:00:00",
+      "players": [
+        {
+          "name": "DANIEL LIMA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            2,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ QUERINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "CAUÃ QUERINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89712,
+            "name": "DANIEL LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 240,
+            "rating_change": -7,
+            "rating_after": 233,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -7
+          },
+          {
+            "associate_id": 85866,
+            "name": "CAUÃ QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 287,
+            "rating_change": 9,
+            "rating_after": 296,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 9
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-262-003",
+      "event_id": 5867,
+      "category_id": 262,
+      "category": "MASTER 60MAS",
+      "phase": "MASTER 60MAS - Única 01",
+      "game_number": 3,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-04T16:00:00",
+      "players": [
+        {
+          "name": "ALMIR ALBUQUERQUE",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOESER SILVA",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ALMIR ALBUQUERQUE",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 21808,
+            "name": "ALMIR ALBUQUERQUE",
+            "associate_id_source": "event_roster",
+            "rating_before": 528,
+            "rating_change": 4,
+            "rating_after": 532,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 90431,
+            "name": "JOESER SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 200,
+            "rating_change": -2,
+            "rating_after": 198,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-270-005",
+      "event_id": 5867,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 5,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-04T16:00:00",
+      "players": [
+        {
+          "name": "YOSEF CARVALHO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            3,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "ARTHUR AGRA",
+          "sets_won": 2,
+          "set_points": [
+            2,
+            9,
+            11,
+            11,
+            4
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "YOSEF CARVALHO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 82972,
+            "name": "YOSEF CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 993,
+            "rating_change": 4,
+            "rating_after": 997,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 4
+          },
+          {
+            "associate_id": 83303,
+            "name": "ARTHUR AGRA",
+            "associate_id_source": "event_roster",
+            "rating_before": 622,
+            "rating_change": -2,
+            "rating_after": 620,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-270-006",
+      "event_id": 5867,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Única 01",
+      "game_number": 6,
+      "table": 5,
+      "date": "04/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-04T16:00:00",
+      "players": [
+        {
+          "name": "IGOR RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "SAMUEL MAIA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            3,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "IGOR RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 64007,
+            "name": "IGOR RODRIGUES",
+            "associate_id_source": "event_roster",
+            "rating_before": 732,
+            "rating_change": 5,
+            "rating_after": 737,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          },
+          {
+            "associate_id": 91213,
+            "name": "SAMUEL MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 516,
+            "rating_change": -3,
+            "rating_after": 513,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-64-003",
+      "event_id": 5867,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 3,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "16:24",
+      "played_at": "2026-07-04T16:24:00",
+      "players": [
+        {
+          "name": "GUNNAR MELO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "VICTOR BARROSO",
+          "sets_won": 1,
+          "set_points": [
+            2,
+            11,
+            7,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "GUNNAR MELO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86904,
+            "name": "GUNNAR MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 540,
+            "rating_change": 10,
+            "rating_after": 550,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 10
+          },
+          {
+            "associate_id": 89219,
+            "name": "VICTOR BARROSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 536,
+            "rating_change": -8,
+            "rating_after": 528,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-64-004",
+      "event_id": 5867,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 4,
+      "table": 4,
+      "date": "04/07/2026",
+      "time": "16:24",
+      "played_at": "2026-07-04T16:24:00",
+      "players": [
+        {
+          "name": "YGOR ARAÚJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            9,
+            11
+          ]
+        },
+        {
+          "name": "MANOEL JÚNIOR",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            7,
+            11,
+            7
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "YGOR ARAÚJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78575,
+            "name": "YGOR ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1646,
+            "rating_change": 1,
+            "rating_after": 1647,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 73242,
+            "name": "MANOEL JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 802,
+            "rating_change": 0,
+            "rating_after": 802,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-010",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Semi Final",
+      "game_number": 10,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "16:24",
+      "played_at": "2026-07-04T16:24:00",
+      "players": [
+        {
+          "name": "JESSÉ SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            4,
+            11,
+            12,
+            null
+          ]
+        },
+        {
+          "name": "MARCIO LIMA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            11,
+            8,
+            10,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "JESSÉ SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 33365,
+            "name": "JESSÉ SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1853,
+            "rating_change": 1,
+            "rating_after": 1854,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          },
+          {
+            "associate_id": 62792,
+            "name": "MARCIO LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 985,
+            "rating_change": 0,
+            "rating_after": 985,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-011",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Semi Final",
+      "game_number": 11,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "16:24",
+      "played_at": "2026-07-04T16:24:00",
+      "players": [
+        {
+          "name": "JOSÉ MACHADO",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            9,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FÉLIX SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "FÉLIX SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 78804,
+            "name": "JOSÉ MACHADO",
+            "associate_id_source": "event_roster",
+            "rating_before": 477,
+            "rating_change": 0,
+            "rating_after": 477,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 27603,
+            "name": "FÉLIX SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1218,
+            "rating_change": 2,
+            "rating_after": 1220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-271-003",
+      "event_id": 5867,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Única 01",
+      "game_number": 3,
+      "table": 5,
+      "date": "04/07/2026",
+      "time": "16:24",
+      "played_at": "2026-07-04T16:24:00",
+      "players": [
+        {
+          "name": "LETICIA TAGINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "LUIZA MAIA",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            2,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LETICIA TAGINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 73743,
+            "name": "LETICIA TAGINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1103,
+            "rating_change": 2,
+            "rating_after": 1105,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 92863,
+            "name": "LUIZA MAIA",
+            "associate_id_source": "event_roster",
+            "rating_before": 409,
+            "rating_change": 0,
+            "rating_after": 409,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-120-005",
+      "event_id": 5867,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Única 01",
+      "game_number": 5,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "16:48",
+      "played_at": "2026-07-04T16:48:00",
+      "players": [
+        {
+          "name": "NATAN RANCONI",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            3,
+            2,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CAUÃ QUERINO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "CAUÃ QUERINO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89316,
+            "name": "NATAN RANCONI",
+            "associate_id_source": "event_roster",
+            "rating_before": 223,
+            "rating_change": -6,
+            "rating_after": 217,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -6
+          },
+          {
+            "associate_id": 85866,
+            "name": "CAUÃ QUERINO",
+            "associate_id_source": "event_roster",
+            "rating_before": 296,
+            "rating_change": 8,
+            "rating_after": 304,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 8
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-120-006",
+      "event_id": 5867,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Única 01",
+      "game_number": 6,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "16:48",
+      "played_at": "2026-07-04T16:48:00",
+      "players": [
+        {
+          "name": "GUSTAVO CAMPOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL LIMA",
+          "sets_won": 0,
+          "set_points": [
+            3,
+            6,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GUSTAVO CAMPOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 81091,
+            "name": "GUSTAVO CAMPOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 692,
+            "rating_change": 3,
+            "rating_after": 695,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 3
+          },
+          {
+            "associate_id": 89712,
+            "name": "DANIEL LIMA",
+            "associate_id_source": "event_roster",
+            "rating_before": 233,
+            "rating_change": -1,
+            "rating_after": 232,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-64-005",
+      "event_id": 5867,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 5,
+      "table": 2,
+      "date": "04/07/2026",
+      "time": "17:12",
+      "played_at": "2026-07-04T17:12:00",
+      "players": [
+        {
+          "name": "VICTOR BARROSO",
+          "sets_won": 0,
+          "set_points": [
+            2,
+            7,
+            8,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MANOEL JÚNIOR",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "MANOEL JÚNIOR",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 89219,
+            "name": "VICTOR BARROSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 528,
+            "rating_change": -3,
+            "rating_after": 525,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -3
+          },
+          {
+            "associate_id": 73242,
+            "name": "MANOEL JÚNIOR",
+            "associate_id_source": "event_roster",
+            "rating_before": 802,
+            "rating_change": 5,
+            "rating_after": 807,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 5
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-64-006",
+      "event_id": 5867,
+      "category_id": 64,
+      "category": "ADULTO MAS",
+      "phase": "ADULTO MAS - Única 01",
+      "game_number": 6,
+      "table": 3,
+      "date": "04/07/2026",
+      "time": "17:12",
+      "played_at": "2026-07-04T17:12:00",
+      "players": [
+        {
+          "name": "GUNNAR MELO",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "YGOR ARAÚJO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            13,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "YGOR ARAÚJO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 86904,
+            "name": "GUNNAR MELO",
+            "associate_id_source": "event_roster",
+            "rating_before": 550,
+            "rating_change": 0,
+            "rating_after": 550,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          },
+          {
+            "associate_id": 78575,
+            "name": "YGOR ARAÚJO",
+            "associate_id_source": "event_roster",
+            "rating_before": 1647,
+            "rating_change": 1,
+            "rating_after": 1648,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 1
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5867-259-012",
+      "event_id": 5867,
+      "category_id": 259,
+      "category": "MASTER 45MAS",
+      "phase": "MASTER 45MAS - Final",
+      "game_number": 12,
+      "table": 1,
+      "date": "04/07/2026",
+      "time": "17:12",
+      "played_at": "2026-07-04T17:12:00",
+      "players": [
+        {
+          "name": "JESSÉ SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            12,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FÉLIX SILVA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            10,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JESSÉ SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 1,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 33365,
+            "name": "JESSÉ SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1854,
+            "rating_change": 2,
+            "rating_after": 1856,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 2
+          },
+          {
+            "associate_id": 27603,
+            "name": "FÉLIX SILVA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1220,
+            "rating_change": 0,
+            "rating_after": 1220,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "associate_id": 91738,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91738&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-29T11:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 208,
+      "delta": -6,
+      "final": 202,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL DESJARDINS"
+    },
+    {
+      "played_at": "2026-03-29T09:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 217,
+      "delta": -9,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BENJAMIN RODRIGUES"
+    },
+    {
+      "played_at": "2026-03-29T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATTEO CARBONERA ............."
+    }
+  ]
+}

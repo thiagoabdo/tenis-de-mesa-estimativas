@@ -1,0 +1,67 @@
+{
+  "associate_id": 91263,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91263&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-03-14T16:00:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 268,
+      "delta": -24,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI PINTO"
+    },
+    {
+      "played_at": "2026-03-14T14:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 235,
+      "delta": 33,
+      "final": 268,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUILHERME PELENTIR"
+    },
+    {
+      "played_at": "2026-03-14T11:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 235,
+      "delta": 0,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR CZERWINSKI"
+    },
+    {
+      "played_at": "2026-03-14T09:12:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 238,
+      "delta": -3,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIQUELME WANDERLEY"
+    },
+    {
+      "played_at": "2026-03-14T08:24:00",
+      "event": "TMB Estadual de Vilhena/RO - 1ª Etapa - 2026",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VICTOR RANGEL ............."
+    }
+  ]
+}

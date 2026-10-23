@@ -1,0 +1,43 @@
+{
+  "associate_id": 92073,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92073&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-04-17T17:26:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 292,
+      "delta": -24,
+      "final": 268,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS PASTRO"
+    },
+    {
+      "played_at": "2026-04-17T16:42:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 310,
+      "delta": -18,
+      "final": 292,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDNEI FILHO"
+    },
+    {
+      "played_at": "2026-04-17T15:14:00",
+      "event": "TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+      "initial": 250,
+      "delta": 60,
+      "final": 310,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUEL MENDONÇA ............."
+    }
+  ]
+}

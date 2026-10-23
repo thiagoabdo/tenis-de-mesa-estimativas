@@ -1,0 +1,31 @@
+{
+  "associate_id": 94483,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94483&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-25T09:20:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 241,
+      "delta": -10,
+      "final": 231,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ALICE CAVAZZINI"
+    },
+    {
+      "played_at": "2026-07-25T09:00:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Lucas do Rio Verde/MT",
+      "initial": 250,
+      "delta": -9,
+      "final": 241,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ELINE SPECHT ............."
+    }
+  ]
+}

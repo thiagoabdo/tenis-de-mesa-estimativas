@@ -1,0 +1,1411 @@
+{
+  "associate_id": 71026,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=71026&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T13:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1060,
+      "delta": 54,
+      "final": 1114,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA SOKEN"
+    },
+    {
+      "played_at": "2026-09-20T13:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1072,
+      "delta": -12,
+      "final": 1060,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA VICENTE"
+    },
+    {
+      "played_at": "2026-09-20T11:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1084,
+      "delta": -12,
+      "final": 1072,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2026-09-20T08:50:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1084,
+      "delta": 0,
+      "final": 1084,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LÍVIA LIMA"
+    },
+    {
+      "played_at": "2026-09-19T13:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1081,
+      "delta": 3,
+      "final": 1084,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KHAWANY CALDERONI"
+    },
+    {
+      "played_at": "2026-09-19T12:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1057,
+      "delta": 24,
+      "final": 1081,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALINE CORDOBA"
+    },
+    {
+      "played_at": "2026-09-19T11:05:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1039,
+      "delta": 18,
+      "final": 1057,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA SCHEER"
+    },
+    {
+      "played_at": "2026-09-19T09:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Campo Grande/MS",
+      "initial": 1015,
+      "delta": 24,
+      "final": 1039,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANA KINA"
+    },
+    {
+      "played_at": "2026-08-23T16:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1021,
+      "delta": -6,
+      "final": 1015,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2026-08-23T15:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1027,
+      "delta": -6,
+      "final": 1021,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2026-08-23T13:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1036,
+      "delta": -9,
+      "final": 1027,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2026-08-23T11:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1066,
+      "delta": -30,
+      "final": 1036,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ TAIRA"
+    },
+    {
+      "played_at": "2026-08-22T14:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1060,
+      "delta": 6,
+      "final": 1066,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIAH SILVA"
+    },
+    {
+      "played_at": "2026-08-22T14:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1090,
+      "delta": -30,
+      "final": 1060,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ TAIRA"
+    },
+    {
+      "played_at": "2026-08-22T13:10:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1138,
+      "delta": -48,
+      "final": 1090,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALINE CORDOBA"
+    },
+    {
+      "played_at": "2026-08-22T11:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Dourados/MS - 2026",
+      "initial": 1126,
+      "delta": 12,
+      "final": 1138,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SCHEER"
+    },
+    {
+      "played_at": "2026-06-21T15:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1141,
+      "delta": -15,
+      "final": 1126,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2026-06-21T12:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1087,
+      "delta": 54,
+      "final": 1141,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2026-06-21T12:29:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1072,
+      "delta": 15,
+      "final": 1087,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAURA SILVA"
+    },
+    {
+      "played_at": "2026-06-21T10:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1069,
+      "delta": 3,
+      "final": 1072,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIAH SILVA"
+    },
+    {
+      "played_at": "2026-06-21T08:50:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1066,
+      "delta": 3,
+      "final": 1069,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIANA MORAN"
+    },
+    {
+      "played_at": "2026-06-20T14:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1087,
+      "delta": -21,
+      "final": 1066,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PIETRA CAREAGA"
+    },
+    {
+      "played_at": "2026-06-20T13:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1084,
+      "delta": 3,
+      "final": 1087,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MORAN"
+    },
+    {
+      "played_at": "2026-06-20T12:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1138,
+      "delta": -54,
+      "final": 1084,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALINE CORDOBA"
+    },
+    {
+      "played_at": "2026-06-20T09:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Campo Grande/MS - 2026",
+      "initial": 1129,
+      "delta": 9,
+      "final": 1138,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA PERALTA"
+    },
+    {
+      "played_at": "2026-06-07T10:05:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1255,
+      "delta": -126,
+      "final": 1129,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA SOKEN"
+    },
+    {
+      "played_at": "2026-06-06T18:50:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 1111,
+      "delta": 144,
+      "final": 1255,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALINE DUQUE"
+    },
+    {
+      "played_at": "2026-06-06T18:00:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 841,
+      "delta": 270,
+      "final": 1111,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JÚLIA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-06-05T16:20:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 841,
+      "delta": 0,
+      "final": 841,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMANUELLY SANTOS"
+    },
+    {
+      "played_at": "2026-06-05T15:30:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 859,
+      "delta": -18,
+      "final": 841,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PIETRA CAREAGA"
+    },
+    {
+      "played_at": "2026-06-05T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 859,
+      "delta": 0,
+      "final": 859,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA ARAÚJO"
+    },
+    {
+      "played_at": "2026-06-05T09:15:00",
+      "event": "TMB Copa Brasil Ouro - Cuiabá/MT - 2026 - Olímpico",
+      "initial": 859,
+      "delta": 0,
+      "final": 859,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JÚLIA HATAKEYAMA"
+    },
+    {
+      "played_at": "2026-04-19T13:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 862,
+      "delta": -3,
+      "final": 859,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2026-04-19T12:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 784,
+      "delta": 78,
+      "final": 862,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "BEATRIZ TAIRA"
+    },
+    {
+      "played_at": "2026-04-19T10:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 778,
+      "delta": 6,
+      "final": 784,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA DORNELES"
+    },
+    {
+      "played_at": "2026-04-19T08:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 766,
+      "delta": 12,
+      "final": 778,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALICE RAZUK"
+    },
+    {
+      "played_at": "2026-04-18T13:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 769,
+      "delta": -3,
+      "final": 766,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2026-04-18T11:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 715,
+      "delta": 54,
+      "final": 769,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PIETRA CAREAGA"
+    },
+    {
+      "played_at": "2026-04-18T09:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Dourados/MS - 2026",
+      "initial": 706,
+      "delta": 9,
+      "final": 715,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NAOMI MIGUITA"
+    },
+    {
+      "played_at": "2026-03-22T13:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 712,
+      "delta": -6,
+      "final": 706,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ TAIRA"
+    },
+    {
+      "played_at": "2026-03-22T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 712,
+      "delta": 0,
+      "final": 712,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2026-03-22T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 706,
+      "delta": 6,
+      "final": 712,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA DORNELES"
+    },
+    {
+      "played_at": "2026-03-22T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 673,
+      "delta": 33,
+      "final": 706,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA PERALTA"
+    },
+    {
+      "played_at": "2026-03-21T13:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 685,
+      "delta": -12,
+      "final": 673,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA SCHEER"
+    },
+    {
+      "played_at": "2026-03-21T12:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 625,
+      "delta": 60,
+      "final": 685,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PIETRA CAREAGA"
+    },
+    {
+      "played_at": "2026-03-21T11:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Campo Grande/MS - 2026",
+      "initial": 655,
+      "delta": -30,
+      "final": 625,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALINE CORDOBA"
+    },
+    {
+      "played_at": "2026-02-22T13:00:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 637,
+      "delta": 18,
+      "final": 655,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DIANA KUROKAWA"
+    },
+    {
+      "played_at": "2026-02-22T12:10:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 613,
+      "delta": 24,
+      "final": 637,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALINE CORDOBA"
+    },
+    {
+      "played_at": "2026-02-22T10:55:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 598,
+      "delta": 15,
+      "final": 613,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALICE RAZUK"
+    },
+    {
+      "played_at": "2026-02-22T09:40:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 580,
+      "delta": 18,
+      "final": 598,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DIANA KUROKAWA"
+    },
+    {
+      "played_at": "2026-02-22T08:00:00",
+      "event": "Estadual de Rating - Troféu Mario Morimoto 2026",
+      "initial": 568,
+      "delta": 12,
+      "final": 580,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA MOTOMIYA"
+    },
+    {
+      "played_at": "2025-11-08T15:15:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 568,
+      "delta": 0,
+      "final": 568,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2025-11-08T14:50:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 572,
+      "delta": -4,
+      "final": 568,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-11-08T14:00:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 520,
+      "delta": 52,
+      "final": 572,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2025-11-08T13:35:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 520,
+      "delta": 0,
+      "final": 520,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2025-11-08T13:10:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 522,
+      "delta": -2,
+      "final": 520,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-11-08T11:55:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 506,
+      "delta": 16,
+      "final": 522,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-11-08T11:30:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 494,
+      "delta": 12,
+      "final": 506,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIAH SILVA"
+    },
+    {
+      "played_at": "2025-11-08T09:00:00",
+      "event": "Estadual - 5ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 478,
+      "delta": 16,
+      "final": 494,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ELENA SOUZA"
+    },
+    {
+      "played_at": "2025-09-21T14:40:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 482,
+      "delta": -4,
+      "final": 478,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-09-21T13:25:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 472,
+      "delta": 10,
+      "final": 482,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MORAN"
+    },
+    {
+      "played_at": "2025-09-21T12:10:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 460,
+      "delta": 12,
+      "final": 472,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALICE RAZUK"
+    },
+    {
+      "played_at": "2025-09-21T10:30:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 450,
+      "delta": 10,
+      "final": 460,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YOLANDA PELLICIONI"
+    },
+    {
+      "played_at": "2025-09-21T08:50:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 440,
+      "delta": 10,
+      "final": 450,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA DORNELES"
+    },
+    {
+      "played_at": "2025-09-20T12:45:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 442,
+      "delta": -2,
+      "final": 440,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-09-20T11:05:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 432,
+      "delta": 10,
+      "final": 442,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YOLANDA PELLICIONI"
+    },
+    {
+      "played_at": "2025-09-20T09:25:00",
+      "event": "Estadual - 4ª Etapa - Ranking - Campo Grande - MS - 2025",
+      "initial": 454,
+      "delta": -22,
+      "final": 432,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-08-17T15:30:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 458,
+      "delta": -4,
+      "final": 454,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-08-17T13:25:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 466,
+      "delta": -8,
+      "final": 458,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ TAIRA"
+    },
+    {
+      "played_at": "2025-08-17T11:20:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 458,
+      "delta": 8,
+      "final": 466,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MORAN"
+    },
+    {
+      "played_at": "2025-08-17T08:50:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 446,
+      "delta": 12,
+      "final": 458,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATHALYA PIRES"
+    },
+    {
+      "played_at": "2025-08-16T14:25:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 452,
+      "delta": -6,
+      "final": 446,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-08-16T12:20:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 440,
+      "delta": 12,
+      "final": 452,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YOLANDA PELLICIONI"
+    },
+    {
+      "played_at": "2025-08-16T10:15:00",
+      "event": "Estadual - Ranking - 3ª Etapa - Campo Grande - MS - 2025",
+      "initial": 462,
+      "delta": -22,
+      "final": 440,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-07-13T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 487,
+      "delta": -25,
+      "final": 462,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA SANTOS"
+    },
+    {
+      "played_at": "2025-07-13T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 502,
+      "delta": -15,
+      "final": 487,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "STEPHANY COSTA"
+    },
+    {
+      "played_at": "2025-07-13T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 472,
+      "delta": 30,
+      "final": 502,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATHALYA PIRES"
+    },
+    {
+      "played_at": "2025-07-12T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 472,
+      "delta": 0,
+      "final": 472,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA SCHARDONG"
+    },
+    {
+      "played_at": "2025-07-12T09:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 452,
+      "delta": 20,
+      "final": 472,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA MONTENEGRO"
+    },
+    {
+      "played_at": "2025-07-12T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 457,
+      "delta": -5,
+      "final": 452,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA ARAÚJO"
+    },
+    {
+      "played_at": "2025-07-11T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 472,
+      "delta": -15,
+      "final": 457,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "STEPHANY COSTA"
+    },
+    {
+      "played_at": "2025-07-11T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 382,
+      "delta": 90,
+      "final": 472,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LARA MELONIO"
+    },
+    {
+      "played_at": "2025-07-11T16:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 332,
+      "delta": 50,
+      "final": 382,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VICTÓRIA VIDAL"
+    },
+    {
+      "played_at": "2025-07-11T14:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 282,
+      "delta": 50,
+      "final": 332,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CLEONICE FIALHO"
+    },
+    {
+      "played_at": "2025-07-11T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Tocantins / Palmas - 2025",
+      "initial": 292,
+      "delta": -10,
+      "final": 282,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "STEPHANY COSTA"
+    },
+    {
+      "played_at": "2025-06-29T12:10:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 292,
+      "delta": 0,
+      "final": 292,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2025-06-29T10:55:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 300,
+      "delta": -8,
+      "final": 292,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GIOVANA KINA"
+    },
+    {
+      "played_at": "2025-06-28T15:00:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 304,
+      "delta": -4,
+      "final": 300,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO"
+    },
+    {
+      "played_at": "2025-06-28T14:10:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 304,
+      "delta": 0,
+      "final": 304,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2025-06-28T12:30:00",
+      "event": "Estadual Individual - Ranking - 2ª Etapa - Dourados - MS - 2025",
+      "initial": 268,
+      "delta": 36,
+      "final": 304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-04-13T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 288,
+      "delta": -20,
+      "final": 268,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA SUYPENE"
+    },
+    {
+      "played_at": "2025-04-13T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 243,
+      "delta": 45,
+      "final": 288,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAYLA SILVA"
+    },
+    {
+      "played_at": "2025-04-13T08:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 258,
+      "delta": -15,
+      "final": 243,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PIETRA CAREAGA"
+    },
+    {
+      "played_at": "2025-04-11T19:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 298,
+      "delta": -40,
+      "final": 258,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-04-11T18:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 308,
+      "delta": -10,
+      "final": 298,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2025-04-11T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 308,
+      "delta": 0,
+      "final": 308,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAROLINE GRUCHOSKI"
+    },
+    {
+      "played_at": "2025-04-11T16:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 363,
+      "delta": -55,
+      "final": 308,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VICTÓRIA VIDAL"
+    },
+    {
+      "played_at": "2025-04-11T15:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 328,
+      "delta": 35,
+      "final": 363,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATHALYA PIRES"
+    },
+    {
+      "played_at": "2025-04-11T14:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 293,
+      "delta": 35,
+      "final": 328,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIANA MORAN"
+    },
+    {
+      "played_at": "2025-04-11T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 268,
+      "delta": 25,
+      "final": 293,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA PERALTA"
+    },
+    {
+      "played_at": "2025-04-11T09:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Campo Grande - MS - 2025",
+      "initial": 238,
+      "delta": 30,
+      "final": 268,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VICTÓRIA VIDAL"
+    },
+    {
+      "played_at": "2025-03-23T11:45:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-03-23T10:05:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 258,
+      "delta": -8,
+      "final": 250,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ESTELA SOUZA"
+    },
+    {
+      "played_at": "2025-03-23T08:50:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 258,
+      "delta": 0,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2025-03-22T13:35:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 258,
+      "delta": 0,
+      "final": 258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AMÁBILE CAREAGA"
+    },
+    {
+      "played_at": "2025-03-22T12:45:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 244,
+      "delta": 14,
+      "final": 258,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA PERALTA"
+    },
+    {
+      "played_at": "2025-03-22T11:55:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 204,
+      "delta": 40,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ESTELA SOUZA"
+    },
+    {
+      "played_at": "2025-03-22T10:15:00",
+      "event": "Estadual Individual - Ranking - 1ª Etapa - Campo Grande - MS - 2025",
+      "initial": 214,
+      "delta": -10,
+      "final": 204,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA SUYPENE"
+    },
+    {
+      "played_at": "2024-11-03T10:30:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 222,
+      "delta": -8,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANA KINA"
+    },
+    {
+      "played_at": "2024-11-03T09:15:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 224,
+      "delta": -2,
+      "final": 222,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2024-11-02T15:30:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 204,
+      "delta": 20,
+      "final": 224,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA PERALTA"
+    },
+    {
+      "played_at": "2024-11-02T14:15:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 206,
+      "delta": -2,
+      "final": 204,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2024-11-02T13:00:00",
+      "event": "TMB Estadual - Ranking - 5ª Etapa - Campo Grande/MS - 2024",
+      "initial": 216,
+      "delta": -10,
+      "final": 206,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ESTELA SOUZA"
+    },
+    {
+      "played_at": "2024-09-08T10:55:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 222,
+      "delta": -6,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAVINIA MIYATA"
+    },
+    {
+      "played_at": "2024-09-08T09:15:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 234,
+      "delta": -12,
+      "final": 222,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ESTELA SOUZA"
+    },
+    {
+      "played_at": "2024-09-07T15:05:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 244,
+      "delta": -10,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANA KINA"
+    },
+    {
+      "played_at": "2024-09-07T13:25:00",
+      "event": "TMB Estadual - Ranking - 4ª Etapa - Campo Grande/MS - 2024",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISADORA STELLO ............."
+    }
+  ]
+}

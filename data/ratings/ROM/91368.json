@@ -1,0 +1,79 @@
+{
+  "associate_id": 91368,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91368&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-19T09:15:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 187,
+      "delta": -3,
+      "final": 184,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS BORGES"
+    },
+    {
+      "played_at": "2026-09-19T08:00:00",
+      "event": "TMB ESTADUAL 4ª ETAPA MARANHENSE 2026",
+      "initial": 196,
+      "delta": -9,
+      "final": 187,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO GUAJAJARA"
+    },
+    {
+      "played_at": "2026-06-06T15:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 205,
+      "delta": -9,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBERTO COSTA"
+    },
+    {
+      "played_at": "2026-06-06T14:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 214,
+      "delta": -9,
+      "final": 205,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO GUAJAJARA"
+    },
+    {
+      "played_at": "2026-03-07T16:36:00",
+      "event": "TMB ESTADUAL - 1ª Etapa -FMATM - SÃO LUÍS - 2026",
+      "initial": 232,
+      "delta": -18,
+      "final": 214,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CALEB HOSSOE"
+    },
+    {
+      "played_at": "2026-03-07T10:55:00",
+      "event": "TMB ESTADUAL - 1ª Etapa -FMATM - SÃO LUÍS - 2026",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO GUAJAJARA ............."
+    }
+  ]
+}

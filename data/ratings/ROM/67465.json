@@ -1,0 +1,2719 @@
+{
+  "associate_id": 67465,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=67465&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T14:30:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2042,
+      "delta": 1,
+      "final": 2043,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LYDSA VASCONCELOS"
+    },
+    {
+      "played_at": "2026-09-20T14:05:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2041,
+      "delta": 1,
+      "final": 2042,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITÓRIA SOUZA"
+    },
+    {
+      "played_at": "2026-09-20T13:15:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2040,
+      "delta": 1,
+      "final": 2041,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2026-09-20T12:25:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2039,
+      "delta": 1,
+      "final": 2040,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2026-09-20T11:35:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2038,
+      "delta": 1,
+      "final": 2039,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMANDA FONTES"
+    },
+    {
+      "played_at": "2026-09-12T17:30:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 2038,
+      "delta": 0,
+      "final": 2038,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2026-09-12T17:00:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 2014,
+      "delta": 24,
+      "final": 2038,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA CHARANTOLA"
+    },
+    {
+      "played_at": "2026-09-12T15:30:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 1924,
+      "delta": 90,
+      "final": 2014,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GRAZIELA UENO"
+    },
+    {
+      "played_at": "2026-09-12T14:30:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 1921,
+      "delta": 3,
+      "final": 1924,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LYDSA VASCONCELOS"
+    },
+    {
+      "played_at": "2026-09-12T13:00:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 1918,
+      "delta": 3,
+      "final": 1921,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SOFIA SASAYA"
+    },
+    {
+      "played_at": "2026-08-22T12:00:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1945,
+      "delta": -27,
+      "final": 1918,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA CHARANTOLA"
+    },
+    {
+      "played_at": "2026-08-22T11:00:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1951,
+      "delta": -6,
+      "final": 1945,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2026-08-22T10:10:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1948,
+      "delta": 3,
+      "final": 1951,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YASMIM DIAZ"
+    },
+    {
+      "played_at": "2026-08-22T08:55:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1933,
+      "delta": 15,
+      "final": 1948,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VICTORIA PASSARELLA"
+    },
+    {
+      "played_at": "2026-08-16T14:30:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1928,
+      "delta": 5,
+      "final": 1933,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VICTORIA PASSARELLA"
+    },
+    {
+      "played_at": "2026-08-16T14:05:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1927,
+      "delta": 1,
+      "final": 1928,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2026-08-16T13:15:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1926,
+      "delta": 1,
+      "final": 1927,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2026-08-16T12:50:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1925,
+      "delta": 1,
+      "final": 1926,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LYDSA VASCONCELOS"
+    },
+    {
+      "played_at": "2026-08-16T11:35:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1920,
+      "delta": 5,
+      "final": 1925,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTORIA PASSARELLA"
+    },
+    {
+      "played_at": "2026-07-12T15:20:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1909,
+      "delta": 11,
+      "final": 1920,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2026-07-12T14:55:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1908,
+      "delta": 1,
+      "final": 1909,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA SOUZA."
+    },
+    {
+      "played_at": "2026-07-12T14:05:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1907,
+      "delta": 1,
+      "final": 1908,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2026-07-12T12:00:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1906,
+      "delta": 1,
+      "final": 1907,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BEATRIZ SILVA"
+    },
+    {
+      "played_at": "2026-07-04T17:30:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1909,
+      "delta": -3,
+      "final": 1906,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2026-07-04T17:00:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1885,
+      "delta": 24,
+      "final": 1909,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA ARENAS"
+    },
+    {
+      "played_at": "2026-07-04T16:00:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1885,
+      "delta": 0,
+      "final": 1885,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GRAZIELA UENO"
+    },
+    {
+      "played_at": "2026-07-04T15:30:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1855,
+      "delta": 30,
+      "final": 1885,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HELOÍSA SILVA"
+    },
+    {
+      "played_at": "2026-07-04T13:00:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 1840,
+      "delta": 15,
+      "final": 1855,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VICTORIA PASSARELLA"
+    },
+    {
+      "played_at": "2026-06-19T12:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 1939,
+      "delta": -99,
+      "final": 1840,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2026-06-19T10:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 2137,
+      "delta": -198,
+      "final": 1939,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLLY FERNANDES"
+    },
+    {
+      "played_at": "2026-06-19T08:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 2128,
+      "delta": 9,
+      "final": 2137,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FERNANDA BIANCHI"
+    },
+    {
+      "played_at": "2026-06-14T14:30:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2146,
+      "delta": -18,
+      "final": 2128,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2026-06-14T13:40:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2145,
+      "delta": 1,
+      "final": 2146,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2026-06-14T10:45:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2144,
+      "delta": 1,
+      "final": 2145,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2026-06-14T08:40:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 2143,
+      "delta": 1,
+      "final": 2144,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA GONÇALVES"
+    },
+    {
+      "played_at": "2026-05-30T17:30:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 2209,
+      "delta": -66,
+      "final": 2143,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA CHARANTOLA"
+    },
+    {
+      "played_at": "2026-05-30T16:30:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 2206,
+      "delta": 3,
+      "final": 2209,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "FERNANDA BIANCHI"
+    },
+    {
+      "played_at": "2026-05-30T14:30:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 2200,
+      "delta": 6,
+      "final": 2206,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NICOLLY FERNANDES"
+    },
+    {
+      "played_at": "2026-05-30T13:30:00",
+      "event": "TMB - Estadual - [3a Etapa - S.J.Rio Preto/SP] - 2026",
+      "initial": 2197,
+      "delta": 3,
+      "final": 2200,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LYDSA VASCONCELOS"
+    },
+    {
+      "played_at": "2026-05-16T16:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 2197,
+      "delta": 0,
+      "final": 2197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YUMI IWAMOTO"
+    },
+    {
+      "played_at": "2026-05-16T15:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1873,
+      "delta": 324,
+      "final": 2197,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LÍVIA KUROKAWA"
+    },
+    {
+      "played_at": "2026-05-16T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1801,
+      "delta": 72,
+      "final": 1873,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELOAH PRADO"
+    },
+    {
+      "played_at": "2026-05-16T13:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1765,
+      "delta": 36,
+      "final": 1801,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LETICIA TAGINO"
+    },
+    {
+      "played_at": "2026-05-16T11:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1693,
+      "delta": 72,
+      "final": 1765,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELOÍSA SILVA"
+    },
+    {
+      "played_at": "2026-05-16T10:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1675,
+      "delta": 18,
+      "final": 1693,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA MULLER"
+    },
+    {
+      "played_at": "2026-05-15T19:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1657,
+      "delta": 18,
+      "final": 1675,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANGELINA FERRONATO"
+    },
+    {
+      "played_at": "2026-05-03T15:45:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1679,
+      "delta": -22,
+      "final": 1657,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "VITÓRIA SOUZA"
+    },
+    {
+      "played_at": "2026-05-03T15:20:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1678,
+      "delta": 1,
+      "final": 1679,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2026-05-03T14:30:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1677,
+      "delta": 1,
+      "final": 1678,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LÍVIA VIANA"
+    },
+    {
+      "played_at": "2026-05-03T12:50:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1676,
+      "delta": 1,
+      "final": 1677,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HARRUANNY MARTINS"
+    },
+    {
+      "played_at": "2026-04-18T14:00:00",
+      "event": "TMB - Estadual - [2ª Etapa - Votorantim/SP] - 2026",
+      "initial": 1742,
+      "delta": -66,
+      "final": 1676,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA CHARANTOLA"
+    },
+    {
+      "played_at": "2026-04-18T11:50:00",
+      "event": "TMB - Estadual - [2ª Etapa - Votorantim/SP] - 2026",
+      "initial": 1760,
+      "delta": -18,
+      "final": 1742,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GRAZIELA UENO"
+    },
+    {
+      "played_at": "2026-04-12T15:45:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1767,
+      "delta": -7,
+      "final": 1760,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2026-04-12T15:20:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1766,
+      "delta": 1,
+      "final": 1767,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2026-04-12T14:30:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1765,
+      "delta": 1,
+      "final": 1766,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LÍVIA VIANA"
+    },
+    {
+      "played_at": "2026-04-12T12:50:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1764,
+      "delta": 1,
+      "final": 1765,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HARRUANNY MARTINS"
+    },
+    {
+      "played_at": "2026-03-28T16:30:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1830,
+      "delta": -66,
+      "final": 1764,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GABRIELA IRIYAMA"
+    },
+    {
+      "played_at": "2026-03-28T15:00:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1827,
+      "delta": 3,
+      "final": 1830,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FERNANDA BIANCHI"
+    },
+    {
+      "played_at": "2026-03-28T12:15:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1824,
+      "delta": 3,
+      "final": 1827,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ISADORA CARRIEL"
+    },
+    {
+      "played_at": "2026-03-15T16:05:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1829,
+      "delta": -5,
+      "final": 1824,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2026-03-15T15:15:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1828,
+      "delta": 1,
+      "final": 1829,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITÓRIA SOUZA"
+    },
+    {
+      "played_at": "2026-03-15T12:45:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1827,
+      "delta": 1,
+      "final": 1828,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA SOUZA."
+    },
+    {
+      "played_at": "2026-03-15T10:40:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 1826,
+      "delta": 1,
+      "final": 1827,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2026-02-04T11:00:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 1514,
+      "delta": 312,
+      "final": 1826,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAURA SILVEIRA"
+    },
+    {
+      "played_at": "2026-02-04T09:30:00",
+      "event": "Seletiva Nacional Olímpica e Paralímpica 2026",
+      "initial": 1514,
+      "delta": 0,
+      "final": 1514,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TAINARA HEIDRICH"
+    },
+    {
+      "played_at": "2025-12-09T19:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1514,
+      "delta": 0,
+      "final": 1514,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BIANCA BORGES"
+    },
+    {
+      "played_at": "2025-12-09T18:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1454,
+      "delta": 60,
+      "final": 1514,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SAMARA TOPOROSKI"
+    },
+    {
+      "played_at": "2025-12-09T17:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1424,
+      "delta": 30,
+      "final": 1454,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CELINA KUBATAMAIA"
+    },
+    {
+      "played_at": "2025-12-09T14:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1404,
+      "delta": 20,
+      "final": 1424,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SOFIA NEGRINI"
+    },
+    {
+      "played_at": "2025-12-09T11:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1314,
+      "delta": 90,
+      "final": 1404,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EMANUELLI MACHADO"
+    },
+    {
+      "played_at": "2025-12-08T17:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1374,
+      "delta": -60,
+      "final": 1314,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANNA PUDO"
+    },
+    {
+      "played_at": "2025-12-08T11:30:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1144,
+      "delta": 230,
+      "final": 1374,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "NIHAN ABDALLAH"
+    },
+    {
+      "played_at": "2025-12-08T10:00:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025",
+      "initial": 1104,
+      "delta": 40,
+      "final": 1144,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAISSA LEITE"
+    },
+    {
+      "played_at": "2025-12-06T18:33:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 1104,
+      "delta": 0,
+      "final": 1104,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZA FONTANIVE"
+    },
+    {
+      "played_at": "2025-12-06T16:14:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 1184,
+      "delta": -80,
+      "final": 1104,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "REBECA CRUZ"
+    },
+    {
+      "played_at": "2025-12-06T13:56:00",
+      "event": "Brasileirão de Verão Interclubes Olímpico e Paralímpico - Blumenau/SC - 2025 Equipes Clubes",
+      "initial": 1084,
+      "delta": 100,
+      "final": 1184,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HELOÍSA SILVA"
+    },
+    {
+      "played_at": "2025-11-23T12:10:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Taubaté 2025",
+      "initial": 1064,
+      "delta": 20,
+      "final": 1084,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-11-23T10:55:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Taubaté 2025",
+      "initial": 1062,
+      "delta": 2,
+      "final": 1064,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-11-23T10:30:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Taubaté 2025",
+      "initial": 1061,
+      "delta": 1,
+      "final": 1062,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA JOSÉ"
+    },
+    {
+      "played_at": "2025-11-23T09:15:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Taubaté 2025",
+      "initial": 1060,
+      "delta": 1,
+      "final": 1061,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2025-11-23T08:25:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Taubaté 2025",
+      "initial": 1040,
+      "delta": 20,
+      "final": 1060,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-10-25T14:00:00",
+      "event": "PAULISTÃO 2025 - FTMSP - São José dos Campos-SP",
+      "initial": 1042,
+      "delta": -2,
+      "final": 1040,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2025-10-25T13:00:00",
+      "event": "PAULISTÃO 2025 - FTMSP - São José dos Campos-SP",
+      "initial": 1042,
+      "delta": 0,
+      "final": 1042,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2025-10-25T11:00:00",
+      "event": "PAULISTÃO 2025 - FTMSP - São José dos Campos-SP",
+      "initial": 1036,
+      "delta": 6,
+      "final": 1042,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VICTORIA PASSARELLA"
+    },
+    {
+      "played_at": "2025-10-05T11:50:00",
+      "event": "TMB Regional - 8º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1034,
+      "delta": 2,
+      "final": 1036,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-10-05T11:25:00",
+      "event": "TMB Regional - 8º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1032,
+      "delta": 2,
+      "final": 1034,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA PEREIRA"
+    },
+    {
+      "played_at": "2025-10-05T11:00:00",
+      "event": "TMB Regional - 8º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1031,
+      "delta": 1,
+      "final": 1032,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2025-10-05T10:10:00",
+      "event": "TMB Regional - 8º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1030,
+      "delta": 1,
+      "final": 1031,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANTOS"
+    },
+    {
+      "played_at": "2025-10-05T08:30:00",
+      "event": "TMB Regional - 8º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1029,
+      "delta": 1,
+      "final": 1030,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BEATRIZ AZEVEDO"
+    },
+    {
+      "played_at": "2025-09-27T13:05:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 1029,
+      "delta": 0,
+      "final": 1029,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2025-09-27T12:15:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 993,
+      "delta": 36,
+      "final": 1029,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "REBECA CRUZ"
+    },
+    {
+      "played_at": "2025-09-27T11:00:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 993,
+      "delta": 0,
+      "final": 993,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2025-09-27T10:10:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 987,
+      "delta": 6,
+      "final": 993,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA CACERES"
+    },
+    {
+      "played_at": "2025-09-14T12:40:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1007,
+      "delta": -20,
+      "final": 987,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LARA LACERDA"
+    },
+    {
+      "played_at": "2025-09-14T12:15:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1005,
+      "delta": 2,
+      "final": 1007,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA SOUZA."
+    },
+    {
+      "played_at": "2025-09-14T10:10:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1004,
+      "delta": 1,
+      "final": 1005,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2025-09-14T08:30:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1002,
+      "delta": 2,
+      "final": 1004,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUARA BATISTA"
+    },
+    {
+      "played_at": "2025-08-30T16:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 1046,
+      "delta": -44,
+      "final": 1002,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA CACERES"
+    },
+    {
+      "played_at": "2025-08-30T14:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 1046,
+      "delta": 0,
+      "final": 1046,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2025-08-30T13:05:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 1006,
+      "delta": 40,
+      "final": 1046,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-08-24T11:20:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1004,
+      "delta": 2,
+      "final": 1006,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-08-24T10:55:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1003,
+      "delta": 1,
+      "final": 1004,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2025-08-24T10:30:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1002,
+      "delta": 1,
+      "final": 1003,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANTOS"
+    },
+    {
+      "played_at": "2025-08-24T10:05:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 1001,
+      "delta": 1,
+      "final": 1002,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA JOSÉ"
+    },
+    {
+      "played_at": "2025-08-08T15:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 1061,
+      "delta": -60,
+      "final": 1001,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "TOYOMI ADACHI"
+    },
+    {
+      "played_at": "2025-08-08T14:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 1031,
+      "delta": 30,
+      "final": 1061,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JACKELINE FERNANDES"
+    },
+    {
+      "played_at": "2025-08-08T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 1066,
+      "delta": -35,
+      "final": 1031,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-08-08T12:40:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 916,
+      "delta": 150,
+      "final": 1066,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2025-08-08T12:15:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 816,
+      "delta": 100,
+      "final": 916,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "REBECA CRUZ"
+    },
+    {
+      "played_at": "2025-08-08T11:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 896,
+      "delta": -80,
+      "final": 816,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HELOÍSA SILVA"
+    },
+    {
+      "played_at": "2025-08-08T09:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 871,
+      "delta": 25,
+      "final": 896,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZA SANTOS"
+    },
+    {
+      "played_at": "2025-08-08T08:55:00",
+      "event": "Copa Brasil de Tênis de Mesa - Bauru/SP - 2025",
+      "initial": 781,
+      "delta": 90,
+      "final": 871,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELLA TIEN"
+    },
+    {
+      "played_at": "2025-07-27T11:45:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 786,
+      "delta": -5,
+      "final": 781,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANNA PUDO"
+    },
+    {
+      "played_at": "2025-07-27T10:30:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 784,
+      "delta": 2,
+      "final": 786,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZA BATISTA"
+    },
+    {
+      "played_at": "2025-07-27T08:50:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 781,
+      "delta": 3,
+      "final": 784,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VITÓRIA SOUZA"
+    },
+    {
+      "played_at": "2025-07-27T08:00:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 779,
+      "delta": 2,
+      "final": 781,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAELA SOUZA."
+    },
+    {
+      "played_at": "2025-06-21T09:45:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 719,
+      "delta": 60,
+      "final": 779,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2025-06-21T08:55:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 03 - Marília-SP",
+      "initial": 751,
+      "delta": -32,
+      "final": 719,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HELOÍSA SILVA"
+    },
+    {
+      "played_at": "2025-06-01T12:10:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 755,
+      "delta": -4,
+      "final": 751,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-06-01T11:20:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 752,
+      "delta": 3,
+      "final": 755,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-06-01T09:15:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 734,
+      "delta": 18,
+      "final": 752,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-05-20T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 734,
+      "delta": 0,
+      "final": 734,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YUMI IWAMOTO"
+    },
+    {
+      "played_at": "2025-05-20T13:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 734,
+      "delta": 0,
+      "final": 734,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALISSA MAIA"
+    },
+    {
+      "played_at": "2025-05-20T11:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 714,
+      "delta": 20,
+      "final": 734,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA AZEVEDO"
+    },
+    {
+      "played_at": "2025-05-10T17:45:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 714,
+      "delta": 0,
+      "final": 714,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2025-05-10T17:20:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 708,
+      "delta": 6,
+      "final": 714,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EMILY FOGAGNOLO"
+    },
+    {
+      "played_at": "2025-05-10T16:05:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 662,
+      "delta": 46,
+      "final": 708,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "REBECA CRUZ"
+    },
+    {
+      "played_at": "2025-05-10T14:25:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 602,
+      "delta": 60,
+      "final": 662,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2025-05-04T12:10:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 582,
+      "delta": 20,
+      "final": 602,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-05-04T11:45:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 577,
+      "delta": 5,
+      "final": 582,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-05-04T10:55:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 573,
+      "delta": 4,
+      "final": 577,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANTOS"
+    },
+    {
+      "played_at": "2025-05-04T08:25:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 569,
+      "delta": 4,
+      "final": 573,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2025-04-12T15:15:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 569,
+      "delta": 0,
+      "final": 569,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GRAZIELA UENO"
+    },
+    {
+      "played_at": "2025-04-12T11:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 574,
+      "delta": -5,
+      "final": 569,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NATÁLIA YAGYU"
+    },
+    {
+      "played_at": "2025-04-12T09:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 544,
+      "delta": 30,
+      "final": 574,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YUKARI SATO"
+    },
+    {
+      "played_at": "2025-04-11T13:35:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 544,
+      "delta": 0,
+      "final": 544,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ CHOI"
+    },
+    {
+      "played_at": "2025-04-11T12:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 544,
+      "delta": 0,
+      "final": 544,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2025-04-11T11:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 524,
+      "delta": 20,
+      "final": 544,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HELOÍSA GRACIOLLA"
+    },
+    {
+      "played_at": "2025-04-06T11:45:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 530,
+      "delta": -6,
+      "final": 524,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-04-06T11:20:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 525,
+      "delta": 5,
+      "final": 530,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-04-06T10:05:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 521,
+      "delta": 4,
+      "final": 525,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SANTOS"
+    },
+    {
+      "played_at": "2025-04-06T08:25:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 518,
+      "delta": 3,
+      "final": 521,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2025-03-30T12:25:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 512,
+      "delta": 6,
+      "final": 518,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANA PEREIRA"
+    },
+    {
+      "played_at": "2025-03-30T12:00:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 507,
+      "delta": 5,
+      "final": 512,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2025-03-30T08:15:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - CAT A - Taubaté/SP 2025",
+      "initial": 502,
+      "delta": 5,
+      "final": 507,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THÁLISSA MENEZES"
+    },
+    {
+      "played_at": "2025-03-22T11:30:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 01 - Jacareí-SP",
+      "initial": 514,
+      "delta": -12,
+      "final": 502,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2025-03-22T10:30:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 01 - Jacareí-SP",
+      "initial": 454,
+      "delta": 60,
+      "final": 514,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "REBECA CRUZ"
+    },
+    {
+      "played_at": "2025-03-22T09:30:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 01 - Jacareí-SP",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2025-03-22T08:30:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 01 - Jacareí-SP",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2024-12-01T12:20:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/sp - 2024...",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2024-12-01T11:30:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/sp - 2024...",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-12-01T10:40:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/sp - 2024...",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VITÓRIA SOUZA"
+    },
+    {
+      "played_at": "2024-12-01T09:50:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/sp - 2024...",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2024-09-22T11:45:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 454,
+      "delta": 0,
+      "final": 454,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-09-22T11:20:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 447,
+      "delta": 7,
+      "final": 454,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2024-09-22T09:15:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 417,
+      "delta": 30,
+      "final": 447,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-07-14T10:30:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 421,
+      "delta": -4,
+      "final": 417,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-07-14T10:05:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 414,
+      "delta": 7,
+      "final": 421,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2024-07-14T08:50:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 408,
+      "delta": 6,
+      "final": 414,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EMANUELLY ARAÚJO"
+    },
+    {
+      "played_at": "2024-06-09T11:45:00",
+      "event": "TMB Regional - 4ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 412,
+      "delta": -4,
+      "final": 408,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-06-09T11:20:00",
+      "event": "TMB Regional - 4ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 404,
+      "delta": 8,
+      "final": 412,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2024-06-09T09:40:00",
+      "event": "TMB Regional - 4ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 408,
+      "delta": -4,
+      "final": 404,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-05-11T11:45:00",
+      "event": "TMB Regional - 3ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 411,
+      "delta": -3,
+      "final": 408,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MYRIAM SILVA"
+    },
+    {
+      "played_at": "2024-05-11T10:55:00",
+      "event": "TMB Regional - 3ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 391,
+      "delta": 20,
+      "final": 411,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-05-11T10:05:00",
+      "event": "TMB Regional - 3ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 383,
+      "delta": 8,
+      "final": 391,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2024-05-11T09:40:00",
+      "event": "TMB Regional - 3ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 376,
+      "delta": 7,
+      "final": 383,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "VITÓRIA SOUZA"
+    },
+    {
+      "played_at": "2024-04-21T11:45:00",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 379,
+      "delta": -3,
+      "final": 376,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MYRIAM SILVA"
+    },
+    {
+      "played_at": "2024-04-21T11:20:00",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 382,
+      "delta": -3,
+      "final": 379,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2024-03-30T11:45:00",
+      "event": "TMB Regional - 1ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 385,
+      "delta": -3,
+      "final": 382,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MYRIAM SILVA"
+    },
+    {
+      "played_at": "2024-03-30T11:20:00",
+      "event": "TMB Regional - 1ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 393,
+      "delta": -8,
+      "final": 385,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2023-11-26T13:10:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/SP",
+      "initial": 379,
+      "delta": 14,
+      "final": 393,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MANUELA RODRIGUES"
+    },
+    {
+      "played_at": "2023-11-26T12:45:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/SP",
+      "initial": 367,
+      "delta": 12,
+      "final": 379,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2023-11-26T12:20:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/SP",
+      "initial": 361,
+      "delta": 6,
+      "final": 367,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2023-11-26T11:55:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/SP",
+      "initial": 357,
+      "delta": 4,
+      "final": 361,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2023-11-26T11:30:00",
+      "event": "TMB Regional - TOP 8 - LVTM - CAT A - Mogi das Cruzes/SP",
+      "initial": 343,
+      "delta": 14,
+      "final": 357,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MANUELA RODRIGUES"
+    },
+    {
+      "played_at": "2023-10-15T11:45:00",
+      "event": "TMB Regional - 8ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 349,
+      "delta": -6,
+      "final": 343,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MANUELA RODRIGUES"
+    },
+    {
+      "played_at": "2023-10-15T09:40:00",
+      "event": "TMB Regional - 8ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 342,
+      "delta": 7,
+      "final": 349,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PEREIRA"
+    },
+    {
+      "played_at": "2023-10-14T11:00:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 346,
+      "delta": -4,
+      "final": 342,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2023-10-14T10:30:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 346,
+      "delta": 0,
+      "final": 346,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ CHOI"
+    },
+    {
+      "played_at": "2023-10-14T09:30:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 334,
+      "delta": 12,
+      "final": 346,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2023-09-24T10:55:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 341,
+      "delta": -7,
+      "final": 334,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MANUELA RODRIGUES"
+    },
+    {
+      "played_at": "2023-09-24T10:30:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 334,
+      "delta": 7,
+      "final": 341,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2023-09-24T10:05:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 328,
+      "delta": 6,
+      "final": 334,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2023-09-24T08:50:00",
+      "event": "TMB Regional - 7ª Etapa - LVTM - Mogi das Cruzes/SP - CATEGORIA A",
+      "initial": 316,
+      "delta": 12,
+      "final": 328,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MANUELA RODRIGUES"
+    },
+    {
+      "played_at": "2023-09-02T12:00:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 328,
+      "delta": -12,
+      "final": 316,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2023-09-02T10:00:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 338,
+      "delta": -10,
+      "final": 328,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2023-09-02T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 314,
+      "delta": 24,
+      "final": 338,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA THEODORO"
+    },
+    {
+      "played_at": "2023-08-27T10:05:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - CATEGORIA A - Olímpico - Mogi das Cruzes - SP",
+      "initial": 320,
+      "delta": -6,
+      "final": 314,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2023-08-27T09:40:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - CATEGORIA A - Olímpico - Mogi das Cruzes - SP",
+      "initial": 313,
+      "delta": 7,
+      "final": 320,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PEREIRA"
+    },
+    {
+      "played_at": "2023-08-27T08:50:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - CATEGORIA A - Olímpico - Mogi das Cruzes - SP",
+      "initial": 321,
+      "delta": -8,
+      "final": 313,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MANUELA RODRIGUES"
+    },
+    {
+      "played_at": "2023-08-19T11:30:00",
+      "event": "TMB Estadual - 3ª Etapa - FTMSP - Campinas - 2023.",
+      "initial": 327,
+      "delta": -6,
+      "final": 321,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BEATRIZ CHOI"
+    },
+    {
+      "played_at": "2023-08-19T08:00:00",
+      "event": "TMB Estadual - 3ª Etapa - FTMSP - Campinas - 2023.",
+      "initial": 313,
+      "delta": 14,
+      "final": 327,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2023-07-29T12:30:00",
+      "event": "TMB Estadual - 2ª Etapa - FTMSP - Guarulhos/SP - 2023",
+      "initial": 321,
+      "delta": -8,
+      "final": 313,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BEATRIZ CHOI"
+    },
+    {
+      "played_at": "2023-07-29T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - FTMSP - Guarulhos/SP - 2023",
+      "initial": 293,
+      "delta": 28,
+      "final": 321,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA THEODORO"
+    },
+    {
+      "played_at": "2023-07-16T11:45:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Mogi das Cruzes/SP 2023 - CATEGORIA A",
+      "initial": 304,
+      "delta": -11,
+      "final": 293,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2023-07-16T10:30:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Mogi das Cruzes/SP 2023 - CATEGORIA A",
+      "initial": 288,
+      "delta": 16,
+      "final": 304,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARIANA THEODORO"
+    },
+    {
+      "played_at": "2023-07-16T08:50:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Mogi das Cruzes/SP 2023 - CATEGORIA A",
+      "initial": 284,
+      "delta": 4,
+      "final": 288,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2023-06-25T15:05:00",
+      "event": "TMB Regional - 4ª Etapa - LVTM - Mogi das Cruzes/SP - 2023 - Categoria A",
+      "initial": 291,
+      "delta": -7,
+      "final": 284,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2023-06-25T10:30:00",
+      "event": "TMB Regional - 4ª Etapa - LVTM - Mogi das Cruzes/SP - 2023 - Categoria A",
+      "initial": 283,
+      "delta": 8,
+      "final": 291,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANA PEREIRA"
+    },
+    {
+      "played_at": "2023-06-25T08:50:00",
+      "event": "TMB Regional - 4ª Etapa - LVTM - Mogi das Cruzes/SP - 2023 - Categoria A",
+      "initial": 276,
+      "delta": 7,
+      "final": 283,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2023-05-28T11:10:00",
+      "event": "TMB Regional - 3ª Etapa - LVTM - Mogi das Cruzes/SP 2023 - Nível A.",
+      "initial": 283,
+      "delta": -7,
+      "final": 276,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2023-05-28T08:50:00",
+      "event": "TMB Regional - 3ª Etapa - LVTM - Mogi das Cruzes/SP 2023 - Nível A.",
+      "initial": 278,
+      "delta": 5,
+      "final": 283,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2023-05-20T10:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 298,
+      "delta": -20,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YASMIM LUZ"
+    },
+    {
+      "played_at": "2023-05-20T09:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 286,
+      "delta": 12,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HELOÍSA GRACIOLLA"
+    },
+    {
+      "played_at": "2023-04-16T14:15:00",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 294,
+      "delta": -8,
+      "final": 286,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BEATRIZ CHOI"
+    },
+    {
+      "played_at": "2023-04-16T12:35:00",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 289,
+      "delta": 5,
+      "final": 294,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2023-04-16T11:45:00",
+      "event": "TMB Regional - 2ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 281,
+      "delta": 8,
+      "final": 289,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALICE CASTILHO"
+    },
+    {
+      "played_at": "2023-03-19T15:05:00",
+      "event": "TMB Regional - 1ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 289,
+      "delta": -8,
+      "final": 281,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2023-03-19T14:15:00",
+      "event": "TMB Regional - 1ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 280,
+      "delta": 9,
+      "final": 289,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANA PEREIRA"
+    },
+    {
+      "played_at": "2023-03-19T11:20:00",
+      "event": "TMB Regional - 1ª Etapa - LVTM - Jacareí/SP 2023 - Nível A.",
+      "initial": 270,
+      "delta": 10,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YANI FARIA"
+    },
+    {
+      "played_at": "2022-11-19T09:20:00",
+      "event": "TMB Regional - Top 8 - LVTM - Javareí/SP - 2022 Nível A",
+      "initial": 276,
+      "delta": -6,
+      "final": 270,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2022-11-19T08:55:00",
+      "event": "TMB Regional - Top 8 - LVTM - Javareí/SP - 2022 Nível A",
+      "initial": 290,
+      "delta": -14,
+      "final": 276,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SARAH WEIZMAN"
+    },
+    {
+      "played_at": "2022-10-23T13:00:00",
+      "event": "TMB Regional - LVTM - 8ª Etapa - Jacareí/SP - 2022.. - Categoria A",
+      "initial": 298,
+      "delta": -8,
+      "final": 290,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2022-10-23T12:10:00",
+      "event": "TMB Regional - LVTM - 8ª Etapa - Jacareí/SP - 2022.. - Categoria A",
+      "initial": 287,
+      "delta": 11,
+      "final": 298,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2022-10-23T10:05:00",
+      "event": "TMB Regional - LVTM - 8ª Etapa - Jacareí/SP - 2022.. - Categoria A",
+      "initial": 279,
+      "delta": 8,
+      "final": 287,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2022-10-23T09:40:00",
+      "event": "TMB Regional - LVTM - 8ª Etapa - Jacareí/SP - 2022.. - Categoria A",
+      "initial": 272,
+      "delta": 7,
+      "final": 279,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BYE 3"
+    },
+    {
+      "played_at": "2022-09-11T11:45:00",
+      "event": "TMB Regional - LVTM - 7ª Etapa - Jacareí/SP - 2022. - Categoria A.",
+      "initial": 280,
+      "delta": -8,
+      "final": 272,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2022-09-11T11:20:00",
+      "event": "TMB Regional - LVTM - 7ª Etapa - Jacareí/SP - 2022. - Categoria A.",
+      "initial": 272,
+      "delta": 8,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2022-09-11T10:55:00",
+      "event": "TMB Regional - LVTM - 7ª Etapa - Jacareí/SP - 2022. - Categoria A.",
+      "initial": 264,
+      "delta": 8,
+      "final": 272,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2022-08-28T10:55:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 273,
+      "delta": -9,
+      "final": 264,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2022-08-28T10:30:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 261,
+      "delta": 12,
+      "final": 273,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PALOMA RIBEIRO"
+    },
+    {
+      "played_at": "2022-08-28T10:05:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 252,
+      "delta": 9,
+      "final": 261,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2022-08-28T09:40:00",
+      "event": "TMB Regional - 6ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 261,
+      "delta": -9,
+      "final": 252,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLARA SANTOS"
+    },
+    {
+      "played_at": "2022-07-24T11:20:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 251,
+      "delta": 10,
+      "final": 261,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIA REGOLIN"
+    },
+    {
+      "played_at": "2022-07-24T10:55:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 242,
+      "delta": 9,
+      "final": 251,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUNA ROCHA"
+    },
+    {
+      "played_at": "2022-07-24T10:30:00",
+      "event": "TMB Regional - 5ª Etapa - LVTM - Jacareí/SP - 2022 - Categoria A",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PALOMA RIBEIRO ............."
+    }
+  ]
+}

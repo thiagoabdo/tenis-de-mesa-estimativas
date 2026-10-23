@@ -1,0 +1,67 @@
+{
+  "associate_id": 93128,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93128&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 190,
+      "delta": -15,
+      "final": 175,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ KOCHI"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 223,
+      "delta": -33,
+      "final": 190,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EMANUEL SILVA"
+    },
+    {
+      "played_at": "2026-08-01T12:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 247,
+      "delta": -24,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO SASSAKI"
+    },
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 226,
+      "delta": 21,
+      "final": 247,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TIAGO FERREIRA"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": -24,
+      "final": 226,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BERNARDO WECKERLIN ............."
+    }
+  ]
+}

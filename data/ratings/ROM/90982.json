@@ -1,0 +1,79 @@
+{
+  "associate_id": 90982,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90982&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-21T11:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 373,
+      "delta": -33,
+      "final": 340,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DOUGLAS MACKENZIE"
+    },
+    {
+      "played_at": "2026-06-21T09:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 358,
+      "delta": 15,
+      "final": 373,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUIZ DANTAS"
+    },
+    {
+      "played_at": "2026-06-21T08:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 331,
+      "delta": 27,
+      "final": 358,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIO SILVA"
+    },
+    {
+      "played_at": "2026-06-20T11:30:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 331,
+      "delta": 0,
+      "final": 331,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KAIO JUNIOR"
+    },
+    {
+      "played_at": "2026-06-20T09:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 304,
+      "delta": 27,
+      "final": 331,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HEITOR VARELLA"
+    },
+    {
+      "played_at": "2026-06-20T08:00:00",
+      "event": "TMB Estadual 2026 - 3ª Etapa - Parnamirim/RN",
+      "initial": 250,
+      "delta": 54,
+      "final": 304,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HUDAR SOUZA ............."
+    }
+  ]
+}

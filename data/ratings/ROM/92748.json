@@ -1,0 +1,43 @@
+{
+  "associate_id": 92748,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92748&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T12:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 241,
+      "delta": -30,
+      "final": 211,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ARTHUR FAEDO"
+    },
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 274,
+      "delta": -33,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ WELCOFF"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 250,
+      "delta": 24,
+      "final": 274,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEONARDO CAMARGO ............."
+    }
+  ]
+}

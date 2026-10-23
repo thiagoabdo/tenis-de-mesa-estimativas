@@ -1,0 +1,367 @@
+{
+  "associate_id": 680,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=680&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-27T12:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 1052,
+      "delta": 27,
+      "final": 1079,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RONALDO NASCIMENTO"
+    },
+    {
+      "played_at": "2026-06-27T10:30:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 1079,
+      "delta": -27,
+      "final": 1052,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PEDRO NETO"
+    },
+    {
+      "played_at": "2026-06-27T09:00:00",
+      "event": "TMB Copa Brasil Ouro - Palmas - TO",
+      "initial": 1079,
+      "delta": 0,
+      "final": 1079,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ABNER CORTINHAS"
+    },
+    {
+      "played_at": "2024-07-07T10:30:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1094,
+      "delta": -15,
+      "final": 1079,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERICK PARREIRA"
+    },
+    {
+      "played_at": "2024-07-07T09:40:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1109,
+      "delta": -15,
+      "final": 1094,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILLIAN OLIVEIRA"
+    },
+    {
+      "played_at": "2024-07-07T08:25:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1124,
+      "delta": -15,
+      "final": 1109,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO SILVA"
+    },
+    {
+      "played_at": "2024-07-06T16:45:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1124,
+      "delta": 0,
+      "final": 1124,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OLÍMPIO NETO"
+    },
+    {
+      "played_at": "2024-07-06T15:30:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1024,
+      "delta": 100,
+      "final": 1124,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "WILLIAN OLIVEIRA"
+    },
+    {
+      "played_at": "2024-07-06T14:40:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1019,
+      "delta": 5,
+      "final": 1024,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EDUARDO RITTER"
+    },
+    {
+      "played_at": "2024-07-05T17:15:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1039,
+      "delta": -20,
+      "final": 1019,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ADRIANO OLIVEIRA"
+    },
+    {
+      "played_at": "2024-07-05T16:25:00",
+      "event": "TMB Challenger Plus - 12ª Edição - Palmas/TO - 2024",
+      "initial": 1059,
+      "delta": -20,
+      "final": 1039,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERICK PARREIRA"
+    },
+    {
+      "played_at": "2023-11-11T17:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 1084,
+      "delta": -25,
+      "final": 1059,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILLIAM SILVA"
+    },
+    {
+      "played_at": "2023-11-11T14:30:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 1089,
+      "delta": -5,
+      "final": 1084,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAPHAEL DIAS"
+    },
+    {
+      "played_at": "2023-11-10T18:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 1129,
+      "delta": -40,
+      "final": 1089,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROBERTO FILHO"
+    },
+    {
+      "played_at": "2023-11-10T17:00:00",
+      "event": "TMB Challenger Plus - 23º edição - Imperatriz/MA - 2023",
+      "initial": 1039,
+      "delta": 90,
+      "final": 1129,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANDRÉ RUIVO"
+    },
+    {
+      "played_at": "2022-12-11T16:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 1199,
+      "delta": -160,
+      "final": 1039,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVID PEREZ"
+    },
+    {
+      "played_at": "2022-12-11T15:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 1139,
+      "delta": 60,
+      "final": 1199,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS MEDEIROS"
+    },
+    {
+      "played_at": "2022-12-11T13:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 1089,
+      "delta": 50,
+      "final": 1139,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ROGÉRIO MIURA"
+    },
+    {
+      "played_at": "2022-12-10T21:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 1059,
+      "delta": 30,
+      "final": 1089,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS PINHEIRO"
+    },
+    {
+      "played_at": "2022-12-10T15:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 1059,
+      "delta": 0,
+      "final": 1059,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABNER CORTINHAS"
+    },
+    {
+      "played_at": "2022-12-10T14:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 999,
+      "delta": 60,
+      "final": 1059,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CAIO MELLO"
+    },
+    {
+      "played_at": "2022-12-10T10:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 979,
+      "delta": 20,
+      "final": 999,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO CANTUÁRIA"
+    },
+    {
+      "played_at": "2022-12-09T17:00:18",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Equipes de Clubes",
+      "initial": 1009,
+      "delta": -30,
+      "final": 979,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO TUSSET"
+    },
+    {
+      "played_at": "2022-12-09T15:30:23",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Equipes de Clubes",
+      "initial": 779,
+      "delta": 230,
+      "final": 1009,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRENNO PEREIRA"
+    },
+    {
+      "played_at": "2022-12-09T14:00:18",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Equipes de Clubes",
+      "initial": 579,
+      "delta": 200,
+      "final": 779,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MICHEL PIRES"
+    },
+    {
+      "played_at": "2022-12-08T10:00:02",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022 - Seleções Estaduais",
+      "initial": 639,
+      "delta": -60,
+      "final": 579,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PAULO AKIEDA"
+    },
+    {
+      "played_at": "2022-12-08T08:30:10",
+      "event": "TMB Platinum - Campeonato Brasileiro - Ciclo IV - São Paulo/SP - 2022 - Seleções Estaduais",
+      "initial": 779,
+      "delta": -140,
+      "final": 639,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELLIPE MARQUES"
+    },
+    {
+      "played_at": "2005-09-24T17:50:00",
+      "event": "COPA BRASIL PALMAS 2005",
+      "initial": 811,
+      "delta": -32,
+      "final": 779,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MURILO RODRIGUES"
+    },
+    {
+      "played_at": "2005-09-24T13:50:00",
+      "event": "COPA BRASIL PALMAS 2005",
+      "initial": 801,
+      "delta": 10,
+      "final": 811,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXANDRE MELO"
+    },
+    {
+      "played_at": "2005-09-23T16:00:00",
+      "event": "COPA BRASIL PALMAS 2005",
+      "initial": 837,
+      "delta": -36,
+      "final": 801,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDERSON SERRAO ............."
+    }
+  ]
+}

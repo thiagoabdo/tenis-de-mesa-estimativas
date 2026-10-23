@@ -1,0 +1,3074 @@
+{
+  "schema_version": 1,
+  "event_id": 5768,
+  "event_name": "5768 - TMB - Copa Brasil Prata de Tênis de Mesa - Betim/MG 2026",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 6,
+  "event_match_count": 45,
+  "estimated_match_count": 45,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5768-53-001",
+      "event_id": 5768,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 1,
+      "table": 1,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "JULIO FERNANDES - MATEUS CHAGAS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            5,
+            11,
+            8,
+            10
+          ]
+        },
+        {
+          "name": "LEONARDO ALMEIDA - ZEUS OLIVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            11,
+            5,
+            11,
+            12
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "LEONARDO ALMEIDA - ZEUS OLIVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JULIO FERNANDES - MATEUS CHAGAS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LEONARDO ALMEIDA - ZEUS OLIVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-53-002",
+      "event_id": 5768,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Semi Final",
+      "game_number": 2,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "BERNARDO FARIA - ISAC FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ENZO CIABOTTI - JOAQUIM ALMEIDA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            5,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "BERNARDO FARIA - ISAC FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "BERNARDO FARIA - ISAC FERNANDES",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ENZO CIABOTTI - JOAQUIM ALMEIDA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-54-001",
+      "event_id": 5768,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 1,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "ARTUR DURÃES - YIZE ZHAO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            10,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "HEITOR RIBEIRO - MARCELO FILHO",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            12,
+            2,
+            4,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ARTUR DURÃES - YIZE ZHAO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ARTUR DURÃES - YIZE ZHAO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "HEITOR RIBEIRO - MARCELO FILHO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-54-002",
+      "event_id": 5768,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Semi Final",
+      "game_number": 2,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "LUCCA LIMA - PEDRO EGASHIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS CHEDRAOUI - PAULO LESSA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            5,
+            11,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "LUCCA LIMA - PEDRO EGASHIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "LUCCA LIMA - PEDRO EGASHIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUCAS CHEDRAOUI - PAULO LESSA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-55-001",
+      "event_id": 5768,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Semi Final",
+      "game_number": 1,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "AUGUSTO ROCHA - PABLO ARRUDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL GUIMARÃES - THOMAZ MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "AUGUSTO ROCHA - PABLO ARRUDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "AUGUSTO ROCHA - PABLO ARRUDA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "DANIEL GUIMARÃES - THOMAZ MARTINS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-120-001",
+      "event_id": 5768,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Quartas de Final",
+      "game_number": 1,
+      "table": 6,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "RAFAEL FIGUEIREDO - INÁCIO CARVALHO",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            8,
+            9,
+            null
+          ]
+        },
+        {
+          "name": "DAVI NASCIMENTO - DAVI CARDOSO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "DAVI NASCIMENTO - DAVI CARDOSO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "RAFAEL FIGUEIREDO - INÁCIO CARVALHO",
+            "associate_id_source": "name_only",
+            "rating_before": 194,
+            "rating_change": -48,
+            "rating_after": 146,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 88804,
+            "name": "DAVI NASCIMENTO - DAVI CARDOSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 194,
+            "rating_change": 60,
+            "rating_after": 254,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-120-002",
+      "event_id": 5768,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Quartas de Final",
+      "game_number": 2,
+      "table": 7,
+      "date": "16/07/2026",
+      "time": "10:00",
+      "played_at": "2026-07-16T10:00:00",
+      "players": [
+        {
+          "name": "JOÃO PAULINO - MIGUEL SILVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "MATHEUS CASTRO - PEDRO CARVALHO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            9,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "JOÃO PAULINO - MIGUEL SILVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO PAULINO - MIGUEL SILVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 194,
+            "rating_change": 60,
+            "rating_after": 254,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "MATHEUS CASTRO - PEDRO CARVALHO",
+            "associate_id_source": "name_only",
+            "rating_before": 194,
+            "rating_change": -48,
+            "rating_after": 146,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-120-003",
+      "event_id": 5768,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Quartas de Final",
+      "game_number": 3,
+      "table": 6,
+      "date": "16/07/2026",
+      "time": "10:30",
+      "played_at": "2026-07-16T10:30:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES - PEDRO PRADO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            14,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "OTAVIO NASCIMENTO - VICTOR AGUIAR",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            12,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "DAVI DOMINGUES - PEDRO PRADO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "DAVI DOMINGUES - PEDRO PRADO",
+            "associate_id_source": "name_only",
+            "rating_before": 194,
+            "rating_change": 60,
+            "rating_after": 254,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "OTAVIO NASCIMENTO - VICTOR AGUIAR",
+            "associate_id_source": "name_only",
+            "rating_before": 194,
+            "rating_change": -48,
+            "rating_after": 146,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-270-001",
+      "event_id": 5768,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Semi Final",
+      "game_number": 1,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "10:30",
+      "played_at": "2026-07-16T10:30:00",
+      "players": [
+        {
+          "name": "FERNANDO VIEIRA - SAMUEL MARTINS",
+          "sets_won": 3,
+          "set_points": [
+            5,
+            7,
+            13,
+            11,
+            12
+          ]
+        },
+        {
+          "name": "MARTINI - MARCOS BRAGANÇA",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            11,
+            6,
+            10
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "FERNANDO VIEIRA - SAMUEL MARTINS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "FERNANDO VIEIRA - SAMUEL MARTINS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "MARTINI - MARCOS BRAGANÇA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-271-001",
+      "event_id": 5768,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Semi Final",
+      "game_number": 1,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "10:30",
+      "played_at": "2026-07-16T10:30:00",
+      "players": [
+        {
+          "name": "CLARISSA BAPTISTA - MANUELA LAGE",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            9,
+            11,
+            6,
+            null
+          ]
+        },
+        {
+          "name": "ANA OLIVEIRA - ISABELE FIRBIDA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            4,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ANA OLIVEIRA - ISABELE FIRBIDA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "CLARISSA BAPTISTA - MANUELA LAGE",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ANA OLIVEIRA - ISABELE FIRBIDA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-53-003",
+      "event_id": 5768,
+      "category_id": 53,
+      "category": "SUB-13 MAS",
+      "phase": "SUB-13 MAS - Final",
+      "game_number": 3,
+      "table": 1,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "LEONARDO ALMEIDA - ZEUS OLIVEIRA",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            8,
+            5,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "BERNARDO FARIA - ISAC FERNANDES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "BERNARDO FARIA - ISAC FERNANDES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "LEONARDO ALMEIDA - ZEUS OLIVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -48,
+            "rating_after": 319,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "BERNARDO FARIA - ISAC FERNANDES",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 60,
+            "rating_after": 427,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-54-003",
+      "event_id": 5768,
+      "category_id": 54,
+      "category": "SUB-15 MAS",
+      "phase": "SUB-15 MAS - Final",
+      "game_number": 3,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "ARTUR DURÃES - YIZE ZHAO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "LUCCA LIMA - PEDRO EGASHIRA",
+          "sets_won": 1,
+          "set_points": [
+            9,
+            11,
+            7,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ARTUR DURÃES - YIZE ZHAO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ARTUR DURÃES - YIZE ZHAO",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 60,
+            "rating_after": 427,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUCCA LIMA - PEDRO EGASHIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -48,
+            "rating_after": 319,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-55-002",
+      "event_id": 5768,
+      "category_id": 55,
+      "category": "SUB-19 MAS",
+      "phase": "SUB-19 MAS - Final",
+      "game_number": 2,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "RAFAEL RIBEIRO - ROBERT FERRAZ",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            17,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AUGUSTO ROCHA - PABLO ARRUDA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            15,
+            2,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "RAFAEL RIBEIRO - ROBERT FERRAZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "RAFAEL RIBEIRO - ROBERT FERRAZ",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 84,
+            "rating_after": 391,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "AUGUSTO ROCHA - PABLO ARRUDA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -66,
+            "rating_after": 301,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-120-004",
+      "event_id": 5768,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Semi Final",
+      "game_number": 4,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "EDUARDO KOENIGSDORF - JOAQUIM COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DAVI NASCIMENTO - DAVI CARDOSO",
+          "sets_won": 0,
+          "set_points": [
+            6,
+            0,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "EDUARDO KOENIGSDORF - JOAQUIM COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "EDUARDO KOENIGSDORF - JOAQUIM COSTA",
+            "associate_id_source": "name_only",
+            "rating_before": 194,
+            "rating_change": 84,
+            "rating_after": 278,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 88804,
+            "name": "DAVI NASCIMENTO - DAVI CARDOSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 254,
+            "rating_change": -66,
+            "rating_after": 188,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-120-005",
+      "event_id": 5768,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Semi Final",
+      "game_number": 5,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "DAVI DOMINGUES - PEDRO PRADO",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            6,
+            3,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO PAULINO - MIGUEL SILVEIRA",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            11,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "JOÃO PAULINO - MIGUEL SILVEIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "DAVI DOMINGUES - PEDRO PRADO",
+            "associate_id_source": "name_only",
+            "rating_before": 254,
+            "rating_change": -48,
+            "rating_after": 206,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "JOÃO PAULINO - MIGUEL SILVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 254,
+            "rating_change": 60,
+            "rating_after": 314,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-270-002",
+      "event_id": 5768,
+      "category_id": 270,
+      "category": "SUB-17 MAS",
+      "phase": "SUB-17 MAS - Final",
+      "game_number": 2,
+      "table": 7,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "EDUARDO DOMINICIS - HEITOR CRUZ",
+          "sets_won": 3,
+          "set_points": [
+            14,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FERNANDO VIEIRA - SAMUEL MARTINS",
+          "sets_won": 0,
+          "set_points": [
+            12,
+            3,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "EDUARDO DOMINICIS - HEITOR CRUZ",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "EDUARDO DOMINICIS - HEITOR CRUZ",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 84,
+            "rating_after": 391,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "FERNANDO VIEIRA - SAMUEL MARTINS",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -66,
+            "rating_after": 301,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-271-002",
+      "event_id": 5768,
+      "category_id": 271,
+      "category": "SUB-17 FEM",
+      "phase": "SUB-17 FEM - Final",
+      "game_number": 2,
+      "table": 6,
+      "date": "16/07/2026",
+      "time": "11:00",
+      "played_at": "2026-07-16T11:00:00",
+      "players": [
+        {
+          "name": "GIULIA FERNANDES - MARCELA SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            6,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ANA OLIVEIRA - ISABELE FIRBIDA",
+          "sets_won": 1,
+          "set_points": [
+            3,
+            11,
+            8,
+            8,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "GIULIA FERNANDES - MARCELA SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "GIULIA FERNANDES - MARCELA SANTOS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 84,
+            "rating_after": 391,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ANA OLIVEIRA - ISABELE FIRBIDA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -66,
+            "rating_after": 301,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-120-006",
+      "event_id": 5768,
+      "category_id": 120,
+      "category": "SUB-11 MAS",
+      "phase": "SUB-11 MAS - Final",
+      "game_number": 6,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "12:00",
+      "played_at": "2026-07-16T12:00:00",
+      "players": [
+        {
+          "name": "EDUARDO KOENIGSDORF - JOAQUIM COSTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            7,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO PAULINO - MIGUEL SILVEIRA",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            11,
+            4,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "EDUARDO KOENIGSDORF - JOAQUIM COSTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "EDUARDO KOENIGSDORF - JOAQUIM COSTA",
+            "associate_id_source": "name_only",
+            "rating_before": 278,
+            "rating_change": 72,
+            "rating_after": 350,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "JOÃO PAULINO - MIGUEL SILVEIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 314,
+            "rating_change": -60,
+            "rating_after": 254,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-58-001",
+      "event_id": 5768,
+      "category_id": 58,
+      "category": "ABSOLUTO B MAS",
+      "phase": "ABSOLUTO B MAS - Semi Final",
+      "game_number": 1,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-16T14:00:00",
+      "players": [
+        {
+          "name": "FILIPE CORREA - GUILHERME SIMÃO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            12,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CHARLES FIRBIDA - LEANDRO NASCIMENTO",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            10,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FILIPE CORREA - GUILHERME SIMÃO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "FILIPE CORREA - GUILHERME SIMÃO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "CHARLES FIRBIDA - LEANDRO NASCIMENTO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-59-001",
+      "event_id": 5768,
+      "category_id": 59,
+      "category": "ABSOLUTO C MAS",
+      "phase": "ABSOLUTO C MAS - Semi Final",
+      "game_number": 1,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-16T14:00:00",
+      "players": [
+        {
+          "name": "EMANNUEL LOIOLA - PEDRO RAMOS",
+          "sets_won": 3,
+          "set_points": [
+            5,
+            11,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "EDUARDO SINDEAUX - ERNILDO SILVA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            9,
+            9,
+            9,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "EMANNUEL LOIOLA - PEDRO RAMOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "EMANNUEL LOIOLA - PEDRO RAMOS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "EDUARDO SINDEAUX - ERNILDO SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-59-002",
+      "event_id": 5768,
+      "category_id": 59,
+      "category": "ABSOLUTO C MAS",
+      "phase": "ABSOLUTO C MAS - Semi Final",
+      "game_number": 2,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-16T14:00:00",
+      "players": [
+        {
+          "name": "RENATO SIMÕES - CAIO SOUZA",
+          "sets_won": 1,
+          "set_points": [
+            11,
+            3,
+            6,
+            7,
+            null
+          ]
+        },
+        {
+          "name": "THALES RIBEIRO - THIAGO ROCHA",
+          "sets_won": 3,
+          "set_points": [
+            9,
+            11,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "THALES RIBEIRO - THIAGO ROCHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "RENATO SIMÕES - CAIO SOUZA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "THALES RIBEIRO - THIAGO ROCHA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-110-001",
+      "event_id": 5768,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Quartas de Final",
+      "game_number": 1,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-16T14:00:00",
+      "players": [
+        {
+          "name": "DANIEL OLIVEIRA - JOSIVAL NEVES",
+          "sets_won": 0,
+          "set_points": [
+            9,
+            3,
+            7,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ANDERSON BARBOSA - LEANDRO NEVES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ANDERSON BARBOSA - LEANDRO NEVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "DANIEL OLIVEIRA - JOSIVAL NEVES",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ANDERSON BARBOSA - LEANDRO NEVES",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-110-002",
+      "event_id": 5768,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Quartas de Final",
+      "game_number": 2,
+      "table": 6,
+      "date": "16/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-16T14:00:00",
+      "players": [
+        {
+          "name": "GABRIEL BEISIGEL - KAUAN SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "DANIEL COSTA - VICTOR RODRIGUES",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            8,
+            8,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "GABRIEL BEISIGEL - KAUAN SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "GABRIEL BEISIGEL - KAUAN SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "DANIEL COSTA - VICTOR RODRIGUES",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-110-003",
+      "event_id": 5768,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Quartas de Final",
+      "game_number": 3,
+      "table": 7,
+      "date": "16/07/2026",
+      "time": "14:00",
+      "played_at": "2026-07-16T14:00:00",
+      "players": [
+        {
+          "name": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            5,
+            13,
+            null
+          ]
+        },
+        {
+          "name": "FABRÍCIO PAIVA - LUCAS AZEVEDO",
+          "sets_won": 1,
+          "set_points": [
+            5,
+            9,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "FABRÍCIO PAIVA - LUCAS AZEVEDO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-111-001",
+      "event_id": 5768,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Semi Final",
+      "game_number": 1,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-16T14:30:00",
+      "players": [
+        {
+          "name": "LUIZ AMARAL - ROSIVALDO RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            12,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "GABRIEL NAVARRO - LEONARDO FEITOZA",
+          "sets_won": 0,
+          "set_points": [
+            10,
+            3,
+            5,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "LUIZ AMARAL - ROSIVALDO RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "LUIZ AMARAL - ROSIVALDO RODRIGUES",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL NAVARRO - LEONARDO FEITOZA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-125-001",
+      "event_id": 5768,
+      "category_id": 125,
+      "category": "ABSOLUTO F MAS",
+      "phase": "ABSOLUTO F MAS - Quartas de Final",
+      "game_number": 1,
+      "table": 1,
+      "date": "16/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-16T14:30:00",
+      "players": [
+        {
+          "name": "DÉCIO CARVALHO - JOÃO CARVALHO",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            11,
+            10,
+            5,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO ROCHA - CLEVERTON BATISTA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            12,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "RICARDO ROCHA - CLEVERTON BATISTA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 36937,
+            "name": "DÉCIO CARVALHO - JOÃO CARVALHO",
+            "associate_id_source": "event_roster",
+            "rating_before": 364,
+            "rating_change": -36,
+            "rating_after": 328,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "RICARDO ROCHA - CLEVERTON BATISTA",
+            "associate_id_source": "name_only",
+            "rating_before": 445,
+            "rating_change": 48,
+            "rating_after": 493,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-125-002",
+      "event_id": 5768,
+      "category_id": 125,
+      "category": "ABSOLUTO F MAS",
+      "phase": "ABSOLUTO F MAS - Quartas de Final",
+      "game_number": 2,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-16T14:30:00",
+      "players": [
+        {
+          "name": "LUCAS LOUREIRO - REGIS LOUREIRO",
+          "sets_won": 3,
+          "set_points": [
+            8,
+            9,
+            11,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "ANTÔNIO VASCONCELOS - LEONARDO VASCONCELOS",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            11,
+            2,
+            9,
+            5
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "LUCAS LOUREIRO - REGIS LOUREIRO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "LUCAS LOUREIRO - REGIS LOUREIRO",
+            "associate_id_source": "name_only",
+            "rating_before": 445,
+            "rating_change": 84,
+            "rating_after": 529,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 91281,
+            "name": "ANTÔNIO VASCONCELOS - LEONARDO VASCONCELOS",
+            "associate_id_source": "event_roster",
+            "rating_before": 526,
+            "rating_change": -66,
+            "rating_after": 460,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-309-001",
+      "event_id": 5768,
+      "category_id": 309,
+      "category": "ABSOLUTO E FEM",
+      "phase": "ABSOLUTO E FEM - Semi Final",
+      "game_number": 1,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-16T14:30:00",
+      "players": [
+        {
+          "name": "AMANDA SOUZA - SOPHIA SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JÚLIA GUIMARÃES - LÍVIA GUIMARÃES",
+          "sets_won": 0,
+          "set_points": [
+            4,
+            5,
+            3,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "AMANDA SOUZA - SOPHIA SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "AMANDA SOUZA - SOPHIA SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": 60,
+            "rating_after": 310,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": 94304,
+            "name": "JÚLIA GUIMARÃES - LÍVIA GUIMARÃES",
+            "associate_id_source": "event_roster",
+            "rating_before": 250,
+            "rating_change": -48,
+            "rating_after": 202,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-309-002",
+      "event_id": 5768,
+      "category_id": 309,
+      "category": "ABSOLUTO E FEM",
+      "phase": "ABSOLUTO E FEM - Semi Final",
+      "game_number": 2,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "14:30",
+      "played_at": "2026-07-16T14:30:00",
+      "players": [
+        {
+          "name": "MARIA RAMOS - MEL CARDOSO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            10,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "LUIZA SOARES - YASMIN SILVA",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            12,
+            9,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "MARIA RAMOS - MEL CARDOSO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "MARIA RAMOS - MEL CARDOSO",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": 60,
+            "rating_after": 310,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUIZA SOARES - YASMIN SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 250,
+            "rating_change": -48,
+            "rating_after": 202,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-258-001",
+      "event_id": 5768,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Semi Final",
+      "game_number": 1,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-16T15:00:00",
+      "players": [
+        {
+          "name": "CARLOS VILLANI - THIAGO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "LEONARDO BARBOSA - NAICHE MARTINS",
+          "sets_won": 1,
+          "set_points": [
+            7,
+            1,
+            11,
+            3,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "CARLOS VILLANI - THIAGO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "CARLOS VILLANI - THIAGO FONSECA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LEONARDO BARBOSA - NAICHE MARTINS",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-258-002",
+      "event_id": 5768,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Semi Final",
+      "game_number": 2,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "15:00",
+      "played_at": "2026-07-16T15:00:00",
+      "players": [
+        {
+          "name": "AYSSER LAIZO - BRUNO BEATO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            8,
+            11,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "ADRIAN GANZ - MARCIO DUARTE",
+          "sets_won": 1,
+          "set_points": [
+            3,
+            11,
+            6,
+            6,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "AYSSER LAIZO - BRUNO BEATO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "AYSSER LAIZO - BRUNO BEATO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ADRIAN GANZ - MARCIO DUARTE",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-58-002",
+      "event_id": 5768,
+      "category_id": 58,
+      "category": "ABSOLUTO B MAS",
+      "phase": "ABSOLUTO B MAS - Final",
+      "game_number": 2,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-16T15:30:00",
+      "players": [
+        {
+          "name": "ARTHUR REIS - EDEVANDRO NERY",
+          "sets_won": 3,
+          "set_points": [
+            15,
+            11,
+            6,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "FILIPE CORREA - GUILHERME SIMÃO",
+          "sets_won": 1,
+          "set_points": [
+            13,
+            9,
+            11,
+            7,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "ARTHUR REIS - EDEVANDRO NERY",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ARTHUR REIS - EDEVANDRO NERY",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 84,
+            "rating_after": 391,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "FILIPE CORREA - GUILHERME SIMÃO",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -66,
+            "rating_after": 301,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-59-003",
+      "event_id": 5768,
+      "category_id": 59,
+      "category": "ABSOLUTO C MAS",
+      "phase": "ABSOLUTO C MAS - Final",
+      "game_number": 3,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-16T15:30:00",
+      "players": [
+        {
+          "name": "EMANNUEL LOIOLA - PEDRO RAMOS",
+          "sets_won": 2,
+          "set_points": [
+            4,
+            8,
+            12,
+            11,
+            7
+          ]
+        },
+        {
+          "name": "THALES RIBEIRO - THIAGO ROCHA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            10,
+            6,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "THALES RIBEIRO - THIAGO ROCHA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "EMANNUEL LOIOLA - PEDRO RAMOS",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -48,
+            "rating_after": 319,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "THALES RIBEIRO - THIAGO ROCHA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 60,
+            "rating_after": 427,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-110-004",
+      "event_id": 5768,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Semi Final",
+      "game_number": 4,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-16T15:30:00",
+      "players": [
+        {
+          "name": "TIAGO FREITAS - JOSÉ FILHO",
+          "sets_won": 1,
+          "set_points": [
+            12,
+            5,
+            6,
+            9,
+            null
+          ]
+        },
+        {
+          "name": "ANDERSON BARBOSA - LEANDRO NEVES",
+          "sets_won": 3,
+          "set_points": [
+            10,
+            11,
+            11,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "ANDERSON BARBOSA - LEANDRO NEVES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "TIAGO FREITAS - JOSÉ FILHO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -36,
+            "rating_after": 271,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ANDERSON BARBOSA - LEANDRO NEVES",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 48,
+            "rating_after": 415,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-110-005",
+      "event_id": 5768,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Semi Final",
+      "game_number": 5,
+      "table": 5,
+      "date": "16/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-16T15:30:00",
+      "players": [
+        {
+          "name": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            8,
+            8,
+            11
+          ]
+        },
+        {
+          "name": "GABRIEL BEISIGEL - KAUAN SILVA",
+          "sets_won": 2,
+          "set_points": [
+            3,
+            8,
+            11,
+            11,
+            9
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 60,
+            "rating_after": 427,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "GABRIEL BEISIGEL - KAUAN SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -48,
+            "rating_after": 319,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-125-003",
+      "event_id": 5768,
+      "category_id": 125,
+      "category": "ABSOLUTO F MAS",
+      "phase": "ABSOLUTO F MAS - Semi Final",
+      "game_number": 3,
+      "table": 6,
+      "date": "16/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-16T15:30:00",
+      "players": [
+        {
+          "name": "FELIPE CALDEIRA - IGOR PINTO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RICARDO ROCHA - CLEVERTON BATISTA",
+          "sets_won": 0,
+          "set_points": [
+            8,
+            6,
+            7,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "FELIPE CALDEIRA - IGOR PINTO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "FELIPE CALDEIRA - IGOR PINTO",
+            "associate_id_source": "name_only",
+            "rating_before": 445,
+            "rating_change": 72,
+            "rating_after": 517,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "RICARDO ROCHA - CLEVERTON BATISTA",
+            "associate_id_source": "name_only",
+            "rating_before": 493,
+            "rating_change": -60,
+            "rating_after": 433,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-125-004",
+      "event_id": 5768,
+      "category_id": 125,
+      "category": "ABSOLUTO F MAS",
+      "phase": "ABSOLUTO F MAS - Semi Final",
+      "game_number": 4,
+      "table": 7,
+      "date": "16/07/2026",
+      "time": "15:30",
+      "played_at": "2026-07-16T15:30:00",
+      "players": [
+        {
+          "name": "LUCAS MAEDA - SÉRGIO LIMA",
+          "sets_won": 3,
+          "set_points": [
+            16,
+            11,
+            6,
+            12,
+            null
+          ]
+        },
+        {
+          "name": "LUCAS LOUREIRO - REGIS LOUREIRO",
+          "sets_won": 1,
+          "set_points": [
+            14,
+            8,
+            11,
+            10,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "LUCAS MAEDA - SÉRGIO LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "LUCAS MAEDA - SÉRGIO LIMA",
+            "associate_id_source": "name_only",
+            "rating_before": 445,
+            "rating_change": 84,
+            "rating_after": 529,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUCAS LOUREIRO - REGIS LOUREIRO",
+            "associate_id_source": "name_only",
+            "rating_before": 529,
+            "rating_change": -66,
+            "rating_after": 463,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-111-002",
+      "event_id": 5768,
+      "category_id": 111,
+      "category": "ABSOLUTO E MAS",
+      "phase": "ABSOLUTO E MAS - Final",
+      "game_number": 2,
+      "table": 1,
+      "date": "16/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-16T16:00:00",
+      "players": [
+        {
+          "name": "JOÃO SANTOS - ALEX MACHADO",
+          "sets_won": 1,
+          "set_points": [
+            6,
+            5,
+            11,
+            6,
+            null
+          ]
+        },
+        {
+          "name": "LUIZ AMARAL - ROSIVALDO RODRIGUES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            5,
+            11,
+            null
+          ]
+        }
+      ],
+      "score": [
+        1,
+        3
+      ],
+      "winner": "LUIZ AMARAL - ROSIVALDO RODRIGUES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO SANTOS - ALEX MACHADO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -36,
+            "rating_after": 271,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUIZ AMARAL - ROSIVALDO RODRIGUES",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 48,
+            "rating_after": 415,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-309-003",
+      "event_id": 5768,
+      "category_id": 309,
+      "category": "ABSOLUTO E FEM",
+      "phase": "ABSOLUTO E FEM - Final",
+      "game_number": 3,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-16T16:00:00",
+      "players": [
+        {
+          "name": "AMANDA SOUZA - SOPHIA SILVA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            9,
+            11,
+            null
+          ]
+        },
+        {
+          "name": "MARIA RAMOS - MEL CARDOSO",
+          "sets_won": 1,
+          "set_points": [
+            2,
+            8,
+            11,
+            5,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        1
+      ],
+      "winner": "AMANDA SOUZA - SOPHIA SILVA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "AMANDA SOUZA - SOPHIA SILVA",
+            "associate_id_source": "name_only",
+            "rating_before": 310,
+            "rating_change": 60,
+            "rating_after": 370,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "MARIA RAMOS - MEL CARDOSO",
+            "associate_id_source": "name_only",
+            "rating_before": 310,
+            "rating_change": -48,
+            "rating_after": 262,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-310-001",
+      "event_id": 5768,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Semi Final",
+      "game_number": 1,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-16T16:00:00",
+      "players": [
+        {
+          "name": "JOÃO BATISTA - IVAN MORAES",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            9,
+            8,
+            12,
+            11
+          ]
+        },
+        {
+          "name": "DAVI VILLANI - GUSTAVO CASTRO",
+          "sets_won": 2,
+          "set_points": [
+            7,
+            11,
+            11,
+            10,
+            9
+          ]
+        }
+      ],
+      "score": [
+        3,
+        2
+      ],
+      "winner": "JOÃO BATISTA - IVAN MORAES",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO BATISTA - IVAN MORAES",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "DAVI VILLANI - GUSTAVO CASTRO",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-310-002",
+      "event_id": 5768,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Semi Final",
+      "game_number": 2,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "16:00",
+      "played_at": "2026-07-16T16:00:00",
+      "players": [
+        {
+          "name": "ARTHUR LARA - PEDRO PEREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "JOÃO PRADO - LUCAS DUARTE",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            6,
+            6,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "ARTHUR LARA - PEDRO PEREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ARTHUR LARA - PEDRO PEREIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": 60,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "JOÃO PRADO - LUCAS DUARTE",
+            "associate_id_source": "name_only",
+            "rating_before": 307,
+            "rating_change": -48,
+            "rating_after": 259,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-110-006",
+      "event_id": 5768,
+      "category_id": 110,
+      "category": "ABSOLUTO D MAS",
+      "phase": "ABSOLUTO D MAS - Final",
+      "game_number": 6,
+      "table": 1,
+      "date": "16/07/2026",
+      "time": "16:30",
+      "played_at": "2026-07-16T16:30:00",
+      "players": [
+        {
+          "name": "ANDERSON BARBOSA - LEANDRO NEVES",
+          "sets_won": 0,
+          "set_points": [
+            11,
+            9,
+            4,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+          "sets_won": 3,
+          "set_points": [
+            13,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "ANDERSON BARBOSA - LEANDRO NEVES",
+            "associate_id_source": "name_only",
+            "rating_before": 415,
+            "rating_change": -48,
+            "rating_after": 367,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "RYAN OLIVEIRA - RYAN OLIVEIRA - WEMERSON SANTOS - WEMERSON SANTOS",
+            "associate_id_source": "name_only",
+            "rating_before": 427,
+            "rating_change": 60,
+            "rating_after": 487,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-125-005",
+      "event_id": 5768,
+      "category_id": 125,
+      "category": "ABSOLUTO F MAS",
+      "phase": "ABSOLUTO F MAS - Final",
+      "game_number": 5,
+      "table": 2,
+      "date": "16/07/2026",
+      "time": "16:30",
+      "played_at": "2026-07-16T16:30:00",
+      "players": [
+        {
+          "name": "FELIPE CALDEIRA - IGOR PINTO",
+          "sets_won": 2,
+          "set_points": [
+            11,
+            6,
+            9,
+            11,
+            6
+          ]
+        },
+        {
+          "name": "LUCAS MAEDA - SÉRGIO LIMA",
+          "sets_won": 3,
+          "set_points": [
+            4,
+            11,
+            11,
+            9,
+            11
+          ]
+        }
+      ],
+      "score": [
+        2,
+        3
+      ],
+      "winner": "LUCAS MAEDA - SÉRGIO LIMA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "FELIPE CALDEIRA - IGOR PINTO",
+            "associate_id_source": "name_only",
+            "rating_before": 517,
+            "rating_change": -48,
+            "rating_after": 469,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "LUCAS MAEDA - SÉRGIO LIMA",
+            "associate_id_source": "name_only",
+            "rating_before": 529,
+            "rating_change": 60,
+            "rating_after": 589,
+            "initial_rating_source": "category_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-258-003",
+      "event_id": 5768,
+      "category_id": 258,
+      "category": "MASTER 40MAS",
+      "phase": "MASTER 40MAS - Final",
+      "game_number": 3,
+      "table": 3,
+      "date": "16/07/2026",
+      "time": "16:30",
+      "played_at": "2026-07-16T16:30:00",
+      "players": [
+        {
+          "name": "CARLOS VILLANI - THIAGO FONSECA",
+          "sets_won": 0,
+          "set_points": [
+            5,
+            8,
+            6,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "AYSSER LAIZO - BRUNO BEATO",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "AYSSER LAIZO - BRUNO BEATO",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "CARLOS VILLANI - THIAGO FONSECA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -48,
+            "rating_after": 319,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "AYSSER LAIZO - BRUNO BEATO",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 60,
+            "rating_after": 427,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5768-310-003",
+      "event_id": 5768,
+      "category_id": 310,
+      "category": "ABSOLUTO G MAS",
+      "phase": "ABSOLUTO G MAS - Final",
+      "game_number": 3,
+      "table": 4,
+      "date": "16/07/2026",
+      "time": "16:30",
+      "played_at": "2026-07-16T16:30:00",
+      "players": [
+        {
+          "name": "JOÃO BATISTA - IVAN MORAES",
+          "sets_won": 0,
+          "set_points": [
+            7,
+            2,
+            3,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "ARTHUR LARA - PEDRO PEREIRA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "ARTHUR LARA - PEDRO PEREIRA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": null,
+            "name": "JOÃO BATISTA - IVAN MORAES",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": -48,
+            "rating_after": 319,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          },
+          {
+            "associate_id": null,
+            "name": "ARTHUR LARA - PEDRO PEREIRA",
+            "associate_id_source": "name_only",
+            "rating_before": 367,
+            "rating_change": 60,
+            "rating_after": 427,
+            "initial_rating_source": "event_median_inferred",
+            "actual_rating_change": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3583 @@
+{
+  "associate_id": 200,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=200&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-30T15:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1339,
+      "delta": 0,
+      "final": 1339,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDERSON SANTOS"
+    },
+    {
+      "played_at": "2026-08-30T14:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1291,
+      "delta": 48,
+      "final": 1339,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FAUSTO BURGOS"
+    },
+    {
+      "played_at": "2026-08-30T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1327,
+      "delta": -36,
+      "final": 1291,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALLAN MOREIRA"
+    },
+    {
+      "played_at": "2026-08-30T12:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1267,
+      "delta": 60,
+      "final": 1327,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FAUSTO BURGOS"
+    },
+    {
+      "played_at": "2026-08-30T11:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1246,
+      "delta": 21,
+      "final": 1267,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JÚLIO GUENDLER"
+    },
+    {
+      "played_at": "2026-08-30T10:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1294,
+      "delta": -48,
+      "final": 1246,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALLAN MOREIRA"
+    },
+    {
+      "played_at": "2026-08-30T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Ranking - Caruaru/PE - 2026 SÉRIE OURO",
+      "initial": 1285,
+      "delta": 9,
+      "final": 1294,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALESSANDRO MOREIRA"
+    },
+    {
+      "played_at": "2026-05-03T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1321,
+      "delta": -36,
+      "final": 1285,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "URBANO FILHO"
+    },
+    {
+      "played_at": "2026-05-03T14:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1285,
+      "delta": 36,
+      "final": 1321,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMAURY JÚNIOR"
+    },
+    {
+      "played_at": "2026-05-03T11:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1141,
+      "delta": 144,
+      "final": 1285,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CARLOS FILHO"
+    },
+    {
+      "played_at": "2026-05-02T21:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 997,
+      "delta": 144,
+      "final": 1141,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HUGO VINAGRE"
+    },
+    {
+      "played_at": "2026-05-02T19:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1024,
+      "delta": -27,
+      "final": 997,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL ALVES"
+    },
+    {
+      "played_at": "2026-05-02T11:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1060,
+      "delta": -36,
+      "final": 1024,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANTÔNIO NETO"
+    },
+    {
+      "played_at": "2026-05-02T10:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - Caruaru - PE - 2026",
+      "initial": 1060,
+      "delta": 0,
+      "final": 1060,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS PONCHIO"
+    },
+    {
+      "played_at": "2017-09-23T18:26:00",
+      "event": "Copa Nordeste De Tênis De Mesa- Etapa Maceió - 2017",
+      "initial": 1064,
+      "delta": -4,
+      "final": 1060,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE MONTEIRO"
+    },
+    {
+      "played_at": "2017-09-23T18:25:00",
+      "event": "Copa Nordeste De Tênis De Mesa- Etapa Maceió - 2017",
+      "initial": 1072,
+      "delta": -8,
+      "final": 1064,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2017-09-23T03:36:00",
+      "event": "Copa Nordeste De Tênis De Mesa- Etapa Maceió - 2017",
+      "initial": 1056,
+      "delta": 16,
+      "final": 1072,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HENRIQUE MORAIS"
+    },
+    {
+      "played_at": "2017-09-22T23:00:00",
+      "event": "Copa Nordeste De Tênis De Mesa- Etapa Maceió - 2017",
+      "initial": 1000,
+      "delta": 72,
+      "final": 1072,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ SILVA"
+    },
+    {
+      "played_at": "2017-09-22T14:34:00",
+      "event": "Copa Nordeste De Tênis De Mesa- Etapa Maceió - 2017",
+      "initial": 1020,
+      "delta": -20,
+      "final": 1000,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS BASANI"
+    },
+    {
+      "played_at": "2017-09-22T12:06:00",
+      "event": "Copa Nordeste De Tênis De Mesa- Etapa Maceió - 2017",
+      "initial": 1072,
+      "delta": -16,
+      "final": 1056,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIGI YAMANE"
+    },
+    {
+      "played_at": "2017-07-08T17:20:00",
+      "event": "Copa Nordeste De Tênis De Mesa-interestadual - Etapa Recife - 2017",
+      "initial": 1016,
+      "delta": -24,
+      "final": 992,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL MACÊDO"
+    },
+    {
+      "played_at": "2017-07-08T10:51:00",
+      "event": "Copa Nordeste De Tênis De Mesa-interestadual - Etapa Recife - 2017",
+      "initial": 1034,
+      "delta": -18,
+      "final": 1016,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2017-07-08T10:48:00",
+      "event": "Copa Nordeste De Tênis De Mesa-interestadual - Etapa Recife - 2017",
+      "initial": 992,
+      "delta": 28,
+      "final": 1020,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2017-05-28T02:42:00",
+      "event": "1ª Etapa Do Ranking Pernambucano 2017",
+      "initial": 1037,
+      "delta": -3,
+      "final": 1034,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS CARVALHO"
+    },
+    {
+      "played_at": "2017-05-28T02:41:00",
+      "event": "1ª Etapa Do Ranking Pernambucano 2017",
+      "initial": 1053,
+      "delta": -16,
+      "final": 1037,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "THIAGO LEITE"
+    },
+    {
+      "played_at": "2017-05-28T02:40:00",
+      "event": "1ª Etapa Do Ranking Pernambucano 2017",
+      "initial": 1052,
+      "delta": 1,
+      "final": 1053,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOSÉ NETO"
+    },
+    {
+      "played_at": "2017-04-28T14:14:00",
+      "event": "Open Piauense 2017 De Tênis De Mesa",
+      "initial": 1096,
+      "delta": -44,
+      "final": 1052,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "LUIZ BRITO"
+    },
+    {
+      "played_at": "2017-04-28T14:13:00",
+      "event": "Open Piauense 2017 De Tênis De Mesa",
+      "initial": 1094,
+      "delta": 2,
+      "final": 1096,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "FLÁVIO PAIVA"
+    },
+    {
+      "played_at": "2017-03-11T23:50:00",
+      "event": "1ª Etapa Campeonato Pernambucano 2017 - Rating",
+      "initial": 1119,
+      "delta": -16,
+      "final": 1103,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MÁRIO OLIVEIRA"
+    },
+    {
+      "played_at": "2017-03-11T07:31:00",
+      "event": "1ª Etapa Campeonato Pernambucano 2017 - Rating",
+      "initial": 1103,
+      "delta": -9,
+      "final": 1094,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO CAVENDISH"
+    },
+    {
+      "played_at": "2016-12-11T02:35:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1120,
+      "delta": -1,
+      "final": 1119,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2016-12-11T02:34:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1136,
+      "delta": -16,
+      "final": 1120,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "KLEITON BORGES"
+    },
+    {
+      "played_at": "2016-12-11T02:33:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1148,
+      "delta": -12,
+      "final": 1136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR NETO"
+    },
+    {
+      "played_at": "2016-12-11T02:32:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1141,
+      "delta": 7,
+      "final": 1148,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOAQUIM JUNIOR"
+    },
+    {
+      "played_at": "2016-12-11T02:31:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1133,
+      "delta": 8,
+      "final": 1141,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2016-12-11T02:30:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1130,
+      "delta": 3,
+      "final": 1133,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GIUSEPPE CAMARA"
+    },
+    {
+      "played_at": "2016-12-11T02:29:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1127,
+      "delta": 2,
+      "final": 1129,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS SANTOS"
+    },
+    {
+      "played_at": "2016-12-11T02:28:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1143,
+      "delta": -16,
+      "final": 1127,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EVANDRO FILHO"
+    },
+    {
+      "played_at": "2016-12-11T01:53:00",
+      "event": "Campeonato Pernambucano 2016",
+      "initial": 1129,
+      "delta": 1,
+      "final": 1130,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VINICIUS SAITO"
+    },
+    {
+      "played_at": "2016-10-15T13:58:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1177,
+      "delta": -18,
+      "final": 1159,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "KLEITON BORGES"
+    },
+    {
+      "played_at": "2016-10-15T10:40:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1159,
+      "delta": -16,
+      "final": 1143,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JEAN JUNIOR"
+    },
+    {
+      "played_at": "2016-10-15T10:39:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1170,
+      "delta": 7,
+      "final": 1177,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2016-10-15T10:38:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1169,
+      "delta": 1,
+      "final": 1170,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FAUSTO BURGOS"
+    },
+    {
+      "played_at": "2016-10-15T10:37:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1166,
+      "delta": 3,
+      "final": 1169,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIUSEPPE CAMARA"
+    },
+    {
+      "played_at": "2016-10-15T10:36:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1164,
+      "delta": 2,
+      "final": 1166,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS SANTOS"
+    },
+    {
+      "played_at": "2016-10-15T10:35:00",
+      "event": "3ª Etapa Do Circuito Pernambucano De Tênis De Mesa 2016 - Olímpcio",
+      "initial": 1163,
+      "delta": 1,
+      "final": 1164,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEX LOPES"
+    },
+    {
+      "played_at": "2016-07-31T18:33:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1169,
+      "delta": -6,
+      "final": 1163,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SAULO CORREIA"
+    },
+    {
+      "played_at": "2016-07-31T18:32:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1163,
+      "delta": 12,
+      "final": 1175,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2016-07-31T16:28:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1175,
+      "delta": -6,
+      "final": 1169,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANYLO SANTOS"
+    },
+    {
+      "played_at": "2016-07-30T18:34:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1165,
+      "delta": -6,
+      "final": 1159,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANYLO SANTOS"
+    },
+    {
+      "played_at": "2016-07-30T15:34:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1165,
+      "delta": 4,
+      "final": 1169,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HENRIQUE MORAIS"
+    },
+    {
+      "played_at": "2016-07-30T09:09:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1171,
+      "delta": -8,
+      "final": 1163,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAULO CORREIA"
+    },
+    {
+      "played_at": "2016-07-30T09:08:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1147,
+      "delta": 18,
+      "final": 1165,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THIAGO ALMEIDA"
+    },
+    {
+      "played_at": "2016-07-30T09:07:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1169,
+      "delta": 6,
+      "final": 1175,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRE DOWSLEY"
+    },
+    {
+      "played_at": "2016-07-30T09:06:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1161,
+      "delta": 4,
+      "final": 1165,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GIUSEPPE CAMARA"
+    },
+    {
+      "played_at": "2016-07-30T07:45:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1175,
+      "delta": -28,
+      "final": 1147,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JÚLIO GUENDLER"
+    },
+    {
+      "played_at": "2016-07-30T04:39:00",
+      "event": "5ª Copa Interestadual De Pernambuco De Tênis De Mesa 2016 - Olímpico",
+      "initial": 1159,
+      "delta": 12,
+      "final": 1171,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2016-02-28T16:00:00",
+      "event": "1ª Etapa Do Circuito Pernambucano 2016 - Olímpico",
+      "initial": 1382,
+      "delta": -11,
+      "final": 1371,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2016-02-28T13:40:00",
+      "event": "1ª Etapa Do Circuito Pernambucano 2016 - Olímpico",
+      "initial": 1379,
+      "delta": 3,
+      "final": 1382,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2016-02-28T13:20:00",
+      "event": "1ª Etapa Do Circuito Pernambucano 2016 - Olímpico",
+      "initial": 1401,
+      "delta": -22,
+      "final": 1379,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JEAN JUNIOR"
+    },
+    {
+      "played_at": "2016-02-28T10:00:00",
+      "event": "1ª Etapa Do Circuito Pernambucano 2016 - Olímpico",
+      "initial": 1423,
+      "delta": -22,
+      "final": 1401,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "KLEITON BORGES"
+    },
+    {
+      "played_at": "2016-02-28T08:40:00",
+      "event": "1ª Etapa Do Circuito Pernambucano 2016 - Olímpico",
+      "initial": 1422,
+      "delta": 1,
+      "final": 1423,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GIUSEPPE CAMARA"
+    },
+    {
+      "played_at": "2016-02-28T08:00:00",
+      "event": "1ª Etapa Do Circuito Pernambucano 2016 - Olímpico",
+      "initial": 1421,
+      "delta": 1,
+      "final": 1422,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TÁCITO FARIAS"
+    },
+    {
+      "played_at": "2015-11-28T10:29:00",
+      "event": "5ª Etapa Do Campeonato Pernambucano - Top 4 - 2015",
+      "initial": 1437,
+      "delta": -16,
+      "final": 1421,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOAQUIM JUNIOR"
+    },
+    {
+      "played_at": "2015-11-28T10:28:00",
+      "event": "5ª Etapa Do Campeonato Pernambucano - Top 4 - 2015",
+      "initial": 1434,
+      "delta": 3,
+      "final": 1437,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2015-11-01T10:05:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 1434,
+      "delta": 0,
+      "final": 1434,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO VITAL"
+    },
+    {
+      "played_at": "2015-11-01T08:25:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 1306,
+      "delta": 128,
+      "final": 1434,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ABNER CORTINHAS"
+    },
+    {
+      "played_at": "2015-10-31T20:30:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 1250,
+      "delta": 56,
+      "final": 1306,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "VIVALDO JÚNIOR"
+    },
+    {
+      "played_at": "2015-10-31T15:55:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 1242,
+      "delta": 8,
+      "final": 1250,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCOS BUENO"
+    },
+    {
+      "played_at": "2015-10-30T22:10:00",
+      "event": "48º Campeonato Brasileiro 2015 - Individual Ranking Olímpico..",
+      "initial": 1234,
+      "delta": 8,
+      "final": 1242,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RODRIGO DINIZ"
+    },
+    {
+      "played_at": "2015-10-29T16:45:11",
+      "event": "48º Campeonato Brasileiro 2015 - Equipes Seleções Olimpicas",
+      "initial": 1234,
+      "delta": 0,
+      "final": 1234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLAUDIO MASSAD"
+    },
+    {
+      "played_at": "2015-10-29T13:15:03",
+      "event": "48º Campeonato Brasileiro 2015 - Equipes Seleções Olimpicas",
+      "initial": 1178,
+      "delta": 56,
+      "final": 1234,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELLO MICHELI"
+    },
+    {
+      "played_at": "2015-10-28T13:15:17",
+      "event": "48º Campeonato Brasileiro 2015 - Equipes Clubes Olimpico",
+      "initial": 1178,
+      "delta": 0,
+      "final": 1178,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CLAUDIO MASSAD"
+    },
+    {
+      "played_at": "2015-10-17T23:12:00",
+      "event": "3ª Etapa Campeonato Pernambucano 2015",
+      "initial": 1178,
+      "delta": 1,
+      "final": 1179,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DAVID SILVA"
+    },
+    {
+      "played_at": "2015-10-17T23:04:00",
+      "event": "3ª Etapa Campeonato Pernambucano 2015",
+      "initial": 1181,
+      "delta": 2,
+      "final": 1183,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIUSEPPE CAMARA"
+    },
+    {
+      "played_at": "2015-10-17T19:57:00",
+      "event": "3ª Etapa Campeonato Pernambucano 2015",
+      "initial": 1178,
+      "delta": 20,
+      "final": 1198,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2015-10-17T18:17:00",
+      "event": "3ª Etapa Campeonato Pernambucano 2015",
+      "initial": 1183,
+      "delta": -5,
+      "final": 1178,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2015-10-17T10:37:00",
+      "event": "3ª Etapa Campeonato Pernambucano 2015",
+      "initial": 1198,
+      "delta": -20,
+      "final": 1178,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSIMAR JUNIOR"
+    },
+    {
+      "played_at": "2015-10-17T07:51:00",
+      "event": "3ª Etapa Campeonato Pernambucano 2015",
+      "initial": 1179,
+      "delta": 2,
+      "final": 1181,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CARLOS MARCO"
+    },
+    {
+      "played_at": "2015-08-09T10:12:00",
+      "event": "4ª Copa Interestadual De Pernambuco 2015",
+      "initial": 1200,
+      "delta": -10,
+      "final": 1190,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2015-08-09T08:43:00",
+      "event": "4ª Copa Interestadual De Pernambuco 2015",
+      "initial": 1200,
+      "delta": -22,
+      "final": 1178,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOAQUIM JUNIOR"
+    },
+    {
+      "played_at": "2015-08-09T04:30:00",
+      "event": "4ª Copa Interestadual De Pernambuco 2015",
+      "initial": 1190,
+      "delta": 10,
+      "final": 1200,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2015-08-09T01:06:00",
+      "event": "4ª Copa Interestadual De Pernambuco 2015",
+      "initial": 1194,
+      "delta": 6,
+      "final": 1200,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRIO OLIVEIRA"
+    },
+    {
+      "played_at": "2015-08-08T11:09:00",
+      "event": "4ª Copa Interestadual De Pernambuco 2015",
+      "initial": 1200,
+      "delta": -6,
+      "final": 1194,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANYLO SANTOS"
+    },
+    {
+      "played_at": "2015-08-08T11:08:00",
+      "event": "4ª Copa Interestadual De Pernambuco 2015",
+      "initial": 1228,
+      "delta": -28,
+      "final": 1200,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EDIVAN JUNIOR"
+    },
+    {
+      "played_at": "2015-05-24T23:38:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1246,
+      "delta": 7,
+      "final": 1253,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOAQUIM JUNIOR"
+    },
+    {
+      "played_at": "2015-05-24T23:36:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1236,
+      "delta": 7,
+      "final": 1243,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOAQUIM JUNIOR"
+    },
+    {
+      "played_at": "2015-05-24T17:07:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1230,
+      "delta": 1,
+      "final": 1231,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CARLOS MARCO"
+    },
+    {
+      "played_at": "2015-05-24T16:35:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1242,
+      "delta": -14,
+      "final": 1228,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO CAVENDISH"
+    },
+    {
+      "played_at": "2015-05-24T16:25:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1232,
+      "delta": 2,
+      "final": 1234,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SEVERINO JÚNIOR"
+    },
+    {
+      "played_at": "2015-05-24T16:04:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1234,
+      "delta": 2,
+      "final": 1236,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "HUGO COSTA"
+    },
+    {
+      "played_at": "2015-05-24T11:36:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1253,
+      "delta": -11,
+      "final": 1242,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CHEN CHUAN"
+    },
+    {
+      "played_at": "2015-05-24T05:09:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1243,
+      "delta": 3,
+      "final": 1246,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNO LIMA"
+    },
+    {
+      "played_at": "2015-05-24T01:09:00",
+      "event": "2ª Etapa Do Campeonato Pernambucano 2015",
+      "initial": 1231,
+      "delta": 1,
+      "final": 1232,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS SANTOS"
+    },
+    {
+      "played_at": "2014-08-23T00:00:00",
+      "event": "3ª Copa Interestadual De Tênis De Mesa De Pernambuco Olímpico",
+      "initial": 1230,
+      "delta": 0,
+      "final": 1230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDERSON SANTOS"
+    },
+    {
+      "played_at": "2014-06-01T00:00:00",
+      "event": "1ª Etapa Do Rating Pernambucano 2014",
+      "initial": 1230,
+      "delta": 2,
+      "final": 1232,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SEVERINO JÚNIOR"
+    },
+    {
+      "played_at": "2014-06-01T00:00:00",
+      "event": "1ª Etapa Do Rating Pernambucano 2014",
+      "initial": 1232,
+      "delta": -2,
+      "final": 1230,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2014-05-24T14:40:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 1260,
+      "delta": -30,
+      "final": 1230,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NORMANDO ALENCAR"
+    },
+    {
+      "played_at": "2014-05-23T18:00:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 1255,
+      "delta": 5,
+      "final": 1260,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DEYDSON COSTA"
+    },
+    {
+      "played_at": "2014-05-23T15:55:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 1175,
+      "delta": 80,
+      "final": 1255,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCUS SILVA"
+    },
+    {
+      "played_at": "2014-05-23T11:20:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 1105,
+      "delta": 70,
+      "final": 1175,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "EDSON SILVA"
+    },
+    {
+      "played_at": "2014-05-22T15:00:00",
+      "event": "45º Campeonato Brasileiro - Individual Ranking E Rating",
+      "initial": 1130,
+      "delta": -25,
+      "final": 1105,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ NETTO"
+    },
+    {
+      "played_at": "2013-09-29T00:00:00",
+      "event": "2ª Copa Interestadual De Tênis De Mesa De Pernambuco",
+      "initial": 1174,
+      "delta": -10,
+      "final": 1164,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2013-09-29T00:00:00",
+      "event": "2ª Copa Interestadual De Tênis De Mesa De Pernambuco",
+      "initial": 1164,
+      "delta": -36,
+      "final": 1128,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍS FARIAS"
+    },
+    {
+      "played_at": "2013-09-29T00:00:00",
+      "event": "2ª Copa Interestadual De Tênis De Mesa De Pernambuco",
+      "initial": 1128,
+      "delta": 2,
+      "final": 1130,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RUBENS REAL"
+    },
+    {
+      "played_at": "2013-09-28T00:00:00",
+      "event": "2ª Copa Interestadual De Tênis De Mesa De Pernambuco",
+      "initial": 1190,
+      "delta": -12,
+      "final": 1178,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2013-09-28T00:00:00",
+      "event": "2ª Copa Interestadual De Tênis De Mesa De Pernambuco",
+      "initial": 1178,
+      "delta": 8,
+      "final": 1186,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2013-09-28T00:00:00",
+      "event": "2ª Copa Interestadual De Tênis De Mesa De Pernambuco",
+      "initial": 1186,
+      "delta": -12,
+      "final": 1174,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2012-07-29T00:00:00",
+      "event": "1º Aberto De Pernambuco - Rating E Ranking",
+      "initial": 1182,
+      "delta": 4,
+      "final": 1186,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉ PALMEIRA"
+    },
+    {
+      "played_at": "2012-07-29T00:00:00",
+      "event": "1º Aberto De Pernambuco - Rating E Ranking",
+      "initial": 1186,
+      "delta": 20,
+      "final": 1206,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2012-07-29T00:00:00",
+      "event": "1º Aberto De Pernambuco - Rating E Ranking",
+      "initial": 1206,
+      "delta": -16,
+      "final": 1190,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2012-07-28T00:00:00",
+      "event": "1º Aberto De Pernambuco - Rating E Ranking",
+      "initial": 1242,
+      "delta": 6,
+      "final": 1248,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KLEITON BORGES"
+    },
+    {
+      "played_at": "2012-07-28T00:00:00",
+      "event": "1º Aberto De Pernambuco - Rating E Ranking",
+      "initial": 1248,
+      "delta": -44,
+      "final": 1204,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO GOMES"
+    },
+    {
+      "played_at": "2012-07-28T00:00:00",
+      "event": "1º Aberto De Pernambuco - Rating E Ranking",
+      "initial": 1204,
+      "delta": -22,
+      "final": 1182,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2012-07-07T10:00:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking E Rating",
+      "initial": 1245,
+      "delta": -3,
+      "final": 1242,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADRIANO SANTOS"
+    },
+    {
+      "played_at": "2012-07-07T09:30:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking E Rating",
+      "initial": 1263,
+      "delta": -18,
+      "final": 1245,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCUS SILVA"
+    },
+    {
+      "played_at": "2012-07-05T10:30:01",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking E Rating",
+      "initial": 1272,
+      "delta": -9,
+      "final": 1263,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DANIEL CARVALHO"
+    },
+    {
+      "played_at": "2012-07-05T09:30:00",
+      "event": "Copa Brasil Centro Norte Nordeste Ii - Maceió - Ranking E Rating",
+      "initial": 1278,
+      "delta": -6,
+      "final": 1272,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDVELTON XAVIER"
+    },
+    {
+      "played_at": "2011-05-15T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1236,
+      "delta": 2,
+      "final": 1238,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CHARLTON ALMEIDA"
+    },
+    {
+      "played_at": "2011-05-15T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1238,
+      "delta": 6,
+      "final": 1244,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SÉRGIO BOMFIM"
+    },
+    {
+      "played_at": "2011-05-15T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1244,
+      "delta": 4,
+      "final": 1248,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2011-05-15T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1248,
+      "delta": 10,
+      "final": 1258,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO NETO"
+    },
+    {
+      "played_at": "2011-05-15T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1258,
+      "delta": 20,
+      "final": 1278,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCUS SILVA"
+    },
+    {
+      "played_at": "2011-05-14T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1142,
+      "delta": 10,
+      "final": 1152,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MURILO SOUZA"
+    },
+    {
+      "played_at": "2011-05-14T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1152,
+      "delta": 10,
+      "final": 1162,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2011-05-14T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1162,
+      "delta": 12,
+      "final": 1174,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JADSON ALMEIDA"
+    },
+    {
+      "played_at": "2011-05-14T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1174,
+      "delta": 24,
+      "final": 1198,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUÍS XAVIER"
+    },
+    {
+      "played_at": "2011-05-14T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1198,
+      "delta": 18,
+      "final": 1216,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCUS NASCIMENTO"
+    },
+    {
+      "played_at": "2011-05-14T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Ranking E Rating",
+      "initial": 1216,
+      "delta": 20,
+      "final": 1236,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2011-05-13T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Equipe Clubes",
+      "initial": 1118,
+      "delta": 18,
+      "final": 1136,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2011-05-13T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Equipe Clubes",
+      "initial": 1136,
+      "delta": -22,
+      "final": 1114,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LINDIMAK OLIVEIRA"
+    },
+    {
+      "played_at": "2011-05-13T00:00:00",
+      "event": "Eventos - Viii Aberto De Maceió 2011 - Equipe Clubes",
+      "initial": 1114,
+      "delta": 28,
+      "final": 1142,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2010-11-21T00:00:00",
+      "event": "Iii Aberto De Caruaru De Tênis De Mesa - 2010",
+      "initial": 1137,
+      "delta": 2,
+      "final": 1139,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2010-11-21T00:00:00",
+      "event": "Iii Aberto De Caruaru De Tênis De Mesa - 2010",
+      "initial": 1139,
+      "delta": -10,
+      "final": 1129,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2010-11-21T00:00:00",
+      "event": "Iii Aberto De Caruaru De Tênis De Mesa - 2010",
+      "initial": 1129,
+      "delta": -10,
+      "final": 1119,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2010-11-21T00:00:00",
+      "event": "Iii Aberto De Caruaru De Tênis De Mesa - 2010",
+      "initial": 1119,
+      "delta": 5,
+      "final": 1124,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPPE CARVALHO"
+    },
+    {
+      "played_at": "2010-11-21T00:00:00",
+      "event": "Iii Aberto De Caruaru De Tênis De Mesa - 2010",
+      "initial": 1124,
+      "delta": -6,
+      "final": 1118,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAC WANDERLEY"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1114,
+      "delta": 1,
+      "final": 1115,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "SÉRGIO PIRES"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1115,
+      "delta": 1,
+      "final": 1116,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "SANDRO SENA"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1116,
+      "delta": 7,
+      "final": 1123,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LINDIMAK OLIVEIRA"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1123,
+      "delta": 0,
+      "final": 1123,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ADRIANO SANTOS"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1123,
+      "delta": 6,
+      "final": 1129,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS DREZZA"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1129,
+      "delta": 2,
+      "final": 1131,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALLAN MOREIRA"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1131,
+      "delta": 16,
+      "final": 1147,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FRANCISCO GUEDES"
+    },
+    {
+      "played_at": "2010-08-07T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Recife - Individual",
+      "initial": 1147,
+      "delta": -10,
+      "final": 1137,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "GUSTAVO LOPES"
+    },
+    {
+      "played_at": "2010-08-06T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Club Recife - Equipes",
+      "initial": 1136,
+      "delta": -18,
+      "final": 1118,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2010-08-06T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Club Recife - Equipes",
+      "initial": 1118,
+      "delta": 6,
+      "final": 1124,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCISCO FILHO"
+    },
+    {
+      "played_at": "2010-08-06T00:00:00",
+      "event": "I Aberto De Tênis De Mesa Do Sport Club Recife - Equipes",
+      "initial": 1124,
+      "delta": -10,
+      "final": 1114,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHEN CHUAN"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1054,
+      "delta": 10,
+      "final": 1064,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS BASTOS"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1064,
+      "delta": 8,
+      "final": 1072,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CÉSAR VALLENTE"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1072,
+      "delta": 10,
+      "final": 1082,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUIZ GALVÃO"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1082,
+      "delta": 28,
+      "final": 1110,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LEONARDO TASATO"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1110,
+      "delta": -18,
+      "final": 1092,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1092,
+      "delta": 6,
+      "final": 1098,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NELMONT LOBO"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1098,
+      "delta": 6,
+      "final": 1104,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO LIMA"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1104,
+      "delta": 8,
+      "final": 1112,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCOS MONTEIRO"
+    },
+    {
+      "played_at": "2009-10-31T00:00:00",
+      "event": "I ABERTO JARAGUÁ DE TÊNIS DE MESA - ALAGOAS",
+      "initial": 1112,
+      "delta": 24,
+      "final": 1136,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 986,
+      "delta": 3,
+      "final": 989,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CLEIDISON LIMAxxx"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 989,
+      "delta": 2,
+      "final": 991,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALLAN MOREIRA"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 991,
+      "delta": 6,
+      "final": 997,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDERSON VASCONCELOS"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 997,
+      "delta": 6,
+      "final": 1003,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LINDIMAK OLIVEIRA"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 1003,
+      "delta": 12,
+      "final": 1015,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDNALDO SOUZA"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 1015,
+      "delta": 3,
+      "final": 1018,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO LIMA"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 1018,
+      "delta": 4,
+      "final": 1022,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FELIPPE CARVALHO"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 1022,
+      "delta": 14,
+      "final": 1036,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2009-10-20T00:00:00",
+      "event": "EVENTOS - II ABERTO DE CARUARU DE TÊNIS DE MESA - 2009",
+      "initial": 1036,
+      "delta": 18,
+      "final": 1054,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CARLOS NETO"
+    },
+    {
+      "played_at": "2009-08-08T20:00:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2009",
+      "initial": 1083,
+      "delta": -44,
+      "final": 1039,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE GUEDES"
+    },
+    {
+      "played_at": "2009-08-08T18:00:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2009",
+      "initial": 1089,
+      "delta": -6,
+      "final": 1083,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NELSON KUSUOKA"
+    },
+    {
+      "played_at": "2009-08-08T15:00:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2009",
+      "initial": 1133,
+      "delta": -44,
+      "final": 1089,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO TRINCA"
+    },
+    {
+      "played_at": "2009-08-07T14:00:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2009",
+      "initial": 1097,
+      "delta": -4,
+      "final": 1093,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MILTON CARDOSO"
+    },
+    {
+      "played_at": "2009-08-07T12:30:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2009",
+      "initial": 1097,
+      "delta": 0,
+      "final": 1097,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO GROSSKLAUS"
+    },
+    {
+      "played_at": "2009-08-07T10:00:00",
+      "event": "COPA BRASIL SÃO BERNARDO 2009",
+      "initial": 1101,
+      "delta": -4,
+      "final": 1097,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULIO JUNIOR"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1122,
+      "delta": 10,
+      "final": 1132,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS MACIEL"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1132,
+      "delta": 8,
+      "final": 1140,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCOS MONTEIRO"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1140,
+      "delta": 10,
+      "final": 1150,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCELO FREIRExxx"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1150,
+      "delta": -14,
+      "final": 1136,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAC WANDERLEY"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1136,
+      "delta": -8,
+      "final": 1128,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2009-05-24T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1128,
+      "delta": 28,
+      "final": 1156,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ADSON NOBRE"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1158,
+      "delta": 2,
+      "final": 1160,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO REIS"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1160,
+      "delta": 4,
+      "final": 1164,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1164,
+      "delta": 10,
+      "final": 1174,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CAIO SOUZA"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1174,
+      "delta": 10,
+      "final": 1184,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO FREIRExxx"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1184,
+      "delta": -16,
+      "final": 1168,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS NETO"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1168,
+      "delta": -40,
+      "final": 1128,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO LIMA"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1128,
+      "delta": 6,
+      "final": 1134,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS NASCIMENTO"
+    },
+    {
+      "played_at": "2009-05-22T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - RANKING E RATING",
+      "initial": 1134,
+      "delta": -12,
+      "final": 1122,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CARLOS NETO"
+    },
+    {
+      "played_at": "2009-04-04T15:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE I - RANKING/RATING - NATAL",
+      "initial": 1168,
+      "delta": -10,
+      "final": 1158,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TIAGO GOESxxx"
+    },
+    {
+      "played_at": "2009-04-04T14:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE I - RANKING/RATING - NATAL",
+      "initial": 1172,
+      "delta": -4,
+      "final": 1168,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS SOUZA"
+    },
+    {
+      "played_at": "2009-04-03T18:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE I - RANKING/RATING - NATAL",
+      "initial": 1186,
+      "delta": -14,
+      "final": 1172,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SÉRGIO RODRIGUES"
+    },
+    {
+      "played_at": "2009-04-03T10:30:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE I - RANKING/RATING - NATAL",
+      "initial": 1194,
+      "delta": -8,
+      "final": 1186,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS PAULINO"
+    },
+    {
+      "played_at": "2009-04-03T09:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE I - RANKING/RATING - NATAL",
+      "initial": 1176,
+      "delta": 18,
+      "final": 1194,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MAC WANDERLEY"
+    },
+    {
+      "played_at": "2008-12-20T22:35:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 1196,
+      "delta": -20,
+      "final": 1176,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCISCO GUEDES"
+    },
+    {
+      "played_at": "2008-12-20T16:45:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 1216,
+      "delta": -20,
+      "final": 1196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MILTON CARDOSO"
+    },
+    {
+      "played_at": "2008-12-20T15:05:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 1210,
+      "delta": 72,
+      "final": 1282,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "OMAR BARBOSA"
+    },
+    {
+      "played_at": "2008-12-19T13:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 1258,
+      "delta": -4,
+      "final": 1254,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JIRO KUMAGAI"
+    },
+    {
+      "played_at": "2008-12-19T10:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 1258,
+      "delta": 0,
+      "final": 1258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO FILHO"
+    },
+    {
+      "played_at": "2008-12-19T08:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - INDIVIDUAL - FORTALEZA",
+      "initial": 1258,
+      "delta": 0,
+      "final": 1258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAZUO MATSUMOTO"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE CLUBES - 2008 - FORTALEZA",
+      "initial": 1200,
+      "delta": 4,
+      "final": 1204,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JONATHAN OLIVEIRA"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE CLUBES - 2008 - FORTALEZA",
+      "initial": 1204,
+      "delta": 40,
+      "final": 1244,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - EQUIPES",
+      "initial": 1244,
+      "delta": 8,
+      "final": 1252,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LUCAS MACIEL"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - EQUIPES",
+      "initial": 1252,
+      "delta": 2,
+      "final": 1254,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCOS MONTEIRO"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "VI ABERTO DE MACEIÓ DE TÊNIS DE MESA - EQUIPES",
+      "initial": 1254,
+      "delta": 4,
+      "final": 1258,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARCELO FREIRExxx"
+    },
+    {
+      "played_at": "2008-12-18T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE CLUBES - 2008 - FORTALEZA",
+      "initial": 1258,
+      "delta": 0,
+      "final": 1258,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO COSTA"
+    },
+    {
+      "played_at": "2008-12-17T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2008 - SELEÇÕES ESTADUAIS - FORTALEZA",
+      "initial": 1200,
+      "delta": 0,
+      "final": 1200,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILO TOMA"
+    },
+    {
+      "played_at": "2008-10-12T10:30:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1216,
+      "delta": -16,
+      "final": 1200,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAC WANDERLEY"
+    },
+    {
+      "played_at": "2008-10-12T09:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1188,
+      "delta": 28,
+      "final": 1216,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALEXANDRE MONTEIRO"
+    },
+    {
+      "played_at": "2008-10-11T18:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1206,
+      "delta": -18,
+      "final": 1188,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MAC WANDERLEY"
+    },
+    {
+      "played_at": "2008-10-11T16:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1200,
+      "delta": 6,
+      "final": 1206,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2008-10-11T14:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1192,
+      "delta": 8,
+      "final": 1200,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "WEI PAULO"
+    },
+    {
+      "played_at": "2008-10-10T14:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1160,
+      "delta": 32,
+      "final": 1192,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ALEXANDRE MONTEIRO"
+    },
+    {
+      "played_at": "2008-10-10T11:30:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1176,
+      "delta": -16,
+      "final": 1160,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MAC WANDERLEY"
+    },
+    {
+      "played_at": "2008-10-10T10:00:00",
+      "event": "COPA BRASIL CENTRO-NORTE-NORDESTE II - JOÃO PESSOA 2008",
+      "initial": 1194,
+      "delta": -18,
+      "final": 1176,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FRANCISCO GUEDES"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1209,
+      "delta": 2,
+      "final": 1211,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FELIPPE CARVALHO"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1211,
+      "delta": 3,
+      "final": 1214,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "WEI PAULO"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1214,
+      "delta": 2,
+      "final": 1216,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LEONARDO LIMA"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1216,
+      "delta": -10,
+      "final": 1206,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS NETO"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1206,
+      "delta": 3,
+      "final": 1209,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AYDANO FERRAZ"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1209,
+      "delta": 3,
+      "final": 1212,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MAURICIO FILHO"
+    },
+    {
+      "played_at": "2008-03-28T00:00:00",
+      "event": "ABERTO DE CARUARU DE TENIS DE MESA",
+      "initial": 1212,
+      "delta": -18,
+      "final": 1194,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2008-01-12T00:00:00",
+      "event": "SELETIVA ADULTA - MUNDIAL CHINA 2008",
+      "initial": 1213,
+      "delta": 0,
+      "final": 1213,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAZUO MATSUMOTO"
+    },
+    {
+      "played_at": "2008-01-12T00:00:00",
+      "event": "SELETIVA ADULTA - MUNDIAL CHINA 2008",
+      "initial": 1213,
+      "delta": -2,
+      "final": 1211,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMERSON MAEDA"
+    },
+    {
+      "played_at": "2008-01-12T00:00:00",
+      "event": "SELETIVA ADULTA - MUNDIAL CHINA 2008",
+      "initial": 1211,
+      "delta": -2,
+      "final": 1209,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMERSON MAEDA"
+    },
+    {
+      "played_at": "2008-01-12T00:00:00",
+      "event": "SELETIVA ADULTA - MUNDIAL CHINA 2008",
+      "initial": 1209,
+      "delta": 0,
+      "final": 1209,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISRAEL BARRETO"
+    },
+    {
+      "played_at": "2007-12-15T08:25:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 1221,
+      "delta": -8,
+      "final": 1213,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROBERTO FILHO"
+    },
+    {
+      "played_at": "2007-12-14T17:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 1185,
+      "delta": 36,
+      "final": 1221,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "TIAGO GOESxxx"
+    },
+    {
+      "played_at": "2007-12-14T15:50:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 1185,
+      "delta": 0,
+      "final": 1185,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO COSTA"
+    },
+    {
+      "played_at": "2007-12-13T15:30:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 1197,
+      "delta": -12,
+      "final": 1185,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO ROCHA"
+    },
+    {
+      "played_at": "2007-12-13T08:50:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - RANKING E RATING",
+      "initial": 1241,
+      "delta": -44,
+      "final": 1197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MANOEL BISSACO"
+    },
+    {
+      "played_at": "2007-12-12T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES SELEÇÕES ESTADUAIS",
+      "initial": 1289,
+      "delta": -48,
+      "final": 1241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERTO JÚNIOR"
+    },
+    {
+      "played_at": "2007-12-11T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES DE CLUBES",
+      "initial": 1317,
+      "delta": 8,
+      "final": 1325,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDJAILSON LIMA"
+    },
+    {
+      "played_at": "2007-12-11T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES DE CLUBES",
+      "initial": 1325,
+      "delta": 8,
+      "final": 1333,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KEVIN DAMASCENO"
+    },
+    {
+      "played_at": "2007-12-11T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO 2007 - EQUIPES DE CLUBES",
+      "initial": 1333,
+      "delta": -44,
+      "final": 1289,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HELIO CORREA"
+    },
+    {
+      "played_at": "2007-10-21T10:55:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1327,
+      "delta": -10,
+      "final": 1317,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RIVALINO JÚNIOR"
+    },
+    {
+      "played_at": "2007-10-21T09:15:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1315,
+      "delta": 12,
+      "final": 1327,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "TIAGO GOESxxx"
+    },
+    {
+      "played_at": "2007-10-20T16:05:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1307,
+      "delta": 8,
+      "final": 1315,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDERSON VASCONCELOS"
+    },
+    {
+      "played_at": "2007-10-20T14:25:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1267,
+      "delta": 40,
+      "final": 1307,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FÁBIO SILVA"
+    },
+    {
+      "played_at": "2007-10-19T13:50:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1227,
+      "delta": 40,
+      "final": 1267,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FÁBIO SILVA"
+    },
+    {
+      "played_at": "2007-10-19T10:30:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1199,
+      "delta": 28,
+      "final": 1227,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "EDSON JÚNIOR"
+    },
+    {
+      "played_at": "2007-10-19T08:50:00",
+      "event": "COPA BRASIL FORTALEZA 2007",
+      "initial": 1205,
+      "delta": -6,
+      "final": 1199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RIVALINO JÚNIOR"
+    },
+    {
+      "played_at": "2007-08-26T14:00:00",
+      "event": "COPA BRASIL RECIFE - 2007",
+      "initial": 1229,
+      "delta": -24,
+      "final": 1205,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "TIAGO GOESxxx"
+    },
+    {
+      "played_at": "2007-08-25T17:20:00",
+      "event": "COPA BRASIL RECIFE - 2007",
+      "initial": 1221,
+      "delta": 8,
+      "final": 1229,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAFAEL PIMENTEL"
+    },
+    {
+      "played_at": "2007-08-25T14:00:00",
+      "event": "COPA BRASIL RECIFE - 2007",
+      "initial": 1215,
+      "delta": 6,
+      "final": 1221,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FRANCISCO SANTOS"
+    },
+    {
+      "played_at": "2007-08-24T16:45:00",
+      "event": "COPA BRASIL RECIFE - 2007",
+      "initial": 1229,
+      "delta": -14,
+      "final": 1215,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ADSON NOBRE"
+    },
+    {
+      "played_at": "2007-08-24T13:25:00",
+      "event": "COPA BRASIL RECIFE - 2007",
+      "initial": 1201,
+      "delta": 28,
+      "final": 1229,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2007-08-24T10:05:00",
+      "event": "COPA BRASIL RECIFE - 2007",
+      "initial": 1221,
+      "delta": -20,
+      "final": 1201,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RODRIGO VALE"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1195,
+      "delta": 2,
+      "final": 1197,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FÁBIO LIMA"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1197,
+      "delta": 4,
+      "final": 1201,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ERNANI SOUSA"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1201,
+      "delta": 4,
+      "final": 1205,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KENISSON MARTINS"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1205,
+      "delta": 6,
+      "final": 1211,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DOUGLAS BASTOS"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1211,
+      "delta": 10,
+      "final": 1221,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉ SOUZA"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1221,
+      "delta": 8,
+      "final": 1229,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉ SOUZA"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1229,
+      "delta": 6,
+      "final": 1235,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AYDANO FERRAZ"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1235,
+      "delta": 4,
+      "final": 1239,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EDJAILSON LIMA"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1239,
+      "delta": -32,
+      "final": 1207,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARCELO MACHADO"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1207,
+      "delta": 10,
+      "final": 1217,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FERNANDO SIMÕES"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1217,
+      "delta": 32,
+      "final": 1249,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DOMINGOS SILVA"
+    },
+    {
+      "played_at": "2007-07-07T00:00:00",
+      "event": "IV ABERTO DE MACEIÓ - 2007",
+      "initial": 1249,
+      "delta": -28,
+      "final": 1221,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS SILVA"
+    },
+    {
+      "played_at": "2007-04-14T08:50:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 1207,
+      "delta": -12,
+      "final": 1195,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MANOEL BISSACO"
+    },
+    {
+      "played_at": "2007-04-13T17:45:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 1207,
+      "delta": 0,
+      "final": 1207,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DIOGO KOSAKA"
+    },
+    {
+      "played_at": "2007-04-12T13:50:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 1215,
+      "delta": -8,
+      "final": 1207,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAFAEL BIZETTO"
+    },
+    {
+      "played_at": "2007-04-12T09:15:00",
+      "event": "COPA BRASIL BELO HORIZONTE - 2007",
+      "initial": 1221,
+      "delta": -6,
+      "final": 1215,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YURI BAVARESCO"
+    },
+    {
+      "played_at": "2006-12-16T19:10:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 1227,
+      "delta": -6,
+      "final": 1221,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JIRO KUMAGAI"
+    },
+    {
+      "played_at": "2006-12-16T15:50:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 1237,
+      "delta": -10,
+      "final": 1227,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RENAN WIEST"
+    },
+    {
+      "played_at": "2006-12-16T10:35:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 1243,
+      "delta": -6,
+      "final": 1237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE MORITA"
+    },
+    {
+      "played_at": "2006-12-15T16:40:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 1243,
+      "delta": 0,
+      "final": 1243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MÁRIO COSTA"
+    },
+    {
+      "played_at": "2006-12-15T13:20:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 1221,
+      "delta": 22,
+      "final": 1243,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RENATO SIQUEIRA"
+    },
+    {
+      "played_at": "2006-12-15T10:40:00",
+      "event": "CAMPEONATO BRASILEIRO INDIVIDUAL 2006",
+      "initial": 1221,
+      "delta": 0,
+      "final": 1221,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNO ANJOS"
+    },
+    {
+      "played_at": "2006-12-10T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE EQUIPES DE SELEÇÕES ESTADUAIS 2006",
+      "initial": 1163,
+      "delta": 4,
+      "final": 1167,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS FILHO"
+    },
+    {
+      "played_at": "2006-12-10T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE EQUIPES DE SELEÇÕES ESTADUAIS 2006",
+      "initial": 1167,
+      "delta": -6,
+      "final": 1161,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MATEUS TEIXEIRA"
+    },
+    {
+      "played_at": "2006-12-10T00:00:00",
+      "event": "CAMPEONATO BRASILEIRO DE EQUIPES DE SELEÇÕES ESTADUAIS 2006",
+      "initial": 1161,
+      "delta": 60,
+      "final": 1221,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRE CAVALCANTE"
+    },
+    {
+      "played_at": "2006-09-24T14:30:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1147,
+      "delta": 16,
+      "final": 1163,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FRANCISCO GUEDES"
+    },
+    {
+      "played_at": "2006-09-24T12:00:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1141,
+      "delta": 6,
+      "final": 1147,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERNILDO SILVA"
+    },
+    {
+      "played_at": "2006-09-24T10:00:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1121,
+      "delta": 20,
+      "final": 1141,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "FRANCISCO GUEDES"
+    },
+    {
+      "played_at": "2006-09-23T16:00:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1101,
+      "delta": 20,
+      "final": 1121,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO NEVES"
+    },
+    {
+      "played_at": "2006-09-23T09:30:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1087,
+      "delta": 14,
+      "final": 1101,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GEIME CALDAS"
+    },
+    {
+      "played_at": "2006-09-23T08:00:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1077,
+      "delta": 10,
+      "final": 1087,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDRE DOWSLEY"
+    },
+    {
+      "played_at": "2006-09-22T16:30:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1061,
+      "delta": 16,
+      "final": 1077,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GEIME CALDAS"
+    },
+    {
+      "played_at": "2006-09-22T14:00:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1051,
+      "delta": 10,
+      "final": 1061,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDERSON VASCONCELOS"
+    },
+    {
+      "played_at": "2006-09-22T10:00:00",
+      "event": "COPA BRASIL JOÃO PESSOA II 2006",
+      "initial": 1037,
+      "delta": 14,
+      "final": 1051,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCELO ALVES"
+    },
+    {
+      "played_at": "2006-04-02T10:30:00",
+      "event": "COPA BRASIL JOAO PESSOA 2006",
+      "initial": 1039,
+      "delta": -2,
+      "final": 1037,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NEDER NEVES"
+    },
+    {
+      "played_at": "2006-04-01T18:15:00",
+      "event": "COPA BRASIL JOAO PESSOA 2006",
+      "initial": 1023,
+      "delta": 16,
+      "final": 1039,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NIELSON SOUSA"
+    },
+    {
+      "played_at": "2006-04-01T15:45:00",
+      "event": "COPA BRASIL JOAO PESSOA 2006",
+      "initial": 1023,
+      "delta": -4,
+      "final": 1019,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS SOUZA"
+    },
+    {
+      "played_at": "2006-04-01T09:00:00",
+      "event": "COPA BRASIL JOAO PESSOA 2006",
+      "initial": 1053,
+      "delta": -28,
+      "final": 1025,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL TAVEIRA"
+    },
+    {
+      "played_at": "2006-03-31T13:15:00",
+      "event": "COPA BRASIL JOAO PESSOA 2006",
+      "initial": 1083,
+      "delta": 14,
+      "final": 1097,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCELO ALVES"
+    },
+    {
+      "played_at": "2006-03-31T10:40:00",
+      "event": "COPA BRASIL JOAO PESSOA 2006",
+      "initial": 1107,
+      "delta": -36,
+      "final": 1071,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ NETTO"
+    },
+    {
+      "played_at": "2005-10-14T00:00:00",
+      "event": "COPA UNICAP 2005",
+      "initial": 1323,
+      "delta": 2,
+      "final": 1325,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RUBENS YANG"
+    },
+    {
+      "played_at": "2005-10-14T00:00:00",
+      "event": "COPA UNICAP 2005",
+      "initial": 1325,
+      "delta": 2,
+      "final": 1327,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS NASCIMENTO"
+    },
+    {
+      "played_at": "2005-10-14T00:00:00",
+      "event": "COPA UNICAP 2005",
+      "initial": 1327,
+      "delta": -22,
+      "final": 1305,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS SOUZA"
+    },
+    {
+      "played_at": "2005-08-07T11:00:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1331,
+      "delta": -8,
+      "final": 1323,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2005-08-07T09:00:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1349,
+      "delta": -18,
+      "final": 1331,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUCAS SOUZA"
+    },
+    {
+      "played_at": "2005-08-06T13:15:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1359,
+      "delta": -10,
+      "final": 1349,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PAULO MOLITOR"
+    },
+    {
+      "played_at": "2005-08-06T12:25:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1355,
+      "delta": 4,
+      "final": 1359,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRE DOWSLEY"
+    },
+    {
+      "played_at": "2005-08-06T11:20:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1349,
+      "delta": 6,
+      "final": 1355,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RAFAEL TAVEIRA"
+    },
+    {
+      "played_at": "2005-08-06T09:20:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1347,
+      "delta": 2,
+      "final": 1349,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRE BELEZA"
+    },
+    {
+      "played_at": "2005-08-05T17:20:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1345,
+      "delta": 2,
+      "final": 1347,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CARLOS FILHO"
+    },
+    {
+      "played_at": "2005-08-05T15:00:00",
+      "event": "COPA BRASIL FORTALEZA 2005",
+      "initial": 1343,
+      "delta": 2,
+      "final": 1345,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOSE SOUZA"
+    },
+    {
+      "played_at": "2005-05-22T10:05:00",
+      "event": "COPA BRASIL SALVADOR 2005",
+      "initial": 1353,
+      "delta": -10,
+      "final": 1343,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUCIANO MOREIRAxxx"
+    },
+    {
+      "played_at": "2005-05-21T09:40:00",
+      "event": "COPA BRASIL SALVADOR 2005",
+      "initial": 1365,
+      "delta": -12,
+      "final": 1353,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO MOLITOR ............."
+    }
+  ]
+}

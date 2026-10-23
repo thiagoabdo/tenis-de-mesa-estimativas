@@ -1,0 +1,67 @@
+{
+  "associate_id": 94056,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94056&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-01T17:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 349,
+      "delta": -30,
+      "final": 319,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SAULO PIRES"
+    },
+    {
+      "played_at": "2026-08-01T14:20:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 319,
+      "delta": 30,
+      "final": 349,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO TOYAMA"
+    },
+    {
+      "played_at": "2026-08-01T12:15:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 301,
+      "delta": 18,
+      "final": 319,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "DARCINEI PINTO"
+    },
+    {
+      "played_at": "2026-08-01T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 277,
+      "delta": 24,
+      "final": 301,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LINCON GROSSE"
+    },
+    {
+      "played_at": "2026-08-01T09:45:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 250,
+      "delta": 27,
+      "final": 277,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ARIZIO JUNIOR ............."
+    }
+  ]
+}

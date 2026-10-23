@@ -1,0 +1,43 @@
+{
+  "associate_id": 93153,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93153&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-06T10:30:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 253,
+      "delta": -27,
+      "final": 226,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELIPE FONSECA"
+    },
+    {
+      "played_at": "2026-06-06T09:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 217,
+      "delta": 36,
+      "final": 253,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAFAEL LONGHI"
+    },
+    {
+      "played_at": "2026-06-06T08:00:00",
+      "event": "TMB ESTADUAL 2ª ETAPA MARANHENSE 2026",
+      "initial": 250,
+      "delta": -33,
+      "final": 217,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CALEB HOSSOE ............."
+    }
+  ]
+}

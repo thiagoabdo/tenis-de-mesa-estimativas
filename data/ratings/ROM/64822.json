@@ -1,0 +1,967 @@
+{
+  "associate_id": 64822,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=64822&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-22T18:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 1016,
+      "delta": -48,
+      "final": 968,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "AMANDA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-22T17:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 1007,
+      "delta": 9,
+      "final": 1016,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-22T15:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 986,
+      "delta": 21,
+      "final": 1007,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ROSANA HAYASHI"
+    },
+    {
+      "played_at": "2026-08-22T14:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Guaira/PR - 2026",
+      "initial": 962,
+      "delta": 24,
+      "final": 986,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIANA MILLÉO"
+    },
+    {
+      "played_at": "2026-08-01T20:10:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 929,
+      "delta": 33,
+      "final": 962,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LETÍCIA DOMINGUES"
+    },
+    {
+      "played_at": "2026-08-01T19:20:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 911,
+      "delta": 18,
+      "final": 929,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AMANDA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-08-01T15:10:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 896,
+      "delta": 15,
+      "final": 911,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LETÍCIA NOGUTI"
+    },
+    {
+      "played_at": "2026-08-01T13:55:00",
+      "event": "TMB Estadual - 4ª Etapa - São José dos Pinhais/PR - 2026",
+      "initial": 872,
+      "delta": 24,
+      "final": 896,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JULIA COITO"
+    },
+    {
+      "played_at": "2026-06-28T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 872,
+      "delta": 0,
+      "final": 872,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PRISCILA RALICKAS"
+    },
+    {
+      "played_at": "2026-06-28T11:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 848,
+      "delta": 24,
+      "final": 872,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RUTH ZAMA"
+    },
+    {
+      "played_at": "2026-06-28T10:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 758,
+      "delta": 90,
+      "final": 848,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2026-06-28T09:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 758,
+      "delta": 0,
+      "final": 758,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2026-05-10T11:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 758,
+      "delta": 0,
+      "final": 758,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PRISCILA RALICKAS"
+    },
+    {
+      "played_at": "2026-05-10T10:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 758,
+      "delta": 0,
+      "final": 758,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2026-05-10T08:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 758,
+      "delta": 0,
+      "final": 758,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2026-04-19T13:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 758,
+      "delta": 0,
+      "final": 758,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PRISCILA RALICKAS"
+    },
+    {
+      "played_at": "2026-04-19T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 731,
+      "delta": 27,
+      "final": 758,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GIOVANNA KUBO"
+    },
+    {
+      "played_at": "2026-04-19T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 731,
+      "delta": 0,
+      "final": 731,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2026-04-12T13:00:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 742,
+      "delta": -11,
+      "final": 731,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIOVANNA KUBO"
+    },
+    {
+      "played_at": "2026-04-12T12:00:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 739,
+      "delta": 3,
+      "final": 742,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FERNANDA MEDOLA"
+    },
+    {
+      "played_at": "2026-04-12T11:00:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 732,
+      "delta": 7,
+      "final": 739,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATALIA ARAKAKI"
+    },
+    {
+      "played_at": "2026-04-12T09:40:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 729,
+      "delta": 3,
+      "final": 732,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BEATRIZ SANTOS"
+    },
+    {
+      "played_at": "2026-04-12T08:40:00",
+      "event": "II ETAPA - LIGA OESTE PAULISTA (LOP) - Assis - SP - (fim das inscrições 06/04/2026)",
+      "initial": 726,
+      "delta": 3,
+      "final": 729,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CAMILA OUTIDA"
+    },
+    {
+      "played_at": "2026-03-08T13:15:00",
+      "event": "I ETAPA - LIGA OESTE PAULISTA (LOP) - Marília - SP - (08/03/2026)",
+      "initial": 740,
+      "delta": -14,
+      "final": 726,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NATALIA ARAKAKI"
+    },
+    {
+      "played_at": "2026-03-08T11:45:00",
+      "event": "I ETAPA - LIGA OESTE PAULISTA (LOP) - Marília - SP - (08/03/2026)",
+      "initial": 737,
+      "delta": 3,
+      "final": 740,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANGELA MARQUES"
+    },
+    {
+      "played_at": "2026-03-08T10:15:00",
+      "event": "I ETAPA - LIGA OESTE PAULISTA (LOP) - Marília - SP - (08/03/2026)",
+      "initial": 734,
+      "delta": 3,
+      "final": 737,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THAIS RASTELLI"
+    },
+    {
+      "played_at": "2026-03-08T08:45:00",
+      "event": "I ETAPA - LIGA OESTE PAULISTA (LOP) - Marília - SP - (08/03/2026)",
+      "initial": 731,
+      "delta": 3,
+      "final": 734,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PRISCILA IMAMURA"
+    },
+    {
+      "played_at": "2025-11-08T15:20:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VIII - PRESIDENTE PRUDENTE-SP",
+      "initial": 745,
+      "delta": -14,
+      "final": 731,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NATALIA ARAKAKI"
+    },
+    {
+      "played_at": "2025-11-08T14:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VIII - PRESIDENTE PRUDENTE-SP",
+      "initial": 742,
+      "delta": 3,
+      "final": 745,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAROLINE UEDA"
+    },
+    {
+      "played_at": "2025-11-08T12:40:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VIII - PRESIDENTE PRUDENTE-SP",
+      "initial": 736,
+      "delta": 6,
+      "final": 742,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "NATALIA ARAKAKI"
+    },
+    {
+      "played_at": "2025-11-08T11:00:00",
+      "event": "LIGA OESTE PAULISTA 2025 - Etapa VIII - PRESIDENTE PRUDENTE-SP",
+      "initial": 734,
+      "delta": 2,
+      "final": 736,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JANY YASSUDA"
+    },
+    {
+      "played_at": "2025-09-13T12:15:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 740,
+      "delta": -6,
+      "final": 734,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SOFIA MICHALICHEM"
+    },
+    {
+      "played_at": "2025-09-13T10:35:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 760,
+      "delta": -20,
+      "final": 740,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANA MARQUES"
+    },
+    {
+      "played_at": "2025-09-13T08:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Curitiba - Thalia /PR - 2025",
+      "initial": 744,
+      "delta": 16,
+      "final": 760,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LETÍCIA NOGUTI"
+    },
+    {
+      "played_at": "2025-08-16T16:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 744,
+      "delta": 0,
+      "final": 744,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2025-08-16T14:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 744,
+      "delta": 0,
+      "final": 744,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2025-08-16T11:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 744,
+      "delta": 0,
+      "final": 744,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PRISCILA RALICKAS"
+    },
+    {
+      "played_at": "2025-08-16T08:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Guaira/PR - 2025",
+      "initial": 716,
+      "delta": 28,
+      "final": 744,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "RUTH ZAMA"
+    },
+    {
+      "played_at": "2025-07-05T15:35:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 716,
+      "delta": 0,
+      "final": 716,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KESYA VIDAL"
+    },
+    {
+      "played_at": "2025-07-05T12:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 716,
+      "delta": 0,
+      "final": 716,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2025-06-15T16:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 716,
+      "delta": 0,
+      "final": 716,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ISABELLY RIOS"
+    },
+    {
+      "played_at": "2025-06-15T14:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 626,
+      "delta": 90,
+      "final": 716,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LETÍCIA JÚLIO"
+    },
+    {
+      "played_at": "2025-06-15T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 636,
+      "delta": -10,
+      "final": 626,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LAVINIA COSTA"
+    },
+    {
+      "played_at": "2025-06-15T09:45:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 506,
+      "delta": 130,
+      "final": 636,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELA NABHAN"
+    },
+    {
+      "played_at": "2025-06-14T14:20:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 506,
+      "delta": 0,
+      "final": 506,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALINE MENESES"
+    },
+    {
+      "played_at": "2025-06-14T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 506,
+      "delta": 0,
+      "final": 506,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIANA SANTOS"
+    },
+    {
+      "played_at": "2025-06-14T11:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 506,
+      "delta": 0,
+      "final": 506,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATA TSUKADA"
+    },
+    {
+      "played_at": "2025-06-13T11:25:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 526,
+      "delta": -20,
+      "final": 506,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALINE LIMA"
+    },
+    {
+      "played_at": "2025-06-13T10:10:00",
+      "event": "Copa Brasil de Tênis de Mesa - Toledo - PR - 2025",
+      "initial": 581,
+      "delta": -55,
+      "final": 526,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LETÍCIA NOGUTI"
+    },
+    {
+      "played_at": "2025-04-26T17:40:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 589,
+      "delta": -8,
+      "final": 581,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LETÍCIA JÚLIO"
+    },
+    {
+      "played_at": "2025-04-26T15:10:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 595,
+      "delta": -6,
+      "final": 589,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EMANUELLI ROCHA"
+    },
+    {
+      "played_at": "2025-04-26T13:55:00",
+      "event": "Estadual - 1ª Etapa - Londrina/PR - 2025",
+      "initial": 549,
+      "delta": 46,
+      "final": 595,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RUTH ZAMA"
+    },
+    {
+      "played_at": "2025-03-16T19:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 619,
+      "delta": -70,
+      "final": 549,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LIVIA DUTKO"
+    },
+    {
+      "played_at": "2025-03-16T18:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 594,
+      "delta": 25,
+      "final": 619,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANIELA CHAIM"
+    },
+    {
+      "played_at": "2025-03-16T17:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 574,
+      "delta": 20,
+      "final": 594,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CAROLIN BERTHOLDI"
+    },
+    {
+      "played_at": "2025-03-16T14:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 554,
+      "delta": 20,
+      "final": 574,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALINE CORDOBA"
+    },
+    {
+      "played_at": "2025-03-15T18:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 554,
+      "delta": 0,
+      "final": 554,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BRUNA CRUZ"
+    },
+    {
+      "played_at": "2025-03-15T13:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 554,
+      "delta": 0,
+      "final": 554,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATA TSUKADA"
+    },
+    {
+      "played_at": "2025-03-15T10:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 519,
+      "delta": 35,
+      "final": 554,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANA SOKEN"
+    },
+    {
+      "played_at": "2025-03-15T08:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 519,
+      "delta": 0,
+      "final": 519,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIANA SANTOS"
+    },
+    {
+      "played_at": "2025-03-14T18:30:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 479,
+      "delta": 40,
+      "final": 519,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PIETRA CAREAGA"
+    },
+    {
+      "played_at": "2025-03-14T17:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - Maringá - PR - 2025",
+      "initial": 434,
+      "delta": 45,
+      "final": 479,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAYANE COITO"
+    },
+    {
+      "played_at": "2024-10-19T11:25:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 446,
+      "delta": -12,
+      "final": 434,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAMILLA HOLLER"
+    },
+    {
+      "played_at": "2024-10-19T10:10:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 448,
+      "delta": -2,
+      "final": 446,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RUTH ZAMA"
+    },
+    {
+      "played_at": "2024-10-19T08:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Nikkei/PR - 2024",
+      "initial": 448,
+      "delta": 0,
+      "final": 448,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2024-06-22T20:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 388,
+      "delta": 60,
+      "final": 448,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RUTH ZAMA"
+    },
+    {
+      "played_at": "2024-06-22T18:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 352,
+      "delta": 36,
+      "final": 388,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "KAMILLA HOLLER"
+    },
+    {
+      "played_at": "2024-06-22T17:15:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 352,
+      "delta": 0,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2024-06-22T11:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Foz do Iguaçu/PR - 2024",
+      "initial": 352,
+      "delta": 0,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2024-04-28T16:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 370,
+      "delta": -18,
+      "final": 352,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EVELYN TOMI"
+    },
+    {
+      "played_at": "2024-04-28T15:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 346,
+      "delta": 24,
+      "final": 370,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LUANA TRINDADE"
+    },
+    {
+      "played_at": "2024-04-28T15:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 326,
+      "delta": 20,
+      "final": 346,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VANESSA HAYASHI"
+    },
+    {
+      "played_at": "2024-04-28T14:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 308,
+      "delta": 18,
+      "final": 326,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HELOÍSA LOPES"
+    },
+    {
+      "played_at": "2024-04-28T13:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 290,
+      "delta": 18,
+      "final": 308,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAYANE COITO"
+    },
+    {
+      "played_at": "2024-04-28T10:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 304,
+      "delta": -14,
+      "final": 290,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SILVA"
+    },
+    {
+      "played_at": "2024-04-28T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 288,
+      "delta": 16,
+      "final": 304,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA VENEROSO"
+    },
+    {
+      "played_at": "2022-04-09T16:50:00",
+      "event": "TMB Regional - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 279,
+      "delta": 9,
+      "final": 288,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELA DALMOLIN"
+    },
+    {
+      "played_at": "2022-04-09T13:30:00",
+      "event": "TMB Regional - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 270,
+      "delta": 9,
+      "final": 279,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GRAZIELLE CIESZYNSKI"
+    },
+    {
+      "played_at": "2022-04-09T11:00:00",
+      "event": "TMB Regional - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 260,
+      "delta": 10,
+      "final": 270,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAURA MITSUGI"
+    },
+    {
+      "played_at": "2022-04-09T09:20:00",
+      "event": "TMB Regional - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 250,
+      "delta": 10,
+      "final": 260,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMANDA GONÇALVES ............."
+    }
+  ]
+}

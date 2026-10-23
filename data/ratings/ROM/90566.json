@@ -1,0 +1,55 @@
+{
+  "associate_id": 90566,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90566&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 223,
+      "delta": -24,
+      "final": 199,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FERNANDO SARDI"
+    },
+    {
+      "played_at": "2026-05-09T08:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 247,
+      "delta": -24,
+      "final": 223,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "WALTER JUNIOR"
+    },
+    {
+      "played_at": "2026-04-19T08:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -3,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO KADLUBISKI"
+    },
+    {
+      "played_at": "2026-04-19T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAUÃ MATHEUS ............."
+    }
+  ]
+}

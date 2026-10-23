@@ -1,0 +1,67 @@
+{
+  "associate_id": 94391,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=94391&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-25T14:20:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Rondonópolis/MT",
+      "initial": 256,
+      "delta": 10,
+      "final": 266,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "LUIZ SANTOS"
+    },
+    {
+      "played_at": "2026-07-25T14:00:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Rondonópolis/MT",
+      "initial": 264,
+      "delta": -8,
+      "final": 256,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "FELIPE SCHARFF"
+    },
+    {
+      "played_at": "2026-07-25T08:40:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Rondonópolis/MT",
+      "initial": 274,
+      "delta": -10,
+      "final": 264,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "LEVI PAULISTA"
+    },
+    {
+      "played_at": "2026-07-25T08:20:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Rondonópolis/MT",
+      "initial": 248,
+      "delta": 26,
+      "final": 274,
+      "score": [
+        2,
+        1
+      ],
+      "opponent": "ENRICO REZENDE"
+    },
+    {
+      "played_at": "2026-07-25T08:00:00",
+      "event": "TMB Regional 2026 - III Liga Mato Grosso - Rondonópolis/MT",
+      "initial": 250,
+      "delta": -2,
+      "final": 248,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "DAVI LIMA ............."
+    }
+  ]
+}

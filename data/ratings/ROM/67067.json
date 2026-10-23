@@ -1,0 +1,955 @@
+{
+  "associate_id": 67067,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=67067&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-08-29T16:30:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 705,
+      "delta": 0,
+      "final": 705,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DIEGO ELLER"
+    },
+    {
+      "played_at": "2026-08-29T16:00:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 691,
+      "delta": 14,
+      "final": 705,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2026-08-29T15:30:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 661,
+      "delta": 30,
+      "final": 691,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "FRANKLIN ALVES"
+    },
+    {
+      "played_at": "2026-08-29T14:30:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 658,
+      "delta": 3,
+      "final": 661,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO OGGIANO"
+    },
+    {
+      "played_at": "2026-08-29T14:00:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 628,
+      "delta": 30,
+      "final": 658,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NICHOLAS LEITE"
+    },
+    {
+      "played_at": "2026-08-29T12:00:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 639,
+      "delta": -11,
+      "final": 628,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL COSTA"
+    },
+    {
+      "played_at": "2026-08-29T10:30:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 655,
+      "delta": -16,
+      "final": 639,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATHEUS COSTA"
+    },
+    {
+      "played_at": "2026-08-29T09:30:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 625,
+      "delta": 30,
+      "final": 655,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "NICHOLAS LEITE"
+    },
+    {
+      "played_at": "2026-08-22T08:05:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 625,
+      "delta": 0,
+      "final": 625,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WALLACE HIGA"
+    },
+    {
+      "played_at": "2026-07-04T08:05:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 625,
+      "delta": 0,
+      "final": 625,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO MARTIN"
+    },
+    {
+      "played_at": "2026-06-19T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 625,
+      "delta": 0,
+      "final": 625,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "HENRIQUE OSAKA"
+    },
+    {
+      "played_at": "2026-06-19T10:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 634,
+      "delta": -9,
+      "final": 625,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL PEREIRA"
+    },
+    {
+      "played_at": "2026-06-19T09:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 598,
+      "delta": 36,
+      "final": 634,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PEDRO MANTOVANI"
+    },
+    {
+      "played_at": "2026-06-19T08:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 571,
+      "delta": 27,
+      "final": 598,
+      "score": [
+        4,
+        0
+      ],
+      "opponent": "CARLOS VENTINI"
+    },
+    {
+      "played_at": "2026-06-13T10:30:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 571,
+      "delta": 0,
+      "final": 571,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RUAN SOUZA"
+    },
+    {
+      "played_at": "2026-06-13T10:00:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 566,
+      "delta": 5,
+      "final": 571,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PAULO PETISOL"
+    },
+    {
+      "played_at": "2026-06-13T09:30:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 559,
+      "delta": 7,
+      "final": 566,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MAXSUEL SILVA"
+    },
+    {
+      "played_at": "2026-05-09T14:30:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 562,
+      "delta": -3,
+      "final": 559,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FABRÍCIO BERTELA"
+    },
+    {
+      "played_at": "2026-05-09T14:00:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 551,
+      "delta": 11,
+      "final": 562,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL INCERPI"
+    },
+    {
+      "played_at": "2026-05-09T13:30:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 531,
+      "delta": 20,
+      "final": 551,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "PAULO BARBOSA"
+    },
+    {
+      "played_at": "2026-05-09T13:00:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 526,
+      "delta": 5,
+      "final": 531,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO PETRI"
+    },
+    {
+      "played_at": "2026-05-09T12:00:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 536,
+      "delta": -10,
+      "final": 526,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL COSTA"
+    },
+    {
+      "played_at": "2026-04-11T12:30:00",
+      "event": "TMB Regional 1ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 542,
+      "delta": -6,
+      "final": 536,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "YURI MURAKI"
+    },
+    {
+      "played_at": "2026-04-11T10:30:00",
+      "event": "TMB Regional 1ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 537,
+      "delta": 5,
+      "final": 542,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ENZO PETRI"
+    },
+    {
+      "played_at": "2025-11-29T18:30:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 528,
+      "delta": 9,
+      "final": 537,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCO ALUCHNA"
+    },
+    {
+      "played_at": "2025-11-29T18:00:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 522,
+      "delta": 6,
+      "final": 528,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO CAVALCANTI"
+    },
+    {
+      "played_at": "2025-11-29T17:30:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 517,
+      "delta": 5,
+      "final": 522,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JURAMIR COSTA"
+    },
+    {
+      "played_at": "2025-11-29T15:00:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 508,
+      "delta": 9,
+      "final": 517,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCO ALUCHNA"
+    },
+    {
+      "played_at": "2025-11-29T13:30:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 500,
+      "delta": 8,
+      "final": 508,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MAXSUEL SILVA"
+    },
+    {
+      "played_at": "2025-11-29T13:00:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 494,
+      "delta": 6,
+      "final": 500,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "IGOR SILVA"
+    },
+    {
+      "played_at": "2025-11-29T11:30:00",
+      "event": "TMB Regional 6ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 486,
+      "delta": 8,
+      "final": 494,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MATHEUS COSTA"
+    },
+    {
+      "played_at": "2025-10-18T13:00:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 495,
+      "delta": -9,
+      "final": 486,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2025-10-18T12:00:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 487,
+      "delta": 8,
+      "final": 495,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MAXSUEL SILVA"
+    },
+    {
+      "played_at": "2025-10-18T10:00:00",
+      "event": "TMB Regional 5ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 494,
+      "delta": -7,
+      "final": 487,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL COSTA"
+    },
+    {
+      "played_at": "2025-09-27T13:30:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 496,
+      "delta": -2,
+      "final": 494,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "HEITOR CRUZ"
+    },
+    {
+      "played_at": "2025-09-27T12:15:00",
+      "event": "ESTADUALl - SESI 2025 - FTMSP - Etapa 05 - Taubaté-SP",
+      "initial": 496,
+      "delta": 0,
+      "final": 496,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILLIAM BUSSOM"
+    },
+    {
+      "played_at": "2025-09-20T13:30:00",
+      "event": "TMB Regional 4ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 486,
+      "delta": 10,
+      "final": 496,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2025-09-20T13:00:00",
+      "event": "TMB Regional 4ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 480,
+      "delta": 6,
+      "final": 486,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MIGUEL CAMPOS"
+    },
+    {
+      "played_at": "2025-09-20T12:00:00",
+      "event": "TMB Regional 4ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 474,
+      "delta": 6,
+      "final": 480,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ENZO MIYAMOTO"
+    },
+    {
+      "played_at": "2025-09-20T11:00:00",
+      "event": "TMB Regional 4ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 469,
+      "delta": 5,
+      "final": 474,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO OGGIANO"
+    },
+    {
+      "played_at": "2025-08-30T15:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 469,
+      "delta": 0,
+      "final": 469,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO ARRUDA"
+    },
+    {
+      "played_at": "2025-08-30T11:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 449,
+      "delta": 20,
+      "final": 469,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELIEL MARQUES"
+    },
+    {
+      "played_at": "2025-08-30T08:55:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 449,
+      "delta": 0,
+      "final": 449,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WILLIAM BUSSOM"
+    },
+    {
+      "played_at": "2025-08-23T17:30:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 459,
+      "delta": -10,
+      "final": 449,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EDUARDO NASCIMENTO"
+    },
+    {
+      "played_at": "2025-08-23T17:00:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 452,
+      "delta": 7,
+      "final": 459,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JURACI COSTA"
+    },
+    {
+      "played_at": "2025-08-23T16:00:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 445,
+      "delta": 7,
+      "final": 452,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-08-23T15:00:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 440,
+      "delta": 5,
+      "final": 445,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO OGGIANO"
+    },
+    {
+      "played_at": "2025-08-23T13:00:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 448,
+      "delta": -8,
+      "final": 440,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2025-08-23T12:30:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 442,
+      "delta": 6,
+      "final": 448,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAPHAEL CAMPOS"
+    },
+    {
+      "played_at": "2025-08-23T10:00:00",
+      "event": "TMB Regional 3ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 433,
+      "delta": 9,
+      "final": 442,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MAXSUEL SILVA"
+    },
+    {
+      "played_at": "2025-07-26T18:30:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 437,
+      "delta": -4,
+      "final": 433,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YURI MURAKI"
+    },
+    {
+      "played_at": "2025-07-26T17:30:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 429,
+      "delta": 8,
+      "final": 437,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-07-26T16:30:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 423,
+      "delta": 6,
+      "final": 429,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KEVYN LEANDRINI"
+    },
+    {
+      "played_at": "2025-07-26T14:00:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 435,
+      "delta": -12,
+      "final": 423,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MIGUEL INCERPI"
+    },
+    {
+      "played_at": "2025-07-26T11:30:00",
+      "event": "TMB Regional 2ª Etapa - Liga Litoral de Tênis de Mesa",
+      "initial": 447,
+      "delta": -12,
+      "final": 435,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MAXSUEL SILVA"
+    },
+    {
+      "played_at": "2025-06-28T18:00:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 439,
+      "delta": 8,
+      "final": 447,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-06-28T17:30:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 421,
+      "delta": 18,
+      "final": 439,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "YURI MURAKI"
+    },
+    {
+      "played_at": "2025-06-28T15:30:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 413,
+      "delta": 8,
+      "final": 421,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "VICTOR.RUBENS SANTOS"
+    },
+    {
+      "played_at": "2025-06-28T14:00:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 413,
+      "delta": 0,
+      "final": 413,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FELIPE IANELLO"
+    },
+    {
+      "played_at": "2025-06-28T13:30:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 406,
+      "delta": 7,
+      "final": 413,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MAXSUEL SILVA"
+    },
+    {
+      "played_at": "2025-06-28T12:00:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 392,
+      "delta": 14,
+      "final": 406,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ARTHUR SOARES"
+    },
+    {
+      "played_at": "2025-06-28T11:30:00",
+      "event": "TMB Regional - 1ª Etapa Liga Litoral de Tênis de Mesa",
+      "initial": 387,
+      "delta": 5,
+      "final": 392,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CAIO SANTOS"
+    },
+    {
+      "played_at": "2025-05-24T15:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 437,
+      "delta": -50,
+      "final": 387,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FELIPE SILVA"
+    },
+    {
+      "played_at": "2025-05-24T13:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 387,
+      "delta": 50,
+      "final": 437,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GUSTAVO DRAGONI"
+    },
+    {
+      "played_at": "2025-05-24T10:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 207,
+      "delta": 180,
+      "final": 387,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ENZO TOMITA"
+    },
+    {
+      "played_at": "2025-05-18T09:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 237,
+      "delta": -30,
+      "final": 207,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO BASSO"
+    },
+    {
+      "played_at": "2025-05-18T08:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - 2025 - Individual Olímpico",
+      "initial": 237,
+      "delta": 0,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUÍS PAULA"
+    },
+    {
+      "played_at": "2025-05-10T13:35:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 259,
+      "delta": -22,
+      "final": 237,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROBSON SANTOS"
+    },
+    {
+      "played_at": "2025-05-10T11:05:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 261,
+      "delta": -2,
+      "final": 259,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "YAN FARIA"
+    },
+    {
+      "played_at": "2025-05-10T09:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 02 - Campinas-SP",
+      "initial": 261,
+      "delta": 0,
+      "final": 261,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO OLIVEIRA"
+    },
+    {
+      "played_at": "2025-04-12T11:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 271,
+      "delta": -10,
+      "final": 261,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MIGUEL VIANNA"
+    },
+    {
+      "played_at": "2025-04-12T09:00:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 271,
+      "delta": 0,
+      "final": 271,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ARTHUR REIS"
+    },
+    {
+      "played_at": "2025-04-11T13:35:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 326,
+      "delta": -55,
+      "final": 271,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO SANTOS"
+    },
+    {
+      "played_at": "2025-04-11T11:05:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 266,
+      "delta": 60,
+      "final": 326,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "THALES HIKOSAKA"
+    },
+    {
+      "played_at": "2025-04-11T09:50:00",
+      "event": "Copa Brasil de Tênis de Mesa - São Paulo / SP - 2025",
+      "initial": 216,
+      "delta": 50,
+      "final": 266,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RODRIGO MAIA"
+    },
+    {
+      "played_at": "2023-09-02T09:30:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 224,
+      "delta": -8,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "NICOLAS CHOI"
+    },
+    {
+      "played_at": "2023-09-02T08:30:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 224,
+      "delta": 0,
+      "final": 224,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ENZO UMETSU"
+    },
+    {
+      "played_at": "2022-09-17T10:55:00",
+      "event": "TMB Estadual - FTMSP - 3ª Etapa - São José dos Campos/SP - 2022..",
+      "initial": 240,
+      "delta": -16,
+      "final": 224,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL VERDIAL"
+    },
+    {
+      "played_at": "2022-09-17T10:30:00",
+      "event": "TMB Estadual - FTMSP - 3ª Etapa - São José dos Campos/SP - 2022..",
+      "initial": 250,
+      "delta": -10,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE OSAKA ............."
+    }
+  ]
+}

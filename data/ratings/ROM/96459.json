@@ -1,0 +1,43 @@
+{
+  "associate_id": 96459,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=96459&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T11:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 199,
+      "delta": -18,
+      "final": 181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE KANNO"
+    },
+    {
+      "played_at": "2026-09-26T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 223,
+      "delta": -24,
+      "final": 199,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ SADA"
+    },
+    {
+      "played_at": "2026-09-26T08:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 250,
+      "delta": -27,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI MIRANDA ............."
+    }
+  ]
+}

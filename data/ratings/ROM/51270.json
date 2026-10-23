@@ -1,0 +1,1483 @@
+{
+  "associate_id": 51270,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=51270&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-26T10:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 985,
+      "delta": 0,
+      "final": 985,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANA BRAGA"
+    },
+    {
+      "played_at": "2026-09-26T09:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Matinhos/PR - 2026",
+      "initial": 1012,
+      "delta": -27,
+      "final": 985,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "NICOLY ORSO"
+    },
+    {
+      "played_at": "2026-04-18T19:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 1000,
+      "delta": 12,
+      "final": 1012,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMANDA OLIVEIRA"
+    },
+    {
+      "played_at": "2026-04-18T17:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 988,
+      "delta": 12,
+      "final": 1000,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LETÍCIA NOGUTI"
+    },
+    {
+      "played_at": "2026-04-18T15:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 976,
+      "delta": 12,
+      "final": 988,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ROSANA HAYASHI"
+    },
+    {
+      "played_at": "2026-04-18T14:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 967,
+      "delta": 9,
+      "final": 976,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RAYANE COITO"
+    },
+    {
+      "played_at": "2025-07-05T20:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 991,
+      "delta": -24,
+      "final": 967,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EMANUELLI ROCHA"
+    },
+    {
+      "played_at": "2025-07-05T13:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 983,
+      "delta": 8,
+      "final": 991,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AMANDA HOY"
+    },
+    {
+      "played_at": "2025-07-05T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Nikkei-Curitiba/PR - 2025",
+      "initial": 963,
+      "delta": 20,
+      "final": 983,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "SOFIA MICHALICHEM"
+    },
+    {
+      "played_at": "2024-09-28T18:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 981,
+      "delta": -18,
+      "final": 963,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RENATA SANTOS"
+    },
+    {
+      "played_at": "2024-09-28T17:40:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 981,
+      "delta": 0,
+      "final": 981,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2024-09-28T16:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Toledo/PR - 2024",
+      "initial": 977,
+      "delta": 4,
+      "final": 981,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIELA MILKE"
+    },
+    {
+      "played_at": "2024-08-17T20:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 977,
+      "delta": 0,
+      "final": 977,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2024-08-17T19:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 973,
+      "delta": 4,
+      "final": 977,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIANA MILLÉO"
+    },
+    {
+      "played_at": "2024-08-17T18:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 969,
+      "delta": 4,
+      "final": 973,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RAYANE COITO"
+    },
+    {
+      "played_at": "2024-08-17T16:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 1013,
+      "delta": -44,
+      "final": 969,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "NICOLY ORSO"
+    },
+    {
+      "played_at": "2024-08-17T14:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Irati/PR - 2024",
+      "initial": 1011,
+      "delta": 2,
+      "final": 1013,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LAYSA NEGOCEKI"
+    },
+    {
+      "played_at": "2024-07-07T16:25:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1036,
+      "delta": -25,
+      "final": 1011,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MELANIE BURLAMARQUI"
+    },
+    {
+      "played_at": "2024-07-07T15:10:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1066,
+      "delta": -30,
+      "final": 1036,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2024-07-07T13:55:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1106,
+      "delta": -40,
+      "final": 1066,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA CABRAL"
+    },
+    {
+      "played_at": "2024-07-06T15:10:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1086,
+      "delta": 20,
+      "final": 1106,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JÚLIA OLIVEIRA"
+    },
+    {
+      "played_at": "2024-07-06T13:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1086,
+      "delta": 0,
+      "final": 1086,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VITÓRIA SOARES"
+    },
+    {
+      "played_at": "2024-07-06T10:35:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1111,
+      "delta": -25,
+      "final": 1086,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RAQUEL KLITZKE"
+    },
+    {
+      "played_at": "2024-07-05T20:10:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1051,
+      "delta": 60,
+      "final": 1111,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PRISCILA RALICKAS"
+    },
+    {
+      "played_at": "2024-07-05T18:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1086,
+      "delta": -35,
+      "final": 1051,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA SASAKI"
+    },
+    {
+      "played_at": "2024-07-05T16:50:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 996,
+      "delta": 90,
+      "final": 1086,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ERIKA KIMURA"
+    },
+    {
+      "played_at": "2024-07-05T15:10:00",
+      "event": "TMB Challenger Plus - 13ª Edição - São José dos Pinhais/PR - 2024",
+      "initial": 1011,
+      "delta": -15,
+      "final": 996,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LARISSA GOMES"
+    },
+    {
+      "played_at": "2024-05-25T17:15:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 1011,
+      "delta": 0,
+      "final": 1011,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MELISSA AOYAMA"
+    },
+    {
+      "played_at": "2024-05-25T13:30:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 971,
+      "delta": 40,
+      "final": 1011,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ISABELLE TANAKA"
+    },
+    {
+      "played_at": "2024-05-25T10:10:00",
+      "event": "TMB Estadual - 2ª Etapa - São José dos Pinhais/PR - 2024",
+      "initial": 971,
+      "delta": 0,
+      "final": 971,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "BÁRBARA MARROQUE"
+    },
+    {
+      "played_at": "2024-04-28T13:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 971,
+      "delta": 0,
+      "final": 971,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BÁRBARA MARROQUE"
+    },
+    {
+      "played_at": "2024-04-28T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 931,
+      "delta": 40,
+      "final": 971,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KESYA VIDAL"
+    },
+    {
+      "played_at": "2024-04-28T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Londrina/PR - 2024",
+      "initial": 931,
+      "delta": 0,
+      "final": 931,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA ALVES"
+    },
+    {
+      "played_at": "2023-10-14T18:05:00",
+      "event": "TMB Estadual - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 933,
+      "delta": -2,
+      "final": 931,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-10-14T15:35:00",
+      "event": "TMB Estadual - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 925,
+      "delta": 8,
+      "final": 933,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-10-14T11:00:00",
+      "event": "TMB Estadual - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 919,
+      "delta": 6,
+      "final": 925,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA SILVA"
+    },
+    {
+      "played_at": "2023-10-14T09:45:00",
+      "event": "TMB Estadual - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 905,
+      "delta": 14,
+      "final": 919,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "AIRI ASSAHI"
+    },
+    {
+      "played_at": "2023-10-14T08:30:00",
+      "event": "TMB Estadual - 7ª Etapa - Matinhos/PR - 2023",
+      "initial": 901,
+      "delta": 4,
+      "final": 905,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LUANA TRINDADE"
+    },
+    {
+      "played_at": "2023-09-09T17:40:00",
+      "event": "TMB Estadual - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 855,
+      "delta": 46,
+      "final": 901,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-09-09T16:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 847,
+      "delta": 8,
+      "final": 855,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-09-09T14:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 837,
+      "delta": 10,
+      "final": 847,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA SILVA"
+    },
+    {
+      "played_at": "2023-09-09T11:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 831,
+      "delta": 6,
+      "final": 837,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2023-09-09T09:45:00",
+      "event": "TMB Estadual - 6ª Etapa - Guaira/PR - 2023",
+      "initial": 827,
+      "delta": 4,
+      "final": 831,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAMILY ZANATTA"
+    },
+    {
+      "played_at": "2023-08-12T18:30:00",
+      "event": "TMB Regional Especial - 5ª Etapa - Thalia/PR - 2023",
+      "initial": 833,
+      "delta": -6,
+      "final": 827,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PRISCILA RALICKAS"
+    },
+    {
+      "played_at": "2023-08-12T14:00:18",
+      "event": "TMB Estadual Equipes - 5ª Etapa - Thalia/PR - 2023",
+      "initial": 837,
+      "delta": -4,
+      "final": 833,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-08-12T14:00:10",
+      "event": "TMB Estadual Equipes - 5ª Etapa - Thalia/PR - 2023",
+      "initial": 827,
+      "delta": 10,
+      "final": 837,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-08-12T12:00:04",
+      "event": "TMB Estadual Equipes - 5ª Etapa - Thalia/PR - 2023",
+      "initial": 823,
+      "delta": 4,
+      "final": 827,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELA MORAIS"
+    },
+    {
+      "played_at": "2023-07-15T17:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Cascavel/PR - 2023",
+      "initial": 827,
+      "delta": -4,
+      "final": 823,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-07-15T16:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Cascavel/PR - 2023",
+      "initial": 817,
+      "delta": 10,
+      "final": 827,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-07-15T10:35:00",
+      "event": "TMB Estadual - 4ª Etapa - Cascavel/PR - 2023",
+      "initial": 807,
+      "delta": 10,
+      "final": 817,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA SILVA"
+    },
+    {
+      "played_at": "2023-06-24T18:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 755,
+      "delta": 52,
+      "final": 807,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-06-24T16:25:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 747,
+      "delta": 8,
+      "final": 755,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANALIZ MACHADO"
+    },
+    {
+      "played_at": "2023-06-24T15:10:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 737,
+      "delta": 10,
+      "final": 747,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-06-24T13:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2023.",
+      "initial": 729,
+      "delta": 8,
+      "final": 737,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2023-05-13T18:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Nikkei-Curitiba/PR - 2023..",
+      "initial": 683,
+      "delta": 46,
+      "final": 729,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-05-13T17:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Nikkei-Curitiba/PR - 2023..",
+      "initial": 675,
+      "delta": 8,
+      "final": 683,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA SILVA"
+    },
+    {
+      "played_at": "2023-05-13T16:25:00",
+      "event": "TMB Estadual - 2ª Etapa - Nikkei-Curitiba/PR - 2023..",
+      "initial": 665,
+      "delta": 10,
+      "final": 675,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-05-13T13:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Nikkei-Curitiba/PR - 2023..",
+      "initial": 657,
+      "delta": 8,
+      "final": 665,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2023-04-15T17:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Toledo/PR - 2023",
+      "initial": 661,
+      "delta": -4,
+      "final": 657,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2023-04-15T16:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Toledo/PR - 2023",
+      "initial": 651,
+      "delta": 10,
+      "final": 661,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2023-04-15T13:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Toledo/PR - 2023",
+      "initial": 641,
+      "delta": 10,
+      "final": 651,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANALIZ MACHADO"
+    },
+    {
+      "played_at": "2023-04-15T10:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Toledo/PR - 2023",
+      "initial": 635,
+      "delta": 6,
+      "final": 641,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAMILY ZANATTA"
+    },
+    {
+      "played_at": "2022-10-23T11:20:00",
+      "event": "TMB Challenger Plus - 14ª Edição - Maringá/PR - 2022",
+      "initial": 695,
+      "delta": -60,
+      "final": 635,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BRUNA CRUZ"
+    },
+    {
+      "played_at": "2022-10-23T10:05:00",
+      "event": "TMB Challenger Plus - 14ª Edição - Maringá/PR - 2022",
+      "initial": 775,
+      "delta": -80,
+      "final": 695,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA LOBATO"
+    },
+    {
+      "played_at": "2022-10-22T11:20:00",
+      "event": "TMB Challenger Plus - 14ª Edição - Maringá/PR - 2022",
+      "initial": 775,
+      "delta": 0,
+      "final": 775,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LÍVIA LIMA"
+    },
+    {
+      "played_at": "2022-10-22T09:40:00",
+      "event": "TMB Challenger Plus - 14ª Edição - Maringá/PR - 2022",
+      "initial": 775,
+      "delta": 0,
+      "final": 775,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BÁRBARA MARROQUE"
+    },
+    {
+      "played_at": "2022-10-22T08:00:00",
+      "event": "TMB Challenger Plus - 14ª Edição - Maringá/PR - 2022",
+      "initial": 780,
+      "delta": -5,
+      "final": 775,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GIOVANA SILVA"
+    },
+    {
+      "played_at": "2022-10-16T10:30:00",
+      "event": "TMB Estadual - 8ª Etapa -Guarapuava/PR - 2022",
+      "initial": 780,
+      "delta": 0,
+      "final": 780,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA MENDES"
+    },
+    {
+      "played_at": "2022-10-16T09:40:00",
+      "event": "TMB Estadual - 8ª Etapa -Guarapuava/PR - 2022",
+      "initial": 784,
+      "delta": -4,
+      "final": 780,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "TASSIA TANAKA"
+    },
+    {
+      "played_at": "2022-10-15T15:20:00",
+      "event": "TMB Estadual - 8ª Etapa -Guarapuava/PR - 2022",
+      "initial": 790,
+      "delta": -6,
+      "final": 784,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA ALVES"
+    },
+    {
+      "played_at": "2022-10-15T13:15:00",
+      "event": "TMB Estadual - 8ª Etapa -Guarapuava/PR - 2022",
+      "initial": 744,
+      "delta": 46,
+      "final": 790,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2022-10-15T10:35:00",
+      "event": "TMB Estadual - 8ª Etapa -Guarapuava/PR - 2022",
+      "initial": 744,
+      "delta": 0,
+      "final": 744,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YUMI ASSAHI"
+    },
+    {
+      "played_at": "2022-08-21T10:30:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 744,
+      "delta": 0,
+      "final": 744,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMANUELE DREVECK"
+    },
+    {
+      "played_at": "2022-08-21T09:15:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 764,
+      "delta": -20,
+      "final": 744,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ISABELLE TANAKA"
+    },
+    {
+      "played_at": "2022-08-20T18:15:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 770,
+      "delta": -6,
+      "final": 764,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "MARIA ALVES"
+    },
+    {
+      "played_at": "2022-08-20T17:25:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 730,
+      "delta": 40,
+      "final": 770,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LAURA ZANTUT"
+    },
+    {
+      "played_at": "2022-08-20T16:35:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 702,
+      "delta": 28,
+      "final": 730,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "AIRI ASSAHI"
+    },
+    {
+      "played_at": "2022-08-20T15:45:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 688,
+      "delta": 14,
+      "final": 702,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNA KOMATSU"
+    },
+    {
+      "played_at": "2022-08-20T14:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 688,
+      "delta": 0,
+      "final": 688,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MELISSA AOYAMA"
+    },
+    {
+      "played_at": "2022-08-20T14:05:00",
+      "event": "TMB Estadual - 7ª Etapa - Marechal Cândido Rondon/PR - 2022",
+      "initial": 682,
+      "delta": 6,
+      "final": 688,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GABRIELA MILKE"
+    },
+    {
+      "played_at": "2022-07-24T10:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 682,
+      "delta": 0,
+      "final": 682,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATA TSUKADA"
+    },
+    {
+      "played_at": "2022-07-24T09:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 692,
+      "delta": -10,
+      "final": 682,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2022-07-23T17:25:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 692,
+      "delta": 0,
+      "final": 692,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANA BONSERE"
+    },
+    {
+      "played_at": "2022-07-23T16:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 686,
+      "delta": 6,
+      "final": 692,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2022-07-23T14:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 688,
+      "delta": -2,
+      "final": 686,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARIA RODRIGUES"
+    },
+    {
+      "played_at": "2022-07-23T11:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 684,
+      "delta": 4,
+      "final": 688,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GIOVANA NAKANISHI"
+    },
+    {
+      "played_at": "2022-07-23T09:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Campo Mourão/PR - 2022",
+      "initial": 680,
+      "delta": 4,
+      "final": 684,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAMILY ZANATTA"
+    },
+    {
+      "played_at": "2022-07-03T10:30:00",
+      "event": "TMB Estadual - 5ª Etapa - São José dos Pinhais/PR - 2022",
+      "initial": 680,
+      "delta": 0,
+      "final": 680,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATA TSUKADA"
+    },
+    {
+      "played_at": "2022-07-03T09:15:00",
+      "event": "TMB Estadual - 5ª Etapa - São José dos Pinhais/PR - 2022",
+      "initial": 680,
+      "delta": 0,
+      "final": 680,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "AIRI ASSAHI"
+    },
+    {
+      "played_at": "2022-07-02T17:25:00",
+      "event": "TMB Estadual - 5ª Etapa - São José dos Pinhais/PR - 2022",
+      "initial": 692,
+      "delta": -12,
+      "final": 680,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LAURA ZANTUT"
+    },
+    {
+      "played_at": "2022-07-02T16:35:00",
+      "event": "TMB Estadual - 5ª Etapa - São José dos Pinhais/PR - 2022",
+      "initial": 656,
+      "delta": 36,
+      "final": 692,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2022-07-02T15:45:00",
+      "event": "TMB Estadual - 5ª Etapa - São José dos Pinhais/PR - 2022",
+      "initial": 596,
+      "delta": 60,
+      "final": 656,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "YUMI ASSAHI"
+    },
+    {
+      "played_at": "2022-07-02T14:30:00",
+      "event": "TMB Estadual - 5ª Etapa - São José dos Pinhais/PR - 2022",
+      "initial": 584,
+      "delta": 12,
+      "final": 596,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2022-06-12T14:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Foz do Iguaçu/PR - 2022",
+      "initial": 584,
+      "delta": 0,
+      "final": 584,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATA TSUKADA"
+    },
+    {
+      "played_at": "2022-06-12T10:05:00",
+      "event": "TMB Estadual - 4ª Etapa - Foz do Iguaçu/PR - 2022",
+      "initial": 524,
+      "delta": 60,
+      "final": 584,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "REJANE CORDEIRO"
+    },
+    {
+      "played_at": "2022-06-12T08:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Foz do Iguaçu/PR - 2022",
+      "initial": 464,
+      "delta": 60,
+      "final": 524,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KESYA VIDAL"
+    },
+    {
+      "played_at": "2022-06-11T16:50:00",
+      "event": "TMB Estadual - 4ª Etapa - Foz do Iguaçu/PR - 2022",
+      "initial": 470,
+      "delta": -6,
+      "final": 464,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "BRUNA KOMATSU"
+    },
+    {
+      "played_at": "2022-06-11T16:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Foz do Iguaçu/PR - 2022",
+      "initial": 424,
+      "delta": 46,
+      "final": 470,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "LAURA ZANTUT"
+    },
+    {
+      "played_at": "2022-06-11T14:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Foz do Iguaçu/PR - 2022",
+      "initial": 418,
+      "delta": 6,
+      "final": 424,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GREICE PEREIRA"
+    },
+    {
+      "played_at": "2022-04-10T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 418,
+      "delta": 0,
+      "final": 418,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMANUELE DREVECK"
+    },
+    {
+      "played_at": "2022-04-10T09:15:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 418,
+      "delta": 0,
+      "final": 418,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JULLY NAGAO"
+    },
+    {
+      "played_at": "2022-04-09T16:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 418,
+      "delta": 0,
+      "final": 418,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANA BONSERE"
+    },
+    {
+      "played_at": "2022-04-09T15:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 404,
+      "delta": 14,
+      "final": 418,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JULIA SILVA"
+    },
+    {
+      "played_at": "2022-04-09T13:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 408,
+      "delta": -4,
+      "final": 404,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LAURA ZANTUT"
+    },
+    {
+      "played_at": "2022-04-09T11:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2022",
+      "initial": 396,
+      "delta": 12,
+      "final": 408,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2022-03-06T12:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 420,
+      "delta": -24,
+      "final": 396,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANA ANDRADE"
+    },
+    {
+      "played_at": "2022-03-06T10:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 420,
+      "delta": 0,
+      "final": 420,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "SIMONE YAMADA"
+    },
+    {
+      "played_at": "2022-03-06T09:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 360,
+      "delta": 60,
+      "final": 420,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "REJANE CORDEIRO"
+    },
+    {
+      "played_at": "2022-03-05T16:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 360,
+      "delta": 0,
+      "final": 360,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ANA BONSERE"
+    },
+    {
+      "played_at": "2022-03-05T14:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 314,
+      "delta": 46,
+      "final": 360,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "BRUNA KOMATSU"
+    },
+    {
+      "played_at": "2022-03-05T13:05:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 314,
+      "delta": 0,
+      "final": 314,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "YUMI ASSAHI"
+    },
+    {
+      "played_at": "2022-03-05T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2022",
+      "initial": 298,
+      "delta": 16,
+      "final": 314,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARIA SILVA"
+    },
+    {
+      "played_at": "2021-11-21T10:10:00",
+      "event": "TMB Estadual - 5ª Etapa - Nikkei/PR - 2021",
+      "initial": 302,
+      "delta": -4,
+      "final": 298,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARIA MENDES"
+    },
+    {
+      "played_at": "2021-11-21T09:20:00",
+      "event": "TMB Estadual - 5ª Etapa - Nikkei/PR - 2021",
+      "initial": 302,
+      "delta": 0,
+      "final": 302,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EMANUELE DREVECK"
+    },
+    {
+      "played_at": "2021-10-23T16:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Londrina/PR - 2021",
+      "initial": 308,
+      "delta": -6,
+      "final": 302,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2021-10-23T11:25:00",
+      "event": "TMB Estadual - 4ª Etapa - Londrina/PR - 2021",
+      "initial": 272,
+      "delta": 36,
+      "final": 308,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELLEN YAGUCHI"
+    },
+    {
+      "played_at": "2021-10-23T09:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Londrina/PR - 2021",
+      "initial": 272,
+      "delta": 0,
+      "final": 272,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BÁRBARA MARROQUE"
+    },
+    {
+      "played_at": "2021-10-02T14:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2021",
+      "initial": 278,
+      "delta": -6,
+      "final": 272,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2021-10-02T12:40:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2021",
+      "initial": 278,
+      "delta": 0,
+      "final": 278,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BÁRBARA MARROQUE"
+    },
+    {
+      "played_at": "2021-10-02T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Guarapuava/PR - 2021",
+      "initial": 258,
+      "delta": 20,
+      "final": 278,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI"
+    },
+    {
+      "played_at": "2021-09-04T13:05:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2021",
+      "initial": 270,
+      "delta": -12,
+      "final": 258,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LARISSA SANTOS"
+    },
+    {
+      "played_at": "2021-09-04T11:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2021",
+      "initial": 270,
+      "delta": 0,
+      "final": 270,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "BÁRBARA MARROQUE"
+    },
+    {
+      "played_at": "2021-09-04T10:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Cascavel/PR - 2021",
+      "initial": 250,
+      "delta": 20,
+      "final": 270,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ISABELA DOI ............."
+    }
+  ]
+}

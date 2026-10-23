@@ -1,0 +1,1327 @@
+{
+  "associate_id": 64115,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=64115&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-20T15:30:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 269,
+      "delta": -72,
+      "final": 197,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALLAN SCUR"
+    },
+    {
+      "played_at": "2026-09-20T12:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 227,
+      "delta": 42,
+      "final": 269,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MÁRCIO CARMO"
+    },
+    {
+      "played_at": "2026-09-20T08:00:00",
+      "event": "Copa Brasil Prata - Porto Alegre/RS - 2026",
+      "initial": 131,
+      "delta": 96,
+      "final": 227,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DANI RUDNICKI"
+    },
+    {
+      "played_at": "2026-08-02T14:40:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 155,
+      "delta": -24,
+      "final": 131,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2026-08-02T13:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 155,
+      "delta": 0,
+      "final": 155,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2026-08-02T12:35:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 155,
+      "delta": 0,
+      "final": 155,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2026-08-02T10:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 122,
+      "delta": 33,
+      "final": 155,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JOÃO FILHO"
+    },
+    {
+      "played_at": "2026-08-01T13:05:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 131,
+      "delta": -9,
+      "final": 122,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2026-08-01T11:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 149,
+      "delta": -18,
+      "final": 131,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FERNANDO LIMA"
+    },
+    {
+      "played_at": "2026-08-01T09:20:00",
+      "event": "TMB Estadual - 6ª Etapa - Pelotas/RS - 2026",
+      "initial": 101,
+      "delta": 48,
+      "final": 149,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "JOÃO SILVA"
+    },
+    {
+      "played_at": "2026-07-04T15:11:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Vale Real/RS - 2026",
+      "initial": 107,
+      "delta": -6,
+      "final": 101,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2026-06-07T13:55:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 116,
+      "delta": -9,
+      "final": 107,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2026-06-07T12:40:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 62,
+      "delta": 54,
+      "final": 116,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ILBERTO TRENTIN"
+    },
+    {
+      "played_at": "2026-06-07T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 62,
+      "delta": 0,
+      "final": 62,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2026-06-06T12:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 74,
+      "delta": -12,
+      "final": 62,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATTEO CARBONERA"
+    },
+    {
+      "played_at": "2026-06-06T09:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2026",
+      "initial": 86,
+      "delta": -12,
+      "final": 74,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ENIO BARBOSA"
+    },
+    {
+      "played_at": "2026-03-29T13:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 95,
+      "delta": -9,
+      "final": 86,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2026-03-29T12:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 95,
+      "delta": 0,
+      "final": 95,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2026-03-28T15:55:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 104,
+      "delta": -9,
+      "final": 95,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MENEGAT"
+    },
+    {
+      "played_at": "2026-03-28T13:50:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 116,
+      "delta": -12,
+      "final": 104,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2026-03-28T12:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Antônio Prado/RS - 2026",
+      "initial": 62,
+      "delta": 54,
+      "final": 116,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "ANDERSON REIS"
+    },
+    {
+      "played_at": "2026-03-01T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 77,
+      "delta": -15,
+      "final": 62,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CARLOS FRANCK"
+    },
+    {
+      "played_at": "2026-03-01T10:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 77,
+      "delta": 0,
+      "final": 77,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2026-02-28T12:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 92,
+      "delta": -15,
+      "final": 77,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GABRIEL NUNES"
+    },
+    {
+      "played_at": "2026-02-28T09:50:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": 32,
+      "delta": 60,
+      "final": 92,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MÁRCIO CARMO"
+    },
+    {
+      "played_at": "2026-02-28T09:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Três Coroas/RS - 2026",
+      "initial": -28,
+      "delta": 60,
+      "final": 32,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ANDRE SONDA"
+    },
+    {
+      "played_at": "2025-11-16T17:35:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": -24,
+      "delta": -4,
+      "final": -28,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCO MARQUES"
+    },
+    {
+      "played_at": "2025-11-16T15:55:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": -22,
+      "delta": -2,
+      "final": -24,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ANDRÉ ROSSI"
+    },
+    {
+      "played_at": "2025-11-16T13:50:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": -68,
+      "delta": 46,
+      "final": -22,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2025-11-16T11:45:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": -60,
+      "delta": -8,
+      "final": -68,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ CABRAL"
+    },
+    {
+      "played_at": "2025-11-15T10:40:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": -56,
+      "delta": -4,
+      "final": -60,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KAIQUI FERNANDES"
+    },
+    {
+      "played_at": "2025-11-15T09:50:00",
+      "event": "TMB Estadual - 7ª Etapa - Bento Gonçalves/RS - 2025",
+      "initial": -50,
+      "delta": -6,
+      "final": -56,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUILHERME PAZ"
+    },
+    {
+      "played_at": "2025-10-19T16:10:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": -50,
+      "delta": 0,
+      "final": -50,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2025-10-19T14:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": -44,
+      "delta": -6,
+      "final": -50,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2025-10-19T13:15:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": -44,
+      "delta": 0,
+      "final": -44,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2025-10-18T13:50:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": -36,
+      "delta": -8,
+      "final": -44,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAFAEL MOOG"
+    },
+    {
+      "played_at": "2025-10-18T10:55:00",
+      "event": "TMB Estadual - 6ª Etapa - Antônio Prado/RS - 2025",
+      "initial": -30,
+      "delta": -6,
+      "final": -36,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE SASSO"
+    },
+    {
+      "played_at": "2025-09-28T15:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": -28,
+      "delta": -2,
+      "final": -30,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ ROSSI"
+    },
+    {
+      "played_at": "2025-09-28T14:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": -24,
+      "delta": -4,
+      "final": -28,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2025-09-28T13:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": -12,
+      "delta": -12,
+      "final": -24,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "LUIZ CABRAL"
+    },
+    {
+      "played_at": "2025-09-27T15:25:00",
+      "event": "TMB Estadual - 5ª Etapa - Porto Alegre/RS - 2025",
+      "initial": -8,
+      "delta": -4,
+      "final": -12,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GIANO LOPEZ"
+    },
+    {
+      "played_at": "2025-08-24T16:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 2,
+      "delta": -10,
+      "final": -8,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENAN SILVA"
+    },
+    {
+      "played_at": "2025-08-23T17:30:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 2,
+      "delta": 0,
+      "final": 2,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS OLIVEIRA"
+    },
+    {
+      "played_at": "2025-08-23T16:00:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 17,
+      "delta": -15,
+      "final": 2,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ELDO BARBOSA"
+    },
+    {
+      "played_at": "2025-08-23T14:00:00",
+      "event": "Copa Brasil - Porto Alegre - RS - 2025",
+      "initial": 17,
+      "delta": 0,
+      "final": 17,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SÍLVIO ALBUQUERQUE"
+    },
+    {
+      "played_at": "2025-07-27T13:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 23,
+      "delta": -6,
+      "final": 17,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANCO MARQUES"
+    },
+    {
+      "played_at": "2025-07-27T11:20:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 23,
+      "delta": 0,
+      "final": 23,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2025-07-26T17:45:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 29,
+      "delta": -6,
+      "final": 23,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAGOBERTO MOREIRA"
+    },
+    {
+      "played_at": "2025-07-26T15:15:00",
+      "event": "TMB Estadual - 4ª Etapa - Santa Maria/RS - 2025",
+      "initial": 35,
+      "delta": -6,
+      "final": 29,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAFAEL MOOG"
+    },
+    {
+      "played_at": "2025-07-26T02:37:00",
+      "event": "TMB Estadual - Campeonato Gaúcho Equipes - Santa Maria/RS - 2025.",
+      "initial": 35,
+      "delta": 0,
+      "final": 35,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2025-06-08T15:20:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 47,
+      "delta": -12,
+      "final": 35,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ODON FILHO"
+    },
+    {
+      "played_at": "2025-06-08T14:55:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 47,
+      "delta": 0,
+      "final": 47,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2025-06-08T14:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Carazinho/RS - 2025",
+      "initial": 15,
+      "delta": 32,
+      "final": 47,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2025-05-04T14:40:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2025",
+      "initial": 17,
+      "delta": -2,
+      "final": 15,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALBINO OLCZEVSKI"
+    },
+    {
+      "played_at": "2025-05-04T12:10:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2025",
+      "initial": 17,
+      "delta": 0,
+      "final": 17,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2025-05-04T10:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2025",
+      "initial": 29,
+      "delta": -12,
+      "final": 17,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2025-05-03T13:20:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2025",
+      "initial": 33,
+      "delta": -4,
+      "final": 29,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PAULO TANAKA"
+    },
+    {
+      "played_at": "2025-03-23T12:10:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 39,
+      "delta": -6,
+      "final": 33,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CHRISTOPHER ECHEVENGUÁ"
+    },
+    {
+      "played_at": "2025-03-23T10:55:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 51,
+      "delta": -12,
+      "final": 39,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO KNEBEL"
+    },
+    {
+      "played_at": "2025-03-23T09:40:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 55,
+      "delta": -4,
+      "final": 51,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JÚLIO SCHOEFFER"
+    },
+    {
+      "played_at": "2025-03-22T17:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2025.",
+      "initial": 63,
+      "delta": -8,
+      "final": 55,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CEZAR SCHUH"
+    },
+    {
+      "played_at": "2024-11-17T11:00:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 78,
+      "delta": -15,
+      "final": 63,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEANDRO VIEIRA"
+    },
+    {
+      "played_at": "2024-11-17T09:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": 88,
+      "delta": -10,
+      "final": 78,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABELARDO JUNIOR"
+    },
+    {
+      "played_at": "2024-11-16T18:00:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": -2,
+      "delta": 90,
+      "final": 88,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCELO BITTENCOURT"
+    },
+    {
+      "played_at": "2024-11-16T15:00:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": -2,
+      "delta": 0,
+      "final": -2,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ OYAMA"
+    },
+    {
+      "played_at": "2024-11-16T11:30:00",
+      "event": "TMB Challenger Plus - 10ª Edição - Porto Alegre/RS - 2024",
+      "initial": -2,
+      "delta": 0,
+      "final": -2,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2024-10-20T12:10:00",
+      "event": "TMB Estadual - 7ª Etapa - Sapucaia do Sul/RS - 2024",
+      "initial": -2,
+      "delta": 0,
+      "final": -2,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALBAIR CAMARGO"
+    },
+    {
+      "played_at": "2024-10-20T11:20:00",
+      "event": "TMB Estadual - 7ª Etapa - Sapucaia do Sul/RS - 2024",
+      "initial": -2,
+      "delta": 0,
+      "final": -2,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2024-10-19T16:20:00",
+      "event": "TMB Estadual - 7ª Etapa - Sapucaia do Sul/RS - 2024",
+      "initial": 4,
+      "delta": -6,
+      "final": -2,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ CABRAL"
+    },
+    {
+      "played_at": "2024-10-19T15:05:00",
+      "event": "TMB Estadual - 7ª Etapa - Sapucaia do Sul/RS - 2024",
+      "initial": 10,
+      "delta": -6,
+      "final": 4,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL BUTTOW"
+    },
+    {
+      "played_at": "2024-10-19T13:00:00",
+      "event": "TMB Estadual - 7ª Etapa - Sapucaia do Sul/RS - 2024",
+      "initial": -30,
+      "delta": 40,
+      "final": 10,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "KAUA PEREIRA"
+    },
+    {
+      "played_at": "2024-08-25T11:45:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": -20,
+      "delta": -10,
+      "final": -30,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO JUNIOR"
+    },
+    {
+      "played_at": "2024-08-25T10:55:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": -20,
+      "delta": 0,
+      "final": -20,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2024-08-24T15:30:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": -14,
+      "delta": -6,
+      "final": -20,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FELIPE MACHADO"
+    },
+    {
+      "played_at": "2024-08-24T14:40:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": -54,
+      "delta": 40,
+      "final": -14,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "MARCELO MARCIANO"
+    },
+    {
+      "played_at": "2024-08-24T13:00:00",
+      "event": "TMB Estadual - 5ª Etapa - Vale Real/RS - 2024",
+      "initial": -50,
+      "delta": -4,
+      "final": -54,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ABNER ARAIS"
+    },
+    {
+      "played_at": "2024-08-04T10:00:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Caxias do Sul/RS - 2024",
+      "initial": -40,
+      "delta": -10,
+      "final": -50,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "WAGNER PRESSEL"
+    },
+    {
+      "played_at": "2024-08-04T09:00:00",
+      "event": "TMB Challenger Plus - 15ª Edição - Caxias do Sul/RS - 2024",
+      "initial": -40,
+      "delta": 0,
+      "final": -40,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIO COSTA"
+    },
+    {
+      "played_at": "2024-05-04T14:20:00",
+      "event": "TMB Challenger Plus - 7ª Edição - São José/SC - 2024",
+      "initial": -40,
+      "delta": 0,
+      "final": -40,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JORGE SANTOS"
+    },
+    {
+      "played_at": "2024-05-04T13:55:00",
+      "event": "TMB Challenger Plus - 7ª Edição - São José/SC - 2024",
+      "initial": -40,
+      "delta": 0,
+      "final": -40,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOEL SANTOS"
+    },
+    {
+      "played_at": "2024-03-24T10:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2024.",
+      "initial": -34,
+      "delta": -6,
+      "final": -40,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JONAS SILVEIRA"
+    },
+    {
+      "played_at": "2024-03-24T09:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2024.",
+      "initial": -28,
+      "delta": -6,
+      "final": -34,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OTÁVIO SANTOS"
+    },
+    {
+      "played_at": "2024-03-24T08:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Carlos Barbosa/RS - 2024.",
+      "initial": -22,
+      "delta": -6,
+      "final": -28,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FACUNDO MUNOZ"
+    },
+    {
+      "played_at": "2023-10-01T14:00:00",
+      "event": "TMB Estadual - 6ª Etapa - Vale Real/RS - 2023",
+      "initial": -16,
+      "delta": -6,
+      "final": -22,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUCAS CUBA"
+    },
+    {
+      "played_at": "2023-10-01T12:30:00",
+      "event": "TMB Estadual - 6ª Etapa - Vale Real/RS - 2023",
+      "initial": -12,
+      "delta": -4,
+      "final": -16,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO KNOBLOCH"
+    },
+    {
+      "played_at": "2023-08-06T11:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": -2,
+      "delta": -10,
+      "final": -12,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "PHILIPPE LEAL"
+    },
+    {
+      "played_at": "2023-08-06T10:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 13,
+      "delta": -15,
+      "final": -2,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ELI JÚNIOR"
+    },
+    {
+      "played_at": "2023-08-05T15:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 13,
+      "delta": 0,
+      "final": 13,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RAIMUNDO GUIMARAES"
+    },
+    {
+      "played_at": "2023-08-05T13:00:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 18,
+      "delta": -5,
+      "final": 13,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2023-08-05T09:30:00",
+      "event": "TMB Challenger Plus - 13ª Edição - Porto Alegre/RS - 2023",
+      "initial": 18,
+      "delta": 0,
+      "final": 18,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OLIDES JÚNIOR"
+    },
+    {
+      "played_at": "2023-06-18T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 18,
+      "delta": 0,
+      "final": 18,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2023-06-18T12:30:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 20,
+      "delta": -2,
+      "final": 18,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO IRIGOYEN"
+    },
+    {
+      "played_at": "2023-06-18T08:00:00",
+      "event": "TMB Estadual - 4ª Etapa - Sapucaia do Sul/RS - 2023.",
+      "initial": 28,
+      "delta": -8,
+      "final": 20,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LEONARDO MARTINS"
+    },
+    {
+      "played_at": "2022-11-19T15:30:00",
+      "event": "TMB Estadual 2022 - 6ª Etapa - Caxias do Sul/RS",
+      "initial": 32,
+      "delta": -4,
+      "final": 28,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2022-11-19T13:30:00",
+      "event": "TMB Estadual 2022 - 6ª Etapa - Caxias do Sul/RS",
+      "initial": 36,
+      "delta": -4,
+      "final": 32,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2022-11-19T11:00:00",
+      "event": "TMB Estadual 2022 - 6ª Etapa - Caxias do Sul/RS",
+      "initial": 36,
+      "delta": 0,
+      "final": 36,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2022-11-19T08:00:00",
+      "event": "TMB Estadual 2022 - 6ª Etapa - Caxias do Sul/RS",
+      "initial": 46,
+      "delta": -10,
+      "final": 36,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ANDRÉ BOF"
+    },
+    {
+      "played_at": "2022-08-28T09:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 61,
+      "delta": -15,
+      "final": 46,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GONZALO GOMEZ"
+    },
+    {
+      "played_at": "2022-08-28T08:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 76,
+      "delta": -15,
+      "final": 61,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "KRISTOFFER KLIEMANN"
+    },
+    {
+      "played_at": "2022-08-27T11:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 86,
+      "delta": -10,
+      "final": 76,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS OLIVEIRA"
+    },
+    {
+      "played_at": "2022-08-27T11:00:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 86,
+      "delta": 0,
+      "final": 86,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JAIME MULLER"
+    },
+    {
+      "played_at": "2022-08-26T14:30:00",
+      "event": "TMB Challenger Plus - 11ª Edição - Porto Alegre/RS - 2022",
+      "initial": 121,
+      "delta": -35,
+      "final": 86,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PIETRO FACHIN"
+    },
+    {
+      "played_at": "2022-05-29T08:30:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 176,
+      "delta": -55,
+      "final": 121,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "GILBERTO JUNIOR"
+    },
+    {
+      "played_at": "2022-05-29T08:00:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 196,
+      "delta": -20,
+      "final": 176,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOSÉ SILVA"
+    },
+    {
+      "played_at": "2022-05-28T16:00:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 216,
+      "delta": -20,
+      "final": 196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCO DILLENBURG"
+    },
+    {
+      "played_at": "2022-05-28T15:30:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 216,
+      "delta": 0,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CEZAR SCHACHT"
+    },
+    {
+      "played_at": "2022-05-28T09:00:00",
+      "event": "TMB Challenger Plus - 6ª Edição - Caxias do Sul/RS - 2022",
+      "initial": 216,
+      "delta": 0,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OLIDES JÚNIOR"
+    },
+    {
+      "played_at": "2022-04-10T15:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 226,
+      "delta": -10,
+      "final": 216,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIS LIMA"
+    },
+    {
+      "played_at": "2022-04-10T12:30:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 234,
+      "delta": -8,
+      "final": 226,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LUIZ COSTA"
+    },
+    {
+      "played_at": "2022-04-10T09:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Vale Real/RS - 2022",
+      "initial": 250,
+      "delta": -16,
+      "final": 234,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL BRUNELLI ............."
+    }
+  ]
+}

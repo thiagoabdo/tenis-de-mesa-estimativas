@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f8f4">
+    <meta name="description" content="Pesquise atletas, partidas, torneios e estimativas de rating no tênis de mesa.">
+    <title>Pesquisa de ratings — tênis de mesa</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="wordmark" href="./index.html" aria-label="Página inicial de tênis de mesa"><span class="mark" aria-hidden="true">T</span> TÊNIS DE MESA <span class="wordmark-muted">RATINGS</span></a>
+      <nav class="site-nav" aria-label="Navegação principal"><a href="./index.html">Início</a><a href="./pesquisa.html" aria-current="page">Pesquisa</a></nav>
+      <span class="topbar-note">Tênis de mesa, em dados.</span>
+    </header>
+    <main>
+      <section class="research-hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow"><span class="live-dot"></span> ESTIMATIVAS DE RATING · ROM</p>
+          <h1 id="page-title">Pesquisa de <span>ratings</span></h1>
+          <p class="hero-description">Explore resultados dos torneios e acompanhe a variação estimada do rating a cada partida.</p>
+        </div>
+        <div class="hero-art" aria-hidden="true"><div class="court court-back"></div><div class="court court-front"></div><span class="court-ball"></span></div>
+      </section>
+
+      <section class="data-bar" aria-label="Status dos dados">
+        <div><span class="status-dot" id="status-dot"></span><span id="status-text" role="status">Carregando dados dos torneios…</span></div>
+        <span id="camp-count" class="data-count"></span>
+      </section>
+
+      <section class="explorer" aria-labelledby="explorer-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">EXPLORAR ATLETAS</p><h2 id="explorer-title">Encontre um atleta</h2></div>
+          <label class="search-wrap"><span class="sr-only">Buscar ou selecionar um atleta</span><span class="search-icon" aria-hidden="true">⌕</span><input id="player-search" type="search" placeholder="Buscar atletas…" autocomplete="off" list="player-options" disabled><datalist id="player-options"></datalist></label>
+        </div>
+        <div id="empty-state" class="empty-state"><div class="empty-icon" aria-hidden="true">↗</div><p>Selecione um atleta para ver o rating e as partidas recentes.</p></div>
+        <div id="player-view" hidden>
+          <div class="player-heading"><div><p class="eyebrow">PERFIL DO ATLETA</p><h3 id="player-name"></h3></div><span id="player-category" class="category-tag"></span></div>
+          <div class="rating-grid">
+            <article class="rating-card current-card"><div class="card-label">RATING ATUAL <span class="info-dot" title="Rating oficial mais recente no histórico disponível. Sem histórico oficial, mostra a estimativa inicial do torneio.">i</span></div><div class="rating-value" id="current-rating">—</div><div class="card-foot" id="current-note">Baseado no histórico de rating</div></article>
+            <article class="rating-card estimate-card"><div class="card-label">ESTIMATIVA APÓS A ÚLTIMA PARTIDA <span class="estimate-mark">↗</span></div><div class="rating-value" id="estimated-rating">—</div><div class="card-foot" id="estimate-note">—</div></article>
+            <article class="rating-card delta-card"><div class="card-label">VARIAÇÃO ESTIMADA <span class="delta-mark">±</span></div><div class="rating-value" id="rating-change">—</div><div class="card-foot" id="change-note">Nas partidas carregadas</div></article>
+          </div>
+          <div class="matches-heading"><div><p class="eyebrow">EM QUADRA</p><h2>Partidas recentes</h2></div><span id="match-count" class="match-count"></span></div>
+          <div id="matches-list" class="matches-list"></div>
+          <button id="load-more" class="load-more" type="button" hidden>Carregar torneios anteriores <span aria-hidden="true">↓</span></button>
+        </div>
+      </section>
+      <footer><span>Estimativas de rating para acompanhar o tênis de mesa; valores informativos.</span></footer>
+    </main>
+  </body>
+</html>

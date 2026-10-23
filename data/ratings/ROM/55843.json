@@ -1,0 +1,799 @@
+{
+  "associate_id": 55843,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=55843&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-13T14:15:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 872,
+      "delta": 0,
+      "final": 872,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO INSELSPERGER"
+    },
+    {
+      "played_at": "2026-09-13T12:45:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 782,
+      "delta": 90,
+      "final": 872,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "CARLOS BORDIN"
+    },
+    {
+      "played_at": "2026-09-13T11:25:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 782,
+      "delta": 0,
+      "final": 782,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EVERTON VIANNA"
+    },
+    {
+      "played_at": "2026-08-23T13:15:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 782,
+      "delta": 0,
+      "final": 782,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ERONILDES JÚNIOR"
+    },
+    {
+      "played_at": "2026-08-23T11:50:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 788,
+      "delta": -6,
+      "final": 782,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS FERREIRA"
+    },
+    {
+      "played_at": "2026-08-23T11:00:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 788,
+      "delta": 0,
+      "final": 788,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILLO PEDRA"
+    },
+    {
+      "played_at": "2026-05-23T11:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 788,
+      "delta": 0,
+      "final": 788,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "EVERTON VIANNA"
+    },
+    {
+      "played_at": "2026-05-23T09:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 806,
+      "delta": -18,
+      "final": 788,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOÃO NETO"
+    },
+    {
+      "played_at": "2026-05-20T18:00:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1094,
+      "delta": -288,
+      "final": 806,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MATHEUS NASCIMENTO"
+    },
+    {
+      "played_at": "2026-05-20T14:30:00",
+      "event": "Brasileirão de Inverno Interclubes Olímpico e Paralímpico - São Paulo/SP - 2026 - Individual Olímpico",
+      "initial": 1220,
+      "delta": -126,
+      "final": 1094,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ENZO VIEIRA"
+    },
+    {
+      "played_at": "2026-03-29T12:15:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1220,
+      "delta": 0,
+      "final": 1220,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO INSELSPERGER"
+    },
+    {
+      "played_at": "2026-03-29T11:25:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1196,
+      "delta": 24,
+      "final": 1220,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CARLOS BORDIN"
+    },
+    {
+      "played_at": "2026-03-29T10:10:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1196,
+      "delta": 0,
+      "final": 1196,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANILLO PEDRA"
+    },
+    {
+      "played_at": "2026-03-29T09:20:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 1187,
+      "delta": 9,
+      "final": 1196,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ALEXANDRE MASSUDA"
+    },
+    {
+      "played_at": "2025-08-31T16:00:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 1181,
+      "delta": 6,
+      "final": 1187,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CARLOS MARTIN"
+    },
+    {
+      "played_at": "2025-08-31T14:30:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 1181,
+      "delta": 0,
+      "final": 1181,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EVERTON VIANNA"
+    },
+    {
+      "played_at": "2025-08-31T13:05:00",
+      "event": "ESTADUAL-SP SESI 2025 - FTMSP - Etapa 04 - Votorantim-SP",
+      "initial": 1185,
+      "delta": -4,
+      "final": 1181,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIO NAVARRO"
+    },
+    {
+      "played_at": "2025-03-30T14:30:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis - Nivel A",
+      "initial": 1207,
+      "delta": -22,
+      "final": 1185,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE MESQUITA"
+    },
+    {
+      "played_at": "2025-03-30T13:30:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis - Nivel A",
+      "initial": 1202,
+      "delta": 5,
+      "final": 1207,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FREDERICO MASSUDA"
+    },
+    {
+      "played_at": "2025-03-30T13:00:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis - Nivel A",
+      "initial": 1201,
+      "delta": 1,
+      "final": 1202,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCELO AGUIAR"
+    },
+    {
+      "played_at": "2025-02-23T17:45:00",
+      "event": "LIGA NIPO 2025 - 2ª Etapa Cooper Cotia - Nível ELITE",
+      "initial": 1223,
+      "delta": -22,
+      "final": 1201,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GUSTAVO TAKANO"
+    },
+    {
+      "played_at": "2025-02-23T15:40:00",
+      "event": "LIGA NIPO 2025 - 2ª Etapa Cooper Cotia - Nível ELITE",
+      "initial": 1226,
+      "delta": -3,
+      "final": 1223,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "CID FURUYAMA"
+    },
+    {
+      "played_at": "2025-02-23T15:15:00",
+      "event": "LIGA NIPO 2025 - 2ª Etapa Cooper Cotia - Nível ELITE",
+      "initial": 1225,
+      "delta": 1,
+      "final": 1226,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEONARDO DOURADO"
+    },
+    {
+      "played_at": "2023-12-16T19:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 1275,
+      "delta": -50,
+      "final": 1225,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUSTAVO RODRIGUES"
+    },
+    {
+      "played_at": "2023-12-16T14:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 1075,
+      "delta": 200,
+      "final": 1275,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JEFERSON RANK"
+    },
+    {
+      "played_at": "2023-12-16T11:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 1075,
+      "delta": 0,
+      "final": 1075,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "EVERTON VIANNA"
+    },
+    {
+      "played_at": "2023-12-16T08:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 775,
+      "delta": 300,
+      "final": 1075,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "MÁRCIO PINTO"
+    },
+    {
+      "played_at": "2023-12-15T21:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Individual",
+      "initial": 995,
+      "delta": -220,
+      "final": 775,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "DAVI COSTA"
+    },
+    {
+      "played_at": "2023-12-15T13:01:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Equipes de Clubes.",
+      "initial": 995,
+      "delta": 0,
+      "final": 995,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ MARTINS"
+    },
+    {
+      "played_at": "2023-12-15T10:01:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico – Ciclo IV - São Paulo/SP - 2023 - Equipes de Clubes.",
+      "initial": 995,
+      "delta": 0,
+      "final": 995,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERTO JÚNIOR"
+    },
+    {
+      "played_at": "2023-10-14T17:30:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 999,
+      "delta": -4,
+      "final": 995,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEXANDRE ALMEIDA"
+    },
+    {
+      "played_at": "2023-10-14T16:30:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 995,
+      "delta": 4,
+      "final": 999,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS MARTIN"
+    },
+    {
+      "played_at": "2023-10-14T16:00:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 999,
+      "delta": -4,
+      "final": 995,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CARLOS FERRAZ"
+    },
+    {
+      "played_at": "2023-10-14T13:30:00",
+      "event": "TMB Estadual - 5ª Etapa - FTMSP - Mogi das Cruzes/SP - 2023",
+      "initial": 995,
+      "delta": 4,
+      "final": 999,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDERSON TANAKA"
+    },
+    {
+      "played_at": "2023-09-03T15:00:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 995,
+      "delta": 0,
+      "final": 995,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ROBERTO ZANGALI"
+    },
+    {
+      "played_at": "2023-09-03T14:30:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 943,
+      "delta": 52,
+      "final": 995,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ALEXANDRE ALMEIDA"
+    },
+    {
+      "played_at": "2023-09-03T13:30:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 935,
+      "delta": 8,
+      "final": 943,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "HEITOR CHAYA"
+    },
+    {
+      "played_at": "2023-09-03T11:00:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 935,
+      "delta": 0,
+      "final": 935,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MATEUS PONCHIO"
+    },
+    {
+      "played_at": "2023-09-03T09:30:00",
+      "event": "TMB Estadual - 4ª Etapa - FTMSP - Osasco/sp - 2023",
+      "initial": 923,
+      "delta": 12,
+      "final": 935,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "MARCO LEMES"
+    },
+    {
+      "played_at": "2023-07-29T18:30:00",
+      "event": "TMB Estadual - 2ª Etapa - FTMSP - Guarulhos/SP - 2023",
+      "initial": 923,
+      "delta": 0,
+      "final": 923,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "EVERTON VIANNA"
+    },
+    {
+      "played_at": "2023-07-29T17:30:00",
+      "event": "TMB Estadual - 2ª Etapa - FTMSP - Guarulhos/SP - 2023",
+      "initial": 955,
+      "delta": -32,
+      "final": 923,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALESSANDROIE CARNICELLI"
+    },
+    {
+      "played_at": "2023-07-29T15:00:00",
+      "event": "TMB Estadual - 2ª Etapa - FTMSP - Guarulhos/SP - 2023",
+      "initial": 951,
+      "delta": 4,
+      "final": 955,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ANDRÉ MACHADO"
+    },
+    {
+      "played_at": "2023-05-20T16:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 951,
+      "delta": 0,
+      "final": 951,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ROBERTO ZANGALI"
+    },
+    {
+      "played_at": "2023-05-20T15:30:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 923,
+      "delta": 28,
+      "final": 951,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "EVANDRO FRANCISCO"
+    },
+    {
+      "played_at": "2023-05-20T15:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 923,
+      "delta": 0,
+      "final": 923,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "FÁBIO MATOS"
+    },
+    {
+      "played_at": "2023-05-20T14:00:00",
+      "event": "TMB Estadual - 1ª Etapa - FTMSP - Bauru/SP - 2023..",
+      "initial": 907,
+      "delta": 16,
+      "final": 923,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "FREDERICO MASSUDA"
+    },
+    {
+      "played_at": "2023-04-02T11:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 931,
+      "delta": -24,
+      "final": 907,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "IGOR SILVA"
+    },
+    {
+      "played_at": "2023-04-02T10:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 787,
+      "delta": 144,
+      "final": 931,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RUDEMIR PIASSI"
+    },
+    {
+      "played_at": "2023-04-02T09:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 643,
+      "delta": 144,
+      "final": 787,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "PIETRO PHAIFFER"
+    },
+    {
+      "played_at": "2023-04-01T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 739,
+      "delta": -96,
+      "final": 643,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "FÁBIO AMPARO"
+    },
+    {
+      "played_at": "2023-04-01T09:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 579,
+      "delta": 160,
+      "final": 739,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "DEMÉTRIUS REIS"
+    },
+    {
+      "played_at": "2023-03-31T15:00:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 643,
+      "delta": -64,
+      "final": 579,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RAUL MACEDO"
+    },
+    {
+      "played_at": "2023-03-31T13:30:00",
+      "event": "TMB Platinum Brasileiro Interclubes Olímpico e Paralímpico - Ciclo I - São Paulo/SP - 2023...",
+      "initial": 643,
+      "delta": 0,
+      "final": 643,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RICARDO AOYAMA"
+    },
+    {
+      "played_at": "2022-12-11T16:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 703,
+      "delta": -60,
+      "final": 643,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "HENRIQUE RIBEIRO"
+    },
+    {
+      "played_at": "2022-12-11T15:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 543,
+      "delta": 160,
+      "final": 703,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELDER SANTOS"
+    },
+    {
+      "played_at": "2022-12-11T13:30:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 503,
+      "delta": 40,
+      "final": 543,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "GENÉSIO SILVA"
+    },
+    {
+      "played_at": "2022-12-10T18:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 363,
+      "delta": 140,
+      "final": 503,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "JARDEL SANTOS"
+    },
+    {
+      "played_at": "2022-12-10T17:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 203,
+      "delta": 160,
+      "final": 363,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "BRUNO MITSUI"
+    },
+    {
+      "played_at": "2022-12-10T10:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 223,
+      "delta": -20,
+      "final": 203,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "PABLO BAHIA"
+    },
+    {
+      "played_at": "2022-12-10T09:00:00",
+      "event": "TMB Platinum-Campeonato Brasileiro-Ciclo IV-São Paulo/SP-2022 - Individual",
+      "initial": 223,
+      "delta": 0,
+      "final": 223,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "RUDEMIR PIASSI"
+    },
+    {
+      "played_at": "2022-03-20T13:55:00",
+      "event": "Tmb Estadual - 1ª Etapa - Jacareí/sp - 2022",
+      "initial": 223,
+      "delta": 0,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALLAN SANTOS"
+    },
+    {
+      "played_at": "2022-03-20T13:05:00",
+      "event": "Tmb Estadual - 1ª Etapa - Jacareí/sp - 2022",
+      "initial": 223,
+      "delta": 0,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "THIAGO OTANARI"
+    },
+    {
+      "played_at": "2019-12-15T08:00:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Olímpico",
+      "initial": 223,
+      "delta": 0,
+      "final": 223,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DARLAN SANTOS"
+    },
+    {
+      "played_at": "2019-12-14T20:55:00",
+      "event": "Campeonato Brasileiro 2019 - Individual Olímpico",
+      "initial": 232,
+      "delta": -9,
+      "final": 223,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "MARCELO LIMA"
+    },
+    {
+      "played_at": "2019-12-11T20:02:00",
+      "event": "Campeonato Brasileiro Equipes De Clubes Olímpicas 2019",
+      "initial": 250,
+      "delta": -18,
+      "final": 232,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "CAIO COSTA"
+    },
+    {
+      "played_at": "2019-12-11T20:00:04",
+      "event": "Campeonato Brasileiro Equipes De Clubes Olímpicas 2019",
+      "initial": 250,
+      "delta": 0,
+      "final": 250,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JORGE LEITE ............."
+    }
+  ]
+}

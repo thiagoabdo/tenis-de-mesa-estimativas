@@ -1,0 +1,715 @@
+{
+  "associate_id": 90196,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=90196&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-09-27T18:30:00",
+      "event": "TMB Regional - 9ª Etapa Liga Digital Table Tennis & Casa Verde - Nível B, C, D, E e Iniciantes B",
+      "initial": 273,
+      "delta": 18,
+      "final": 291,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GABRIEL SILVA"
+    },
+    {
+      "played_at": "2026-09-27T18:00:00",
+      "event": "TMB Regional - 9ª Etapa Liga Digital Table Tennis & Casa Verde - Nível B, C, D, E e Iniciantes B",
+      "initial": 279,
+      "delta": -6,
+      "final": 273,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GABRIEL PEDROSO"
+    },
+    {
+      "played_at": "2026-09-27T11:00:00",
+      "event": "TMB Regional - 9ª Etapa Liga Digital Table Tennis & Casa Verde - Nível B, C, D, E e Iniciantes B",
+      "initial": 281,
+      "delta": -2,
+      "final": 279,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "OZIEL SANTANA"
+    },
+    {
+      "played_at": "2026-09-27T09:00:00",
+      "event": "TMB Regional - 9ª Etapa Liga Digital Table Tennis & Casa Verde - Nível B, C, D, E e Iniciantes B",
+      "initial": 265,
+      "delta": 16,
+      "final": 281,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "JOCIMAR SILVA"
+    },
+    {
+      "played_at": "2026-09-27T08:30:00",
+      "event": "TMB Regional - 9ª Etapa Liga Digital Table Tennis & Casa Verde - Nível B, C, D, E e Iniciantes B",
+      "initial": 271,
+      "delta": -6,
+      "final": 265,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GERALDO IQUEUTI"
+    },
+    {
+      "played_at": "2026-09-20T10:20:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 271,
+      "delta": 0,
+      "final": 271,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENNY NAKAGAWA"
+    },
+    {
+      "played_at": "2026-09-20T09:30:00",
+      "event": "TMB Regional - 7º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 271,
+      "delta": 0,
+      "final": 271,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRO MOTTA"
+    },
+    {
+      "played_at": "2026-09-13T13:15:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 247,
+      "delta": 24,
+      "final": 271,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RICARDO UEMA"
+    },
+    {
+      "played_at": "2026-09-13T12:15:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FRANK IWASHITA"
+    },
+    {
+      "played_at": "2026-09-13T11:00:00",
+      "event": "TMB - Estadual - [6ª Etapa - Mogi das Cruzes/SP] - 2026 - Olimpico",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FREDERICO MASSUDA"
+    },
+    {
+      "played_at": "2026-08-30T12:30:00",
+      "event": "TMB Regional - 4 anos Liga Digital Table Tennis & Master Pong - Nível A e Iniciantes A",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SERGIO INCERPI"
+    },
+    {
+      "played_at": "2026-08-30T10:30:00",
+      "event": "TMB Regional - 4 anos Liga Digital Table Tennis & Master Pong - Nível A e Iniciantes A",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VANDERLEI SOUZA"
+    },
+    {
+      "played_at": "2026-08-23T10:10:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALEXANDRE SILVEIRA"
+    },
+    {
+      "played_at": "2026-08-23T08:55:00",
+      "event": "TMB - Estadual - [5ª Etapa - Jacareí/SP] - 2026",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SILNEI YUTA"
+    },
+    {
+      "played_at": "2026-08-16T13:40:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DENNY NAKAGAWA"
+    },
+    {
+      "played_at": "2026-08-16T12:25:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 254,
+      "delta": -7,
+      "final": 247,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RODRIGO SANTOS"
+    },
+    {
+      "played_at": "2026-08-16T11:35:00",
+      "event": "TMB Regional - 6º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 244,
+      "delta": 10,
+      "final": 254,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CHAO MING"
+    },
+    {
+      "played_at": "2026-07-12T10:20:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 247,
+      "delta": -3,
+      "final": 244,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "ALESSANDRO LEITE"
+    },
+    {
+      "played_at": "2026-07-12T09:30:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 247,
+      "delta": 0,
+      "final": 247,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SANDRO MOTTA"
+    },
+    {
+      "played_at": "2026-07-12T08:40:00",
+      "event": "TMB Regional - 5º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 236,
+      "delta": 11,
+      "final": 247,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "CHAO MING"
+    },
+    {
+      "played_at": "2026-07-05T13:30:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 251,
+      "delta": -15,
+      "final": 236,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "SIDNEY BREDA"
+    },
+    {
+      "played_at": "2026-07-05T11:00:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 251,
+      "delta": 0,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FÁBIO MIZUTANI"
+    },
+    {
+      "played_at": "2026-07-05T09:20:00",
+      "event": "TMB - Estadual - [4ª Etapa - Jacareí/SP] - 2026",
+      "initial": 251,
+      "delta": 0,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SERGIO INCERPI"
+    },
+    {
+      "played_at": "2026-06-28T10:30:00",
+      "event": "TMB Regional - 6ª Etapa Liga Digital Table Tennis & TOP SPIN BRASIL - Nível B, C, D E e Iniciantes B",
+      "initial": 254,
+      "delta": -3,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO FERNANDES"
+    },
+    {
+      "played_at": "2026-06-28T10:00:00",
+      "event": "TMB Regional - 6ª Etapa Liga Digital Table Tennis & TOP SPIN BRASIL - Nível B, C, D E e Iniciantes B",
+      "initial": 259,
+      "delta": -5,
+      "final": 254,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GERALDO IQUEUTI"
+    },
+    {
+      "played_at": "2026-06-21T11:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 277,
+      "delta": -18,
+      "final": 259,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "VINICIUS MURAD"
+    },
+    {
+      "played_at": "2026-06-20T18:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 115,
+      "delta": 162,
+      "final": 277,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "PEDRO CAJAZEIRA"
+    },
+    {
+      "played_at": "2026-06-20T16:30:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 214,
+      "delta": -99,
+      "final": 115,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "GILBERTO NETO"
+    },
+    {
+      "played_at": "2026-06-20T15:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 241,
+      "delta": -27,
+      "final": 214,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FLÁVIO TSUDA"
+    },
+    {
+      "played_at": "2026-06-20T14:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 241,
+      "delta": 0,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DANIEL ROLDAN"
+    },
+    {
+      "played_at": "2026-06-20T13:00:00",
+      "event": "TMB - Copa Brasil Ouro de Tênis de Mesa - São José dos Campos-SP - 2026",
+      "initial": 241,
+      "delta": 0,
+      "final": 241,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FÁBIO SAZAKI"
+    },
+    {
+      "played_at": "2026-06-14T14:30:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 241,
+      "delta": 0,
+      "final": 241,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "DENNY NAKAGAWA"
+    },
+    {
+      "played_at": "2026-06-14T11:35:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 221,
+      "delta": 20,
+      "final": 241,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "CARLOS SANTOS"
+    },
+    {
+      "played_at": "2026-06-14T10:45:00",
+      "event": "TMB Regional - 4º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 232,
+      "delta": -11,
+      "final": 221,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO SANTOS"
+    },
+    {
+      "played_at": "2026-05-03T09:30:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 237,
+      "delta": -5,
+      "final": 232,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "LEANDRO ZYMBERKNOPF"
+    },
+    {
+      "played_at": "2026-05-03T08:40:00",
+      "event": "TMB Regional - 3º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 238,
+      "delta": -1,
+      "final": 237,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO SANTOS"
+    },
+    {
+      "played_at": "2026-04-12T13:15:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 242,
+      "delta": -4,
+      "final": 238,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CARLOS SANTOS"
+    },
+    {
+      "played_at": "2026-04-12T12:00:00",
+      "event": "TMB Regional - 2º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 243,
+      "delta": -1,
+      "final": 242,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ROBERTO ANDRADE"
+    },
+    {
+      "played_at": "2026-03-29T09:45:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 243,
+      "delta": 0,
+      "final": 243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "YOSHIMITSU CHIBA"
+    },
+    {
+      "played_at": "2026-03-29T08:30:00",
+      "event": "TMB - Estadual - [1ª Etapa - Guarulhos/SP] - 2026",
+      "initial": 243,
+      "delta": 0,
+      "final": 243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ALEXANDRE SILVEIRA"
+    },
+    {
+      "played_at": "2026-03-22T17:30:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel B, C, D, E e Iniciantes B (Masc/Fem)",
+      "initial": 253,
+      "delta": -10,
+      "final": 243,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SHIGEHARU MAKABE"
+    },
+    {
+      "played_at": "2026-03-22T17:00:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel B, C, D, E e Iniciantes B (Masc/Fem)",
+      "initial": 255,
+      "delta": -2,
+      "final": 253,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILES OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-22T11:30:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel B, C, D, E e Iniciantes B (Masc/Fem)",
+      "initial": 257,
+      "delta": -2,
+      "final": 255,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILES OLIVEIRA"
+    },
+    {
+      "played_at": "2026-03-22T10:30:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel B, C, D, E e Iniciantes B (Masc/Fem)",
+      "initial": 251,
+      "delta": 6,
+      "final": 257,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RICARDO MATSUMOTO"
+    },
+    {
+      "played_at": "2026-03-22T09:30:00",
+      "event": "TMB Regional - 3ª Etapa Liga Digital Table Tennis & TONAN - Nivel B, C, D, E e Iniciantes B (Masc/Fem)",
+      "initial": 255,
+      "delta": -4,
+      "final": 251,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO FERNANDES"
+    },
+    {
+      "played_at": "2026-03-15T13:10:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 264,
+      "delta": -9,
+      "final": 255,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "CHAO MING"
+    },
+    {
+      "played_at": "2026-03-15T10:15:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 268,
+      "delta": -4,
+      "final": 264,
+      "score": [
+        2,
+        3
+      ],
+      "opponent": "ALESSANDRO LEITE"
+    },
+    {
+      "played_at": "2026-03-15T09:00:00",
+      "event": "TMB Regional - 1º Etapa - LVTM - Taubaté/SP 2026",
+      "initial": 268,
+      "delta": 0,
+      "final": 268,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "RICARDO MENDES"
+    },
+    {
+      "played_at": "2026-02-22T16:30:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 260,
+      "delta": 8,
+      "final": 268,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "GUILHERME FAUSTINO"
+    },
+    {
+      "played_at": "2026-02-22T16:00:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 268,
+      "delta": -8,
+      "final": 260,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MARCELO NAKATA"
+    },
+    {
+      "played_at": "2026-02-22T14:30:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 271,
+      "delta": -3,
+      "final": 268,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILES OLIVEIRA"
+    },
+    {
+      "played_at": "2026-02-22T14:00:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 255,
+      "delta": 16,
+      "final": 271,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "ELCIO MUNE"
+    },
+    {
+      "played_at": "2026-02-22T13:30:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 239,
+      "delta": 16,
+      "final": 255,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "RENATO DLEIZER"
+    },
+    {
+      "played_at": "2026-02-22T12:30:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 233,
+      "delta": 6,
+      "final": 239,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "RICARDO MATSUMOTO"
+    },
+    {
+      "played_at": "2026-02-22T12:00:00",
+      "event": "TMB Regional - 2ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 235,
+      "delta": -2,
+      "final": 233,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GILES OLIVEIRA"
+    },
+    {
+      "played_at": "2026-01-25T17:00:00",
+      "event": "TMB Regional - 1ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 238,
+      "delta": -3,
+      "final": 235,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO MARIYA"
+    },
+    {
+      "played_at": "2026-01-25T16:30:00",
+      "event": "TMB Regional - 1ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 240,
+      "delta": -2,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "GUILHERME CARDOSO"
+    },
+    {
+      "played_at": "2026-01-25T14:30:00",
+      "event": "TMB Regional - 1ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 244,
+      "delta": -4,
+      "final": 240,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOCIMAR SILVA"
+    },
+    {
+      "played_at": "2026-01-25T14:00:00",
+      "event": "TMB Regional - 1ª Etapa Liga Digital Table Tennis - Nivel B, C, D e Iniciantes B",
+      "initial": 250,
+      "delta": -6,
+      "final": 244,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RENATO DLEIZER ............."
+    }
+  ]
+}

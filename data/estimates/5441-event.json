@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "event_id": 5441,
+  "event_name": "5441 - TMB Copa Brasil Prata - Porto Velho/RO - 2026",
+  "rating": "ROM",
+  "scope": "event",
+  "rules_source": "https://static.blocks-cms.com/cbtm/upload/download/f72a658ac14247c6912627ba8ddc20e7.pdf",
+  "event_weight": 6,
+  "event_match_count": 4,
+  "estimated_match_count": 4,
+  "estimated_match_status": "estimated",
+  "matches": [
+    {
+      "match_id": "5441-2026-004",
+      "event_id": 5441,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 4,
+      "table": 14,
+      "date": "17/04/2026",
+      "time": "16:21",
+      "played_at": "2026-04-17T16:21:00",
+      "players": [
+        {
+          "name": "LUIZ CHOQUE",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PAULO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PAULO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 26465,
+            "name": "LUIZ CHOQUE",
+            "associate_id_source": "event_roster",
+            "rating_before": 1297,
+            "rating_change": -120,
+            "rating_after": 1177,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -120
+          },
+          {
+            "associate_id": 79270,
+            "name": "PAULO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 844,
+            "rating_change": 156,
+            "rating_after": 1000,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 156
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5441-2026-006",
+      "event_id": 5441,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 6,
+      "table": 13,
+      "date": "17/04/2026",
+      "time": "17:26",
+      "played_at": "2026-04-17T17:26:00",
+      "players": [
+        {
+          "name": "PAULO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "FRANCINEY CARDOSO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 79270,
+            "name": "PAULO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1000,
+            "rating_change": 12,
+            "rating_after": 1012,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 12
+          },
+          {
+            "associate_id": 89059,
+            "name": "FRANCINEY CARDOSO",
+            "associate_id_source": "event_roster",
+            "rating_before": 336,
+            "rating_change": 0,
+            "rating_after": 336,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5441-2026-007",
+      "event_id": 5441,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 7,
+      "table": 9,
+      "date": "17/04/2026",
+      "time": "18:10",
+      "played_at": "2026-04-17T18:10:00",
+      "players": [
+        {
+          "name": "ALEXANDRE ALFON",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "PAULO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        0,
+        3
+      ],
+      "winner": "PAULO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 27847,
+            "name": "ALEXANDRE ALFON",
+            "associate_id_source": "event_roster",
+            "rating_before": 1327,
+            "rating_change": -108,
+            "rating_after": 1219,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": -96
+          },
+          {
+            "associate_id": 79270,
+            "name": "PAULO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1012,
+            "rating_change": 138,
+            "rating_after": 1150,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 120
+          }
+        ]
+      }
+    },
+    {
+      "match_id": "5441-2026-010",
+      "event_id": 5441,
+      "category_id": 2026,
+      "category": "Classe 10 (MAS)",
+      "phase": "Classe 10 (MAS) - Única 01",
+      "game_number": 10,
+      "table": 8,
+      "date": "17/04/2026",
+      "time": "18:54",
+      "played_at": "2026-04-17T18:54:00",
+      "players": [
+        {
+          "name": "PAULO FONSECA",
+          "sets_won": 3,
+          "set_points": [
+            11,
+            11,
+            11,
+            null,
+            null
+          ]
+        },
+        {
+          "name": "CRISTIANO CASTRO",
+          "sets_won": 0,
+          "set_points": [
+            0,
+            0,
+            0,
+            null,
+            null
+          ]
+        }
+      ],
+      "score": [
+        3,
+        0
+      ],
+      "winner": "PAULO FONSECA",
+      "source": "CBTM event results page",
+      "estimated": {
+        "event_weight": 6,
+        "status": "estimated",
+        "players": [
+          {
+            "associate_id": 79270,
+            "name": "PAULO FONSECA",
+            "associate_id_source": "event_roster",
+            "rating_before": 1150,
+            "rating_change": 6,
+            "rating_after": 1156,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 6
+          },
+          {
+            "associate_id": 88982,
+            "name": "CRISTIANO CASTRO",
+            "associate_id_source": "event_roster",
+            "rating_before": 181,
+            "rating_change": 0,
+            "rating_after": 181,
+            "initial_rating_source": "rating_history",
+            "actual_rating_change": 0
+          }
+        ]
+      }
+    }
+  ]
+}

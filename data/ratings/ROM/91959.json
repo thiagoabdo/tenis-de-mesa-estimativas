@@ -1,0 +1,103 @@
+{
+  "associate_id": 91959,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=91959&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-10T16:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 178,
+      "delta": 66,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "THEO PINTO"
+    },
+    {
+      "played_at": "2026-07-10T15:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 274,
+      "delta": -96,
+      "final": 178,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO VALLE"
+    },
+    {
+      "played_at": "2026-07-10T14:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 274,
+      "delta": 0,
+      "final": 274,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "PEDRO MONTEIRO"
+    },
+    {
+      "played_at": "2026-07-10T13:30:00",
+      "event": "TMB - Copa Brasil Prata de Tênis de Mesa - João Pessoa - PB - 2026",
+      "initial": 310,
+      "delta": -36,
+      "final": 274,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOAQUIM BELLO"
+    },
+    {
+      "played_at": "2026-04-11T12:15:00",
+      "event": "TMB Estadual - 1ª Etapa - Campina Grande/PB - 2026",
+      "initial": 334,
+      "delta": -24,
+      "final": 310,
+      "score": [
+        1,
+        3
+      ],
+      "opponent": "JOSÉ RANGEL"
+    },
+    {
+      "played_at": "2026-04-11T11:25:00",
+      "event": "TMB Estadual - 1ª Etapa - Campina Grande/PB - 2026",
+      "initial": 307,
+      "delta": 27,
+      "final": 334,
+      "score": [
+        3,
+        1
+      ],
+      "opponent": "HENRIQUE XAVIER"
+    },
+    {
+      "played_at": "2026-04-11T09:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Campina Grande/PB - 2026",
+      "initial": 280,
+      "delta": 27,
+      "final": 307,
+      "score": [
+        3,
+        2
+      ],
+      "opponent": "THEO PINTO"
+    },
+    {
+      "played_at": "2026-04-11T08:30:00",
+      "event": "TMB Estadual - 1ª Etapa - Campina Grande/PB - 2026",
+      "initial": 250,
+      "delta": 30,
+      "final": 280,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "LEVI BRITO ............."
+    }
+  ]
+}

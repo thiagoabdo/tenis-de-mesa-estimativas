@@ -1,0 +1,67 @@
+{
+  "associate_id": 92350,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92350&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-06-27T11:00:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 145,
+      "delta": -15,
+      "final": 130,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JANDI BARBOSA"
+    },
+    {
+      "played_at": "2026-06-27T09:45:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 178,
+      "delta": -33,
+      "final": 145,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "MAICON RIBEIRO"
+    },
+    {
+      "played_at": "2026-06-27T08:30:00",
+      "event": "TMB Estadual - 3ª Etapa - Toledo/PR - 2026",
+      "initial": 208,
+      "delta": -30,
+      "final": 178,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "DAVI MELO"
+    },
+    {
+      "played_at": "2026-04-18T11:00:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 223,
+      "delta": -15,
+      "final": 208,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "RODRIGO VIANNA"
+    },
+    {
+      "played_at": "2026-04-18T09:45:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -27,
+      "final": 223,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "FABIO RIVILI ............."
+    }
+  ]
+}

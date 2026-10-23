@@ -1,0 +1,67 @@
+{
+  "associate_id": 92263,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=92263&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-05-09T15:35:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 229,
+      "delta": -9,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "SAMUEL ZILIO"
+    },
+    {
+      "played_at": "2026-05-09T11:00:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 244,
+      "delta": -15,
+      "final": 229,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "ENZO FRANÇA"
+    },
+    {
+      "played_at": "2026-05-09T09:45:00",
+      "event": "TMB Estadual - 2ª Etapa - Londrina/PR - 2026",
+      "initial": 220,
+      "delta": 24,
+      "final": 244,
+      "score": [
+        3,
+        0
+      ],
+      "opponent": "ENZO SCHERER"
+    },
+    {
+      "played_at": "2026-04-18T10:35:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 238,
+      "delta": -18,
+      "final": 220,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "JOÃO TREIB"
+    },
+    {
+      "played_at": "2026-04-18T09:20:00",
+      "event": "TMB Estadual - 1ª Etapa - Maringá/PR - 2026",
+      "initial": 250,
+      "delta": -12,
+      "final": 238,
+      "score": [
+        0,
+        3
+      ],
+      "opponent": "LORENZO ZAMPIER ............."
+    }
+  ]
+}

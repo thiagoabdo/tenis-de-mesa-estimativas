@@ -1,0 +1,43 @@
+{
+  "associate_id": 93259,
+  "rating": "ROM",
+  "source_url": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=ROM&Associado=93259&Colocacao=1&Pontos=0",
+  "matches": [
+    {
+      "played_at": "2026-07-05T10:00:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 235,
+      "delta": 9,
+      "final": 244,
+      "score": [
+        2,
+        0
+      ],
+      "opponent": "ARTHUR ZANDONAI"
+    },
+    {
+      "played_at": "2026-07-05T09:45:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 242,
+      "delta": -7,
+      "final": 235,
+      "score": [
+        1,
+        2
+      ],
+      "opponent": "DANIEL MENEGON"
+    },
+    {
+      "played_at": "2026-07-05T09:30:00",
+      "event": "TMB Regional - 5ª Etapa - Liga Escolar - Vale Real/RS - 2026",
+      "initial": 250,
+      "delta": -8,
+      "final": 242,
+      "score": [
+        0,
+        2
+      ],
+      "opponent": "MIGUEL BARROS ............."
+    }
+  ]
+}
